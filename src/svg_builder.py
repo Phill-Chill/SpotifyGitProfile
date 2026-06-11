@@ -25,10 +25,11 @@ PERIOD_LABELS = {
 }
 
 def _escape(text: str) -> str:
-    return str(text).replace("&","&amp;").replace("<","&lt;").replace(">","&gt;").replace('"','"'&quot;"'"')
+    return str(text).replace("&","&amp;").replace("<","&lt;").replace(">","&gt;").replace('"',"&quot;")
 
 def _truncate(text: str, max_len: int = 28) -> str:
-    return text if len(text) <= max_len else text[:max_len-1] + "\u2026"
+    ellipsis = "\u2026"
+    return text if len(text) <= max_len else text[:max_len-1] + ellipsis
 
 def _track_col(tracks: list, x_rank: int, x_text: int, y_start: int, bar_x: int) -> str:
     rows = ""
@@ -45,6 +46,7 @@ def _track_col(tracks: list, x_rank: int, x_text: int, y_start: int, bar_x: int)
 
 def _artist_col(artists: list, x_rank: int, x_text: int, y_start: int) -> str:
     rows = ""
+    dash = "\u2014"
     for i, a in enumerate(artists[:5]):
         y = y_start + i * 28
         genre = a.get("genres", [""])[0] if a.get("genres") else ""
@@ -52,7 +54,7 @@ def _artist_col(artists: list, x_rank: int, x_text: int, y_start: int) -> str:
         rows += (
             f'<text x="{x_rank}" y="{y}" class="rank-num">#{i+1}</text>'
             f'<text x="{x_text}" y="{y}" class="track-name">{_escape(_truncate(a["name"], 16))}</text>'
-            f'<text x="{x_text}" y="{y+13}" class="track-artist" fill="{color}">{_escape(_truncate(genre or "\u2014", 16))}</text>'
+            f'<text x="{x_text}" y="{y+13}" class="track-artist" fill="{color}">{_escape(_truncate(genre or dash, 16))}</text>'
         )
     return rows
 
