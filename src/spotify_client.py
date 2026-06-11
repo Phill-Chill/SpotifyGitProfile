@@ -48,7 +48,7 @@ class SpotifyClient:
             return None
         return resp.json()
 
-    def get_recently_played(self, limit: int = 1) -> dict:
+    def get_recently_played(self, limit: int = 50) -> dict:
         return self._get("/me/player/recently-played", params={"limit": limit})
 
     def get_top_tracks(self, time_range: str = "short_term", limit: int = 5) -> dict:
@@ -61,6 +61,21 @@ class SpotifyClient:
         resp = requests.get(image_url, timeout=10)
         resp.raise_for_status()
         return base64.b64encode(resp.content).decode()
+
+    def get_estimated_listening_time(self) -> str:
+        """Estima tempo ouvido com base nas ultimas 50 musicas."""
+        try:
+            data = self.get_recently_played(limit=50)
+            items = data.get("items", [])
+            total_ms = sum(item["track"]["duration_ms"] for item in items)
+            total_min = total_ms // 60000
+            hours = total_min // 60
+            mins  = total_min % 60
+            if hours > 0:
+                return f"{hours}h {mins}min"
+            return f"{mins}min"
+        except Exception:
+            return "—"
 
 def from_env() -> SpotifyClient:
     return SpotifyClient(
