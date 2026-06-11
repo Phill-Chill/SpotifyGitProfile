@@ -1,0 +1,62 @@
+{
+  "snapshots": [
+    {
+      "timestamp": "2026-06-10T23:42:50.147002+00:00",
+      "now_playing": {
+        "title": "The Way You Make Me Feel - 2012 Remaster",
+        "artist": "Michael Jackson",
+        "album": "Bad (Remastered)",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273eb2087dcd1eb61f833bdedff"
+      },
+      "top_tracks": [
+        {
+          "name": "Passos Falsos - Ao Vivo",
+          "artist": "Capital Inicial",
+          "ms": 231746
+        },
+        {
+          "name": "Break My Face",
+          "artist": "AJR",
+          "ms": 226335
+        },
+        {
+          "name": "Bummerland",
+          "artist": "AJR",
+          "ms": 189169
+        },
+        {
+          "name": "Don't Throw Out My Legos",
+          "artist": "AJR",
+          "ms": 250839
+        },
+        {
+          "name": "Poison",
+          "artist": "Bell Biv DeVoe",
+          "ms": 261853
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "AJR",
+          "genres": []
+        },
+        {
+          "name": "Roupa Nova",
+          "genres": []
+        },
+        {
+          "name": "Capital Inicial",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Turma do Pagode",
+          "genres": []
+        }
+      ]
+    }
+  ]
+}
