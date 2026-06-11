@@ -197,4 +197,5 @@ def build_svg(
 def save_svg(svg_content: str, output_dir: Path = ASSETS_DIR) -> Path:
     output_dir.mkdir(parents=True, exist_ok=True)
     path = output_dir / "spotify-stats.svg"
-    path.write_text(svg_content,
+    path.write_text(svg_content, encoding="utf-8")
+    return path
