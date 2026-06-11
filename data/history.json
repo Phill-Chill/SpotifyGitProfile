@@ -115,6 +115,64 @@
           "genres": []
         }
       ]
+    },
+    {
+      "timestamp": "2026-06-11T03:41:34.408083+00:00",
+      "now_playing": {
+        "title": "All Out Life",
+        "artist": "Slipknot",
+        "album": "All Out Life",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273120ad9d866b0575b2afeeafb"
+      },
+      "top_tracks": [
+        {
+          "name": "Passos Falsos - Ao Vivo",
+          "artist": "Capital Inicial",
+          "ms": 231746
+        },
+        {
+          "name": "Break My Face",
+          "artist": "AJR",
+          "ms": 226335
+        },
+        {
+          "name": "Bummerland",
+          "artist": "AJR",
+          "ms": 189169
+        },
+        {
+          "name": "Don't Throw Out My Legos",
+          "artist": "AJR",
+          "ms": 250839
+        },
+        {
+          "name": "Poison",
+          "artist": "Bell Biv DeVoe",
+          "ms": 261853
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "AJR",
+          "genres": []
+        },
+        {
+          "name": "Roupa Nova",
+          "genres": []
+        },
+        {
+          "name": "Capital Inicial",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Turma do Pagode",
+          "genres": []
+        }
+      ]
     }
   ]
 }
