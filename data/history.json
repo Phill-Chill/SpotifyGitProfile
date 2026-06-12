@@ -695,6 +695,64 @@
           "genres": []
         }
       ]
+    },
+    {
+      "timestamp": "2026-06-12T15:46:08.825222+00:00",
+      "now_playing": {
+        "title": "Through the Valley",
+        "artist": "Shawn James",
+        "album": "Shadows",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2730a9fc81f86d6a77ac042a1a2"
+      },
+      "top_tracks": [
+        {
+          "name": "Passos Falsos - Ao Vivo",
+          "artist": "Capital Inicial",
+          "ms": 231746
+        },
+        {
+          "name": "Break My Face",
+          "artist": "AJR",
+          "ms": 226335
+        },
+        {
+          "name": "Bummerland",
+          "artist": "AJR",
+          "ms": 189169
+        },
+        {
+          "name": "Don't Throw Out My Legos",
+          "artist": "AJR",
+          "ms": 250839
+        },
+        {
+          "name": "Poison",
+          "artist": "Bell Biv DeVoe",
+          "ms": 261853
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "AJR",
+          "genres": []
+        },
+        {
+          "name": "Capital Inicial",
+          "genres": []
+        },
+        {
+          "name": "Roupa Nova",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Turma do Pagode",
+          "genres": []
+        }
+      ]
     }
   ]
 }
