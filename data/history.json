@@ -1101,6 +1101,64 @@
           "genres": []
         }
       ]
+    },
+    {
+      "timestamp": "2026-06-13T10:56:41.498407+00:00",
+      "now_playing": {
+        "title": "From the Inside",
+        "artist": "Linkin Park",
+        "album": "Meteora (Bonus Edition)",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7"
+      },
+      "top_tracks": [
+        {
+          "name": "Passos Falsos - Ao Vivo",
+          "artist": "Capital Inicial",
+          "ms": 231746
+        },
+        {
+          "name": "Break My Face",
+          "artist": "AJR",
+          "ms": 226335
+        },
+        {
+          "name": "Bummerland",
+          "artist": "AJR",
+          "ms": 189169
+        },
+        {
+          "name": "Don't Throw Out My Legos",
+          "artist": "AJR",
+          "ms": 250839
+        },
+        {
+          "name": "Poison",
+          "artist": "Bell Biv DeVoe",
+          "ms": 261853
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "AJR",
+          "genres": []
+        },
+        {
+          "name": "Capital Inicial",
+          "genres": []
+        },
+        {
+          "name": "Roupa Nova",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Turma do Pagode",
+          "genres": []
+        }
+      ]
     }
   ]
 }
