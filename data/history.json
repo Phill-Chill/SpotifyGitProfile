@@ -1333,6 +1333,64 @@
           "genres": []
         }
       ]
+    },
+    {
+      "timestamp": "2026-06-13T17:52:39.462294+00:00",
+      "now_playing": {
+        "title": "I'm Not Famous",
+        "artist": "AJR",
+        "album": "The Click",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273f6613ca52b16b8463a7c3e10"
+      },
+      "top_tracks": [
+        {
+          "name": "Passos Falsos - Ao Vivo",
+          "artist": "Capital Inicial",
+          "ms": 231746
+        },
+        {
+          "name": "Break My Face",
+          "artist": "AJR",
+          "ms": 226335
+        },
+        {
+          "name": "Poison",
+          "artist": "Bell Biv DeVoe",
+          "ms": 261853
+        },
+        {
+          "name": "Bummerland",
+          "artist": "AJR",
+          "ms": 189169
+        },
+        {
+          "name": "Don't Throw Out My Legos",
+          "artist": "AJR",
+          "ms": 250839
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "AJR",
+          "genres": []
+        },
+        {
+          "name": "Capital Inicial",
+          "genres": []
+        },
+        {
+          "name": "Roupa Nova",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Bring Me The Horizon",
+          "genres": []
+        }
+      ]
     }
   ]
 }
