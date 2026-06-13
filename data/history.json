@@ -1391,6 +1391,64 @@
           "genres": []
         }
       ]
+    },
+    {
+      "timestamp": "2026-06-13T19:22:05.375517+00:00",
+      "now_playing": {
+        "title": "Crash My Car",
+        "artist": "COIN",
+        "album": "Dreamland",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273c4149c0dcfd5b44342b6b298"
+      },
+      "top_tracks": [
+        {
+          "name": "Passos Falsos - Ao Vivo",
+          "artist": "Capital Inicial",
+          "ms": 231746
+        },
+        {
+          "name": "Break My Face",
+          "artist": "AJR",
+          "ms": 226335
+        },
+        {
+          "name": "Turning Out",
+          "artist": "AJR",
+          "ms": 260959
+        },
+        {
+          "name": "Bummerland",
+          "artist": "AJR",
+          "ms": 189169
+        },
+        {
+          "name": "Don't Throw Out My Legos",
+          "artist": "AJR",
+          "ms": 250839
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "AJR",
+          "genres": []
+        },
+        {
+          "name": "Capital Inicial",
+          "genres": []
+        },
+        {
+          "name": "Roupa Nova",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Bring Me The Horizon",
+          "genres": []
+        }
+      ]
     }
   ]
 }
