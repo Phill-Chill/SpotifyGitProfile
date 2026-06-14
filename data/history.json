@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-06-10T23:42:50.147002+00:00",
-      "now_playing": {
-        "title": "The Way You Make Me Feel - 2012 Remaster",
-        "artist": "Michael Jackson",
-        "album": "Bad (Remastered)",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273eb2087dcd1eb61f833bdedff"
-      },
-      "top_tracks": [
-        {
-          "name": "Passos Falsos - Ao Vivo",
-          "artist": "Capital Inicial",
-          "ms": 231746
-        },
-        {
-          "name": "Break My Face",
-          "artist": "AJR",
-          "ms": 226335
-        },
-        {
-          "name": "Bummerland",
-          "artist": "AJR",
-          "ms": 189169
-        },
-        {
-          "name": "Don't Throw Out My Legos",
-          "artist": "AJR",
-          "ms": 250839
-        },
-        {
-          "name": "Poison",
-          "artist": "Bell Biv DeVoe",
-          "ms": 261853
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "AJR",
-          "genres": []
-        },
-        {
-          "name": "Roupa Nova",
-          "genres": []
-        },
-        {
-          "name": "Capital Inicial",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Turma do Pagode",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-06-11T00:25:09.215837+00:00",
       "now_playing": {
         "title": "Numb",
@@ -1684,6 +1626,64 @@
     },
     {
       "timestamp": "2026-06-14T08:14:12.695914+00:00",
+      "now_playing": {
+        "title": "Comatose",
+        "artist": "Skillet",
+        "album": "Comatose",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2733429fa00c50a7c629ba2ef8b"
+      },
+      "top_tracks": [
+        {
+          "name": "Passos Falsos - Ao Vivo",
+          "artist": "Capital Inicial",
+          "ms": 231746
+        },
+        {
+          "name": "Break My Face",
+          "artist": "AJR",
+          "ms": 226335
+        },
+        {
+          "name": "Turning Out",
+          "artist": "AJR",
+          "ms": 260959
+        },
+        {
+          "name": "Bummerland",
+          "artist": "AJR",
+          "ms": 189169
+        },
+        {
+          "name": "Don't Throw Out My Legos",
+          "artist": "AJR",
+          "ms": 250839
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "AJR",
+          "genres": []
+        },
+        {
+          "name": "Capital Inicial",
+          "genres": []
+        },
+        {
+          "name": "Roupa Nova",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Bring Me The Horizon",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-14T11:13:04.523738+00:00",
       "now_playing": {
         "title": "Comatose",
         "artist": "Skillet",
