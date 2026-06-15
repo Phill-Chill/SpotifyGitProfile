@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-06-12T12:20:51.582416+00:00",
-      "now_playing": {
-        "title": "Don't Stop",
-        "artist": "NOTHING MORE",
-        "album": "The Stories We Tell Ourselves",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273353504127a55a603352a32ed"
-      },
-      "top_tracks": [
-        {
-          "name": "Passos Falsos - Ao Vivo",
-          "artist": "Capital Inicial",
-          "ms": 231746
-        },
-        {
-          "name": "Break My Face",
-          "artist": "AJR",
-          "ms": 226335
-        },
-        {
-          "name": "Bummerland",
-          "artist": "AJR",
-          "ms": 189169
-        },
-        {
-          "name": "Don't Throw Out My Legos",
-          "artist": "AJR",
-          "ms": 250839
-        },
-        {
-          "name": "Poison",
-          "artist": "Bell Biv DeVoe",
-          "ms": 261853
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "AJR",
-          "genres": []
-        },
-        {
-          "name": "Roupa Nova",
-          "genres": []
-        },
-        {
-          "name": "Capital Inicial",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Turma do Pagode",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-06-12T15:46:08.825222+00:00",
       "now_playing": {
         "title": "Through the Valley",
@@ -1684,6 +1626,64 @@
     },
     {
       "timestamp": "2026-06-15T18:23:43.356199+00:00",
+      "now_playing": {
+        "title": "A Little Less Conversation - JXL Radio Edit Remix",
+        "artist": "Elvis Presley, Junkie XL",
+        "album": "A Little Less Conversation: Elvis vs JXL",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273ff186ce2c8d8cdfe4e65d710"
+      },
+      "top_tracks": [
+        {
+          "name": "Passos Falsos - Ao Vivo",
+          "artist": "Capital Inicial",
+          "ms": 231746
+        },
+        {
+          "name": "Break My Face",
+          "artist": "AJR",
+          "ms": 226335
+        },
+        {
+          "name": "Turning Out",
+          "artist": "AJR",
+          "ms": 260959
+        },
+        {
+          "name": "Poison",
+          "artist": "Bell Biv DeVoe",
+          "ms": 261853
+        },
+        {
+          "name": "Bummerland",
+          "artist": "AJR",
+          "ms": 189169
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "AJR",
+          "genres": []
+        },
+        {
+          "name": "Roupa Nova",
+          "genres": []
+        },
+        {
+          "name": "Capital Inicial",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Sleep Token",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-15T21:30:33.403712+00:00",
       "now_playing": {
         "title": "A Little Less Conversation - JXL Radio Edit Remix",
         "artist": "Elvis Presley, Junkie XL",
