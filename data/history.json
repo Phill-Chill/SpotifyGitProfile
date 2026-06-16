@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-06-12T18:04:58.547865+00:00",
-      "now_playing": {
-        "title": "Show Me How to Live",
-        "artist": "Audioslave",
-        "album": "Audioslave",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2734d94e1251b7e8c5e247de39c"
-      },
-      "top_tracks": [
-        {
-          "name": "Passos Falsos - Ao Vivo",
-          "artist": "Capital Inicial",
-          "ms": 231746
-        },
-        {
-          "name": "Break My Face",
-          "artist": "AJR",
-          "ms": 226335
-        },
-        {
-          "name": "Bummerland",
-          "artist": "AJR",
-          "ms": 189169
-        },
-        {
-          "name": "Don't Throw Out My Legos",
-          "artist": "AJR",
-          "ms": 250839
-        },
-        {
-          "name": "Poison",
-          "artist": "Bell Biv DeVoe",
-          "ms": 261853
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "AJR",
-          "genres": []
-        },
-        {
-          "name": "Capital Inicial",
-          "genres": []
-        },
-        {
-          "name": "Roupa Nova",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Turma do Pagode",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-06-12T20:37:27.375199+00:00",
       "now_playing": {
         "title": "Que País é Esse? - Ao Vivo",
@@ -1736,6 +1678,64 @@
         },
         {
           "name": "Sleep Token",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-16T03:51:06.738371+00:00",
+      "now_playing": {
+        "title": "Gold Digger",
+        "artist": "Kanye West, Jamie Foxx",
+        "album": "Late Registration",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273428d2255141c2119409a31b2"
+      },
+      "top_tracks": [
+        {
+          "name": "Break My Face",
+          "artist": "AJR",
+          "ms": 226335
+        },
+        {
+          "name": "Passos Falsos - Ao Vivo",
+          "artist": "Capital Inicial",
+          "ms": 231746
+        },
+        {
+          "name": "Poison",
+          "artist": "Bell Biv DeVoe",
+          "ms": 261853
+        },
+        {
+          "name": "Kool-Aid",
+          "artist": "Bring Me The Horizon",
+          "ms": 228470
+        },
+        {
+          "name": "Turning Out",
+          "artist": "AJR",
+          "ms": 260959
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "AJR",
+          "genres": []
+        },
+        {
+          "name": "Roupa Nova",
+          "genres": []
+        },
+        {
+          "name": "Capital Inicial",
+          "genres": []
+        },
+        {
+          "name": "Sleep Token",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
           "genres": []
         }
       ]
