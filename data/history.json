@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-06-13T20:47:47.454361+00:00",
-      "now_playing": {
-        "title": "Beatophone",
-        "artist": "Caravan Palace",
-        "album": "Panic",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273d4189ca2964e92b5e5e545ed"
-      },
-      "top_tracks": [
-        {
-          "name": "Passos Falsos - Ao Vivo",
-          "artist": "Capital Inicial",
-          "ms": 231746
-        },
-        {
-          "name": "Break My Face",
-          "artist": "AJR",
-          "ms": 226335
-        },
-        {
-          "name": "Turning Out",
-          "artist": "AJR",
-          "ms": 260959
-        },
-        {
-          "name": "Bummerland",
-          "artist": "AJR",
-          "ms": 189169
-        },
-        {
-          "name": "Don't Throw Out My Legos",
-          "artist": "AJR",
-          "ms": 250839
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "AJR",
-          "genres": []
-        },
-        {
-          "name": "Capital Inicial",
-          "genres": []
-        },
-        {
-          "name": "Roupa Nova",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Bring Me The Horizon",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-06-13T22:01:33.624755+00:00",
       "now_playing": {
         "title": "Comatose",
@@ -1736,6 +1678,64 @@
         },
         {
           "name": "Turma do Pagode",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-17T22:56:44.850274+00:00",
+      "now_playing": {
+        "title": "Antes do Baile",
+        "artist": "Yago Oproprio, Patricio Sid",
+        "album": "Antes do Baile",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27392ac01cbb4d6ab556e84d2ab"
+      },
+      "top_tracks": [
+        {
+          "name": "Break My Face",
+          "artist": "AJR",
+          "ms": 226335
+        },
+        {
+          "name": "Poison",
+          "artist": "Bell Biv DeVoe",
+          "ms": 261853
+        },
+        {
+          "name": "Kool-Aid",
+          "artist": "Bring Me The Horizon",
+          "ms": 228470
+        },
+        {
+          "name": "Turning Out",
+          "artist": "AJR",
+          "ms": 260959
+        },
+        {
+          "name": "Drama",
+          "artist": "AJR",
+          "ms": 204426
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "AJR",
+          "genres": []
+        },
+        {
+          "name": "Roupa Nova",
+          "genres": []
+        },
+        {
+          "name": "Capital Inicial",
+          "genres": []
+        },
+        {
+          "name": "Sleep Token",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
           "genres": []
         }
       ]
