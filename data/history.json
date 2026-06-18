@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-06-13T23:39:50.879260+00:00",
-      "now_playing": {
-        "title": "Comatose",
-        "artist": "Skillet",
-        "album": "Comatose",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2733429fa00c50a7c629ba2ef8b"
-      },
-      "top_tracks": [
-        {
-          "name": "Passos Falsos - Ao Vivo",
-          "artist": "Capital Inicial",
-          "ms": 231746
-        },
-        {
-          "name": "Break My Face",
-          "artist": "AJR",
-          "ms": 226335
-        },
-        {
-          "name": "Turning Out",
-          "artist": "AJR",
-          "ms": 260959
-        },
-        {
-          "name": "Bummerland",
-          "artist": "AJR",
-          "ms": 189169
-        },
-        {
-          "name": "Don't Throw Out My Legos",
-          "artist": "AJR",
-          "ms": 250839
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "AJR",
-          "genres": []
-        },
-        {
-          "name": "Capital Inicial",
-          "genres": []
-        },
-        {
-          "name": "Roupa Nova",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Bring Me The Horizon",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-06-14T03:45:30.736870+00:00",
       "now_playing": {
         "title": "Comatose",
@@ -1736,6 +1678,64 @@
         },
         {
           "name": "Yago Oproprio",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-18T05:16:00.124671+00:00",
+      "now_playing": {
+        "title": "Linhas Tortas",
+        "artist": "Gabriel O Pensador",
+        "album": "Sem Crise",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27315fba6ce991914db19753432"
+      },
+      "top_tracks": [
+        {
+          "name": "Break My Face",
+          "artist": "AJR",
+          "ms": 226335
+        },
+        {
+          "name": "Poison",
+          "artist": "Bell Biv DeVoe",
+          "ms": 261853
+        },
+        {
+          "name": "Kool-Aid",
+          "artist": "Bring Me The Horizon",
+          "ms": 228470
+        },
+        {
+          "name": "Turning Out",
+          "artist": "AJR",
+          "ms": 260959
+        },
+        {
+          "name": "Drama",
+          "artist": "AJR",
+          "ms": 204426
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "AJR",
+          "genres": []
+        },
+        {
+          "name": "Roupa Nova",
+          "genres": []
+        },
+        {
+          "name": "Capital Inicial",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Sleep Token",
           "genres": []
         }
       ]
