@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-06-14T13:13:33.437968+00:00",
-      "now_playing": {
-        "title": "Comatose",
-        "artist": "Skillet",
-        "album": "Comatose",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2733429fa00c50a7c629ba2ef8b"
-      },
-      "top_tracks": [
-        {
-          "name": "Passos Falsos - Ao Vivo",
-          "artist": "Capital Inicial",
-          "ms": 231746
-        },
-        {
-          "name": "Break My Face",
-          "artist": "AJR",
-          "ms": 226335
-        },
-        {
-          "name": "Turning Out",
-          "artist": "AJR",
-          "ms": 260959
-        },
-        {
-          "name": "Bummerland",
-          "artist": "AJR",
-          "ms": 189169
-        },
-        {
-          "name": "Don't Throw Out My Legos",
-          "artist": "AJR",
-          "ms": 250839
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "AJR",
-          "genres": []
-        },
-        {
-          "name": "Capital Inicial",
-          "genres": []
-        },
-        {
-          "name": "Roupa Nova",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Bring Me The Horizon",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-06-14T15:24:42.439536+00:00",
       "now_playing": {
         "title": "Hail to the King",
@@ -1689,6 +1631,64 @@
         "artist": "Audioslave",
         "album": "Audioslave",
         "image_url": "https://i.scdn.co/image/ab67616d0000b2734d94e1251b7e8c5e247de39c"
+      },
+      "top_tracks": [
+        {
+          "name": "Break My Face",
+          "artist": "AJR",
+          "ms": 226335
+        },
+        {
+          "name": "Poison",
+          "artist": "Bell Biv DeVoe",
+          "ms": 261853
+        },
+        {
+          "name": "Kool-Aid",
+          "artist": "Bring Me The Horizon",
+          "ms": 228470
+        },
+        {
+          "name": "Turning Out",
+          "artist": "AJR",
+          "ms": 260959
+        },
+        {
+          "name": "Drama",
+          "artist": "AJR",
+          "ms": 204426
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "AJR",
+          "genres": []
+        },
+        {
+          "name": "Roupa Nova",
+          "genres": []
+        },
+        {
+          "name": "Capital Inicial",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Sleep Token",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-18T19:02:35.423850+00:00",
+      "now_playing": {
+        "title": "Break My Face",
+        "artist": "AJR",
+        "album": "Neotheater",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27387a7ce9cb47d01d6f9e2f66a"
       },
       "top_tracks": [
         {
