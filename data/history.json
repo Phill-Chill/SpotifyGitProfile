@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-06-15T07:30:51.922300+00:00",
-      "now_playing": {
-        "title": "Helipa",
-        "artist": "Yago Oproprio",
-        "album": "Helipa",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273febf928331098e1796ea01b3"
-      },
-      "top_tracks": [
-        {
-          "name": "Passos Falsos - Ao Vivo",
-          "artist": "Capital Inicial",
-          "ms": 231746
-        },
-        {
-          "name": "Break My Face",
-          "artist": "AJR",
-          "ms": 226335
-        },
-        {
-          "name": "Turning Out",
-          "artist": "AJR",
-          "ms": 260959
-        },
-        {
-          "name": "Bummerland",
-          "artist": "AJR",
-          "ms": 189169
-        },
-        {
-          "name": "Don't Throw Out My Legos",
-          "artist": "AJR",
-          "ms": 250839
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "AJR",
-          "genres": []
-        },
-        {
-          "name": "Roupa Nova",
-          "genres": []
-        },
-        {
-          "name": "Capital Inicial",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Sleep Token",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-06-15T18:23:43.356199+00:00",
       "now_playing": {
         "title": "A Little Less Conversation - JXL Radio Edit Remix",
@@ -1689,6 +1631,64 @@
         "artist": "Charlie Brown Jr.",
         "album": "Tamo Ai Na Atividade",
         "image_url": "https://i.scdn.co/image/ab67616d0000b2736a0eecc5d63cac39fe7132b6"
+      },
+      "top_tracks": [
+        {
+          "name": "Break My Face",
+          "artist": "AJR",
+          "ms": 226335
+        },
+        {
+          "name": "Poison",
+          "artist": "Bell Biv DeVoe",
+          "ms": 261853
+        },
+        {
+          "name": "Kool-Aid",
+          "artist": "Bring Me The Horizon",
+          "ms": 228470
+        },
+        {
+          "name": "Turning Out",
+          "artist": "AJR",
+          "ms": 260959
+        },
+        {
+          "name": "Drama",
+          "artist": "AJR",
+          "ms": 204426
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "AJR",
+          "genres": []
+        },
+        {
+          "name": "Roupa Nova",
+          "genres": []
+        },
+        {
+          "name": "Capital Inicial",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Sleep Token",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-19T20:14:10.290661+00:00",
+      "now_playing": {
+        "title": "Não Tente Me Impedir - Ao Vivo",
+        "artist": "Bruno & Marrone",
+        "album": "De Volta aos Bares",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27388838edfe599ec2d65af4081"
       },
       "top_tracks": [
         {
