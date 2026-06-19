@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-06-15T18:23:43.356199+00:00",
-      "now_playing": {
-        "title": "A Little Less Conversation - JXL Radio Edit Remix",
-        "artist": "Elvis Presley, Junkie XL",
-        "album": "A Little Less Conversation: Elvis vs JXL",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273ff186ce2c8d8cdfe4e65d710"
-      },
-      "top_tracks": [
-        {
-          "name": "Passos Falsos - Ao Vivo",
-          "artist": "Capital Inicial",
-          "ms": 231746
-        },
-        {
-          "name": "Break My Face",
-          "artist": "AJR",
-          "ms": 226335
-        },
-        {
-          "name": "Turning Out",
-          "artist": "AJR",
-          "ms": 260959
-        },
-        {
-          "name": "Poison",
-          "artist": "Bell Biv DeVoe",
-          "ms": 261853
-        },
-        {
-          "name": "Bummerland",
-          "artist": "AJR",
-          "ms": 189169
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "AJR",
-          "genres": []
-        },
-        {
-          "name": "Roupa Nova",
-          "genres": []
-        },
-        {
-          "name": "Capital Inicial",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Sleep Token",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-06-15T21:30:33.403712+00:00",
       "now_playing": {
         "title": "A Little Less Conversation - JXL Radio Edit Remix",
@@ -1689,6 +1631,64 @@
         "artist": "Bruno & Marrone",
         "album": "De Volta aos Bares",
         "image_url": "https://i.scdn.co/image/ab67616d0000b27388838edfe599ec2d65af4081"
+      },
+      "top_tracks": [
+        {
+          "name": "Break My Face",
+          "artist": "AJR",
+          "ms": 226335
+        },
+        {
+          "name": "Poison",
+          "artist": "Bell Biv DeVoe",
+          "ms": 261853
+        },
+        {
+          "name": "Kool-Aid",
+          "artist": "Bring Me The Horizon",
+          "ms": 228470
+        },
+        {
+          "name": "Turning Out",
+          "artist": "AJR",
+          "ms": 260959
+        },
+        {
+          "name": "Drama",
+          "artist": "AJR",
+          "ms": 204426
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "AJR",
+          "genres": []
+        },
+        {
+          "name": "Roupa Nova",
+          "genres": []
+        },
+        {
+          "name": "Capital Inicial",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Sleep Token",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-19T21:43:24.540047+00:00",
+      "now_playing": {
+        "title": "Rainha da Pista",
+        "artist": "ConeCrewDiretoria",
+        "album": "Com os Neurônios Evoluindo",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27342f5b01213c8031ee2ec0421"
       },
       "top_tracks": [
         {
