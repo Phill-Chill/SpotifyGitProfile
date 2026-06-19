@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-06-14T23:07:11.233393+00:00",
-      "now_playing": {
-        "title": "Gangorra 2",
-        "artist": "Sid, Ugo Ludovico",
-        "album": "Gangorra 2",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b27387fbf67033db04c118416a00"
-      },
-      "top_tracks": [
-        {
-          "name": "Passos Falsos - Ao Vivo",
-          "artist": "Capital Inicial",
-          "ms": 231746
-        },
-        {
-          "name": "Break My Face",
-          "artist": "AJR",
-          "ms": 226335
-        },
-        {
-          "name": "Turning Out",
-          "artist": "AJR",
-          "ms": 260959
-        },
-        {
-          "name": "Bummerland",
-          "artist": "AJR",
-          "ms": 189169
-        },
-        {
-          "name": "Don't Throw Out My Legos",
-          "artist": "AJR",
-          "ms": 250839
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "AJR",
-          "genres": []
-        },
-        {
-          "name": "Roupa Nova",
-          "genres": []
-        },
-        {
-          "name": "Capital Inicial",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Sleep Token",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-06-15T01:59:30.612383+00:00",
       "now_playing": {
         "title": "Helipa",
@@ -1689,6 +1631,64 @@
         "artist": "Twenty One Pilots",
         "album": "Blurryface",
         "image_url": "https://i.scdn.co/image/ab67616d0000b2732df0d98a423025032d0db1f7"
+      },
+      "top_tracks": [
+        {
+          "name": "Break My Face",
+          "artist": "AJR",
+          "ms": 226335
+        },
+        {
+          "name": "Poison",
+          "artist": "Bell Biv DeVoe",
+          "ms": 261853
+        },
+        {
+          "name": "Kool-Aid",
+          "artist": "Bring Me The Horizon",
+          "ms": 228470
+        },
+        {
+          "name": "Turning Out",
+          "artist": "AJR",
+          "ms": 260959
+        },
+        {
+          "name": "Drama",
+          "artist": "AJR",
+          "ms": 204426
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "AJR",
+          "genres": []
+        },
+        {
+          "name": "Roupa Nova",
+          "genres": []
+        },
+        {
+          "name": "Capital Inicial",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Sleep Token",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-19T16:10:38.562599+00:00",
+      "now_playing": {
+        "title": "Tamo Ai Na Atividade",
+        "artist": "Charlie Brown Jr.",
+        "album": "Tamo Ai Na Atividade",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2736a0eecc5d63cac39fe7132b6"
       },
       "top_tracks": [
         {
