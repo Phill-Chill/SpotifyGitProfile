@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-06-14T20:05:42.308895+00:00",
-      "now_playing": {
-        "title": "Ressaca",
-        "artist": "Facção Caipira",
-        "album": "Homem Bom",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273ab8cc39817a1dc6088d787f9"
-      },
-      "top_tracks": [
-        {
-          "name": "Passos Falsos - Ao Vivo",
-          "artist": "Capital Inicial",
-          "ms": 231746
-        },
-        {
-          "name": "Break My Face",
-          "artist": "AJR",
-          "ms": 226335
-        },
-        {
-          "name": "Turning Out",
-          "artist": "AJR",
-          "ms": 260959
-        },
-        {
-          "name": "Bummerland",
-          "artist": "AJR",
-          "ms": 189169
-        },
-        {
-          "name": "Don't Throw Out My Legos",
-          "artist": "AJR",
-          "ms": 250839
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "AJR",
-          "genres": []
-        },
-        {
-          "name": "Roupa Nova",
-          "genres": []
-        },
-        {
-          "name": "Capital Inicial",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Sleep Token",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-06-14T21:51:18.185378+00:00",
       "now_playing": {
         "title": "Quatro Vezes Você",
@@ -1684,6 +1626,64 @@
     },
     {
       "timestamp": "2026-06-19T04:03:05.979309+00:00",
+      "now_playing": {
+        "title": "Psychosocial",
+        "artist": "Slipknot",
+        "album": "All Hope Is Gone (10th Anniversary)",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273e7fbc0883149094912559f2c"
+      },
+      "top_tracks": [
+        {
+          "name": "Break My Face",
+          "artist": "AJR",
+          "ms": 226335
+        },
+        {
+          "name": "Poison",
+          "artist": "Bell Biv DeVoe",
+          "ms": 261853
+        },
+        {
+          "name": "Kool-Aid",
+          "artist": "Bring Me The Horizon",
+          "ms": 228470
+        },
+        {
+          "name": "Turning Out",
+          "artist": "AJR",
+          "ms": 260959
+        },
+        {
+          "name": "Drama",
+          "artist": "AJR",
+          "ms": 204426
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "AJR",
+          "genres": []
+        },
+        {
+          "name": "Roupa Nova",
+          "genres": []
+        },
+        {
+          "name": "Capital Inicial",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Sleep Token",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-19T09:19:11.282235+00:00",
       "now_playing": {
         "title": "Psychosocial",
         "artist": "Slipknot",
