@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-06-17T07:32:54.167701+00:00",
-      "now_playing": {
-        "title": "Love Song (A Maior Dor de um Homem)",
-        "artist": "Sabotage, Mano Brown",
-        "album": "Love Song (A Maior Dor de um Homem)",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273eb6f6e747b7de9fb0199102e"
-      },
-      "top_tracks": [
-        {
-          "name": "Break My Face",
-          "artist": "AJR",
-          "ms": 226335
-        },
-        {
-          "name": "Poison",
-          "artist": "Bell Biv DeVoe",
-          "ms": 261853
-        },
-        {
-          "name": "Kool-Aid",
-          "artist": "Bring Me The Horizon",
-          "ms": 228470
-        },
-        {
-          "name": "Turning Out",
-          "artist": "AJR",
-          "ms": 260959
-        },
-        {
-          "name": "Drama",
-          "artist": "AJR",
-          "ms": 204426
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "AJR",
-          "genres": []
-        },
-        {
-          "name": "Roupa Nova",
-          "genres": []
-        },
-        {
-          "name": "Capital Inicial",
-          "genres": []
-        },
-        {
-          "name": "Sleep Token",
-          "genres": []
-        },
-        {
-          "name": "Turma do Pagode",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-06-17T12:14:30.137521+00:00",
       "now_playing": {
         "title": "Love Song (A Maior Dor de um Homem)",
@@ -1689,6 +1631,64 @@
         "artist": "Magdalena Bay",
         "album": "A Little Rhythm and a Wicked Feeling",
         "image_url": "https://i.scdn.co/image/ab67616d0000b273ae69f02d74849157de206294"
+      },
+      "top_tracks": [
+        {
+          "name": "Break My Face",
+          "artist": "AJR",
+          "ms": 226335
+        },
+        {
+          "name": "Poison",
+          "artist": "Bell Biv DeVoe",
+          "ms": 261853
+        },
+        {
+          "name": "Kool-Aid",
+          "artist": "Bring Me The Horizon",
+          "ms": 228470
+        },
+        {
+          "name": "Blackhole",
+          "artist": "Architects",
+          "ms": 200800
+        },
+        {
+          "name": "Turning Out",
+          "artist": "AJR",
+          "ms": 260959
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "AJR",
+          "genres": []
+        },
+        {
+          "name": "Roupa Nova",
+          "genres": []
+        },
+        {
+          "name": "Capital Inicial",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Sleep Token",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-20T19:22:17.274599+00:00",
+      "now_playing": {
+        "title": "O Mais Novo Malandro do Centro",
+        "artist": "Yago Oproprio, Crônicas de um Babaca, Patricio Sid, EME Lab",
+        "album": "À La Carte",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273df0ffea5acf85be2837bd83e"
       },
       "top_tracks": [
         {
