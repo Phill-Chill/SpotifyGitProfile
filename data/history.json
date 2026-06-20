@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-06-16T23:22:42.725113+00:00",
-      "now_playing": {
-        "title": "Eyes Closed",
-        "artist": "Imagine Dragons",
-        "album": "LOOM",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2737eeb115b73e2e6abc3c66d59"
-      },
-      "top_tracks": [
-        {
-          "name": "Break My Face",
-          "artist": "AJR",
-          "ms": 226335
-        },
-        {
-          "name": "Poison",
-          "artist": "Bell Biv DeVoe",
-          "ms": 261853
-        },
-        {
-          "name": "Kool-Aid",
-          "artist": "Bring Me The Horizon",
-          "ms": 228470
-        },
-        {
-          "name": "Turning Out",
-          "artist": "AJR",
-          "ms": 260959
-        },
-        {
-          "name": "Drama",
-          "artist": "AJR",
-          "ms": 204426
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "AJR",
-          "genres": []
-        },
-        {
-          "name": "Roupa Nova",
-          "genres": []
-        },
-        {
-          "name": "Capital Inicial",
-          "genres": []
-        },
-        {
-          "name": "Sleep Token",
-          "genres": []
-        },
-        {
-          "name": "Turma do Pagode",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-06-17T02:00:44.543051+00:00",
       "now_playing": {
         "title": "Maloca É Maré - Sabotage 50",
@@ -1689,6 +1631,64 @@
         "artist": "Linkin Park",
         "album": "Hybrid Theory (Bonus Edition)",
         "image_url": "https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a"
+      },
+      "top_tracks": [
+        {
+          "name": "Break My Face",
+          "artist": "AJR",
+          "ms": 226335
+        },
+        {
+          "name": "Poison",
+          "artist": "Bell Biv DeVoe",
+          "ms": 261853
+        },
+        {
+          "name": "Kool-Aid",
+          "artist": "Bring Me The Horizon",
+          "ms": 228470
+        },
+        {
+          "name": "Turning Out",
+          "artist": "AJR",
+          "ms": 260959
+        },
+        {
+          "name": "Drama",
+          "artist": "AJR",
+          "ms": 204426
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "AJR",
+          "genres": []
+        },
+        {
+          "name": "Roupa Nova",
+          "genres": []
+        },
+        {
+          "name": "Capital Inicial",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Sleep Token",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-20T16:15:26.099469+00:00",
+      "now_playing": {
+        "title": "Supermassive Black Hole",
+        "artist": "Muse",
+        "album": "Black Holes and Revelations",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27328933b808bfb4cbbd0385400"
       },
       "top_tracks": [
         {
