@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-06-15T23:43:45.320164+00:00",
-      "now_playing": {
-        "title": "Poison",
-        "artist": "Bell Biv DeVoe",
-        "album": "Poison",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2730ce91190aaea70dd4fe020c4"
-      },
-      "top_tracks": [
-        {
-          "name": "Passos Falsos - Ao Vivo",
-          "artist": "Capital Inicial",
-          "ms": 231746
-        },
-        {
-          "name": "Break My Face",
-          "artist": "AJR",
-          "ms": 226335
-        },
-        {
-          "name": "Turning Out",
-          "artist": "AJR",
-          "ms": 260959
-        },
-        {
-          "name": "Poison",
-          "artist": "Bell Biv DeVoe",
-          "ms": 261853
-        },
-        {
-          "name": "Bummerland",
-          "artist": "AJR",
-          "ms": 189169
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "AJR",
-          "genres": []
-        },
-        {
-          "name": "Roupa Nova",
-          "genres": []
-        },
-        {
-          "name": "Capital Inicial",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Sleep Token",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-06-16T03:51:06.738371+00:00",
       "now_playing": {
         "title": "Gold Digger",
@@ -1689,6 +1631,64 @@
         "artist": "AJR",
         "album": "Neotheater",
         "image_url": "https://i.scdn.co/image/ab67616d0000b27387a7ce9cb47d01d6f9e2f66a"
+      },
+      "top_tracks": [
+        {
+          "name": "Break My Face",
+          "artist": "AJR",
+          "ms": 226335
+        },
+        {
+          "name": "Poison",
+          "artist": "Bell Biv DeVoe",
+          "ms": 261853
+        },
+        {
+          "name": "Kool-Aid",
+          "artist": "Bring Me The Horizon",
+          "ms": 228470
+        },
+        {
+          "name": "Turning Out",
+          "artist": "AJR",
+          "ms": 260959
+        },
+        {
+          "name": "Drama",
+          "artist": "AJR",
+          "ms": 204426
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "AJR",
+          "genres": []
+        },
+        {
+          "name": "Roupa Nova",
+          "genres": []
+        },
+        {
+          "name": "Capital Inicial",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Sleep Token",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-20T00:07:38.526768+00:00",
+      "now_playing": {
+        "title": "A Vida É Desafio",
+        "artist": "Racionais MC's, Afro-X",
+        "album": "Nada Como um Dia Após o Outro Dia, Vol. 1 & 2",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273497e68476e7062b1bf5ea83f"
       },
       "top_tracks": [
         {
