@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-06-17T02:00:44.543051+00:00",
-      "now_playing": {
-        "title": "Maloca É Maré - Sabotage 50",
-        "artist": "Sabotage, Yago Oproprio, Iuri Rio Branco",
-        "album": "Sabotage 50",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2736b69348c3c4b6fe72fac4a65"
-      },
-      "top_tracks": [
-        {
-          "name": "Break My Face",
-          "artist": "AJR",
-          "ms": 226335
-        },
-        {
-          "name": "Poison",
-          "artist": "Bell Biv DeVoe",
-          "ms": 261853
-        },
-        {
-          "name": "Kool-Aid",
-          "artist": "Bring Me The Horizon",
-          "ms": 228470
-        },
-        {
-          "name": "Turning Out",
-          "artist": "AJR",
-          "ms": 260959
-        },
-        {
-          "name": "Drama",
-          "artist": "AJR",
-          "ms": 204426
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "AJR",
-          "genres": []
-        },
-        {
-          "name": "Roupa Nova",
-          "genres": []
-        },
-        {
-          "name": "Capital Inicial",
-          "genres": []
-        },
-        {
-          "name": "Sleep Token",
-          "genres": []
-        },
-        {
-          "name": "Turma do Pagode",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-06-17T07:32:54.167701+00:00",
       "now_playing": {
         "title": "Love Song (A Maior Dor de um Homem)",
@@ -1715,6 +1657,64 @@
           "name": "Drama",
           "artist": "AJR",
           "ms": 204426
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "AJR",
+          "genres": []
+        },
+        {
+          "name": "Roupa Nova",
+          "genres": []
+        },
+        {
+          "name": "Capital Inicial",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Sleep Token",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-20T17:54:09.605657+00:00",
+      "now_playing": {
+        "title": "Killshot",
+        "artist": "Magdalena Bay",
+        "album": "A Little Rhythm and a Wicked Feeling",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273ae69f02d74849157de206294"
+      },
+      "top_tracks": [
+        {
+          "name": "Break My Face",
+          "artist": "AJR",
+          "ms": 226335
+        },
+        {
+          "name": "Poison",
+          "artist": "Bell Biv DeVoe",
+          "ms": 261853
+        },
+        {
+          "name": "Kool-Aid",
+          "artist": "Bring Me The Horizon",
+          "ms": 228470
+        },
+        {
+          "name": "Blackhole",
+          "artist": "Architects",
+          "ms": 200800
+        },
+        {
+          "name": "Turning Out",
+          "artist": "AJR",
+          "ms": 260959
         }
       ],
       "top_artists": [
