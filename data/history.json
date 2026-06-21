@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-06-18T19:02:35.423850+00:00",
-      "now_playing": {
-        "title": "Break My Face",
-        "artist": "AJR",
-        "album": "Neotheater",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b27387a7ce9cb47d01d6f9e2f66a"
-      },
-      "top_tracks": [
-        {
-          "name": "Break My Face",
-          "artist": "AJR",
-          "ms": 226335
-        },
-        {
-          "name": "Poison",
-          "artist": "Bell Biv DeVoe",
-          "ms": 261853
-        },
-        {
-          "name": "Kool-Aid",
-          "artist": "Bring Me The Horizon",
-          "ms": 228470
-        },
-        {
-          "name": "Turning Out",
-          "artist": "AJR",
-          "ms": 260959
-        },
-        {
-          "name": "Drama",
-          "artist": "AJR",
-          "ms": 204426
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "AJR",
-          "genres": []
-        },
-        {
-          "name": "Roupa Nova",
-          "genres": []
-        },
-        {
-          "name": "Capital Inicial",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Sleep Token",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-06-18T21:33:26.253720+00:00",
       "now_playing": {
         "title": "Bummerland",
@@ -1689,6 +1631,64 @@
         "artist": "Polaris",
         "album": "Fatalism",
         "image_url": "https://i.scdn.co/image/ab67616d0000b273dcc4dcf2f48f7a97da2ff39f"
+      },
+      "top_tracks": [
+        {
+          "name": "Break My Face",
+          "artist": "AJR",
+          "ms": 226335
+        },
+        {
+          "name": "Poison",
+          "artist": "Bell Biv DeVoe",
+          "ms": 261853
+        },
+        {
+          "name": "Kool-Aid",
+          "artist": "Bring Me The Horizon",
+          "ms": 228470
+        },
+        {
+          "name": "Blackhole",
+          "artist": "Architects",
+          "ms": 200800
+        },
+        {
+          "name": "Drama",
+          "artist": "AJR",
+          "ms": 204426
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "AJR",
+          "genres": []
+        },
+        {
+          "name": "Capital Inicial",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Roupa Nova",
+          "genres": []
+        },
+        {
+          "name": "Sleep Token",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-21T21:53:14.489949+00:00",
+      "now_playing": {
+        "title": "Sem Você - Acústico",
+        "artist": "Bruno & Marrone",
+        "album": "Acustico II (Deluxe) [Acústico]",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27398c8f297469442389c03bcbd"
       },
       "top_tracks": [
         {
