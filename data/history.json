@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-06-18T05:16:00.124671+00:00",
-      "now_playing": {
-        "title": "Linhas Tortas",
-        "artist": "Gabriel O Pensador",
-        "album": "Sem Crise",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b27315fba6ce991914db19753432"
-      },
-      "top_tracks": [
-        {
-          "name": "Break My Face",
-          "artist": "AJR",
-          "ms": 226335
-        },
-        {
-          "name": "Poison",
-          "artist": "Bell Biv DeVoe",
-          "ms": 261853
-        },
-        {
-          "name": "Kool-Aid",
-          "artist": "Bring Me The Horizon",
-          "ms": 228470
-        },
-        {
-          "name": "Turning Out",
-          "artist": "AJR",
-          "ms": 260959
-        },
-        {
-          "name": "Drama",
-          "artist": "AJR",
-          "ms": 204426
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "AJR",
-          "genres": []
-        },
-        {
-          "name": "Roupa Nova",
-          "genres": []
-        },
-        {
-          "name": "Capital Inicial",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Sleep Token",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-06-18T09:53:03.019129+00:00",
       "now_playing": {
         "title": "Falo Nada",
@@ -1689,6 +1631,64 @@
         "artist": "Moptop",
         "album": "Como Se Comportar",
         "image_url": "https://i.scdn.co/image/ab67616d0000b273bd726cf4e4282f78edbef88b"
+      },
+      "top_tracks": [
+        {
+          "name": "Break My Face",
+          "artist": "AJR",
+          "ms": 226335
+        },
+        {
+          "name": "Poison",
+          "artist": "Bell Biv DeVoe",
+          "ms": 261853
+        },
+        {
+          "name": "Kool-Aid",
+          "artist": "Bring Me The Horizon",
+          "ms": 228470
+        },
+        {
+          "name": "Blackhole",
+          "artist": "Architects",
+          "ms": 200800
+        },
+        {
+          "name": "Turning Out",
+          "artist": "AJR",
+          "ms": 260959
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "AJR",
+          "genres": []
+        },
+        {
+          "name": "Capital Inicial",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Roupa Nova",
+          "genres": []
+        },
+        {
+          "name": "Sleep Token",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-21T14:05:02.988087+00:00",
+      "now_playing": {
+        "title": "Encruzilhada",
+        "artist": "Yago Oproprio, Emmano, Patricio Sid, EME Lab",
+        "album": "À La Carte",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273df0ffea5acf85be2837bd83e"
       },
       "top_tracks": [
         {
