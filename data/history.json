@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-06-17T22:56:44.850274+00:00",
-      "now_playing": {
-        "title": "Antes do Baile",
-        "artist": "Yago Oproprio, Patricio Sid",
-        "album": "Antes do Baile",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b27392ac01cbb4d6ab556e84d2ab"
-      },
-      "top_tracks": [
-        {
-          "name": "Break My Face",
-          "artist": "AJR",
-          "ms": 226335
-        },
-        {
-          "name": "Poison",
-          "artist": "Bell Biv DeVoe",
-          "ms": 261853
-        },
-        {
-          "name": "Kool-Aid",
-          "artist": "Bring Me The Horizon",
-          "ms": 228470
-        },
-        {
-          "name": "Turning Out",
-          "artist": "AJR",
-          "ms": 260959
-        },
-        {
-          "name": "Drama",
-          "artist": "AJR",
-          "ms": 204426
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "AJR",
-          "genres": []
-        },
-        {
-          "name": "Roupa Nova",
-          "genres": []
-        },
-        {
-          "name": "Capital Inicial",
-          "genres": []
-        },
-        {
-          "name": "Sleep Token",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-06-18T00:16:57.609976+00:00",
       "now_playing": {
         "title": "Fogo",
@@ -1684,6 +1626,64 @@
     },
     {
       "timestamp": "2026-06-21T03:56:12.554110+00:00",
+      "now_playing": {
+        "title": "Desapego",
+        "artist": "Moptop",
+        "album": "Como Se Comportar",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273bd726cf4e4282f78edbef88b"
+      },
+      "top_tracks": [
+        {
+          "name": "Break My Face",
+          "artist": "AJR",
+          "ms": 226335
+        },
+        {
+          "name": "Poison",
+          "artist": "Bell Biv DeVoe",
+          "ms": 261853
+        },
+        {
+          "name": "Kool-Aid",
+          "artist": "Bring Me The Horizon",
+          "ms": 228470
+        },
+        {
+          "name": "Blackhole",
+          "artist": "Architects",
+          "ms": 200800
+        },
+        {
+          "name": "Turning Out",
+          "artist": "AJR",
+          "ms": 260959
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "AJR",
+          "genres": []
+        },
+        {
+          "name": "Capital Inicial",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Roupa Nova",
+          "genres": []
+        },
+        {
+          "name": "Sleep Token",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-21T08:35:16.299598+00:00",
       "now_playing": {
         "title": "Desapego",
         "artist": "Moptop",
