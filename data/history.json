@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-06-19T18:15:34.501527+00:00",
-      "now_playing": {
-        "title": "Tamo Ai Na Atividade",
-        "artist": "Charlie Brown Jr.",
-        "album": "Tamo Ai Na Atividade",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2736a0eecc5d63cac39fe7132b6"
-      },
-      "top_tracks": [
-        {
-          "name": "Break My Face",
-          "artist": "AJR",
-          "ms": 226335
-        },
-        {
-          "name": "Poison",
-          "artist": "Bell Biv DeVoe",
-          "ms": 261853
-        },
-        {
-          "name": "Kool-Aid",
-          "artist": "Bring Me The Horizon",
-          "ms": 228470
-        },
-        {
-          "name": "Turning Out",
-          "artist": "AJR",
-          "ms": 260959
-        },
-        {
-          "name": "Drama",
-          "artist": "AJR",
-          "ms": 204426
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "AJR",
-          "genres": []
-        },
-        {
-          "name": "Roupa Nova",
-          "genres": []
-        },
-        {
-          "name": "Capital Inicial",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Sleep Token",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-06-19T20:14:10.290661+00:00",
       "now_playing": {
         "title": "Não Tente Me Impedir - Ao Vivo",
@@ -1689,6 +1631,64 @@
         "artist": "Seu Pereira, Furmiga Dub, Betinho Lucena",
         "album": "Carta aos Terraplanistas",
         "image_url": "https://i.scdn.co/image/ab67616d0000b2733ba6184522f66c28b053c9a0"
+      },
+      "top_tracks": [
+        {
+          "name": "Kool-Aid",
+          "artist": "Bring Me The Horizon",
+          "ms": 228470
+        },
+        {
+          "name": "Poison",
+          "artist": "Bell Biv DeVoe",
+          "ms": 261853
+        },
+        {
+          "name": "Break My Face",
+          "artist": "AJR",
+          "ms": 226335
+        },
+        {
+          "name": "Blackhole",
+          "artist": "Architects",
+          "ms": 200800
+        },
+        {
+          "name": "Drama",
+          "artist": "AJR",
+          "ms": 204426
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "AJR",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Capital Inicial",
+          "genres": []
+        },
+        {
+          "name": "Roupa Nova",
+          "genres": []
+        },
+        {
+          "name": "Sleep Token",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-22T23:16:40.968071+00:00",
+      "now_playing": {
+        "title": "The Good Part",
+        "artist": "AJR",
+        "album": "The Click",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273f6613ca52b16b8463a7c3e10"
       },
       "top_tracks": [
         {
