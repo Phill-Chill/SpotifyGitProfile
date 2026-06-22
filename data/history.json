@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-06-19T04:03:05.979309+00:00",
-      "now_playing": {
-        "title": "Psychosocial",
-        "artist": "Slipknot",
-        "album": "All Hope Is Gone (10th Anniversary)",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273e7fbc0883149094912559f2c"
-      },
-      "top_tracks": [
-        {
-          "name": "Break My Face",
-          "artist": "AJR",
-          "ms": 226335
-        },
-        {
-          "name": "Poison",
-          "artist": "Bell Biv DeVoe",
-          "ms": 261853
-        },
-        {
-          "name": "Kool-Aid",
-          "artist": "Bring Me The Horizon",
-          "ms": 228470
-        },
-        {
-          "name": "Turning Out",
-          "artist": "AJR",
-          "ms": 260959
-        },
-        {
-          "name": "Drama",
-          "artist": "AJR",
-          "ms": 204426
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "AJR",
-          "genres": []
-        },
-        {
-          "name": "Roupa Nova",
-          "genres": []
-        },
-        {
-          "name": "Capital Inicial",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Sleep Token",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-06-19T09:19:11.282235+00:00",
       "now_playing": {
         "title": "Psychosocial",
@@ -1689,6 +1631,64 @@
         "artist": "Mathieu Fiset",
         "album": "Robojazz",
         "image_url": "https://i.scdn.co/image/ab67616d0000b273790a851de091aaa1a8bd3ea1"
+      },
+      "top_tracks": [
+        {
+          "name": "Break My Face",
+          "artist": "AJR",
+          "ms": 226335
+        },
+        {
+          "name": "Kool-Aid",
+          "artist": "Bring Me The Horizon",
+          "ms": 228470
+        },
+        {
+          "name": "Poison",
+          "artist": "Bell Biv DeVoe",
+          "ms": 261853
+        },
+        {
+          "name": "Blackhole",
+          "artist": "Architects",
+          "ms": 200800
+        },
+        {
+          "name": "Drama",
+          "artist": "AJR",
+          "ms": 204426
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "AJR",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Capital Inicial",
+          "genres": []
+        },
+        {
+          "name": "Roupa Nova",
+          "genres": []
+        },
+        {
+          "name": "Sleep Token",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-22T08:37:16.855935+00:00",
+      "now_playing": {
+        "title": "Hino Pouso Alegre Fc",
+        "artist": "Teoria Livre",
+        "album": "Hino Pouso Alegre Fc",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2732356420c1acfeb2ed785720b"
       },
       "top_tracks": [
         {
