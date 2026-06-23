@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-06-19T20:14:10.290661+00:00",
-      "now_playing": {
-        "title": "Não Tente Me Impedir - Ao Vivo",
-        "artist": "Bruno & Marrone",
-        "album": "De Volta aos Bares",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b27388838edfe599ec2d65af4081"
-      },
-      "top_tracks": [
-        {
-          "name": "Break My Face",
-          "artist": "AJR",
-          "ms": 226335
-        },
-        {
-          "name": "Poison",
-          "artist": "Bell Biv DeVoe",
-          "ms": 261853
-        },
-        {
-          "name": "Kool-Aid",
-          "artist": "Bring Me The Horizon",
-          "ms": 228470
-        },
-        {
-          "name": "Turning Out",
-          "artist": "AJR",
-          "ms": 260959
-        },
-        {
-          "name": "Drama",
-          "artist": "AJR",
-          "ms": 204426
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "AJR",
-          "genres": []
-        },
-        {
-          "name": "Roupa Nova",
-          "genres": []
-        },
-        {
-          "name": "Capital Inicial",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Sleep Token",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-06-19T21:43:24.540047+00:00",
       "now_playing": {
         "title": "Rainha da Pista",
@@ -1710,6 +1652,64 @@
           "name": "Blackhole",
           "artist": "Architects",
           "ms": 200800
+        },
+        {
+          "name": "Drama",
+          "artist": "AJR",
+          "ms": 204426
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "AJR",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Capital Inicial",
+          "genres": []
+        },
+        {
+          "name": "Roupa Nova",
+          "genres": []
+        },
+        {
+          "name": "Sleep Token",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-23T01:29:47.856877+00:00",
+      "now_playing": {
+        "title": "Blackhole",
+        "artist": "Architects",
+        "album": "The Sky, The Earth & All Between",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273fa9cf0435132ff2a17ce9d86"
+      },
+      "top_tracks": [
+        {
+          "name": "Kool-Aid",
+          "artist": "Bring Me The Horizon",
+          "ms": 228470
+        },
+        {
+          "name": "Poison",
+          "artist": "Bell Biv DeVoe",
+          "ms": 261853
+        },
+        {
+          "name": "Blackhole",
+          "artist": "Architects",
+          "ms": 200800
+        },
+        {
+          "name": "Break My Face",
+          "artist": "AJR",
+          "ms": 226335
         },
         {
           "name": "Drama",
