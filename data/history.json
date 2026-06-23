@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-06-20T12:27:31.190683+00:00",
-      "now_playing": {
-        "title": "In the End",
-        "artist": "Linkin Park",
-        "album": "Hybrid Theory (Bonus Edition)",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a"
-      },
-      "top_tracks": [
-        {
-          "name": "Break My Face",
-          "artist": "AJR",
-          "ms": 226335
-        },
-        {
-          "name": "Poison",
-          "artist": "Bell Biv DeVoe",
-          "ms": 261853
-        },
-        {
-          "name": "Kool-Aid",
-          "artist": "Bring Me The Horizon",
-          "ms": 228470
-        },
-        {
-          "name": "Turning Out",
-          "artist": "AJR",
-          "ms": 260959
-        },
-        {
-          "name": "Drama",
-          "artist": "AJR",
-          "ms": 204426
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "AJR",
-          "genres": []
-        },
-        {
-          "name": "Roupa Nova",
-          "genres": []
-        },
-        {
-          "name": "Capital Inicial",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Sleep Token",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-06-20T14:41:41.698232+00:00",
       "now_playing": {
         "title": "In the End",
@@ -1736,6 +1678,64 @@
         },
         {
           "name": "Sleep Token",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-23T21:47:15.921939+00:00",
+      "now_playing": {
+        "title": "Fall Away",
+        "artist": "Twenty One Pilots",
+        "album": "Twenty One Pilots",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273c349390bd863bf173eb077e9"
+      },
+      "top_tracks": [
+        {
+          "name": "Kool-Aid",
+          "artist": "Bring Me The Horizon",
+          "ms": 228470
+        },
+        {
+          "name": "Poison",
+          "artist": "Bell Biv DeVoe",
+          "ms": 261853
+        },
+        {
+          "name": "Blackhole",
+          "artist": "Architects",
+          "ms": 200800
+        },
+        {
+          "name": "Yes I'm A Mess",
+          "artist": "AJR",
+          "ms": 164973
+        },
+        {
+          "name": "TIMEZONE",
+          "artist": "Måneskin",
+          "ms": 179631
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "AJR",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Sleep Token",
+          "genres": []
+        },
+        {
+          "name": "Capital Inicial",
+          "genres": []
+        },
+        {
+          "name": "Roupa Nova",
           "genres": []
         }
       ]
