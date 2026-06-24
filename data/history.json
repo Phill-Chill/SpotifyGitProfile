@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-06-20T19:22:17.274599+00:00",
-      "now_playing": {
-        "title": "O Mais Novo Malandro do Centro",
-        "artist": "Yago Oproprio, Crônicas de um Babaca, Patricio Sid, EME Lab",
-        "album": "À La Carte",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273df0ffea5acf85be2837bd83e"
-      },
-      "top_tracks": [
-        {
-          "name": "Break My Face",
-          "artist": "AJR",
-          "ms": 226335
-        },
-        {
-          "name": "Poison",
-          "artist": "Bell Biv DeVoe",
-          "ms": 261853
-        },
-        {
-          "name": "Kool-Aid",
-          "artist": "Bring Me The Horizon",
-          "ms": 228470
-        },
-        {
-          "name": "Blackhole",
-          "artist": "Architects",
-          "ms": 200800
-        },
-        {
-          "name": "Turning Out",
-          "artist": "AJR",
-          "ms": 260959
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "AJR",
-          "genres": []
-        },
-        {
-          "name": "Roupa Nova",
-          "genres": []
-        },
-        {
-          "name": "Capital Inicial",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Sleep Token",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-06-20T20:49:21.132694+00:00",
       "now_playing": {
         "title": "O Desespero de Odete",
@@ -1684,6 +1626,64 @@
     },
     {
       "timestamp": "2026-06-24T05:34:57.048295+00:00",
+      "now_playing": {
+        "title": "Poison",
+        "artist": "Bell Biv DeVoe",
+        "album": "Poison",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2730ce91190aaea70dd4fe020c4"
+      },
+      "top_tracks": [
+        {
+          "name": "Poison",
+          "artist": "Bell Biv DeVoe",
+          "ms": 261853
+        },
+        {
+          "name": "Kool-Aid",
+          "artist": "Bring Me The Horizon",
+          "ms": 228470
+        },
+        {
+          "name": "Blackhole",
+          "artist": "Architects",
+          "ms": 200800
+        },
+        {
+          "name": "Yes I'm A Mess",
+          "artist": "AJR",
+          "ms": 164973
+        },
+        {
+          "name": "TIMEZONE",
+          "artist": "Måneskin",
+          "ms": 179631
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "AJR",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Sleep Token",
+          "genres": []
+        },
+        {
+          "name": "Capital Inicial",
+          "genres": []
+        },
+        {
+          "name": "Roupa Nova",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-24T09:23:53.711110+00:00",
       "now_playing": {
         "title": "Poison",
         "artist": "Bell Biv DeVoe",
