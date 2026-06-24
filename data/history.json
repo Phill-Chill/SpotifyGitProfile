@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-06-20T22:04:25.847501+00:00",
-      "now_playing": {
-        "title": "Maloca É Maré - Sabotage 50",
-        "artist": "Sabotage, Yago Oproprio, Iuri Rio Branco",
-        "album": "Sabotage 50",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2736b69348c3c4b6fe72fac4a65"
-      },
-      "top_tracks": [
-        {
-          "name": "Break My Face",
-          "artist": "AJR",
-          "ms": 226335
-        },
-        {
-          "name": "Poison",
-          "artist": "Bell Biv DeVoe",
-          "ms": 261853
-        },
-        {
-          "name": "Kool-Aid",
-          "artist": "Bring Me The Horizon",
-          "ms": 228470
-        },
-        {
-          "name": "Blackhole",
-          "artist": "Architects",
-          "ms": 200800
-        },
-        {
-          "name": "Turning Out",
-          "artist": "AJR",
-          "ms": 260959
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "AJR",
-          "genres": []
-        },
-        {
-          "name": "Roupa Nova",
-          "genres": []
-        },
-        {
-          "name": "Capital Inicial",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Sleep Token",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-06-20T23:44:01.443728+00:00",
       "now_playing": {
         "title": "Pode Ir Embora - Ao Vivo",
@@ -1684,6 +1626,64 @@
     },
     {
       "timestamp": "2026-06-24T12:04:55.026262+00:00",
+      "now_playing": {
+        "title": "He Is The Same",
+        "artist": "Jon Bellion",
+        "album": "The Human Condition",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273a01c1fddc334c0bd15e4452d"
+      },
+      "top_tracks": [
+        {
+          "name": "Poison",
+          "artist": "Bell Biv DeVoe",
+          "ms": 261853
+        },
+        {
+          "name": "Kool-Aid",
+          "artist": "Bring Me The Horizon",
+          "ms": 228470
+        },
+        {
+          "name": "Blackhole",
+          "artist": "Architects",
+          "ms": 200800
+        },
+        {
+          "name": "Yes I'm A Mess",
+          "artist": "AJR",
+          "ms": 164973
+        },
+        {
+          "name": "TIMEZONE",
+          "artist": "Måneskin",
+          "ms": 179631
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "AJR",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Sleep Token",
+          "genres": []
+        },
+        {
+          "name": "Capital Inicial",
+          "genres": []
+        },
+        {
+          "name": "Roupa Nova",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-24T15:17:50.099509+00:00",
       "now_playing": {
         "title": "He Is The Same",
         "artist": "Jon Bellion",
