@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-06-20T16:15:26.099469+00:00",
-      "now_playing": {
-        "title": "Supermassive Black Hole",
-        "artist": "Muse",
-        "album": "Black Holes and Revelations",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b27328933b808bfb4cbbd0385400"
-      },
-      "top_tracks": [
-        {
-          "name": "Break My Face",
-          "artist": "AJR",
-          "ms": 226335
-        },
-        {
-          "name": "Poison",
-          "artist": "Bell Biv DeVoe",
-          "ms": 261853
-        },
-        {
-          "name": "Kool-Aid",
-          "artist": "Bring Me The Horizon",
-          "ms": 228470
-        },
-        {
-          "name": "Turning Out",
-          "artist": "AJR",
-          "ms": 260959
-        },
-        {
-          "name": "Drama",
-          "artist": "AJR",
-          "ms": 204426
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "AJR",
-          "genres": []
-        },
-        {
-          "name": "Roupa Nova",
-          "genres": []
-        },
-        {
-          "name": "Capital Inicial",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Sleep Token",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-06-20T17:54:09.605657+00:00",
       "now_playing": {
         "title": "Killshot",
@@ -1689,6 +1631,64 @@
         "artist": "THE ORAL CIGARETTES",
         "album": "FIXION",
         "image_url": "https://i.scdn.co/image/ab67616d0000b273580e8939a6ac9f4ff00a99a8"
+      },
+      "top_tracks": [
+        {
+          "name": "Kool-Aid",
+          "artist": "Bring Me The Horizon",
+          "ms": 228470
+        },
+        {
+          "name": "Poison",
+          "artist": "Bell Biv DeVoe",
+          "ms": 261853
+        },
+        {
+          "name": "Blackhole",
+          "artist": "Architects",
+          "ms": 200800
+        },
+        {
+          "name": "Yes I'm A Mess",
+          "artist": "AJR",
+          "ms": 164973
+        },
+        {
+          "name": "TIMEZONE",
+          "artist": "Måneskin",
+          "ms": 179631
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "AJR",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Sleep Token",
+          "genres": []
+        },
+        {
+          "name": "Capital Inicial",
+          "genres": []
+        },
+        {
+          "name": "Roupa Nova",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-24T01:24:46.982579+00:00",
+      "now_playing": {
+        "title": "I Stand Alone",
+        "artist": "Godsmack",
+        "album": "Faceless",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27365dc417bbf89a70b03d5f90e"
       },
       "top_tracks": [
         {
