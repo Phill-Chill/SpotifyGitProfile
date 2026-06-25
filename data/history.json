@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-06-22T08:37:16.855935+00:00",
-      "now_playing": {
-        "title": "Hino Pouso Alegre Fc",
-        "artist": "Teoria Livre",
-        "album": "Hino Pouso Alegre Fc",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2732356420c1acfeb2ed785720b"
-      },
-      "top_tracks": [
-        {
-          "name": "Break My Face",
-          "artist": "AJR",
-          "ms": 226335
-        },
-        {
-          "name": "Kool-Aid",
-          "artist": "Bring Me The Horizon",
-          "ms": 228470
-        },
-        {
-          "name": "Poison",
-          "artist": "Bell Biv DeVoe",
-          "ms": 261853
-        },
-        {
-          "name": "Blackhole",
-          "artist": "Architects",
-          "ms": 200800
-        },
-        {
-          "name": "Drama",
-          "artist": "AJR",
-          "ms": 204426
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "AJR",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Capital Inicial",
-          "genres": []
-        },
-        {
-          "name": "Roupa Nova",
-          "genres": []
-        },
-        {
-          "name": "Sleep Token",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-06-22T14:36:38.813116+00:00",
       "now_playing": {
         "title": "Call Me When You're Sober",
@@ -1689,6 +1631,64 @@
         "artist": "Yago Oproprio, Patricio Sid, EME Lab",
         "album": "Percepción",
         "image_url": "https://i.scdn.co/image/ab67616d0000b273ead9ae94090b68c9f7cc45fa"
+      },
+      "top_tracks": [
+        {
+          "name": "Kool-Aid",
+          "artist": "Bring Me The Horizon",
+          "ms": 228470
+        },
+        {
+          "name": "Poison",
+          "artist": "Bell Biv DeVoe",
+          "ms": 261853
+        },
+        {
+          "name": "Blackhole",
+          "artist": "Architects",
+          "ms": 200800
+        },
+        {
+          "name": "Yes I'm A Mess",
+          "artist": "AJR",
+          "ms": 164973
+        },
+        {
+          "name": "TIMEZONE",
+          "artist": "Måneskin",
+          "ms": 179631
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "AJR",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Capital Inicial",
+          "genres": []
+        },
+        {
+          "name": "Architects",
+          "genres": []
+        },
+        {
+          "name": "Sleep Token",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-25T20:54:15.485380+00:00",
+      "now_playing": {
+        "title": "I'll Be Good",
+        "artist": "Jaymes Young",
+        "album": "Habits of My Heart",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273b5dd0cfdb2492054b434f180"
       },
       "top_tracks": [
         {
