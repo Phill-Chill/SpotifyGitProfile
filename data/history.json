@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-06-21T20:11:55.041524+00:00",
-      "now_playing": {
-        "title": "Nightmare",
-        "artist": "Polaris",
-        "album": "Fatalism",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273dcc4dcf2f48f7a97da2ff39f"
-      },
-      "top_tracks": [
-        {
-          "name": "Break My Face",
-          "artist": "AJR",
-          "ms": 226335
-        },
-        {
-          "name": "Poison",
-          "artist": "Bell Biv DeVoe",
-          "ms": 261853
-        },
-        {
-          "name": "Kool-Aid",
-          "artist": "Bring Me The Horizon",
-          "ms": 228470
-        },
-        {
-          "name": "Blackhole",
-          "artist": "Architects",
-          "ms": 200800
-        },
-        {
-          "name": "Drama",
-          "artist": "AJR",
-          "ms": 204426
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "AJR",
-          "genres": []
-        },
-        {
-          "name": "Capital Inicial",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Roupa Nova",
-          "genres": []
-        },
-        {
-          "name": "Sleep Token",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-06-21T21:53:14.489949+00:00",
       "now_playing": {
         "title": "Sem Você - Acústico",
@@ -1736,6 +1678,64 @@
         },
         {
           "name": "Architects",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-25T11:14:05.993905+00:00",
+      "now_playing": {
+        "title": "Rajada",
+        "artist": "Yago Oproprio, TEAGA",
+        "album": "Rajada",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2730acbd0491cb0a024d0a93265"
+      },
+      "top_tracks": [
+        {
+          "name": "Kool-Aid",
+          "artist": "Bring Me The Horizon",
+          "ms": 228470
+        },
+        {
+          "name": "Poison",
+          "artist": "Bell Biv DeVoe",
+          "ms": 261853
+        },
+        {
+          "name": "Blackhole",
+          "artist": "Architects",
+          "ms": 200800
+        },
+        {
+          "name": "Yes I'm A Mess",
+          "artist": "AJR",
+          "ms": 164973
+        },
+        {
+          "name": "TIMEZONE",
+          "artist": "Måneskin",
+          "ms": 179631
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "AJR",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Capital Inicial",
+          "genres": []
+        },
+        {
+          "name": "Architects",
+          "genres": []
+        },
+        {
+          "name": "Sleep Token",
           "genres": []
         }
       ]
