@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-06-23T15:45:19.753887+00:00",
-      "now_playing": {
-        "title": "Umbrella",
-        "artist": "Rihanna, JAŸ-Z",
-        "album": "Good Girl Gone Bad",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273b9ff0a5f40d3406aed5e5e3b"
-      },
-      "top_tracks": [
-        {
-          "name": "Kool-Aid",
-          "artist": "Bring Me The Horizon",
-          "ms": 228470
-        },
-        {
-          "name": "Poison",
-          "artist": "Bell Biv DeVoe",
-          "ms": 261853
-        },
-        {
-          "name": "Blackhole",
-          "artist": "Architects",
-          "ms": 200800
-        },
-        {
-          "name": "Drama",
-          "artist": "AJR",
-          "ms": 204426
-        },
-        {
-          "name": "Yes I'm A Mess",
-          "artist": "AJR",
-          "ms": 164973
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "AJR",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Capital Inicial",
-          "genres": []
-        },
-        {
-          "name": "Roupa Nova",
-          "genres": []
-        },
-        {
-          "name": "Sleep Token",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-06-23T17:51:12.560461+00:00",
       "now_playing": {
         "title": "Ressaca",
@@ -1689,6 +1631,64 @@
         "artist": "Cristiano Araújo",
         "album": "In The Cities - Ao Vivo Em Cuiabá",
         "image_url": "https://i.scdn.co/image/ab67616d0000b27350ff0f63e65c6eac6e7a5b97"
+      },
+      "top_tracks": [
+        {
+          "name": "Poison",
+          "artist": "Bell Biv DeVoe",
+          "ms": 261853
+        },
+        {
+          "name": "Blackhole",
+          "artist": "Architects",
+          "ms": 200800
+        },
+        {
+          "name": "Kool-Aid",
+          "artist": "Bring Me The Horizon",
+          "ms": 228470
+        },
+        {
+          "name": "Yes I'm A Mess",
+          "artist": "AJR",
+          "ms": 164973
+        },
+        {
+          "name": "TIMEZONE",
+          "artist": "Måneskin",
+          "ms": 179631
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "AJR",
+          "genres": []
+        },
+        {
+          "name": "Architects",
+          "genres": []
+        },
+        {
+          "name": "Capital Inicial",
+          "genres": []
+        },
+        {
+          "name": "Sleep Token",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-26T19:46:35.309934+00:00",
+      "now_playing": {
+        "title": "Amor de Carnaval - Ao Vivo",
+        "artist": "Bruno & Marrone",
+        "album": "Acústico - Ao Vivo",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2739ce10bf887848831c83ec215"
       },
       "top_tracks": [
         {
