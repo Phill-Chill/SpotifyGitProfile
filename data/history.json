@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-06-22T23:16:40.968071+00:00",
-      "now_playing": {
-        "title": "The Good Part",
-        "artist": "AJR",
-        "album": "The Click",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273f6613ca52b16b8463a7c3e10"
-      },
-      "top_tracks": [
-        {
-          "name": "Kool-Aid",
-          "artist": "Bring Me The Horizon",
-          "ms": 228470
-        },
-        {
-          "name": "Poison",
-          "artist": "Bell Biv DeVoe",
-          "ms": 261853
-        },
-        {
-          "name": "Break My Face",
-          "artist": "AJR",
-          "ms": 226335
-        },
-        {
-          "name": "Blackhole",
-          "artist": "Architects",
-          "ms": 200800
-        },
-        {
-          "name": "Drama",
-          "artist": "AJR",
-          "ms": 204426
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "AJR",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Capital Inicial",
-          "genres": []
-        },
-        {
-          "name": "Roupa Nova",
-          "genres": []
-        },
-        {
-          "name": "Sleep Token",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-06-23T01:29:47.856877+00:00",
       "now_playing": {
         "title": "Blackhole",
@@ -1684,6 +1626,64 @@
     },
     {
       "timestamp": "2026-06-26T03:27:21.430672+00:00",
+      "now_playing": {
+        "title": "Felicidade - Ao Vivo",
+        "artist": "Roupa Nova",
+        "album": "Roupa Nova 40 Anos (Ao Vivo)",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273a674823640b68c8b28a122e1"
+      },
+      "top_tracks": [
+        {
+          "name": "Kool-Aid",
+          "artist": "Bring Me The Horizon",
+          "ms": 228470
+        },
+        {
+          "name": "Poison",
+          "artist": "Bell Biv DeVoe",
+          "ms": 261853
+        },
+        {
+          "name": "Blackhole",
+          "artist": "Architects",
+          "ms": 200800
+        },
+        {
+          "name": "Yes I'm A Mess",
+          "artist": "AJR",
+          "ms": 164973
+        },
+        {
+          "name": "TIMEZONE",
+          "artist": "Måneskin",
+          "ms": 179631
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "AJR",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Architects",
+          "genres": []
+        },
+        {
+          "name": "Capital Inicial",
+          "genres": []
+        },
+        {
+          "name": "Sleep Token",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-26T07:07:53.008144+00:00",
       "now_playing": {
         "title": "Felicidade - Ao Vivo",
         "artist": "Roupa Nova",
