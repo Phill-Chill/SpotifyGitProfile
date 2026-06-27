@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-06-23T23:07:17.090481+00:00",
-      "now_playing": {
-        "title": "Kyouran Hey Kids!!",
-        "artist": "THE ORAL CIGARETTES",
-        "album": "FIXION",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273580e8939a6ac9f4ff00a99a8"
-      },
-      "top_tracks": [
-        {
-          "name": "Kool-Aid",
-          "artist": "Bring Me The Horizon",
-          "ms": 228470
-        },
-        {
-          "name": "Poison",
-          "artist": "Bell Biv DeVoe",
-          "ms": 261853
-        },
-        {
-          "name": "Blackhole",
-          "artist": "Architects",
-          "ms": 200800
-        },
-        {
-          "name": "Yes I'm A Mess",
-          "artist": "AJR",
-          "ms": 164973
-        },
-        {
-          "name": "TIMEZONE",
-          "artist": "Måneskin",
-          "ms": 179631
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "AJR",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Sleep Token",
-          "genres": []
-        },
-        {
-          "name": "Capital Inicial",
-          "genres": []
-        },
-        {
-          "name": "Roupa Nova",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-06-24T01:24:46.982579+00:00",
       "now_playing": {
         "title": "I Stand Alone",
@@ -1689,6 +1631,64 @@
         "artist": "GROUPLOVE",
         "album": "Never Trust a Happy Song",
         "image_url": "https://i.scdn.co/image/ab67616d0000b273d84a9bbcba91cb6a4a212b1b"
+      },
+      "top_tracks": [
+        {
+          "name": "Poison",
+          "artist": "Bell Biv DeVoe",
+          "ms": 261853
+        },
+        {
+          "name": "Blackhole",
+          "artist": "Architects",
+          "ms": 200800
+        },
+        {
+          "name": "Kool-Aid",
+          "artist": "Bring Me The Horizon",
+          "ms": 228470
+        },
+        {
+          "name": "Yes I'm A Mess",
+          "artist": "AJR",
+          "ms": 164973
+        },
+        {
+          "name": "TIMEZONE",
+          "artist": "Måneskin",
+          "ms": 179631
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "AJR",
+          "genres": []
+        },
+        {
+          "name": "Architects",
+          "genres": []
+        },
+        {
+          "name": "Capital Inicial",
+          "genres": []
+        },
+        {
+          "name": "Sleep Token",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-27T04:33:28.882903+00:00",
+      "now_playing": {
+        "title": "Intro",
+        "artist": "Yago Oproprio, Patricio Sid, EME Lab",
+        "album": "À La Carte",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273df0ffea5acf85be2837bd83e"
       },
       "top_tracks": [
         {
