@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-06-25T22:19:20.199873+00:00",
-      "now_playing": {
-        "title": "Abraço do Tempo",
-        "artist": "Puro Suco, Letícia Fialho, Yago Oproprio, BEATDOMK",
-        "album": "Abraço do Tempo",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2739298b2af3b78bfcf138a1802"
-      },
-      "top_tracks": [
-        {
-          "name": "Kool-Aid",
-          "artist": "Bring Me The Horizon",
-          "ms": 228470
-        },
-        {
-          "name": "Poison",
-          "artist": "Bell Biv DeVoe",
-          "ms": 261853
-        },
-        {
-          "name": "Blackhole",
-          "artist": "Architects",
-          "ms": 200800
-        },
-        {
-          "name": "Yes I'm A Mess",
-          "artist": "AJR",
-          "ms": 164973
-        },
-        {
-          "name": "TIMEZONE",
-          "artist": "Måneskin",
-          "ms": 179631
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "AJR",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Capital Inicial",
-          "genres": []
-        },
-        {
-          "name": "Architects",
-          "genres": []
-        },
-        {
-          "name": "Sleep Token",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-06-25T23:51:36.984611+00:00",
       "now_playing": {
         "title": "Noir",
@@ -1710,6 +1652,64 @@
           "name": "Yes I'm A Mess",
           "artist": "AJR",
           "ms": 164973
+        },
+        {
+          "name": "Poison",
+          "artist": "Bell Biv DeVoe",
+          "ms": 261853
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "AJR",
+          "genres": []
+        },
+        {
+          "name": "Architects",
+          "genres": []
+        },
+        {
+          "name": "Muse",
+          "genres": []
+        },
+        {
+          "name": "Capital Inicial",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-28T17:06:45.340970+00:00",
+      "now_playing": {
+        "title": "Trem Das Onze",
+        "artist": "Adoniran Barbosa",
+        "album": "Adoniran Barbosa",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2732253c41bfeac02997def39e2"
+      },
+      "top_tracks": [
+        {
+          "name": "Blackhole",
+          "artist": "Architects",
+          "ms": 200800
+        },
+        {
+          "name": "Kool-Aid",
+          "artist": "Bring Me The Horizon",
+          "ms": 228470
+        },
+        {
+          "name": "Yes I'm A Mess",
+          "artist": "AJR",
+          "ms": 164973
+        },
+        {
+          "name": "TIMEZONE",
+          "artist": "Måneskin",
+          "ms": 179631
         },
         {
           "name": "Poison",
