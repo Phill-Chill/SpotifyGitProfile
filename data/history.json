@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-06-25T13:35:14.106896+00:00",
-      "now_playing": {
-        "title": "Percepción",
-        "artist": "Yago Oproprio, Patricio Sid, EME Lab",
-        "album": "Percepción",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273ead9ae94090b68c9f7cc45fa"
-      },
-      "top_tracks": [
-        {
-          "name": "Kool-Aid",
-          "artist": "Bring Me The Horizon",
-          "ms": 228470
-        },
-        {
-          "name": "Poison",
-          "artist": "Bell Biv DeVoe",
-          "ms": 261853
-        },
-        {
-          "name": "Blackhole",
-          "artist": "Architects",
-          "ms": 200800
-        },
-        {
-          "name": "Yes I'm A Mess",
-          "artist": "AJR",
-          "ms": 164973
-        },
-        {
-          "name": "TIMEZONE",
-          "artist": "Måneskin",
-          "ms": 179631
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "AJR",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Capital Inicial",
-          "genres": []
-        },
-        {
-          "name": "Architects",
-          "genres": []
-        },
-        {
-          "name": "Sleep Token",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-06-25T16:21:50.320732+00:00",
       "now_playing": {
         "title": "Percepción",
@@ -1684,6 +1626,64 @@
     },
     {
       "timestamp": "2026-06-28T08:19:29.397798+00:00",
+      "now_playing": {
+        "title": "Mina do Condomínio",
+        "artist": "Seu Jorge",
+        "album": "America Brasil",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273fc38471df4d724849e8726cc"
+      },
+      "top_tracks": [
+        {
+          "name": "Blackhole",
+          "artist": "Architects",
+          "ms": 200800
+        },
+        {
+          "name": "Poison",
+          "artist": "Bell Biv DeVoe",
+          "ms": 261853
+        },
+        {
+          "name": "Kool-Aid",
+          "artist": "Bring Me The Horizon",
+          "ms": 228470
+        },
+        {
+          "name": "Yes I'm A Mess",
+          "artist": "AJR",
+          "ms": 164973
+        },
+        {
+          "name": "TIMEZONE",
+          "artist": "Måneskin",
+          "ms": 179631
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "AJR",
+          "genres": []
+        },
+        {
+          "name": "Architects",
+          "genres": []
+        },
+        {
+          "name": "Muse",
+          "genres": []
+        },
+        {
+          "name": "Capital Inicial",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-28T10:39:04.248796+00:00",
       "now_playing": {
         "title": "Mina do Condomínio",
         "artist": "Seu Jorge",
