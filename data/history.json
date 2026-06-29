@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-06-27T00:04:28.723642+00:00",
-      "now_playing": {
-        "title": "Tongue Tied",
-        "artist": "GROUPLOVE",
-        "album": "Never Trust a Happy Song",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273d84a9bbcba91cb6a4a212b1b"
-      },
-      "top_tracks": [
-        {
-          "name": "Poison",
-          "artist": "Bell Biv DeVoe",
-          "ms": 261853
-        },
-        {
-          "name": "Blackhole",
-          "artist": "Architects",
-          "ms": 200800
-        },
-        {
-          "name": "Kool-Aid",
-          "artist": "Bring Me The Horizon",
-          "ms": 228470
-        },
-        {
-          "name": "Yes I'm A Mess",
-          "artist": "AJR",
-          "ms": 164973
-        },
-        {
-          "name": "TIMEZONE",
-          "artist": "Måneskin",
-          "ms": 179631
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "AJR",
-          "genres": []
-        },
-        {
-          "name": "Architects",
-          "genres": []
-        },
-        {
-          "name": "Capital Inicial",
-          "genres": []
-        },
-        {
-          "name": "Sleep Token",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-06-27T04:33:28.882903+00:00",
       "now_playing": {
         "title": "Intro",
@@ -1689,6 +1631,64 @@
         "artist": "Jorge & Mateus",
         "album": "A Hora É Agora (Ao Vivo Em Jurerê)",
         "image_url": "https://i.scdn.co/image/ab67616d0000b27340a6f202ed07fff84d806a2f"
+      },
+      "top_tracks": [
+        {
+          "name": "Blackhole",
+          "artist": "Architects",
+          "ms": 200800
+        },
+        {
+          "name": "Kool-Aid",
+          "artist": "Bring Me The Horizon",
+          "ms": 228470
+        },
+        {
+          "name": "n/A",
+          "artist": "Bring Me The Horizon",
+          "ms": 200236
+        },
+        {
+          "name": "Yes I'm A Mess",
+          "artist": "AJR",
+          "ms": 164973
+        },
+        {
+          "name": "TIMEZONE",
+          "artist": "Måneskin",
+          "ms": 179631
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "AJR",
+          "genres": []
+        },
+        {
+          "name": "Architects",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Muse",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-29T21:24:07.682987+00:00",
+      "now_playing": {
+        "title": "Flores Em Vida",
+        "artist": "Zezé Di Camargo & Luciano",
+        "album": "Teorias de Raul",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27320ce11920da2ed0c80b16b64"
       },
       "top_tracks": [
         {
