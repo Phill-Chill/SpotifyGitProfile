@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-06-26T15:38:06.383185+00:00",
-      "now_playing": {
-        "title": "I Know You",
-        "artist": "St. Julien",
-        "album": "I Know You",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2739acc922482a343f8fe81db86"
-      },
-      "top_tracks": [
-        {
-          "name": "Poison",
-          "artist": "Bell Biv DeVoe",
-          "ms": 261853
-        },
-        {
-          "name": "Blackhole",
-          "artist": "Architects",
-          "ms": 200800
-        },
-        {
-          "name": "Kool-Aid",
-          "artist": "Bring Me The Horizon",
-          "ms": 228470
-        },
-        {
-          "name": "Yes I'm A Mess",
-          "artist": "AJR",
-          "ms": 164973
-        },
-        {
-          "name": "TIMEZONE",
-          "artist": "Måneskin",
-          "ms": 179631
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "AJR",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Architects",
-          "genres": []
-        },
-        {
-          "name": "Capital Inicial",
-          "genres": []
-        },
-        {
-          "name": "Sleep Token",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-06-26T17:44:55.802004+00:00",
       "now_playing": {
         "title": "Maus Bocados - Ao Vivo",
@@ -1684,6 +1626,64 @@
     },
     {
       "timestamp": "2026-06-29T00:17:18.899533+00:00",
+      "now_playing": {
+        "title": "Lembranças",
+        "artist": "Rô Rosa, Safê, Rapha Renó",
+        "album": "Lembranças",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27343775d553d9459cba1a1f2a1"
+      },
+      "top_tracks": [
+        {
+          "name": "Blackhole",
+          "artist": "Architects",
+          "ms": 200800
+        },
+        {
+          "name": "Kool-Aid",
+          "artist": "Bring Me The Horizon",
+          "ms": 228470
+        },
+        {
+          "name": "Yes I'm A Mess",
+          "artist": "AJR",
+          "ms": 164973
+        },
+        {
+          "name": "TIMEZONE",
+          "artist": "Måneskin",
+          "ms": 179631
+        },
+        {
+          "name": "Poison",
+          "artist": "Bell Biv DeVoe",
+          "ms": 261853
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "AJR",
+          "genres": []
+        },
+        {
+          "name": "Architects",
+          "genres": []
+        },
+        {
+          "name": "Muse",
+          "genres": []
+        },
+        {
+          "name": "Capital Inicial",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-29T05:11:17.921072+00:00",
       "now_playing": {
         "title": "Lembranças",
         "artist": "Rô Rosa, Safê, Rapha Renó",
