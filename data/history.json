@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-06-26T13:09:39.323388+00:00",
-      "now_playing": {
-        "title": "Felicidade - Ao Vivo",
-        "artist": "Roupa Nova",
-        "album": "Roupa Nova 40 Anos (Ao Vivo)",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273a674823640b68c8b28a122e1"
-      },
-      "top_tracks": [
-        {
-          "name": "Kool-Aid",
-          "artist": "Bring Me The Horizon",
-          "ms": 228470
-        },
-        {
-          "name": "Poison",
-          "artist": "Bell Biv DeVoe",
-          "ms": 261853
-        },
-        {
-          "name": "Blackhole",
-          "artist": "Architects",
-          "ms": 200800
-        },
-        {
-          "name": "Yes I'm A Mess",
-          "artist": "AJR",
-          "ms": 164973
-        },
-        {
-          "name": "TIMEZONE",
-          "artist": "Måneskin",
-          "ms": 179631
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "AJR",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Architects",
-          "genres": []
-        },
-        {
-          "name": "Capital Inicial",
-          "genres": []
-        },
-        {
-          "name": "Sleep Token",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-06-26T15:38:06.383185+00:00",
       "now_playing": {
         "title": "I Know You",
@@ -1689,6 +1631,64 @@
         "artist": "Yago Oproprio, Fleezus, Iuri Rio Branco",
         "album": "Bicho Solto",
         "image_url": "https://i.scdn.co/image/ab67616d0000b27368108fda732d3b2cf1e14e74"
+      },
+      "top_tracks": [
+        {
+          "name": "Blackhole",
+          "artist": "Architects",
+          "ms": 200800
+        },
+        {
+          "name": "Kool-Aid",
+          "artist": "Bring Me The Horizon",
+          "ms": 228470
+        },
+        {
+          "name": "Yes I'm A Mess",
+          "artist": "AJR",
+          "ms": 164973
+        },
+        {
+          "name": "TIMEZONE",
+          "artist": "Måneskin",
+          "ms": 179631
+        },
+        {
+          "name": "Poison",
+          "artist": "Bell Biv DeVoe",
+          "ms": 261853
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "AJR",
+          "genres": []
+        },
+        {
+          "name": "Architects",
+          "genres": []
+        },
+        {
+          "name": "Muse",
+          "genres": []
+        },
+        {
+          "name": "Capital Inicial",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-29T00:17:18.899533+00:00",
+      "now_playing": {
+        "title": "Lembranças",
+        "artist": "Rô Rosa, Safê, Rapha Renó",
+        "album": "Lembranças",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27343775d553d9459cba1a1f2a1"
       },
       "top_tracks": [
         {
