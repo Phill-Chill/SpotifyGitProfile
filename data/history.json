@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-06-27T04:33:28.882903+00:00",
-      "now_playing": {
-        "title": "Intro",
-        "artist": "Yago Oproprio, Patricio Sid, EME Lab",
-        "album": "À La Carte",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273df0ffea5acf85be2837bd83e"
-      },
-      "top_tracks": [
-        {
-          "name": "Poison",
-          "artist": "Bell Biv DeVoe",
-          "ms": 261853
-        },
-        {
-          "name": "Blackhole",
-          "artist": "Architects",
-          "ms": 200800
-        },
-        {
-          "name": "Kool-Aid",
-          "artist": "Bring Me The Horizon",
-          "ms": 228470
-        },
-        {
-          "name": "Yes I'm A Mess",
-          "artist": "AJR",
-          "ms": 164973
-        },
-        {
-          "name": "TIMEZONE",
-          "artist": "Måneskin",
-          "ms": 179631
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "AJR",
-          "genres": []
-        },
-        {
-          "name": "Architects",
-          "genres": []
-        },
-        {
-          "name": "Capital Inicial",
-          "genres": []
-        },
-        {
-          "name": "Sleep Token",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-06-27T07:47:30.762109+00:00",
       "now_playing": {
         "title": "Intro",
@@ -1689,6 +1631,64 @@
         "artist": "Zezé Di Camargo & Luciano",
         "album": "Teorias de Raul",
         "image_url": "https://i.scdn.co/image/ab67616d0000b27320ce11920da2ed0c80b16b64"
+      },
+      "top_tracks": [
+        {
+          "name": "Blackhole",
+          "artist": "Architects",
+          "ms": 200800
+        },
+        {
+          "name": "Kool-Aid",
+          "artist": "Bring Me The Horizon",
+          "ms": 228470
+        },
+        {
+          "name": "n/A",
+          "artist": "Bring Me The Horizon",
+          "ms": 200236
+        },
+        {
+          "name": "Yes I'm A Mess",
+          "artist": "AJR",
+          "ms": 164973
+        },
+        {
+          "name": "TIMEZONE",
+          "artist": "Måneskin",
+          "ms": 179631
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "AJR",
+          "genres": []
+        },
+        {
+          "name": "Architects",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Muse",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-29T22:36:02.306953+00:00",
+      "now_playing": {
+        "title": "Fora do Tom",
+        "artist": "Yago Oproprio, Patricio Sid",
+        "album": "OPROPRIO",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2738855874e76e6747c529c49fb"
       },
       "top_tracks": [
         {
