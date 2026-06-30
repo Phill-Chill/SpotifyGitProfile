@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-06-27T21:00:45.283211+00:00",
-      "now_playing": {
-        "title": "ZITTI E BUONI",
-        "artist": "Måneskin",
-        "album": "Teatro d'ira - Vol. I",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2735aa05015cfa7bd2943c29b21"
-      },
-      "top_tracks": [
-        {
-          "name": "Blackhole",
-          "artist": "Architects",
-          "ms": 200800
-        },
-        {
-          "name": "Poison",
-          "artist": "Bell Biv DeVoe",
-          "ms": 261853
-        },
-        {
-          "name": "Kool-Aid",
-          "artist": "Bring Me The Horizon",
-          "ms": 228470
-        },
-        {
-          "name": "Yes I'm A Mess",
-          "artist": "AJR",
-          "ms": 164973
-        },
-        {
-          "name": "TIMEZONE",
-          "artist": "Måneskin",
-          "ms": 179631
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "AJR",
-          "genres": []
-        },
-        {
-          "name": "Architects",
-          "genres": []
-        },
-        {
-          "name": "Muse",
-          "genres": []
-        },
-        {
-          "name": "Capital Inicial",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-06-27T22:35:14.100060+00:00",
       "now_playing": {
         "title": "Ainda Gosto Dela",
@@ -1689,6 +1631,64 @@
         "artist": "Bruno & Marrone",
         "album": "De Volta aos Bares",
         "image_url": "https://i.scdn.co/image/ab67616d0000b27388838edfe599ec2d65af4081"
+      },
+      "top_tracks": [
+        {
+          "name": "Blackhole",
+          "artist": "Architects",
+          "ms": 200800
+        },
+        {
+          "name": "n/A",
+          "artist": "Bring Me The Horizon",
+          "ms": 200236
+        },
+        {
+          "name": "Yes I'm A Mess",
+          "artist": "AJR",
+          "ms": 164973
+        },
+        {
+          "name": "Enigma",
+          "artist": "Yago Oproprio, Patricio Sid",
+          "ms": 187826
+        },
+        {
+          "name": "TIMEZONE",
+          "artist": "Måneskin",
+          "ms": 179631
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "AJR",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Architects",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-30T21:58:09.091367+00:00",
+      "now_playing": {
+        "title": "Sosseguei - Ao Vivo",
+        "artist": "Jorge & Mateus",
+        "album": "Como. Sempre Feito. Nunca (Ao Vivo)",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2736871f3c5c8238f18a9ba88f7"
       },
       "top_tracks": [
         {
