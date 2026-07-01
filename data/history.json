@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-06-27T23:59:49.498160+00:00",
-      "now_playing": {
-        "title": "Mina do Condomínio",
-        "artist": "Seu Jorge",
-        "album": "America Brasil",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273fc38471df4d724849e8726cc"
-      },
-      "top_tracks": [
-        {
-          "name": "Blackhole",
-          "artist": "Architects",
-          "ms": 200800
-        },
-        {
-          "name": "Poison",
-          "artist": "Bell Biv DeVoe",
-          "ms": 261853
-        },
-        {
-          "name": "Kool-Aid",
-          "artist": "Bring Me The Horizon",
-          "ms": 228470
-        },
-        {
-          "name": "Yes I'm A Mess",
-          "artist": "AJR",
-          "ms": 164973
-        },
-        {
-          "name": "TIMEZONE",
-          "artist": "Måneskin",
-          "ms": 179631
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "AJR",
-          "genres": []
-        },
-        {
-          "name": "Architects",
-          "genres": []
-        },
-        {
-          "name": "Muse",
-          "genres": []
-        },
-        {
-          "name": "Capital Inicial",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-06-28T04:44:15.122429+00:00",
       "now_playing": {
         "title": "Mina do Condomínio",
@@ -1736,6 +1678,64 @@
         },
         {
           "name": "Bruno & Marrone",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-01T01:39:23.656556+00:00",
+      "now_playing": {
+        "title": "Animals",
+        "artist": "Architects",
+        "album": "For Those That Wish To Exist",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273c78b2edbc9407cea20ccfb9f"
+      },
+      "top_tracks": [
+        {
+          "name": "Blackhole",
+          "artist": "Architects",
+          "ms": 200800
+        },
+        {
+          "name": "n/A",
+          "artist": "Bring Me The Horizon",
+          "ms": 200236
+        },
+        {
+          "name": "Gasoline",
+          "artist": "I Prevail",
+          "ms": 153613
+        },
+        {
+          "name": "Yes I'm A Mess",
+          "artist": "AJR",
+          "ms": 164973
+        },
+        {
+          "name": "Enigma",
+          "artist": "Yago Oproprio, Patricio Sid",
+          "ms": 187826
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "AJR",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        },
+        {
+          "name": "Architects",
           "genres": []
         }
       ]
