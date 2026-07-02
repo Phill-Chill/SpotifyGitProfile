@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-06-28T23:00:03.256750+00:00",
-      "now_playing": {
-        "title": "Bicho Solto",
-        "artist": "Yago Oproprio, Fleezus, Iuri Rio Branco",
-        "album": "Bicho Solto",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b27368108fda732d3b2cf1e14e74"
-      },
-      "top_tracks": [
-        {
-          "name": "Blackhole",
-          "artist": "Architects",
-          "ms": 200800
-        },
-        {
-          "name": "Kool-Aid",
-          "artist": "Bring Me The Horizon",
-          "ms": 228470
-        },
-        {
-          "name": "Yes I'm A Mess",
-          "artist": "AJR",
-          "ms": 164973
-        },
-        {
-          "name": "TIMEZONE",
-          "artist": "Måneskin",
-          "ms": 179631
-        },
-        {
-          "name": "Poison",
-          "artist": "Bell Biv DeVoe",
-          "ms": 261853
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "AJR",
-          "genres": []
-        },
-        {
-          "name": "Architects",
-          "genres": []
-        },
-        {
-          "name": "Muse",
-          "genres": []
-        },
-        {
-          "name": "Capital Inicial",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-06-29T00:17:18.899533+00:00",
       "now_playing": {
         "title": "Lembranças",
@@ -1684,6 +1626,64 @@
     },
     {
       "timestamp": "2026-07-02T05:56:53.996507+00:00",
+      "now_playing": {
+        "title": "Seu Polícia - Ao Vivo",
+        "artist": "Zé Neto & Cristiano",
+        "album": "Ao Vivo em São José do Rio Preto (Deluxe)",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273cf3a6b24c549f90f37ccb8d3"
+      },
+      "top_tracks": [
+        {
+          "name": "Blackhole",
+          "artist": "Architects",
+          "ms": 200800
+        },
+        {
+          "name": "n/A",
+          "artist": "Bring Me The Horizon",
+          "ms": 200236
+        },
+        {
+          "name": "Enigma",
+          "artist": "Yago Oproprio, Patricio Sid",
+          "ms": 187826
+        },
+        {
+          "name": "Gasoline",
+          "artist": "I Prevail",
+          "ms": 153613
+        },
+        {
+          "name": "Yes I'm A Mess",
+          "artist": "AJR",
+          "ms": 164973
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "AJR",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        },
+        {
+          "name": "Architects",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-02T09:15:51.951486+00:00",
       "now_playing": {
         "title": "Seu Polícia - Ao Vivo",
         "artist": "Zé Neto & Cristiano",
