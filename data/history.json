@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-06-29T21:24:07.682987+00:00",
-      "now_playing": {
-        "title": "Flores Em Vida",
-        "artist": "Zezé Di Camargo & Luciano",
-        "album": "Teorias de Raul",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b27320ce11920da2ed0c80b16b64"
-      },
-      "top_tracks": [
-        {
-          "name": "Blackhole",
-          "artist": "Architects",
-          "ms": 200800
-        },
-        {
-          "name": "Kool-Aid",
-          "artist": "Bring Me The Horizon",
-          "ms": 228470
-        },
-        {
-          "name": "n/A",
-          "artist": "Bring Me The Horizon",
-          "ms": 200236
-        },
-        {
-          "name": "Yes I'm A Mess",
-          "artist": "AJR",
-          "ms": 164973
-        },
-        {
-          "name": "TIMEZONE",
-          "artist": "Måneskin",
-          "ms": 179631
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "AJR",
-          "genres": []
-        },
-        {
-          "name": "Architects",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Muse",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-06-29T22:36:02.306953+00:00",
       "now_playing": {
         "title": "Fora do Tom",
@@ -1684,6 +1626,64 @@
     },
     {
       "timestamp": "2026-07-02T21:43:06.588893+00:00",
+      "now_playing": {
+        "title": "Bateria Acabou - Ao Vivo",
+        "artist": "Zé Neto & Cristiano, Marília Mendonça",
+        "album": "Um Novo Sonho (Deluxe)",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273eb1117ed6a411587785d7ae4"
+      },
+      "top_tracks": [
+        {
+          "name": "Blackhole",
+          "artist": "Architects",
+          "ms": 200800
+        },
+        {
+          "name": "n/A",
+          "artist": "Bring Me The Horizon",
+          "ms": 200236
+        },
+        {
+          "name": "Enigma",
+          "artist": "Yago Oproprio, Patricio Sid",
+          "ms": 187826
+        },
+        {
+          "name": "Gasoline",
+          "artist": "I Prevail",
+          "ms": 153613
+        },
+        {
+          "name": "Kyouran Hey Kids!!",
+          "artist": "THE ORAL CIGARETTES",
+          "ms": 250973
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "AJR",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        },
+        {
+          "name": "Architects",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-02T23:02:59.145620+00:00",
       "now_playing": {
         "title": "Bateria Acabou - Ao Vivo",
         "artist": "Zé Neto & Cristiano, Marília Mendonça",
