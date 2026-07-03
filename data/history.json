@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-06-30T18:18:36.568897+00:00",
-      "now_playing": {
-        "title": "Amo Noite E Dia - Live In Sao Paulo / 2010",
-        "artist": "Jorge & Mateus",
-        "album": "Aí Já Era...",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2733ac295b6002fe88e8ef4e7ce"
-      },
-      "top_tracks": [
-        {
-          "name": "Blackhole",
-          "artist": "Architects",
-          "ms": 200800
-        },
-        {
-          "name": "n/A",
-          "artist": "Bring Me The Horizon",
-          "ms": 200236
-        },
-        {
-          "name": "Yes I'm A Mess",
-          "artist": "AJR",
-          "ms": 164973
-        },
-        {
-          "name": "Enigma",
-          "artist": "Yago Oproprio, Patricio Sid",
-          "ms": 187826
-        },
-        {
-          "name": "TIMEZONE",
-          "artist": "Måneskin",
-          "ms": 179631
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "AJR",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Architects",
-          "genres": []
-        },
-        {
-          "name": "Bruno & Marrone",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-06-30T20:28:35.439738+00:00",
       "now_playing": {
         "title": "Pode Ir Embora - Ao Vivo",
@@ -1736,6 +1678,64 @@
         },
         {
           "name": "Architects",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-03T18:46:04.998793+00:00",
+      "now_playing": {
+        "title": "Amigo Apaixonado (Ao Vivo)",
+        "artist": "Victor & Leo",
+        "album": "Victor & Leo (Ao Vivo)",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273ebfdf8350a9dab324bc8c05a"
+      },
+      "top_tracks": [
+        {
+          "name": "Blackhole",
+          "artist": "Architects",
+          "ms": 200800
+        },
+        {
+          "name": "n/A",
+          "artist": "Bring Me The Horizon",
+          "ms": 200236
+        },
+        {
+          "name": "Eu quero sol nesse jardim",
+          "artist": "Catedral",
+          "ms": 210360
+        },
+        {
+          "name": "Enigma",
+          "artist": "Yago Oproprio, Patricio Sid",
+          "ms": 187826
+        },
+        {
+          "name": "The Wolf",
+          "artist": "SIAMES",
+          "ms": 186945
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "AJR",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        },
+        {
+          "name": "Henrique & Juliano",
           "genres": []
         }
       ]
