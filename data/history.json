@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-06-29T22:36:02.306953+00:00",
-      "now_playing": {
-        "title": "Fora do Tom",
-        "artist": "Yago Oproprio, Patricio Sid",
-        "album": "OPROPRIO",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2738855874e76e6747c529c49fb"
-      },
-      "top_tracks": [
-        {
-          "name": "Blackhole",
-          "artist": "Architects",
-          "ms": 200800
-        },
-        {
-          "name": "Kool-Aid",
-          "artist": "Bring Me The Horizon",
-          "ms": 228470
-        },
-        {
-          "name": "n/A",
-          "artist": "Bring Me The Horizon",
-          "ms": 200236
-        },
-        {
-          "name": "Yes I'm A Mess",
-          "artist": "AJR",
-          "ms": 164973
-        },
-        {
-          "name": "TIMEZONE",
-          "artist": "Måneskin",
-          "ms": 179631
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "AJR",
-          "genres": []
-        },
-        {
-          "name": "Architects",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Muse",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-06-30T00:01:35.880546+00:00",
       "now_playing": {
         "title": "Te Encontrar",
@@ -1689,6 +1631,64 @@
         "artist": "Zé Neto & Cristiano, Marília Mendonça",
         "album": "Um Novo Sonho (Deluxe)",
         "image_url": "https://i.scdn.co/image/ab67616d0000b273eb1117ed6a411587785d7ae4"
+      },
+      "top_tracks": [
+        {
+          "name": "Blackhole",
+          "artist": "Architects",
+          "ms": 200800
+        },
+        {
+          "name": "n/A",
+          "artist": "Bring Me The Horizon",
+          "ms": 200236
+        },
+        {
+          "name": "Enigma",
+          "artist": "Yago Oproprio, Patricio Sid",
+          "ms": 187826
+        },
+        {
+          "name": "Gasoline",
+          "artist": "I Prevail",
+          "ms": 153613
+        },
+        {
+          "name": "Kyouran Hey Kids!!",
+          "artist": "THE ORAL CIGARETTES",
+          "ms": 250973
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "AJR",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        },
+        {
+          "name": "Architects",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-03T01:09:04.418824+00:00",
+      "now_playing": {
+        "title": "Esperando Na Janela - Ao Vivo",
+        "artist": "César Menotti & Fabiano",
+        "album": "Palavras De Amor",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273b770ae5252c4b7a60e93804b"
       },
       "top_tracks": [
         {
