@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-06-30T00:01:35.880546+00:00",
-      "now_playing": {
-        "title": "Te Encontrar",
-        "artist": "Modéstia Parte",
-        "album": "Te Encontrar",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273e2e76b5394b069cd8b75c9f0"
-      },
-      "top_tracks": [
-        {
-          "name": "Blackhole",
-          "artist": "Architects",
-          "ms": 200800
-        },
-        {
-          "name": "n/A",
-          "artist": "Bring Me The Horizon",
-          "ms": 200236
-        },
-        {
-          "name": "Kool-Aid",
-          "artist": "Bring Me The Horizon",
-          "ms": 228470
-        },
-        {
-          "name": "TIMEZONE",
-          "artist": "Måneskin",
-          "ms": 179631
-        },
-        {
-          "name": "Yes I'm A Mess",
-          "artist": "AJR",
-          "ms": 164973
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "AJR",
-          "genres": []
-        },
-        {
-          "name": "Architects",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Muse",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-06-30T04:43:28.104493+00:00",
       "now_playing": {
         "title": "Encruzilhada",
@@ -1715,6 +1657,64 @@
           "name": "Kyouran Hey Kids!!",
           "artist": "THE ORAL CIGARETTES",
           "ms": 250973
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "AJR",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        },
+        {
+          "name": "Architects",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-03T05:12:44.423870+00:00",
+      "now_playing": {
+        "title": "Rainbow In The Dark",
+        "artist": "Dio",
+        "album": "Holy Diver",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27315350aa1c89e23a5fa6c0de1"
+      },
+      "top_tracks": [
+        {
+          "name": "Blackhole",
+          "artist": "Architects",
+          "ms": 200800
+        },
+        {
+          "name": "n/A",
+          "artist": "Bring Me The Horizon",
+          "ms": 200236
+        },
+        {
+          "name": "Enigma",
+          "artist": "Yago Oproprio, Patricio Sid",
+          "ms": 187826
+        },
+        {
+          "name": "Gasoline",
+          "artist": "I Prevail",
+          "ms": 153613
+        },
+        {
+          "name": "Yes I'm A Mess",
+          "artist": "AJR",
+          "ms": 164973
         }
       ],
       "top_artists": [
