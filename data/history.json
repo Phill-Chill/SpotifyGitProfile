@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-07-01T20:23:05.132363+00:00",
-      "now_playing": {
-        "title": "Silvera",
-        "artist": "Gojira",
-        "album": "Magma",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273422c622517ea0bd7eda33e08"
-      },
-      "top_tracks": [
-        {
-          "name": "Blackhole",
-          "artist": "Architects",
-          "ms": 200800
-        },
-        {
-          "name": "n/A",
-          "artist": "Bring Me The Horizon",
-          "ms": 200236
-        },
-        {
-          "name": "Gasoline",
-          "artist": "I Prevail",
-          "ms": 153613
-        },
-        {
-          "name": "Yes I'm A Mess",
-          "artist": "AJR",
-          "ms": 164973
-        },
-        {
-          "name": "Enigma",
-          "artist": "Yago Oproprio, Patricio Sid",
-          "ms": 187826
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "AJR",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Bruno & Marrone",
-          "genres": []
-        },
-        {
-          "name": "Architects",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-07-01T21:59:18.446481+00:00",
       "now_playing": {
         "title": "Silvera",
@@ -1689,6 +1631,64 @@
         "artist": "Jorge & Mateus",
         "album": "Jorge & Mateus Ao Vivo Em Goiânia (Ao Vivo Em Goiânia / 2007)",
         "image_url": "https://i.scdn.co/image/ab67616d0000b2733ab1f7757086a6126072be91"
+      },
+      "top_tracks": [
+        {
+          "name": "Blackhole",
+          "artist": "Architects",
+          "ms": 200800
+        },
+        {
+          "name": "n/A",
+          "artist": "Bring Me The Horizon",
+          "ms": 200236
+        },
+        {
+          "name": "Eu quero sol nesse jardim",
+          "artist": "Catedral",
+          "ms": 210360
+        },
+        {
+          "name": "The Wolf",
+          "artist": "SIAMES",
+          "ms": 186945
+        },
+        {
+          "name": "Gasoline",
+          "artist": "I Prevail",
+          "ms": 153613
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "AJR",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        },
+        {
+          "name": "Matheus & Kauan",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-04T14:27:21.739092+00:00",
+      "now_playing": {
+        "title": "Sinônimos",
+        "artist": "Chitãozinho & Xororó, Zé Ramalho",
+        "album": "Aqui O Sistema É Bruto",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273d3db2594df13287ea8a65387"
       },
       "top_tracks": [
         {
