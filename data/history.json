@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-07-01T23:23:05.123019+00:00",
-      "now_playing": {
-        "title": "Choram As Rosas - Ao Vivo",
-        "artist": "Bruno & Marrone",
-        "album": "Clássico (Ao Vivo / Edição Especial)",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b27333936d4d7c84bdea804b8de1"
-      },
-      "top_tracks": [
-        {
-          "name": "Blackhole",
-          "artist": "Architects",
-          "ms": 200800
-        },
-        {
-          "name": "n/A",
-          "artist": "Bring Me The Horizon",
-          "ms": 200236
-        },
-        {
-          "name": "Enigma",
-          "artist": "Yago Oproprio, Patricio Sid",
-          "ms": 187826
-        },
-        {
-          "name": "Gasoline",
-          "artist": "I Prevail",
-          "ms": 153613
-        },
-        {
-          "name": "Yes I'm A Mess",
-          "artist": "AJR",
-          "ms": 164973
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "AJR",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Bruno & Marrone",
-          "genres": []
-        },
-        {
-          "name": "Architects",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-07-02T01:31:43.772763+00:00",
       "now_playing": {
         "title": "A Rosa E O Beija-Flor - Na Praia / Ao Vivo",
@@ -1724,6 +1666,64 @@
         },
         {
           "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "AJR",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        },
+        {
+          "name": "Matheus & Kauan",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-04T17:01:25.598644+00:00",
+      "now_playing": {
+        "title": "A Hora É Agora - Ao Vivo",
+        "artist": "Jorge & Mateus",
+        "album": "A Hora É Agora (Ao Vivo Em Jurerê)",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27340a6f202ed07fff84d806a2f"
+      },
+      "top_tracks": [
+        {
+          "name": "Blackhole",
+          "artist": "Architects",
+          "ms": 200800
+        },
+        {
+          "name": "n/A",
+          "artist": "Bring Me The Horizon",
+          "ms": 200236
+        },
+        {
+          "name": "Eu quero sol nesse jardim",
+          "artist": "Catedral",
+          "ms": 210360
+        },
+        {
+          "name": "The Wolf",
+          "artist": "SIAMES",
+          "ms": 186945
+        },
+        {
+          "name": "Kyouran Hey Kids!!",
+          "artist": "THE ORAL CIGARETTES",
+          "ms": 250973
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
           "genres": []
         },
         {
