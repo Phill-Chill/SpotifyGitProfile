@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-07-01T16:04:39.130495+00:00",
-      "now_playing": {
-        "title": "I Don't Want To Miss A Thing - From \"Armageddon\" Soundtrack",
-        "artist": "Aerosmith",
-        "album": "I Don't Want To Miss A Thing EP",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273f039d2a6afcfab0827bb9bc0"
-      },
-      "top_tracks": [
-        {
-          "name": "Blackhole",
-          "artist": "Architects",
-          "ms": 200800
-        },
-        {
-          "name": "n/A",
-          "artist": "Bring Me The Horizon",
-          "ms": 200236
-        },
-        {
-          "name": "Gasoline",
-          "artist": "I Prevail",
-          "ms": 153613
-        },
-        {
-          "name": "Yes I'm A Mess",
-          "artist": "AJR",
-          "ms": 164973
-        },
-        {
-          "name": "Enigma",
-          "artist": "Yago Oproprio, Patricio Sid",
-          "ms": 187826
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "AJR",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Bruno & Marrone",
-          "genres": []
-        },
-        {
-          "name": "Architects",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-07-01T18:24:12.472197+00:00",
       "now_playing": {
         "title": "Silvera",
@@ -1684,6 +1626,64 @@
     },
     {
       "timestamp": "2026-07-04T09:35:21.743031+00:00",
+      "now_playing": {
+        "title": "Fogueira - Ao Vivo Em Goiânia / 2007",
+        "artist": "Jorge & Mateus",
+        "album": "Jorge & Mateus Ao Vivo Em Goiânia (Ao Vivo Em Goiânia / 2007)",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2733ab1f7757086a6126072be91"
+      },
+      "top_tracks": [
+        {
+          "name": "Blackhole",
+          "artist": "Architects",
+          "ms": 200800
+        },
+        {
+          "name": "n/A",
+          "artist": "Bring Me The Horizon",
+          "ms": 200236
+        },
+        {
+          "name": "Eu quero sol nesse jardim",
+          "artist": "Catedral",
+          "ms": 210360
+        },
+        {
+          "name": "The Wolf",
+          "artist": "SIAMES",
+          "ms": 186945
+        },
+        {
+          "name": "Gasoline",
+          "artist": "I Prevail",
+          "ms": 153613
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "AJR",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        },
+        {
+          "name": "Matheus & Kauan",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-04T11:24:18.604430+00:00",
       "now_playing": {
         "title": "Fogueira - Ao Vivo Em Goiânia / 2007",
         "artist": "Jorge & Mateus",
