@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-07-03T15:54:01.896507+00:00",
-      "now_playing": {
-        "title": "Programa de Fim de Semana - Ao Vivo",
-        "artist": "Bruno & Marrone",
-        "album": "Acústico - Ao Vivo",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2739ce10bf887848831c83ec215"
-      },
-      "top_tracks": [
-        {
-          "name": "Blackhole",
-          "artist": "Architects",
-          "ms": 200800
-        },
-        {
-          "name": "n/A",
-          "artist": "Bring Me The Horizon",
-          "ms": 200236
-        },
-        {
-          "name": "Eu quero sol nesse jardim",
-          "artist": "Catedral",
-          "ms": 210360
-        },
-        {
-          "name": "Enigma",
-          "artist": "Yago Oproprio, Patricio Sid",
-          "ms": 187826
-        },
-        {
-          "name": "The Wolf",
-          "artist": "SIAMES",
-          "ms": 186945
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "AJR",
-          "genres": []
-        },
-        {
-          "name": "Bruno & Marrone",
-          "genres": []
-        },
-        {
-          "name": "Architects",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-07-03T17:22:51.060630+00:00",
       "now_playing": {
         "title": "Caso Indefinido",
@@ -1689,6 +1631,64 @@
         "artist": "Jorge & Mateus",
         "album": "10 Anos (Ao Vivo | Deluxe)",
         "image_url": "https://i.scdn.co/image/ab67616d0000b273a5428f68932afbdc42894461"
+      },
+      "top_tracks": [
+        {
+          "name": "Kyouran Hey Kids!!",
+          "artist": "THE ORAL CIGARETTES",
+          "ms": 250973
+        },
+        {
+          "name": "Linha Azul",
+          "artist": "Yago Oproprio, Patricio Sid",
+          "ms": 146181
+        },
+        {
+          "name": "Rainha da Pista",
+          "artist": "ConeCrewDiretoria",
+          "ms": 258742
+        },
+        {
+          "name": "Eu quero sol nesse jardim",
+          "artist": "Catedral",
+          "ms": 210360
+        },
+        {
+          "name": "Percepción",
+          "artist": "Yago Oproprio, Patricio Sid, EME Lab",
+          "ms": 147000
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        },
+        {
+          "name": "AJR",
+          "genres": []
+        },
+        {
+          "name": "Matheus & Kauan",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-05T21:59:06.737619+00:00",
+      "now_playing": {
+        "title": "Sinônimos",
+        "artist": "Chitãozinho & Xororó, Zé Ramalho",
+        "album": "Aqui O Sistema É Bruto",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273d3db2594df13287ea8a65387"
       },
       "top_tracks": [
         {
