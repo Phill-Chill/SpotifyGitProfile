@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-07-04T23:33:04.475500+00:00",
-      "now_playing": {
-        "title": "Holy Diver",
-        "artist": "Dio",
-        "album": "Holy Diver",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b27315350aa1c89e23a5fa6c0de1"
-      },
-      "top_tracks": [
-        {
-          "name": "Blackhole",
-          "artist": "Architects",
-          "ms": 200800
-        },
-        {
-          "name": "n/A",
-          "artist": "Bring Me The Horizon",
-          "ms": 200236
-        },
-        {
-          "name": "Eu quero sol nesse jardim",
-          "artist": "Catedral",
-          "ms": 210360
-        },
-        {
-          "name": "The Wolf",
-          "artist": "SIAMES",
-          "ms": 186945
-        },
-        {
-          "name": "Kyouran Hey Kids!!",
-          "artist": "THE ORAL CIGARETTES",
-          "ms": 250973
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "AJR",
-          "genres": []
-        },
-        {
-          "name": "Bruno & Marrone",
-          "genres": []
-        },
-        {
-          "name": "Matheus & Kauan",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-07-05T02:49:19.029885+00:00",
       "now_playing": {
         "title": "Vagabundo Nato",
@@ -1689,6 +1631,64 @@
         "artist": "Jorge & Mateus",
         "album": "A Hora É Agora (Ao Vivo Em Jurerê)",
         "image_url": "https://i.scdn.co/image/ab67616d0000b27340a6f202ed07fff84d806a2f"
+      },
+      "top_tracks": [
+        {
+          "name": "Kyouran Hey Kids!!",
+          "artist": "THE ORAL CIGARETTES",
+          "ms": 250973
+        },
+        {
+          "name": "Linha Azul",
+          "artist": "Yago Oproprio, Patricio Sid",
+          "ms": 146181
+        },
+        {
+          "name": "Rainha da Pista",
+          "artist": "ConeCrewDiretoria",
+          "ms": 258742
+        },
+        {
+          "name": "Percepción",
+          "artist": "Yago Oproprio, Patricio Sid, EME Lab",
+          "ms": 147000
+        },
+        {
+          "name": "The Wolf",
+          "artist": "SIAMES",
+          "ms": 186945
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        },
+        {
+          "name": "AJR",
+          "genres": []
+        },
+        {
+          "name": "Matheus & Kauan",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-07T23:28:50.283393+00:00",
+      "now_playing": {
+        "title": "Chuva de Arroz - Ao Vivo",
+        "artist": "Luan Santana",
+        "album": "Acústico (Ao Vivo)",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273c847c97de21b491fc0daf8b5"
       },
       "top_tracks": [
         {
