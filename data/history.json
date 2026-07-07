@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-07-04T18:30:57.154817+00:00",
-      "now_playing": {
-        "title": "O Grande Amor da Minha Vida (Convite de Casamento)",
-        "artist": "Gian & Giovani",
-        "album": "Maxximum - Gian & Giovani",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273cbe396601b7210c4d25fafaf"
-      },
-      "top_tracks": [
-        {
-          "name": "Blackhole",
-          "artist": "Architects",
-          "ms": 200800
-        },
-        {
-          "name": "n/A",
-          "artist": "Bring Me The Horizon",
-          "ms": 200236
-        },
-        {
-          "name": "Eu quero sol nesse jardim",
-          "artist": "Catedral",
-          "ms": 210360
-        },
-        {
-          "name": "The Wolf",
-          "artist": "SIAMES",
-          "ms": 186945
-        },
-        {
-          "name": "Kyouran Hey Kids!!",
-          "artist": "THE ORAL CIGARETTES",
-          "ms": 250973
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "AJR",
-          "genres": []
-        },
-        {
-          "name": "Bruno & Marrone",
-          "genres": []
-        },
-        {
-          "name": "Matheus & Kauan",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-07-04T20:07:38.519947+00:00",
       "now_playing": {
         "title": "O Grande Amor da Minha Vida (Convite de Casamento)",
@@ -1715,6 +1657,64 @@
           "name": "Percepción",
           "artist": "Yago Oproprio, Patricio Sid, EME Lab",
           "ms": 147000
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        },
+        {
+          "name": "AJR",
+          "genres": []
+        },
+        {
+          "name": "Matheus & Kauan",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-07T16:28:08.977499+00:00",
+      "now_playing": {
+        "title": "Hino Pouso Alegre Fc",
+        "artist": "Teoria Livre",
+        "album": "Hino Pouso Alegre Fc",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2732356420c1acfeb2ed785720b"
+      },
+      "top_tracks": [
+        {
+          "name": "Kyouran Hey Kids!!",
+          "artist": "THE ORAL CIGARETTES",
+          "ms": 250973
+        },
+        {
+          "name": "Linha Azul",
+          "artist": "Yago Oproprio, Patricio Sid",
+          "ms": 146181
+        },
+        {
+          "name": "Rainha da Pista",
+          "artist": "ConeCrewDiretoria",
+          "ms": 258742
+        },
+        {
+          "name": "Percepción",
+          "artist": "Yago Oproprio, Patricio Sid, EME Lab",
+          "ms": 147000
+        },
+        {
+          "name": "I Know You",
+          "artist": "St. Julien",
+          "ms": 147374
         }
       ],
       "top_artists": [
