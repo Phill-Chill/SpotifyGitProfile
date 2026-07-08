@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-07-05T20:34:59.033542+00:00",
-      "now_playing": {
-        "title": "Pergunta Boba - Ao Vivo",
-        "artist": "Jorge & Mateus",
-        "album": "10 Anos (Ao Vivo | Deluxe)",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273a5428f68932afbdc42894461"
-      },
-      "top_tracks": [
-        {
-          "name": "Kyouran Hey Kids!!",
-          "artist": "THE ORAL CIGARETTES",
-          "ms": 250973
-        },
-        {
-          "name": "Linha Azul",
-          "artist": "Yago Oproprio, Patricio Sid",
-          "ms": 146181
-        },
-        {
-          "name": "Rainha da Pista",
-          "artist": "ConeCrewDiretoria",
-          "ms": 258742
-        },
-        {
-          "name": "Eu quero sol nesse jardim",
-          "artist": "Catedral",
-          "ms": 210360
-        },
-        {
-          "name": "Percepción",
-          "artist": "Yago Oproprio, Patricio Sid, EME Lab",
-          "ms": 147000
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Bruno & Marrone",
-          "genres": []
-        },
-        {
-          "name": "AJR",
-          "genres": []
-        },
-        {
-          "name": "Matheus & Kauan",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-07-05T21:59:06.737619+00:00",
       "now_playing": {
         "title": "Sinônimos",
@@ -1684,6 +1626,64 @@
     },
     {
       "timestamp": "2026-07-08T19:44:22.272735+00:00",
+      "now_playing": {
+        "title": "Turning Out",
+        "artist": "AJR",
+        "album": "The Click",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273f6613ca52b16b8463a7c3e10"
+      },
+      "top_tracks": [
+        {
+          "name": "Kyouran Hey Kids!!",
+          "artist": "THE ORAL CIGARETTES",
+          "ms": 250973
+        },
+        {
+          "name": "Linha Azul",
+          "artist": "Yago Oproprio, Patricio Sid",
+          "ms": 146181
+        },
+        {
+          "name": "Rainha da Pista",
+          "artist": "ConeCrewDiretoria",
+          "ms": 258742
+        },
+        {
+          "name": "The Wolf",
+          "artist": "SIAMES",
+          "ms": 186945
+        },
+        {
+          "name": "Eu quero sol nesse jardim",
+          "artist": "Catedral",
+          "ms": 210360
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        },
+        {
+          "name": "AJR",
+          "genres": []
+        },
+        {
+          "name": "Matheus & Kauan",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-08T21:04:27.155341+00:00",
       "now_playing": {
         "title": "Turning Out",
         "artist": "AJR",
