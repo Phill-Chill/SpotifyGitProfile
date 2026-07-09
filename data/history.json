@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-07-06T01:14:48.733617+00:00",
-      "now_playing": {
-        "title": "Sinônimos",
-        "artist": "Chitãozinho & Xororó, Zé Ramalho",
-        "album": "Aqui O Sistema É Bruto",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273d3db2594df13287ea8a65387"
-      },
-      "top_tracks": [
-        {
-          "name": "Kyouran Hey Kids!!",
-          "artist": "THE ORAL CIGARETTES",
-          "ms": 250973
-        },
-        {
-          "name": "Linha Azul",
-          "artist": "Yago Oproprio, Patricio Sid",
-          "ms": 146181
-        },
-        {
-          "name": "Rainha da Pista",
-          "artist": "ConeCrewDiretoria",
-          "ms": 258742
-        },
-        {
-          "name": "Eu quero sol nesse jardim",
-          "artist": "Catedral",
-          "ms": 210360
-        },
-        {
-          "name": "Percepción",
-          "artist": "Yago Oproprio, Patricio Sid, EME Lab",
-          "ms": 147000
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Bruno & Marrone",
-          "genres": []
-        },
-        {
-          "name": "AJR",
-          "genres": []
-        },
-        {
-          "name": "Matheus & Kauan",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-07-06T05:53:54.443018+00:00",
       "now_playing": {
         "title": "Sinônimos",
@@ -1684,6 +1626,64 @@
     },
     {
       "timestamp": "2026-07-09T00:07:17.320245+00:00",
+      "now_playing": {
+        "title": "Agenda rabiscada",
+        "artist": "Milionário & José Rico, Continental",
+        "album": "Decida",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273fc227b9c4de99e5f05eb1fe2"
+      },
+      "top_tracks": [
+        {
+          "name": "Kyouran Hey Kids!!",
+          "artist": "THE ORAL CIGARETTES",
+          "ms": 250973
+        },
+        {
+          "name": "Linha Azul",
+          "artist": "Yago Oproprio, Patricio Sid",
+          "ms": 146181
+        },
+        {
+          "name": "Rainha da Pista",
+          "artist": "ConeCrewDiretoria",
+          "ms": 258742
+        },
+        {
+          "name": "The Wolf",
+          "artist": "SIAMES",
+          "ms": 186945
+        },
+        {
+          "name": "Eu quero sol nesse jardim",
+          "artist": "Catedral",
+          "ms": 210360
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        },
+        {
+          "name": "AJR",
+          "genres": []
+        },
+        {
+          "name": "Matheus & Kauan",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-09T04:29:22.250285+00:00",
       "now_playing": {
         "title": "Agenda rabiscada",
         "artist": "Milionário & José Rico, Continental",
