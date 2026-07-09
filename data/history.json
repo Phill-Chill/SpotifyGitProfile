@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-07-06T19:14:40.564101+00:00",
-      "now_playing": {
-        "title": "Maus Bocados",
-        "artist": "Cristiano Araújo",
-        "album": "Continua",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b27399d53ad51bcf61cd10d36b92"
-      },
-      "top_tracks": [
-        {
-          "name": "Kyouran Hey Kids!!",
-          "artist": "THE ORAL CIGARETTES",
-          "ms": 250973
-        },
-        {
-          "name": "Linha Azul",
-          "artist": "Yago Oproprio, Patricio Sid",
-          "ms": 146181
-        },
-        {
-          "name": "Rainha da Pista",
-          "artist": "ConeCrewDiretoria",
-          "ms": 258742
-        },
-        {
-          "name": "Eu quero sol nesse jardim",
-          "artist": "Catedral",
-          "ms": 210360
-        },
-        {
-          "name": "Percepción",
-          "artist": "Yago Oproprio, Patricio Sid, EME Lab",
-          "ms": 147000
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Bruno & Marrone",
-          "genres": []
-        },
-        {
-          "name": "AJR",
-          "genres": []
-        },
-        {
-          "name": "Matheus & Kauan",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-07-06T21:09:42.733849+00:00",
       "now_playing": {
         "title": "Maus Bocados",
@@ -1689,6 +1631,64 @@
         "artist": "THE ORAL CIGARETTES",
         "album": "FIXION",
         "image_url": "https://i.scdn.co/image/ab67616d0000b2737a591f7f2b9beb0666f7fb20"
+      },
+      "top_tracks": [
+        {
+          "name": "Kyouran Hey Kids!!",
+          "artist": "THE ORAL CIGARETTES",
+          "ms": 250973
+        },
+        {
+          "name": "Linha Azul",
+          "artist": "Yago Oproprio, Patricio Sid",
+          "ms": 146181
+        },
+        {
+          "name": "Rainha da Pista",
+          "artist": "ConeCrewDiretoria",
+          "ms": 258742
+        },
+        {
+          "name": "The Wolf",
+          "artist": "SIAMES",
+          "ms": 186945
+        },
+        {
+          "name": "Percepción",
+          "artist": "Yago Oproprio, Patricio Sid, EME Lab",
+          "ms": 147000
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        },
+        {
+          "name": "AJR",
+          "genres": []
+        },
+        {
+          "name": "Matheus & Kauan",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-09T19:07:12.493569+00:00",
+      "now_playing": {
+        "title": "Rainha da Pista",
+        "artist": "ConeCrewDiretoria",
+        "album": "Com os Neurônios Evoluindo",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27342f5b01213c8031ee2ec0421"
       },
       "top_tracks": [
         {
