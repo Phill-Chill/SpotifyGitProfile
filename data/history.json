@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-07-10T23:06:09.159131+00:00",
-      "now_playing": {
-        "title": "Marca Evidente - Ao Vivo",
-        "artist": "Israel & Rodolffo, Jorge & Mateus",
-        "album": "Marca Evidente",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2736098584c562a60f704a84f74"
-      },
-      "top_tracks": [
-        {
-          "name": "Kyouran Hey Kids!!",
-          "artist": "THE ORAL CIGARETTES",
-          "ms": 250973
-        },
-        {
-          "name": "Linha Azul",
-          "artist": "Yago Oproprio, Patricio Sid",
-          "ms": 146181
-        },
-        {
-          "name": "Rainha da Pista",
-          "artist": "ConeCrewDiretoria",
-          "ms": 258742
-        },
-        {
-          "name": "Percepción",
-          "artist": "Yago Oproprio, Patricio Sid, EME Lab",
-          "ms": 147000
-        },
-        {
-          "name": "The Wolf",
-          "artist": "SIAMES",
-          "ms": 186945
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Bruno & Marrone",
-          "genres": []
-        },
-        {
-          "name": "AJR",
-          "genres": []
-        },
-        {
-          "name": "Matheus & Kauan",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-07-11T00:55:45.411144+00:00",
       "now_playing": {
         "title": "Caso Indefinido",
@@ -1689,6 +1631,64 @@
         "artist": "Jorge & Mateus",
         "album": "O Mundo É Tão Pequeno",
         "image_url": "https://i.scdn.co/image/ab67616d0000b27304a5031fd5fa6fb81cad9ad6"
+      },
+      "top_tracks": [
+        {
+          "name": "Kyouran Hey Kids!!",
+          "artist": "THE ORAL CIGARETTES",
+          "ms": 250973
+        },
+        {
+          "name": "Linha Azul",
+          "artist": "Yago Oproprio, Patricio Sid",
+          "ms": 146181
+        },
+        {
+          "name": "Rainha da Pista",
+          "artist": "ConeCrewDiretoria",
+          "ms": 258742
+        },
+        {
+          "name": "Percepción",
+          "artist": "Yago Oproprio, Patricio Sid, EME Lab",
+          "ms": 147000
+        },
+        {
+          "name": "I Know You",
+          "artist": "St. Julien",
+          "ms": 147374
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        },
+        {
+          "name": "Matheus & Kauan",
+          "genres": []
+        },
+        {
+          "name": "Henrique & Juliano",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-12T21:45:45.414896+00:00",
+      "now_playing": {
+        "title": "Pra Sempre Com Você - Ao Vivo",
+        "artist": "Jorge & Mateus",
+        "album": "Como. Sempre Feito. Nunca (Ao Vivo)",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2736871f3c5c8238f18a9ba88f7"
       },
       "top_tracks": [
         {
