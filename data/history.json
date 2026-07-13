@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-07-11T17:31:13.772845+00:00",
-      "now_playing": {
-        "title": "Mulher Maravilha - Ao Vivo",
-        "artist": "Zé Neto & Cristiano",
-        "album": "Esquece o Mundo Lá Fora (Ao Vivo | Deluxe)",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273ff93ff99ca25cbd3607247bb"
-      },
-      "top_tracks": [
-        {
-          "name": "Kyouran Hey Kids!!",
-          "artist": "THE ORAL CIGARETTES",
-          "ms": 250973
-        },
-        {
-          "name": "Linha Azul",
-          "artist": "Yago Oproprio, Patricio Sid",
-          "ms": 146181
-        },
-        {
-          "name": "Rainha da Pista",
-          "artist": "ConeCrewDiretoria",
-          "ms": 258742
-        },
-        {
-          "name": "Percepción",
-          "artist": "Yago Oproprio, Patricio Sid, EME Lab",
-          "ms": 147000
-        },
-        {
-          "name": "The Wolf",
-          "artist": "SIAMES",
-          "ms": 186945
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Bruno & Marrone",
-          "genres": []
-        },
-        {
-          "name": "Matheus & Kauan",
-          "genres": []
-        },
-        {
-          "name": "AJR",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-07-11T18:58:30.163824+00:00",
       "now_playing": {
         "title": "Mil maneiras",
@@ -1689,6 +1631,64 @@
         "artist": "Bruno & Marrone",
         "album": "Clássico (Ao Vivo / Edição Especial)",
         "image_url": "https://i.scdn.co/image/ab67616d0000b27333936d4d7c84bdea804b8de1"
+      },
+      "top_tracks": [
+        {
+          "name": "Kyouran Hey Kids!!",
+          "artist": "THE ORAL CIGARETTES",
+          "ms": 250973
+        },
+        {
+          "name": "Linha Azul",
+          "artist": "Yago Oproprio, Patricio Sid",
+          "ms": 146181
+        },
+        {
+          "name": "Rainha da Pista",
+          "artist": "ConeCrewDiretoria",
+          "ms": 258742
+        },
+        {
+          "name": "Percepción",
+          "artist": "Yago Oproprio, Patricio Sid, EME Lab",
+          "ms": 147000
+        },
+        {
+          "name": "I Know You",
+          "artist": "St. Julien",
+          "ms": 147374
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        },
+        {
+          "name": "Matheus & Kauan",
+          "genres": []
+        },
+        {
+          "name": "Henrique & Juliano",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-13T21:28:27.670571+00:00",
+      "now_playing": {
+        "title": "Enquanto Houver Razões - Ao Vivo",
+        "artist": "Jorge & Mateus",
+        "album": "A Hora É Agora (Ao Vivo Em Jurerê)",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27340a6f202ed07fff84d806a2f"
       },
       "top_tracks": [
         {
