@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-07-11T15:29:30.372920+00:00",
-      "now_playing": {
-        "title": "Borboletas",
-        "artist": "Victor & Leo",
-        "album": "Borboletas",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b27308ef9009b0273f096846003d"
-      },
-      "top_tracks": [
-        {
-          "name": "Kyouran Hey Kids!!",
-          "artist": "THE ORAL CIGARETTES",
-          "ms": 250973
-        },
-        {
-          "name": "Linha Azul",
-          "artist": "Yago Oproprio, Patricio Sid",
-          "ms": 146181
-        },
-        {
-          "name": "Rainha da Pista",
-          "artist": "ConeCrewDiretoria",
-          "ms": 258742
-        },
-        {
-          "name": "Percepción",
-          "artist": "Yago Oproprio, Patricio Sid, EME Lab",
-          "ms": 147000
-        },
-        {
-          "name": "The Wolf",
-          "artist": "SIAMES",
-          "ms": 186945
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Bruno & Marrone",
-          "genres": []
-        },
-        {
-          "name": "Matheus & Kauan",
-          "genres": []
-        },
-        {
-          "name": "AJR",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-07-11T16:28:15.120365+00:00",
       "now_playing": {
         "title": "Jogado Na Rua / Casa Amarela - Ao Vivo",
@@ -1689,6 +1631,64 @@
         "artist": "Muse",
         "album": "Origin of Symmetry",
         "image_url": "https://i.scdn.co/image/ab67616d0000b2735225e9931a558f6d2f541a7d"
+      },
+      "top_tracks": [
+        {
+          "name": "Kyouran Hey Kids!!",
+          "artist": "THE ORAL CIGARETTES",
+          "ms": 250973
+        },
+        {
+          "name": "Linha Azul",
+          "artist": "Yago Oproprio, Patricio Sid",
+          "ms": 146181
+        },
+        {
+          "name": "Rainha da Pista",
+          "artist": "ConeCrewDiretoria",
+          "ms": 258742
+        },
+        {
+          "name": "Percepción",
+          "artist": "Yago Oproprio, Patricio Sid, EME Lab",
+          "ms": 147000
+        },
+        {
+          "name": "I Know You",
+          "artist": "St. Julien",
+          "ms": 147374
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        },
+        {
+          "name": "Matheus & Kauan",
+          "genres": []
+        },
+        {
+          "name": "Henrique & Juliano",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-13T18:56:49.289116+00:00",
+      "now_playing": {
+        "title": "Inventor dos Amores (feat. Jorge & Mateus) - Ao Vivo",
+        "artist": "Gusttavo Lima, Jorge & Mateus",
+        "album": "Inventor dos Amores (Ao Vivo)",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2730817f0dd424b82f1b505117e"
       },
       "top_tracks": [
         {
