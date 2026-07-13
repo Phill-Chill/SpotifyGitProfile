@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-07-11T14:20:55.571306+00:00",
-      "now_playing": {
-        "title": "Tudo Que Você Quiser - Ao Vivo",
-        "artist": "Luan Santana",
-        "album": "O Nosso Tempo É Hoje (Ao Vivo)",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b27393b7f0d53b20302ee6e28f13"
-      },
-      "top_tracks": [
-        {
-          "name": "Kyouran Hey Kids!!",
-          "artist": "THE ORAL CIGARETTES",
-          "ms": 250973
-        },
-        {
-          "name": "Linha Azul",
-          "artist": "Yago Oproprio, Patricio Sid",
-          "ms": 146181
-        },
-        {
-          "name": "Rainha da Pista",
-          "artist": "ConeCrewDiretoria",
-          "ms": 258742
-        },
-        {
-          "name": "Percepción",
-          "artist": "Yago Oproprio, Patricio Sid, EME Lab",
-          "ms": 147000
-        },
-        {
-          "name": "The Wolf",
-          "artist": "SIAMES",
-          "ms": 186945
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Bruno & Marrone",
-          "genres": []
-        },
-        {
-          "name": "Matheus & Kauan",
-          "genres": []
-        },
-        {
-          "name": "AJR",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-07-11T15:29:30.372920+00:00",
       "now_playing": {
         "title": "Borboletas",
@@ -1715,6 +1657,64 @@
           "name": "Animals",
           "artist": "Architects",
           "ms": 244364
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        },
+        {
+          "name": "Matheus & Kauan",
+          "genres": []
+        },
+        {
+          "name": "Henrique & Juliano",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-13T17:29:03.895536+00:00",
+      "now_playing": {
+        "title": "Plug in Baby",
+        "artist": "Muse",
+        "album": "Origin of Symmetry",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2735225e9931a558f6d2f541a7d"
+      },
+      "top_tracks": [
+        {
+          "name": "Kyouran Hey Kids!!",
+          "artist": "THE ORAL CIGARETTES",
+          "ms": 250973
+        },
+        {
+          "name": "Linha Azul",
+          "artist": "Yago Oproprio, Patricio Sid",
+          "ms": 146181
+        },
+        {
+          "name": "Rainha da Pista",
+          "artist": "ConeCrewDiretoria",
+          "ms": 258742
+        },
+        {
+          "name": "Percepción",
+          "artist": "Yago Oproprio, Patricio Sid, EME Lab",
+          "ms": 147000
+        },
+        {
+          "name": "I Know You",
+          "artist": "St. Julien",
+          "ms": 147374
         }
       ],
       "top_artists": [
