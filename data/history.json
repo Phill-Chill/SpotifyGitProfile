@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-07-11T22:13:24.087853+00:00",
-      "now_playing": {
-        "title": "Vowels (and the Importance of Being Me)",
-        "artist": "HUNNY",
-        "album": "Vowels (and the Importance of Being Me)",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2735f62848633807c8a1e3914df"
-      },
-      "top_tracks": [
-        {
-          "name": "Kyouran Hey Kids!!",
-          "artist": "THE ORAL CIGARETTES",
-          "ms": 250973
-        },
-        {
-          "name": "Linha Azul",
-          "artist": "Yago Oproprio, Patricio Sid",
-          "ms": 146181
-        },
-        {
-          "name": "Rainha da Pista",
-          "artist": "ConeCrewDiretoria",
-          "ms": 258742
-        },
-        {
-          "name": "Percepción",
-          "artist": "Yago Oproprio, Patricio Sid, EME Lab",
-          "ms": 147000
-        },
-        {
-          "name": "The Wolf",
-          "artist": "SIAMES",
-          "ms": 186945
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Bruno & Marrone",
-          "genres": []
-        },
-        {
-          "name": "Matheus & Kauan",
-          "genres": []
-        },
-        {
-          "name": "AJR",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-07-11T23:26:06.946924+00:00",
       "now_playing": {
         "title": "Vowels (and the Importance of Being Me)",
@@ -1689,6 +1631,64 @@
         "artist": "Jorge & Mateus",
         "album": "Aí Já Era...",
         "image_url": "https://i.scdn.co/image/ab67616d0000b2733ac295b6002fe88e8ef4e7ce"
+      },
+      "top_tracks": [
+        {
+          "name": "Kyouran Hey Kids!!",
+          "artist": "THE ORAL CIGARETTES",
+          "ms": 250973
+        },
+        {
+          "name": "Linha Azul",
+          "artist": "Yago Oproprio, Patricio Sid",
+          "ms": 146181
+        },
+        {
+          "name": "Rainha da Pista",
+          "artist": "ConeCrewDiretoria",
+          "ms": 258742
+        },
+        {
+          "name": "Percepción",
+          "artist": "Yago Oproprio, Patricio Sid, EME Lab",
+          "ms": 147000
+        },
+        {
+          "name": "I Know You",
+          "artist": "St. Julien",
+          "ms": 147374
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        },
+        {
+          "name": "Matheus & Kauan",
+          "genres": []
+        },
+        {
+          "name": "Henrique & Juliano",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-14T03:54:52.929972+00:00",
+      "now_playing": {
+        "title": "Odisseia",
+        "artist": "LVCAS",
+        "album": "Humanamente",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27379f5ddb4fa5e66daee7f573d"
       },
       "top_tracks": [
         {
