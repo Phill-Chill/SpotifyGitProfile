@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-07-12T14:40:47.253601+00:00",
-      "now_playing": {
-        "title": "A Hora É Agora - Ao Vivo",
-        "artist": "Jorge & Mateus",
-        "album": "A Hora É Agora (Ao Vivo Em Jurerê)",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b27340a6f202ed07fff84d806a2f"
-      },
-      "top_tracks": [
-        {
-          "name": "Kyouran Hey Kids!!",
-          "artist": "THE ORAL CIGARETTES",
-          "ms": 250973
-        },
-        {
-          "name": "Linha Azul",
-          "artist": "Yago Oproprio, Patricio Sid",
-          "ms": 146181
-        },
-        {
-          "name": "Rainha da Pista",
-          "artist": "ConeCrewDiretoria",
-          "ms": 258742
-        },
-        {
-          "name": "Percepción",
-          "artist": "Yago Oproprio, Patricio Sid, EME Lab",
-          "ms": 147000
-        },
-        {
-          "name": "I Know You",
-          "artist": "St. Julien",
-          "ms": 147374
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Bruno & Marrone",
-          "genres": []
-        },
-        {
-          "name": "Matheus & Kauan",
-          "genres": []
-        },
-        {
-          "name": "AJR",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-07-12T15:57:30.305891+00:00",
       "now_playing": {
         "title": "Eu Ligo Pra Você - Ao Vivo",
@@ -1684,6 +1626,64 @@
     },
     {
       "timestamp": "2026-07-14T18:37:55.670990+00:00",
+      "now_playing": {
+        "title": "Estaca zero",
+        "artist": "Yago Oproprio, Patricio Sid",
+        "album": "O Inquilino",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273095d700964f7aca87820b01e"
+      },
+      "top_tracks": [
+        {
+          "name": "Kyouran Hey Kids!!",
+          "artist": "THE ORAL CIGARETTES",
+          "ms": 250973
+        },
+        {
+          "name": "Linha Azul",
+          "artist": "Yago Oproprio, Patricio Sid",
+          "ms": 146181
+        },
+        {
+          "name": "Rainha da Pista",
+          "artist": "ConeCrewDiretoria",
+          "ms": 258742
+        },
+        {
+          "name": "Percepción",
+          "artist": "Yago Oproprio, Patricio Sid, EME Lab",
+          "ms": 147000
+        },
+        {
+          "name": "I Know You",
+          "artist": "St. Julien",
+          "ms": 147374
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        },
+        {
+          "name": "Matheus & Kauan",
+          "genres": []
+        },
+        {
+          "name": "Henrique & Juliano",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-14T20:08:21.025478+00:00",
       "now_playing": {
         "title": "Estaca zero",
         "artist": "Yago Oproprio, Patricio Sid",
