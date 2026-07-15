@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-07-13T17:29:03.895536+00:00",
-      "now_playing": {
-        "title": "Plug in Baby",
-        "artist": "Muse",
-        "album": "Origin of Symmetry",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2735225e9931a558f6d2f541a7d"
-      },
-      "top_tracks": [
-        {
-          "name": "Kyouran Hey Kids!!",
-          "artist": "THE ORAL CIGARETTES",
-          "ms": 250973
-        },
-        {
-          "name": "Linha Azul",
-          "artist": "Yago Oproprio, Patricio Sid",
-          "ms": 146181
-        },
-        {
-          "name": "Rainha da Pista",
-          "artist": "ConeCrewDiretoria",
-          "ms": 258742
-        },
-        {
-          "name": "Percepción",
-          "artist": "Yago Oproprio, Patricio Sid, EME Lab",
-          "ms": 147000
-        },
-        {
-          "name": "I Know You",
-          "artist": "St. Julien",
-          "ms": 147374
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Bruno & Marrone",
-          "genres": []
-        },
-        {
-          "name": "Matheus & Kauan",
-          "genres": []
-        },
-        {
-          "name": "Henrique & Juliano",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-07-13T18:56:49.289116+00:00",
       "now_playing": {
         "title": "Inventor dos Amores (feat. Jorge & Mateus) - Ao Vivo",
@@ -1689,6 +1631,64 @@
         "artist": "Bruno & Marrone",
         "album": "Ensaio (Ao Vivo)",
         "image_url": "https://i.scdn.co/image/ab67616d0000b273294c660d441da10e69cad7b9"
+      },
+      "top_tracks": [
+        {
+          "name": "Kyouran Hey Kids!!",
+          "artist": "THE ORAL CIGARETTES",
+          "ms": 250973
+        },
+        {
+          "name": "Linha Azul",
+          "artist": "Yago Oproprio, Patricio Sid",
+          "ms": 146181
+        },
+        {
+          "name": "Percepción",
+          "artist": "Yago Oproprio, Patricio Sid, EME Lab",
+          "ms": 147000
+        },
+        {
+          "name": "Rainha da Pista",
+          "artist": "ConeCrewDiretoria",
+          "ms": 258742
+        },
+        {
+          "name": "Take Ten",
+          "artist": "Black Alien",
+          "ms": 153191
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        },
+        {
+          "name": "Matheus & Kauan",
+          "genres": []
+        },
+        {
+          "name": "Henrique & Juliano",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-15T20:31:50.483942+00:00",
+      "now_playing": {
+        "title": "Fio de Cabelo",
+        "artist": "Chitãozinho & Xororó",
+        "album": "Grandes Clássicos Sertanejos Acústico II",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27381382afcd82fafb8b4cdc77b"
       },
       "top_tracks": [
         {
