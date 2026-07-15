@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-07-12T19:37:50.243346+00:00",
-      "now_playing": {
-        "title": "Seu Amor Ainda é Tudo - Ao Vivo",
-        "artist": "Bruno & Marrone",
-        "album": "Acústico - Ao Vivo",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2739ce10bf887848831c83ec215"
-      },
-      "top_tracks": [
-        {
-          "name": "Kyouran Hey Kids!!",
-          "artist": "THE ORAL CIGARETTES",
-          "ms": 250973
-        },
-        {
-          "name": "Linha Azul",
-          "artist": "Yago Oproprio, Patricio Sid",
-          "ms": 146181
-        },
-        {
-          "name": "Rainha da Pista",
-          "artist": "ConeCrewDiretoria",
-          "ms": 258742
-        },
-        {
-          "name": "Percepción",
-          "artist": "Yago Oproprio, Patricio Sid, EME Lab",
-          "ms": 147000
-        },
-        {
-          "name": "I Know You",
-          "artist": "St. Julien",
-          "ms": 147374
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Bruno & Marrone",
-          "genres": []
-        },
-        {
-          "name": "Matheus & Kauan",
-          "genres": []
-        },
-        {
-          "name": "Henrique & Juliano",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-07-12T20:41:57.218064+00:00",
       "now_playing": {
         "title": "Se Eu Pedir, Cê Volta - Ao Vivo",
@@ -1689,6 +1631,64 @@
         "artist": "Skillet",
         "album": "Unleashed",
         "image_url": "https://i.scdn.co/image/ab67616d0000b2733387bacdfd59f32e14dbe17a"
+      },
+      "top_tracks": [
+        {
+          "name": "Kyouran Hey Kids!!",
+          "artist": "THE ORAL CIGARETTES",
+          "ms": 250973
+        },
+        {
+          "name": "Linha Azul",
+          "artist": "Yago Oproprio, Patricio Sid",
+          "ms": 146181
+        },
+        {
+          "name": "Percepción",
+          "artist": "Yago Oproprio, Patricio Sid, EME Lab",
+          "ms": 147000
+        },
+        {
+          "name": "Rainha da Pista",
+          "artist": "ConeCrewDiretoria",
+          "ms": 258742
+        },
+        {
+          "name": "Take Ten",
+          "artist": "Black Alien",
+          "ms": 153191
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        },
+        {
+          "name": "Matheus & Kauan",
+          "genres": []
+        },
+        {
+          "name": "Henrique & Juliano",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-15T02:09:23.181151+00:00",
+      "now_playing": {
+        "title": "O Mundo É Tão Pequeno - Ao Vivo",
+        "artist": "Jorge & Mateus",
+        "album": "O Mundo É Tão Pequeno",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27304a5031fd5fa6fb81cad9ad6"
       },
       "top_tracks": [
         {
