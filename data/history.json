@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-07-13T15:25:27.270884+00:00",
-      "now_playing": {
-        "title": "Saideira",
-        "artist": "Skank",
-        "album": "Siderado",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273a598a9acfc02ed4fa3e11c46"
-      },
-      "top_tracks": [
-        {
-          "name": "Kyouran Hey Kids!!",
-          "artist": "THE ORAL CIGARETTES",
-          "ms": 250973
-        },
-        {
-          "name": "Linha Azul",
-          "artist": "Yago Oproprio, Patricio Sid",
-          "ms": 146181
-        },
-        {
-          "name": "Rainha da Pista",
-          "artist": "ConeCrewDiretoria",
-          "ms": 258742
-        },
-        {
-          "name": "Percepción",
-          "artist": "Yago Oproprio, Patricio Sid, EME Lab",
-          "ms": 147000
-        },
-        {
-          "name": "Animals",
-          "artist": "Architects",
-          "ms": 244364
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Bruno & Marrone",
-          "genres": []
-        },
-        {
-          "name": "Matheus & Kauan",
-          "genres": []
-        },
-        {
-          "name": "Henrique & Juliano",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-07-13T17:29:03.895536+00:00",
       "now_playing": {
         "title": "Plug in Baby",
@@ -1684,6 +1626,64 @@
     },
     {
       "timestamp": "2026-07-15T17:46:09.510764+00:00",
+      "now_playing": {
+        "title": "Beijo De Varanda - Ao Vivo",
+        "artist": "Bruno & Marrone",
+        "album": "Ensaio (Ao Vivo)",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273294c660d441da10e69cad7b9"
+      },
+      "top_tracks": [
+        {
+          "name": "Kyouran Hey Kids!!",
+          "artist": "THE ORAL CIGARETTES",
+          "ms": 250973
+        },
+        {
+          "name": "Linha Azul",
+          "artist": "Yago Oproprio, Patricio Sid",
+          "ms": 146181
+        },
+        {
+          "name": "Percepción",
+          "artist": "Yago Oproprio, Patricio Sid, EME Lab",
+          "ms": 147000
+        },
+        {
+          "name": "Rainha da Pista",
+          "artist": "ConeCrewDiretoria",
+          "ms": 258742
+        },
+        {
+          "name": "Take Ten",
+          "artist": "Black Alien",
+          "ms": 153191
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        },
+        {
+          "name": "Matheus & Kauan",
+          "genres": []
+        },
+        {
+          "name": "Henrique & Juliano",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-15T19:06:16.968887+00:00",
       "now_playing": {
         "title": "Beijo De Varanda - Ao Vivo",
         "artist": "Bruno & Marrone",
