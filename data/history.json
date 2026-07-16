@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-07-14T10:42:49.680580+00:00",
-      "now_playing": {
-        "title": "1x1 (feat. Nova Twins)",
-        "artist": "Bring Me The Horizon, Nova Twins",
-        "album": "POST HUMAN: SURVIVAL HORROR",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2735149c948fde506624246a684"
-      },
-      "top_tracks": [
-        {
-          "name": "Kyouran Hey Kids!!",
-          "artist": "THE ORAL CIGARETTES",
-          "ms": 250973
-        },
-        {
-          "name": "Linha Azul",
-          "artist": "Yago Oproprio, Patricio Sid",
-          "ms": 146181
-        },
-        {
-          "name": "Rainha da Pista",
-          "artist": "ConeCrewDiretoria",
-          "ms": 258742
-        },
-        {
-          "name": "Percepción",
-          "artist": "Yago Oproprio, Patricio Sid, EME Lab",
-          "ms": 147000
-        },
-        {
-          "name": "I Know You",
-          "artist": "St. Julien",
-          "ms": 147374
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Bruno & Marrone",
-          "genres": []
-        },
-        {
-          "name": "Matheus & Kauan",
-          "genres": []
-        },
-        {
-          "name": "Henrique & Juliano",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-07-14T12:08:49.533908+00:00",
       "now_playing": {
         "title": "Redneck",
@@ -1689,6 +1631,64 @@
         "artist": "Motionless In White",
         "album": "Scoring The End Of The World",
         "image_url": "https://i.scdn.co/image/ab67616d0000b273927beb7f612958a2ce60c46c"
+      },
+      "top_tracks": [
+        {
+          "name": "Kyouran Hey Kids!!",
+          "artist": "THE ORAL CIGARETTES",
+          "ms": 250973
+        },
+        {
+          "name": "Linha Azul",
+          "artist": "Yago Oproprio, Patricio Sid",
+          "ms": 146181
+        },
+        {
+          "name": "Rainha da Pista",
+          "artist": "ConeCrewDiretoria",
+          "ms": 258742
+        },
+        {
+          "name": "Percepción",
+          "artist": "Yago Oproprio, Patricio Sid, EME Lab",
+          "ms": 147000
+        },
+        {
+          "name": "Take Ten",
+          "artist": "Black Alien",
+          "ms": 153191
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        },
+        {
+          "name": "Matheus & Kauan",
+          "genres": []
+        },
+        {
+          "name": "Henrique & Juliano",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-16T16:15:24.675883+00:00",
+      "now_playing": {
+        "title": "I Am Machine",
+        "artist": "Three Days Grace",
+        "album": "Human",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273a3718617be6d4e106fbe7ad5"
       },
       "top_tracks": [
         {
