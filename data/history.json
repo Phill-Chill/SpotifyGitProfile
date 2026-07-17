@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-07-15T20:31:50.483942+00:00",
-      "now_playing": {
-        "title": "Fio de Cabelo",
-        "artist": "Chitãozinho & Xororó",
-        "album": "Grandes Clássicos Sertanejos Acústico II",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b27381382afcd82fafb8b4cdc77b"
-      },
-      "top_tracks": [
-        {
-          "name": "Kyouran Hey Kids!!",
-          "artist": "THE ORAL CIGARETTES",
-          "ms": 250973
-        },
-        {
-          "name": "Linha Azul",
-          "artist": "Yago Oproprio, Patricio Sid",
-          "ms": 146181
-        },
-        {
-          "name": "Percepción",
-          "artist": "Yago Oproprio, Patricio Sid, EME Lab",
-          "ms": 147000
-        },
-        {
-          "name": "Rainha da Pista",
-          "artist": "ConeCrewDiretoria",
-          "ms": 258742
-        },
-        {
-          "name": "Take Ten",
-          "artist": "Black Alien",
-          "ms": 153191
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Bruno & Marrone",
-          "genres": []
-        },
-        {
-          "name": "Matheus & Kauan",
-          "genres": []
-        },
-        {
-          "name": "Henrique & Juliano",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-07-15T21:57:30.309749+00:00",
       "now_playing": {
         "title": "Pode Chorar - Ao Vivo Em Goiânia / 2007",
@@ -1689,6 +1631,64 @@
         "artist": "Yago Oproprio, Patricio Sid",
         "album": "OPROPRIO",
         "image_url": "https://i.scdn.co/image/ab67616d0000b2738855874e76e6747c529c49fb"
+      },
+      "top_tracks": [
+        {
+          "name": "Kyouran Hey Kids!!",
+          "artist": "THE ORAL CIGARETTES",
+          "ms": 250973
+        },
+        {
+          "name": "Rainha da Pista",
+          "artist": "ConeCrewDiretoria",
+          "ms": 258742
+        },
+        {
+          "name": "Linha Azul",
+          "artist": "Yago Oproprio, Patricio Sid",
+          "ms": 146181
+        },
+        {
+          "name": "Blackhole",
+          "artist": "Architects",
+          "ms": 200800
+        },
+        {
+          "name": "Percepción",
+          "artist": "Yago Oproprio, Patricio Sid, EME Lab",
+          "ms": 147000
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        },
+        {
+          "name": "Matheus & Kauan",
+          "genres": []
+        },
+        {
+          "name": "Henrique & Juliano",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-17T23:22:38.923213+00:00",
+      "now_playing": {
+        "title": "Wash It All Away",
+        "artist": "Five Finger Death Punch",
+        "album": "Got Your Six",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2734804f1513736e5e2b3e053dc"
       },
       "top_tracks": [
         {
