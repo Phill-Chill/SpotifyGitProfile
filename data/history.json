@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-07-14T21:30:00.143865+00:00",
-      "now_playing": {
-        "title": "O Desespero de Odete",
-        "artist": "Yago Oproprio, Murica, BEATDOMK",
-        "album": "O Desespero de Odete",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273367d828a0d5787074e394d3f"
-      },
-      "top_tracks": [
-        {
-          "name": "Kyouran Hey Kids!!",
-          "artist": "THE ORAL CIGARETTES",
-          "ms": 250973
-        },
-        {
-          "name": "Linha Azul",
-          "artist": "Yago Oproprio, Patricio Sid",
-          "ms": 146181
-        },
-        {
-          "name": "Rainha da Pista",
-          "artist": "ConeCrewDiretoria",
-          "ms": 258742
-        },
-        {
-          "name": "Percepción",
-          "artist": "Yago Oproprio, Patricio Sid, EME Lab",
-          "ms": 147000
-        },
-        {
-          "name": "I Know You",
-          "artist": "St. Julien",
-          "ms": 147374
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Bruno & Marrone",
-          "genres": []
-        },
-        {
-          "name": "Matheus & Kauan",
-          "genres": []
-        },
-        {
-          "name": "Henrique & Juliano",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-07-14T22:33:07.654825+00:00",
       "now_playing": {
         "title": "Carta Pra Amy",
@@ -1689,6 +1631,64 @@
         "artist": "Bring Me The Horizon",
         "album": "Sempiternal (Expanded Edition)",
         "image_url": "https://i.scdn.co/image/ab67616d0000b273566acaba72c5509e3887c4b0"
+      },
+      "top_tracks": [
+        {
+          "name": "Kyouran Hey Kids!!",
+          "artist": "THE ORAL CIGARETTES",
+          "ms": 250973
+        },
+        {
+          "name": "Linha Azul",
+          "artist": "Yago Oproprio, Patricio Sid",
+          "ms": 146181
+        },
+        {
+          "name": "Rainha da Pista",
+          "artist": "ConeCrewDiretoria",
+          "ms": 258742
+        },
+        {
+          "name": "Percepción",
+          "artist": "Yago Oproprio, Patricio Sid, EME Lab",
+          "ms": 147000
+        },
+        {
+          "name": "Take Ten",
+          "artist": "Black Alien",
+          "ms": 153191
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        },
+        {
+          "name": "Matheus & Kauan",
+          "genres": []
+        },
+        {
+          "name": "Henrique & Juliano",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-17T02:41:36.710331+00:00",
+      "now_playing": {
+        "title": "Voa Beija-Flor - Ao Vivo",
+        "artist": "Jorge & Mateus",
+        "album": "O Mundo É Tão Pequeno",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27304a5031fd5fa6fb81cad9ad6"
       },
       "top_tracks": [
         {
