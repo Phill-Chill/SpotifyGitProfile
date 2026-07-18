@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-07-15T21:57:30.309749+00:00",
-      "now_playing": {
-        "title": "Pode Chorar - Ao Vivo Em Goiânia / 2007",
-        "artist": "Jorge & Mateus",
-        "album": "Jorge & Mateus Ao Vivo Em Goiânia (Ao Vivo Em Goiânia / 2007)",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2733ab1f7757086a6126072be91"
-      },
-      "top_tracks": [
-        {
-          "name": "Kyouran Hey Kids!!",
-          "artist": "THE ORAL CIGARETTES",
-          "ms": 250973
-        },
-        {
-          "name": "Linha Azul",
-          "artist": "Yago Oproprio, Patricio Sid",
-          "ms": 146181
-        },
-        {
-          "name": "Percepción",
-          "artist": "Yago Oproprio, Patricio Sid, EME Lab",
-          "ms": 147000
-        },
-        {
-          "name": "Rainha da Pista",
-          "artist": "ConeCrewDiretoria",
-          "ms": 258742
-        },
-        {
-          "name": "Take Ten",
-          "artist": "Black Alien",
-          "ms": 153191
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Bruno & Marrone",
-          "genres": []
-        },
-        {
-          "name": "Matheus & Kauan",
-          "genres": []
-        },
-        {
-          "name": "Henrique & Juliano",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-07-15T22:59:44.862438+00:00",
       "now_playing": {
         "title": "Evidências",
@@ -1689,6 +1631,64 @@
         "artist": "Five Finger Death Punch",
         "album": "Got Your Six",
         "image_url": "https://i.scdn.co/image/ab67616d0000b2734804f1513736e5e2b3e053dc"
+      },
+      "top_tracks": [
+        {
+          "name": "Kyouran Hey Kids!!",
+          "artist": "THE ORAL CIGARETTES",
+          "ms": 250973
+        },
+        {
+          "name": "Rainha da Pista",
+          "artist": "ConeCrewDiretoria",
+          "ms": 258742
+        },
+        {
+          "name": "Linha Azul",
+          "artist": "Yago Oproprio, Patricio Sid",
+          "ms": 146181
+        },
+        {
+          "name": "Blackhole",
+          "artist": "Architects",
+          "ms": 200800
+        },
+        {
+          "name": "Percepción",
+          "artist": "Yago Oproprio, Patricio Sid, EME Lab",
+          "ms": 147000
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        },
+        {
+          "name": "Matheus & Kauan",
+          "genres": []
+        },
+        {
+          "name": "Henrique & Juliano",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-18T00:54:01.925694+00:00",
+      "now_playing": {
+        "title": "Breath",
+        "artist": "Breaking Benjamin",
+        "album": "Phobia (Clean Version)",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2735aa75a47afe2804e280bd149"
       },
       "top_tracks": [
         {
