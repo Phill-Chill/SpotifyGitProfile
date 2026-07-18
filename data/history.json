@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-07-15T22:59:44.862438+00:00",
-      "now_playing": {
-        "title": "Evidências",
-        "artist": "Chitãozinho & Xororó",
-        "album": "Do Tamanho do Nosso Amor",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2731f5649408b971c1f38e9282f"
-      },
-      "top_tracks": [
-        {
-          "name": "Kyouran Hey Kids!!",
-          "artist": "THE ORAL CIGARETTES",
-          "ms": 250973
-        },
-        {
-          "name": "Linha Azul",
-          "artist": "Yago Oproprio, Patricio Sid",
-          "ms": 146181
-        },
-        {
-          "name": "Percepción",
-          "artist": "Yago Oproprio, Patricio Sid, EME Lab",
-          "ms": 147000
-        },
-        {
-          "name": "Rainha da Pista",
-          "artist": "ConeCrewDiretoria",
-          "ms": 258742
-        },
-        {
-          "name": "Take Ten",
-          "artist": "Black Alien",
-          "ms": 153191
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Bruno & Marrone",
-          "genres": []
-        },
-        {
-          "name": "Matheus & Kauan",
-          "genres": []
-        },
-        {
-          "name": "Henrique & Juliano",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-07-16T00:05:17.922427+00:00",
       "now_playing": {
         "title": "Bijuteria",
@@ -1715,6 +1657,64 @@
           "name": "Percepción",
           "artist": "Yago Oproprio, Patricio Sid, EME Lab",
           "ms": 147000
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        },
+        {
+          "name": "Matheus & Kauan",
+          "genres": []
+        },
+        {
+          "name": "Henrique & Juliano",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-18T03:52:43.516015+00:00",
+      "now_playing": {
+        "title": "Animals",
+        "artist": "Architects",
+        "album": "For Those That Wish To Exist",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273c78b2edbc9407cea20ccfb9f"
+      },
+      "top_tracks": [
+        {
+          "name": "Kyouran Hey Kids!!",
+          "artist": "THE ORAL CIGARETTES",
+          "ms": 250973
+        },
+        {
+          "name": "Rainha da Pista",
+          "artist": "ConeCrewDiretoria",
+          "ms": 258742
+        },
+        {
+          "name": "Linha Azul",
+          "artist": "Yago Oproprio, Patricio Sid",
+          "ms": 146181
+        },
+        {
+          "name": "Animals",
+          "artist": "Architects",
+          "ms": 244364
+        },
+        {
+          "name": "Blackhole",
+          "artist": "Architects",
+          "ms": 200800
         }
       ],
       "top_artists": [
