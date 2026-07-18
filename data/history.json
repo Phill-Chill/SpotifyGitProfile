@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-07-16T10:56:42.104580+00:00",
-      "now_playing": {
-        "title": "Whiplash",
-        "artist": "Architects",
-        "album": "The Sky, The Earth & All Between",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273fa9cf0435132ff2a17ce9d86"
-      },
-      "top_tracks": [
-        {
-          "name": "Kyouran Hey Kids!!",
-          "artist": "THE ORAL CIGARETTES",
-          "ms": 250973
-        },
-        {
-          "name": "Linha Azul",
-          "artist": "Yago Oproprio, Patricio Sid",
-          "ms": 146181
-        },
-        {
-          "name": "Rainha da Pista",
-          "artist": "ConeCrewDiretoria",
-          "ms": 258742
-        },
-        {
-          "name": "Percepción",
-          "artist": "Yago Oproprio, Patricio Sid, EME Lab",
-          "ms": 147000
-        },
-        {
-          "name": "Take Ten",
-          "artist": "Black Alien",
-          "ms": 153191
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Bruno & Marrone",
-          "genres": []
-        },
-        {
-          "name": "Matheus & Kauan",
-          "genres": []
-        },
-        {
-          "name": "Henrique & Juliano",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-07-16T12:20:21.703586+00:00",
       "now_playing": {
         "title": "ARTIFICIAL SUICIDE",
@@ -1684,6 +1626,64 @@
     },
     {
       "timestamp": "2026-07-18T11:02:00.471937+00:00",
+      "now_playing": {
+        "title": "Animals",
+        "artist": "Architects",
+        "album": "For Those That Wish To Exist",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273c78b2edbc9407cea20ccfb9f"
+      },
+      "top_tracks": [
+        {
+          "name": "Kyouran Hey Kids!!",
+          "artist": "THE ORAL CIGARETTES",
+          "ms": 250973
+        },
+        {
+          "name": "Rainha da Pista",
+          "artist": "ConeCrewDiretoria",
+          "ms": 258742
+        },
+        {
+          "name": "Linha Azul",
+          "artist": "Yago Oproprio, Patricio Sid",
+          "ms": 146181
+        },
+        {
+          "name": "Animals",
+          "artist": "Architects",
+          "ms": 244364
+        },
+        {
+          "name": "Blackhole",
+          "artist": "Architects",
+          "ms": 200800
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        },
+        {
+          "name": "Matheus & Kauan",
+          "genres": []
+        },
+        {
+          "name": "Henrique & Juliano",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-18T12:11:09.552639+00:00",
       "now_playing": {
         "title": "Animals",
         "artist": "Architects",
