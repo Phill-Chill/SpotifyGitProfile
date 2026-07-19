@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-07-17T21:21:18.761666+00:00",
-      "now_playing": {
-        "title": "Negro Drama",
-        "artist": "Racionais MC's",
-        "album": "Nada Como um Dia Após o Outro Dia, Vol. 1 & 2",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273497e68476e7062b1bf5ea83f"
-      },
-      "top_tracks": [
-        {
-          "name": "Kyouran Hey Kids!!",
-          "artist": "THE ORAL CIGARETTES",
-          "ms": 250973
-        },
-        {
-          "name": "Blackhole",
-          "artist": "Architects",
-          "ms": 200800
-        },
-        {
-          "name": "Linha Azul",
-          "artist": "Yago Oproprio, Patricio Sid",
-          "ms": 146181
-        },
-        {
-          "name": "Rainha da Pista",
-          "artist": "ConeCrewDiretoria",
-          "ms": 258742
-        },
-        {
-          "name": "Percepción",
-          "artist": "Yago Oproprio, Patricio Sid, EME Lab",
-          "ms": 147000
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Bruno & Marrone",
-          "genres": []
-        },
-        {
-          "name": "Matheus & Kauan",
-          "genres": []
-        },
-        {
-          "name": "Henrique & Juliano",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-07-17T22:13:37.026894+00:00",
       "now_playing": {
         "title": "Linha Azul",
@@ -1710,6 +1652,64 @@
           "name": "Animals",
           "artist": "Architects",
           "ms": 244364
+        },
+        {
+          "name": "Linha Azul",
+          "artist": "Yago Oproprio, Patricio Sid",
+          "ms": 146181
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        },
+        {
+          "name": "Matheus & Kauan",
+          "genres": []
+        },
+        {
+          "name": "Henrique & Juliano",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-19T17:56:48.450842+00:00",
+      "now_playing": {
+        "title": "Seu Astral - Live In Sao Paulo / 2010",
+        "artist": "Jorge & Mateus",
+        "album": "Aí Já Era...",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2733ac295b6002fe88e8ef4e7ce"
+      },
+      "top_tracks": [
+        {
+          "name": "Kyouran Hey Kids!!",
+          "artist": "THE ORAL CIGARETTES",
+          "ms": 250973
+        },
+        {
+          "name": "Rainha da Pista",
+          "artist": "ConeCrewDiretoria",
+          "ms": 258742
+        },
+        {
+          "name": "Animals",
+          "artist": "Architects",
+          "ms": 244364
+        },
+        {
+          "name": "Blackhole",
+          "artist": "Architects",
+          "ms": 200800
         },
         {
           "name": "Linha Azul",
