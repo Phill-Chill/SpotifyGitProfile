@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-07-18T20:06:26.896422+00:00",
-      "now_playing": {
-        "title": "Break My Face",
-        "artist": "AJR",
-        "album": "Neotheater",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b27387a7ce9cb47d01d6f9e2f66a"
-      },
-      "top_tracks": [
-        {
-          "name": "Kyouran Hey Kids!!",
-          "artist": "THE ORAL CIGARETTES",
-          "ms": 250973
-        },
-        {
-          "name": "Rainha da Pista",
-          "artist": "ConeCrewDiretoria",
-          "ms": 258742
-        },
-        {
-          "name": "Blackhole",
-          "artist": "Architects",
-          "ms": 200800
-        },
-        {
-          "name": "Linha Azul",
-          "artist": "Yago Oproprio, Patricio Sid",
-          "ms": 146181
-        },
-        {
-          "name": "Animals",
-          "artist": "Architects",
-          "ms": 244364
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Bruno & Marrone",
-          "genres": []
-        },
-        {
-          "name": "Matheus & Kauan",
-          "genres": []
-        },
-        {
-          "name": "Henrique & Juliano",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-07-18T21:21:19.633389+00:00",
       "now_playing": {
         "title": "I'm Not Famous",
@@ -1736,6 +1678,64 @@
         },
         {
           "name": "Matheus & Kauan",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-20T22:57:45.254429+00:00",
+      "now_playing": {
+        "title": "Amor de Carnaval - Ao Vivo",
+        "artist": "Bruno & Marrone",
+        "album": "Acústico - Ao Vivo",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2739ce10bf887848831c83ec215"
+      },
+      "top_tracks": [
+        {
+          "name": "Kyouran Hey Kids!!",
+          "artist": "THE ORAL CIGARETTES",
+          "ms": 250973
+        },
+        {
+          "name": "Blackhole",
+          "artist": "Architects",
+          "ms": 200800
+        },
+        {
+          "name": "Um Dia Te Levo Comigo - Ao Vivo",
+          "artist": "Jorge & Mateus",
+          "ms": 202920
+        },
+        {
+          "name": "Paredes - Ao Vivo",
+          "artist": "Jorge & Mateus",
+          "ms": 184032
+        },
+        {
+          "name": "Animals",
+          "artist": "Architects",
+          "ms": 244364
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        },
+        {
+          "name": "Matheus & Kauan",
+          "genres": []
+        },
+        {
+          "name": "Henrique & Juliano",
           "genres": []
         }
       ]
