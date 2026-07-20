@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-07-18T14:51:37.663668+00:00",
-      "now_playing": {
-        "title": "Criminal",
-        "artist": "Nevertel",
-        "album": "Start Again",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273b71c0756ba96ba1a82a0a3ce"
-      },
-      "top_tracks": [
-        {
-          "name": "Kyouran Hey Kids!!",
-          "artist": "THE ORAL CIGARETTES",
-          "ms": 250973
-        },
-        {
-          "name": "Rainha da Pista",
-          "artist": "ConeCrewDiretoria",
-          "ms": 258742
-        },
-        {
-          "name": "Linha Azul",
-          "artist": "Yago Oproprio, Patricio Sid",
-          "ms": 146181
-        },
-        {
-          "name": "Animals",
-          "artist": "Architects",
-          "ms": 244364
-        },
-        {
-          "name": "Blackhole",
-          "artist": "Architects",
-          "ms": 200800
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Bruno & Marrone",
-          "genres": []
-        },
-        {
-          "name": "Matheus & Kauan",
-          "genres": []
-        },
-        {
-          "name": "Henrique & Juliano",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-07-18T15:53:50.557258+00:00",
       "now_playing": {
         "title": "ARTIFICIAL SUICIDE",
@@ -1689,6 +1631,64 @@
         "artist": "Måneskin",
         "album": "Teatro d'ira - Vol. I",
         "image_url": "https://i.scdn.co/image/ab67616d0000b2735aa05015cfa7bd2943c29b21"
+      },
+      "top_tracks": [
+        {
+          "name": "Kyouran Hey Kids!!",
+          "artist": "THE ORAL CIGARETTES",
+          "ms": 250973
+        },
+        {
+          "name": "Blackhole",
+          "artist": "Architects",
+          "ms": 200800
+        },
+        {
+          "name": "Um Dia Te Levo Comigo - Ao Vivo",
+          "artist": "Jorge & Mateus",
+          "ms": 202920
+        },
+        {
+          "name": "Animals",
+          "artist": "Architects",
+          "ms": 244364
+        },
+        {
+          "name": "Rainha da Pista",
+          "artist": "ConeCrewDiretoria",
+          "ms": 258742
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        },
+        {
+          "name": "Matheus & Kauan",
+          "genres": []
+        },
+        {
+          "name": "Henrique & Juliano",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-20T15:27:38.014764+00:00",
+      "now_playing": {
+        "title": "The Worst In Me",
+        "artist": "Bad Omens",
+        "album": "Bad Omens",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2732c5d741251ae833b8c9d47d8"
       },
       "top_tracks": [
         {
