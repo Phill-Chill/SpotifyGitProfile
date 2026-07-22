@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-07-19T20:22:44.339498+00:00",
-      "now_playing": {
-        "title": "Traumatizei (Ao Vivo Em Brasília)",
-        "artist": "Henrique & Juliano",
-        "album": "To Be (Ao Vivo Em Brasília)",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273e631d8224c033cc903e42deb"
-      },
-      "top_tracks": [
-        {
-          "name": "Kyouran Hey Kids!!",
-          "artist": "THE ORAL CIGARETTES",
-          "ms": 250973
-        },
-        {
-          "name": "Rainha da Pista",
-          "artist": "ConeCrewDiretoria",
-          "ms": 258742
-        },
-        {
-          "name": "Animals",
-          "artist": "Architects",
-          "ms": 244364
-        },
-        {
-          "name": "Blackhole",
-          "artist": "Architects",
-          "ms": 200800
-        },
-        {
-          "name": "Um Dia Te Levo Comigo - Ao Vivo",
-          "artist": "Jorge & Mateus",
-          "ms": 202920
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Bruno & Marrone",
-          "genres": []
-        },
-        {
-          "name": "Matheus & Kauan",
-          "genres": []
-        },
-        {
-          "name": "Henrique & Juliano",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-07-19T21:23:02.817787+00:00",
       "now_playing": {
         "title": "Leilão - Live",
@@ -1684,6 +1626,64 @@
     },
     {
       "timestamp": "2026-07-22T04:17:19.674218+00:00",
+      "now_playing": {
+        "title": "Só se fu…",
+        "artist": "Jean Tassy, Iuri Rio Branco, Yago Oproprio",
+        "album": "Acrônico",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2735f62759fa1325543a2693675"
+      },
+      "top_tracks": [
+        {
+          "name": "Kyouran Hey Kids!!",
+          "artist": "THE ORAL CIGARETTES",
+          "ms": 250973
+        },
+        {
+          "name": "Blackhole",
+          "artist": "Architects",
+          "ms": 200800
+        },
+        {
+          "name": "Paredes - Ao Vivo",
+          "artist": "Jorge & Mateus",
+          "ms": 184032
+        },
+        {
+          "name": "Um Dia Te Levo Comigo - Ao Vivo",
+          "artist": "Jorge & Mateus",
+          "ms": 202920
+        },
+        {
+          "name": "Caso Marcado - Ao Vivo",
+          "artist": "César Menotti & Fabiano",
+          "ms": 197360
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        },
+        {
+          "name": "Matheus & Kauan",
+          "genres": []
+        },
+        {
+          "name": "Henrique & Juliano",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-22T07:08:39.704740+00:00",
       "now_playing": {
         "title": "Só se fu…",
         "artist": "Jean Tassy, Iuri Rio Branco, Yago Oproprio",
