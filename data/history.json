@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-07-20T08:23:42.453107+00:00",
-      "now_playing": {
-        "title": "Chuva de Arroz - Ao Vivo",
-        "artist": "Luan Santana",
-        "album": "Acústico (Ao Vivo)",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273c847c97de21b491fc0daf8b5"
-      },
-      "top_tracks": [
-        {
-          "name": "Kyouran Hey Kids!!",
-          "artist": "THE ORAL CIGARETTES",
-          "ms": 250973
-        },
-        {
-          "name": "Rainha da Pista",
-          "artist": "ConeCrewDiretoria",
-          "ms": 258742
-        },
-        {
-          "name": "Animals",
-          "artist": "Architects",
-          "ms": 244364
-        },
-        {
-          "name": "Blackhole",
-          "artist": "Architects",
-          "ms": 200800
-        },
-        {
-          "name": "Um Dia Te Levo Comigo - Ao Vivo",
-          "artist": "Jorge & Mateus",
-          "ms": 202920
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Bruno & Marrone",
-          "genres": []
-        },
-        {
-          "name": "Matheus & Kauan",
-          "genres": []
-        },
-        {
-          "name": "Henrique & Juliano",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-07-20T11:21:26.651583+00:00",
       "now_playing": {
         "title": "Chuva de Arroz - Ao Vivo",
@@ -1689,6 +1631,64 @@
         "artist": "Dilermando Reis, Marco Pereira",
         "album": "Elegia: Virtuoso Guitar Music from Brasil",
         "image_url": "https://i.scdn.co/image/ab67616d0000b27301ae5953f57b006383f90198"
+      },
+      "top_tracks": [
+        {
+          "name": "Kyouran Hey Kids!!",
+          "artist": "THE ORAL CIGARETTES",
+          "ms": 250973
+        },
+        {
+          "name": "Paredes - Ao Vivo",
+          "artist": "Jorge & Mateus",
+          "ms": 184032
+        },
+        {
+          "name": "Um Dia Te Levo Comigo - Ao Vivo",
+          "artist": "Jorge & Mateus",
+          "ms": 202920
+        },
+        {
+          "name": "Blackhole",
+          "artist": "Architects",
+          "ms": 200800
+        },
+        {
+          "name": "Caso Marcado - Ao Vivo",
+          "artist": "César Menotti & Fabiano",
+          "ms": 197360
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        },
+        {
+          "name": "Matheus & Kauan",
+          "genres": []
+        },
+        {
+          "name": "Henrique & Juliano",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-22T18:39:57.311409+00:00",
+      "now_playing": {
+        "title": "É Com Ela Que Eu Estou - Ao Vivo",
+        "artist": "Cristiano Araújo",
+        "album": "In The Cities - Ao Vivo Em Cuiabá",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27350ff0f63e65c6eac6e7a5b97"
       },
       "top_tracks": [
         {
