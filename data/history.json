@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-07-20T21:41:23.869253+00:00",
-      "now_playing": {
-        "title": "A Gente Nem Ficou - Ao Vivo",
-        "artist": "Jorge & Mateus",
-        "album": "Live In London - At The Royal Albert Hall (Ao Vivo | Músicas Extras)",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2730c33cbb8fad0158e5bcff4ba"
-      },
-      "top_tracks": [
-        {
-          "name": "Kyouran Hey Kids!!",
-          "artist": "THE ORAL CIGARETTES",
-          "ms": 250973
-        },
-        {
-          "name": "Blackhole",
-          "artist": "Architects",
-          "ms": 200800
-        },
-        {
-          "name": "Um Dia Te Levo Comigo - Ao Vivo",
-          "artist": "Jorge & Mateus",
-          "ms": 202920
-        },
-        {
-          "name": "Animals",
-          "artist": "Architects",
-          "ms": 244364
-        },
-        {
-          "name": "Rainha da Pista",
-          "artist": "ConeCrewDiretoria",
-          "ms": 258742
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Bruno & Marrone",
-          "genres": []
-        },
-        {
-          "name": "Henrique & Juliano",
-          "genres": []
-        },
-        {
-          "name": "Matheus & Kauan",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-07-20T22:57:45.254429+00:00",
       "now_playing": {
         "title": "Amor de Carnaval - Ao Vivo",
@@ -1684,6 +1626,64 @@
     },
     {
       "timestamp": "2026-07-23T06:28:05.976695+00:00",
+      "now_playing": {
+        "title": "Romance - Ao Vivo",
+        "artist": "Humberto & Ronaldo, Jorge e Mateus",
+        "album": "Romance (Ao Vivo)",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2733b5da8e0b9e08d8f1b13b5d3"
+      },
+      "top_tracks": [
+        {
+          "name": "Kyouran Hey Kids!!",
+          "artist": "THE ORAL CIGARETTES",
+          "ms": 250973
+        },
+        {
+          "name": "Paredes - Ao Vivo",
+          "artist": "Jorge & Mateus",
+          "ms": 184032
+        },
+        {
+          "name": "Um Dia Te Levo Comigo - Ao Vivo",
+          "artist": "Jorge & Mateus",
+          "ms": 202920
+        },
+        {
+          "name": "Amor de Carnaval - Ao Vivo",
+          "artist": "Bruno & Marrone",
+          "ms": 184240
+        },
+        {
+          "name": "Blackhole",
+          "artist": "Architects",
+          "ms": 200800
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        },
+        {
+          "name": "Matheus & Kauan",
+          "genres": []
+        },
+        {
+          "name": "Henrique & Juliano",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-23T09:09:03.882379+00:00",
       "now_playing": {
         "title": "Romance - Ao Vivo",
         "artist": "Humberto & Ronaldo, Jorge e Mateus",
