@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-07-20T23:59:16.568054+00:00",
-      "now_playing": {
-        "title": "Lugar Melhor Que BH / Magia E Mistério - Live",
-        "artist": "César Menotti & Fabiano",
-        "album": "Palavras De Amor",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273b770ae5252c4b7a60e93804b"
-      },
-      "top_tracks": [
-        {
-          "name": "Kyouran Hey Kids!!",
-          "artist": "THE ORAL CIGARETTES",
-          "ms": 250973
-        },
-        {
-          "name": "Blackhole",
-          "artist": "Architects",
-          "ms": 200800
-        },
-        {
-          "name": "Paredes - Ao Vivo",
-          "artist": "Jorge & Mateus",
-          "ms": 184032
-        },
-        {
-          "name": "Um Dia Te Levo Comigo - Ao Vivo",
-          "artist": "Jorge & Mateus",
-          "ms": 202920
-        },
-        {
-          "name": "Caso Marcado - Ao Vivo",
-          "artist": "César Menotti & Fabiano",
-          "ms": 197360
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Bruno & Marrone",
-          "genres": []
-        },
-        {
-          "name": "Matheus & Kauan",
-          "genres": []
-        },
-        {
-          "name": "Henrique & Juliano",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-07-21T03:33:01.297779+00:00",
       "now_playing": {
         "title": "Flor E O Beija-Flor (Ao Vivo)",
@@ -1705,6 +1647,64 @@
           "name": "Um Dia Te Levo Comigo - Ao Vivo",
           "artist": "Jorge & Mateus",
           "ms": 202920
+        },
+        {
+          "name": "Amor de Carnaval - Ao Vivo",
+          "artist": "Bruno & Marrone",
+          "ms": 184240
+        },
+        {
+          "name": "Blackhole",
+          "artist": "Architects",
+          "ms": 200800
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        },
+        {
+          "name": "Matheus & Kauan",
+          "genres": []
+        },
+        {
+          "name": "Henrique & Juliano",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-23T12:58:01.300031+00:00",
+      "now_playing": {
+        "title": "Criminal",
+        "artist": "Nevertel",
+        "album": "Start Again",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273b71c0756ba96ba1a82a0a3ce"
+      },
+      "top_tracks": [
+        {
+          "name": "Paredes - Ao Vivo",
+          "artist": "Jorge & Mateus",
+          "ms": 184032
+        },
+        {
+          "name": "Um Dia Te Levo Comigo - Ao Vivo",
+          "artist": "Jorge & Mateus",
+          "ms": 202920
+        },
+        {
+          "name": "Kyouran Hey Kids!!",
+          "artist": "THE ORAL CIGARETTES",
+          "ms": 250973
         },
         {
           "name": "Amor de Carnaval - Ao Vivo",
