@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-07-23T15:11:54.866702+00:00",
-      "now_playing": {
-        "title": "Tarde Demais (feat. Chrystian)",
-        "artist": "Zezé Di Camargo & Luciano, Chrystian",
-        "album": "Zezé Di Camargo & Luciano (2000)",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b27392c6e8c7ddd1d912da9f1ff9"
-      },
-      "top_tracks": [
-        {
-          "name": "Paredes - Ao Vivo",
-          "artist": "Jorge & Mateus",
-          "ms": 184032
-        },
-        {
-          "name": "Amor de Carnaval - Ao Vivo",
-          "artist": "Bruno & Marrone",
-          "ms": 184240
-        },
-        {
-          "name": "Um Dia Te Levo Comigo - Ao Vivo",
-          "artist": "Jorge & Mateus",
-          "ms": 202920
-        },
-        {
-          "name": "Kyouran Hey Kids!!",
-          "artist": "THE ORAL CIGARETTES",
-          "ms": 250973
-        },
-        {
-          "name": "Caso Marcado - Ao Vivo",
-          "artist": "César Menotti & Fabiano",
-          "ms": 197360
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Bruno & Marrone",
-          "genres": []
-        },
-        {
-          "name": "Matheus & Kauan",
-          "genres": []
-        },
-        {
-          "name": "Henrique & Juliano",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-07-23T16:56:25.991941+00:00",
       "now_playing": {
         "title": "Esperando Na Janela - Ao Vivo",
@@ -1684,6 +1626,64 @@
     },
     {
       "timestamp": "2026-07-25T19:46:17.842217+00:00",
+      "now_playing": {
+        "title": "Don’t Look Away",
+        "artist": "The Plot In You",
+        "album": "Don't Look Away",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2739fe878399d9f4941855ee00f"
+      },
+      "top_tracks": [
+        {
+          "name": "Paredes - Ao Vivo",
+          "artist": "Jorge & Mateus",
+          "ms": 184032
+        },
+        {
+          "name": "Caso Marcado - Ao Vivo",
+          "artist": "César Menotti & Fabiano",
+          "ms": 197360
+        },
+        {
+          "name": "Amor de Carnaval - Ao Vivo",
+          "artist": "Bruno & Marrone",
+          "ms": 184240
+        },
+        {
+          "name": "Um Dia Te Levo Comigo - Ao Vivo",
+          "artist": "Jorge & Mateus",
+          "ms": 202920
+        },
+        {
+          "name": "Eu Quero Só Você - Ao Vivo",
+          "artist": "Jorge & Mateus",
+          "ms": 191720
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Matheus & Kauan",
+          "genres": []
+        },
+        {
+          "name": "Henrique & Juliano",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-25T20:48:07.631943+00:00",
       "now_playing": {
         "title": "Don’t Look Away",
         "artist": "The Plot In You",
