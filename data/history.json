@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-07-24T21:36:27.551298+00:00",
-      "now_playing": {
-        "title": "Pode Chorar - Ao Vivo Em Goiânia / 2007",
-        "artist": "Jorge & Mateus",
-        "album": "Jorge & Mateus Ao Vivo Em Goiânia (Ao Vivo Em Goiânia / 2007)",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2733ab1f7757086a6126072be91"
-      },
-      "top_tracks": [
-        {
-          "name": "Paredes - Ao Vivo",
-          "artist": "Jorge & Mateus",
-          "ms": 184032
-        },
-        {
-          "name": "Caso Marcado - Ao Vivo",
-          "artist": "César Menotti & Fabiano",
-          "ms": 197360
-        },
-        {
-          "name": "Amor de Carnaval - Ao Vivo",
-          "artist": "Bruno & Marrone",
-          "ms": 184240
-        },
-        {
-          "name": "Um Dia Te Levo Comigo - Ao Vivo",
-          "artist": "Jorge & Mateus",
-          "ms": 202920
-        },
-        {
-          "name": "Te Assumi Pro Brasil - Ao Vivo",
-          "artist": "Matheus & Kauan",
-          "ms": 162734
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Bruno & Marrone",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Matheus & Kauan",
-          "genres": []
-        },
-        {
-          "name": "Henrique & Juliano",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-07-24T22:58:38.480752+00:00",
       "now_playing": {
         "title": "Cê Que Sabe - Ao Vivo",
@@ -1684,6 +1626,64 @@
     },
     {
       "timestamp": "2026-07-27T04:12:11.389390+00:00",
+      "now_playing": {
+        "title": "A Gente Nem Ficou - Ao Vivo",
+        "artist": "Jorge & Mateus",
+        "album": "Live In London - At The Royal Albert Hall (Ao Vivo | Músicas Extras)",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2730c33cbb8fad0158e5bcff4ba"
+      },
+      "top_tracks": [
+        {
+          "name": "Paredes - Ao Vivo",
+          "artist": "Jorge & Mateus",
+          "ms": 184032
+        },
+        {
+          "name": "Caso Marcado - Ao Vivo",
+          "artist": "César Menotti & Fabiano",
+          "ms": 197360
+        },
+        {
+          "name": "Amor de Carnaval - Ao Vivo",
+          "artist": "Bruno & Marrone",
+          "ms": 184240
+        },
+        {
+          "name": "Um Dia Te Levo Comigo - Ao Vivo",
+          "artist": "Jorge & Mateus",
+          "ms": 202920
+        },
+        {
+          "name": "Eu Quero Só Você - Ao Vivo",
+          "artist": "Jorge & Mateus",
+          "ms": 191720
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Matheus & Kauan",
+          "genres": []
+        },
+        {
+          "name": "Henrique & Juliano",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-27T08:00:25.504918+00:00",
       "now_playing": {
         "title": "A Gente Nem Ficou - Ao Vivo",
         "artist": "Jorge & Mateus",
