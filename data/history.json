@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-07-25T21:52:47.627607+00:00",
-      "now_playing": {
-        "title": "No Foco",
-        "artist": "LVCAS",
-        "album": "Humanamente",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b27379f5ddb4fa5e66daee7f573d"
-      },
-      "top_tracks": [
-        {
-          "name": "Paredes - Ao Vivo",
-          "artist": "Jorge & Mateus",
-          "ms": 184032
-        },
-        {
-          "name": "Caso Marcado - Ao Vivo",
-          "artist": "César Menotti & Fabiano",
-          "ms": 197360
-        },
-        {
-          "name": "Amor de Carnaval - Ao Vivo",
-          "artist": "Bruno & Marrone",
-          "ms": 184240
-        },
-        {
-          "name": "Um Dia Te Levo Comigo - Ao Vivo",
-          "artist": "Jorge & Mateus",
-          "ms": 202920
-        },
-        {
-          "name": "Eu Quero Só Você - Ao Vivo",
-          "artist": "Jorge & Mateus",
-          "ms": 191720
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Bruno & Marrone",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Matheus & Kauan",
-          "genres": []
-        },
-        {
-          "name": "Henrique & Juliano",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-07-25T22:53:03.529039+00:00",
       "now_playing": {
         "title": "Castigo - Ao Vivo Em Goiânia / 2007",
@@ -1689,6 +1631,64 @@
         "artist": "Ed Sheeran",
         "album": "÷ (Deluxe)",
         "image_url": "https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96"
+      },
+      "top_tracks": [
+        {
+          "name": "Caso Marcado - Ao Vivo",
+          "artist": "César Menotti & Fabiano",
+          "ms": 197360
+        },
+        {
+          "name": "Amor de Carnaval - Ao Vivo",
+          "artist": "Bruno & Marrone",
+          "ms": 184240
+        },
+        {
+          "name": "Eu Ligo Pra Você - Ao Vivo",
+          "artist": "Zé Neto & Cristiano",
+          "ms": 173666
+        },
+        {
+          "name": "Eu Quero Só Você - Ao Vivo",
+          "artist": "Jorge & Mateus",
+          "ms": 191720
+        },
+        {
+          "name": "Inventor dos Amores (feat. Jorge & Mateus) - Ao Vivo",
+          "artist": "Gusttavo Lima, Jorge & Mateus",
+          "ms": 197946
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Matheus & Kauan",
+          "genres": []
+        },
+        {
+          "name": "Henrique & Juliano",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-28T16:08:19.355628+00:00",
+      "now_playing": {
+        "title": "Eu, Você, O Mar e Ela",
+        "artist": "Luan Santana",
+        "album": "1977",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2731711f153c860d22a47e70893"
       },
       "top_tracks": [
         {
