@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-07-27T04:12:11.389390+00:00",
-      "now_playing": {
-        "title": "A Gente Nem Ficou - Ao Vivo",
-        "artist": "Jorge & Mateus",
-        "album": "Live In London - At The Royal Albert Hall (Ao Vivo | Músicas Extras)",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2730c33cbb8fad0158e5bcff4ba"
-      },
-      "top_tracks": [
-        {
-          "name": "Paredes - Ao Vivo",
-          "artist": "Jorge & Mateus",
-          "ms": 184032
-        },
-        {
-          "name": "Caso Marcado - Ao Vivo",
-          "artist": "César Menotti & Fabiano",
-          "ms": 197360
-        },
-        {
-          "name": "Amor de Carnaval - Ao Vivo",
-          "artist": "Bruno & Marrone",
-          "ms": 184240
-        },
-        {
-          "name": "Um Dia Te Levo Comigo - Ao Vivo",
-          "artist": "Jorge & Mateus",
-          "ms": 202920
-        },
-        {
-          "name": "Eu Quero Só Você - Ao Vivo",
-          "artist": "Jorge & Mateus",
-          "ms": 191720
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Bruno & Marrone",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Matheus & Kauan",
-          "genres": []
-        },
-        {
-          "name": "Henrique & Juliano",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-07-27T08:00:25.504918+00:00",
       "now_playing": {
         "title": "A Gente Nem Ficou - Ao Vivo",
@@ -1689,6 +1631,64 @@
         "artist": "João Gomes",
         "album": "Digo Ou Não Digo",
         "image_url": "https://i.scdn.co/image/ab67616d0000b273c5e141c9a2d4f729a57f2470"
+      },
+      "top_tracks": [
+        {
+          "name": "Caso Marcado - Ao Vivo",
+          "artist": "César Menotti & Fabiano",
+          "ms": 197360
+        },
+        {
+          "name": "Eu Ligo Pra Você - Ao Vivo",
+          "artist": "Zé Neto & Cristiano",
+          "ms": 173666
+        },
+        {
+          "name": "Paredes - Ao Vivo",
+          "artist": "Jorge & Mateus",
+          "ms": 184032
+        },
+        {
+          "name": "Eu Quero Só Você - Ao Vivo",
+          "artist": "Jorge & Mateus",
+          "ms": 191720
+        },
+        {
+          "name": "Um Dia Te Levo Comigo - Ao Vivo",
+          "artist": "Jorge & Mateus",
+          "ms": 202920
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Matheus & Kauan",
+          "genres": []
+        },
+        {
+          "name": "Henrique & Juliano",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-29T20:52:49.042023+00:00",
+      "now_playing": {
+        "title": "You Rock My World",
+        "artist": "Michael Jackson",
+        "album": "Invincible",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27376bfd700e0c47fae7f2c7b75"
       },
       "top_tracks": [
         {
