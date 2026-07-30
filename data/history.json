@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-07-27T21:37:08.077367+00:00",
-      "now_playing": {
-        "title": "Amigos Até Certa Instância",
-        "artist": "Jovem Dionisio",
-        "album": "Amigos Até Certa Instância",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273e8091fa9228c60e1e55e8f79"
-      },
-      "top_tracks": [
-        {
-          "name": "Caso Marcado - Ao Vivo",
-          "artist": "César Menotti & Fabiano",
-          "ms": 197360
-        },
-        {
-          "name": "Paredes - Ao Vivo",
-          "artist": "Jorge & Mateus",
-          "ms": 184032
-        },
-        {
-          "name": "Amor de Carnaval - Ao Vivo",
-          "artist": "Bruno & Marrone",
-          "ms": 184240
-        },
-        {
-          "name": "Eu Ligo Pra Você - Ao Vivo",
-          "artist": "Zé Neto & Cristiano",
-          "ms": 173666
-        },
-        {
-          "name": "Eu Quero Só Você - Ao Vivo",
-          "artist": "Jorge & Mateus",
-          "ms": 191720
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Bruno & Marrone",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Matheus & Kauan",
-          "genres": []
-        },
-        {
-          "name": "Henrique & Juliano",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-07-27T22:58:31.093529+00:00",
       "now_playing": {
         "title": "EU TE AMO",
@@ -1684,6 +1626,64 @@
     },
     {
       "timestamp": "2026-07-30T09:12:01.708877+00:00",
+      "now_playing": {
+        "title": "NÃO VOU FALAR DE AMOR",
+        "artist": "Lagum",
+        "album": "MEMÓRIAS (de onde eu nunca fui)",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27351686d809de14a6d5b270eec"
+      },
+      "top_tracks": [
+        {
+          "name": "Caso Marcado - Ao Vivo",
+          "artist": "César Menotti & Fabiano",
+          "ms": 197360
+        },
+        {
+          "name": "Eu Ligo Pra Você - Ao Vivo",
+          "artist": "Zé Neto & Cristiano",
+          "ms": 173666
+        },
+        {
+          "name": "Eu Quero Só Você - Ao Vivo",
+          "artist": "Jorge & Mateus",
+          "ms": 191720
+        },
+        {
+          "name": "Blackhole",
+          "artist": "Architects",
+          "ms": 200800
+        },
+        {
+          "name": "Um Dia Te Levo Comigo - Ao Vivo",
+          "artist": "Jorge & Mateus",
+          "ms": 202920
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Matheus & Kauan",
+          "genres": []
+        },
+        {
+          "name": "Henrique & Juliano",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-30T11:27:47.306123+00:00",
       "now_playing": {
         "title": "NÃO VOU FALAR DE AMOR",
         "artist": "Lagum",
