@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-07-29T16:48:25.868562+00:00",
-      "now_playing": {
-        "title": "Infiel - Ao Vivo",
-        "artist": "Marília Mendonça",
-        "album": "Marília Mendonça (Ao Vivo)",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2737b4293f65f8fe7003c29279c"
-      },
-      "top_tracks": [
-        {
-          "name": "Caso Marcado - Ao Vivo",
-          "artist": "César Menotti & Fabiano",
-          "ms": 197360
-        },
-        {
-          "name": "Eu Ligo Pra Você - Ao Vivo",
-          "artist": "Zé Neto & Cristiano",
-          "ms": 173666
-        },
-        {
-          "name": "Paredes - Ao Vivo",
-          "artist": "Jorge & Mateus",
-          "ms": 184032
-        },
-        {
-          "name": "Eu Quero Só Você - Ao Vivo",
-          "artist": "Jorge & Mateus",
-          "ms": 191720
-        },
-        {
-          "name": "Um Dia Te Levo Comigo - Ao Vivo",
-          "artist": "Jorge & Mateus",
-          "ms": 202920
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Bruno & Marrone",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Matheus & Kauan",
-          "genres": []
-        },
-        {
-          "name": "Henrique & Juliano",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-07-29T18:04:16.195906+00:00",
       "now_playing": {
         "title": "Like a Stone",
@@ -1736,6 +1678,64 @@
         },
         {
           "name": "Henrique & Juliano",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-08-01T03:59:53.168106+00:00",
+      "now_playing": {
+        "title": "Até Você Voltar - Ao Vivo",
+        "artist": "Henrique & Juliano",
+        "album": "Até Você Voltar (Ao Vivo)",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2734453a73d31d7a3fd8a23e0c9"
+      },
+      "top_tracks": [
+        {
+          "name": "Caso Marcado - Ao Vivo",
+          "artist": "César Menotti & Fabiano",
+          "ms": 197360
+        },
+        {
+          "name": "Blackhole",
+          "artist": "Architects",
+          "ms": 200800
+        },
+        {
+          "name": "Eu Quero Só Você - Ao Vivo",
+          "artist": "Jorge & Mateus",
+          "ms": 191720
+        },
+        {
+          "name": "Um Dia Te Levo Comigo - Ao Vivo",
+          "artist": "Jorge & Mateus",
+          "ms": 202920
+        },
+        {
+          "name": "Eu Ligo Pra Você - Ao Vivo",
+          "artist": "Zé Neto & Cristiano",
+          "ms": 173666
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Henrique & Juliano",
+          "genres": []
+        },
+        {
+          "name": "César Menotti & Fabiano",
           "genres": []
         }
       ]
