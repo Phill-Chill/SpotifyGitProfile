@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-07-31T12:53:25.067137+00:00",
-      "now_playing": {
-        "title": "Que Sorte A Nossa - Ao Vivo",
-        "artist": "Matheus & Kauan",
-        "album": "Face A Face (Live)",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273c08f5933fbe44282925bc9e0"
-      },
-      "top_tracks": [
-        {
-          "name": "Caso Marcado - Ao Vivo",
-          "artist": "César Menotti & Fabiano",
-          "ms": 197360
-        },
-        {
-          "name": "Eu Quero Só Você - Ao Vivo",
-          "artist": "Jorge & Mateus",
-          "ms": 191720
-        },
-        {
-          "name": "Eu Ligo Pra Você - Ao Vivo",
-          "artist": "Zé Neto & Cristiano",
-          "ms": 173666
-        },
-        {
-          "name": "Amor de Carnaval - Ao Vivo",
-          "artist": "Bruno & Marrone",
-          "ms": 184240
-        },
-        {
-          "name": "Blackhole",
-          "artist": "Architects",
-          "ms": 200800
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Bruno & Marrone",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Matheus & Kauan",
-          "genres": []
-        },
-        {
-          "name": "Henrique & Juliano",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-07-31T15:16:45.918343+00:00",
       "now_playing": {
         "title": "Borboletas",
@@ -1715,6 +1657,64 @@
           "name": "Inventor dos Amores (feat. Jorge & Mateus) - Ao Vivo",
           "artist": "Gusttavo Lima, Jorge & Mateus",
           "ms": 197946
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Henrique & Juliano",
+          "genres": []
+        },
+        {
+          "name": "César Menotti & Fabiano",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-08-02T16:55:27.743835+00:00",
+      "now_playing": {
+        "title": "Eu Não Venci o Sistema",
+        "artist": "Sid, Chiocki",
+        "album": "Eu Não Venci o Sistema",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2734979c16ad2ba4e81b5c1e7dc"
+      },
+      "top_tracks": [
+        {
+          "name": "Blackhole",
+          "artist": "Architects",
+          "ms": 200800
+        },
+        {
+          "name": "Nada Nada (Ao Vivo)",
+          "artist": "Henrique & Juliano",
+          "ms": 156721
+        },
+        {
+          "name": "Caso Marcado - Ao Vivo",
+          "artist": "César Menotti & Fabiano",
+          "ms": 197360
+        },
+        {
+          "name": "Inventor dos Amores (feat. Jorge & Mateus) - Ao Vivo",
+          "artist": "Gusttavo Lima, Jorge & Mateus",
+          "ms": 197946
+        },
+        {
+          "name": "Evidências",
+          "artist": "Chitãozinho & Xororó",
+          "ms": 279293
         }
       ],
       "top_artists": [
