@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-08-01T10:56:48.353831+00:00",
-      "now_playing": {
-        "title": "Até Você Voltar - Ao Vivo",
-        "artist": "Henrique & Juliano",
-        "album": "Até Você Voltar (Ao Vivo)",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2734453a73d31d7a3fd8a23e0c9"
-      },
-      "top_tracks": [
-        {
-          "name": "Caso Marcado - Ao Vivo",
-          "artist": "César Menotti & Fabiano",
-          "ms": 197360
-        },
-        {
-          "name": "Blackhole",
-          "artist": "Architects",
-          "ms": 200800
-        },
-        {
-          "name": "Eu Quero Só Você - Ao Vivo",
-          "artist": "Jorge & Mateus",
-          "ms": 191720
-        },
-        {
-          "name": "Um Dia Te Levo Comigo - Ao Vivo",
-          "artist": "Jorge & Mateus",
-          "ms": 202920
-        },
-        {
-          "name": "Eu Ligo Pra Você - Ao Vivo",
-          "artist": "Zé Neto & Cristiano",
-          "ms": 173666
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Bruno & Marrone",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Henrique & Juliano",
-          "genres": []
-        },
-        {
-          "name": "César Menotti & Fabiano",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-08-01T12:02:25.750221+00:00",
       "now_playing": {
         "title": "Lugar Melhor Que BH / Magia E Mistério - Live",
@@ -1728,6 +1670,64 @@
         },
         {
           "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Henrique & Juliano",
+          "genres": []
+        },
+        {
+          "name": "César Menotti & Fabiano",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-08-03T15:24:56.423337+00:00",
+      "now_playing": {
+        "title": "Nada Nada (Ao Vivo)",
+        "artist": "Henrique & Juliano",
+        "album": "Novas Histórias (Ao Vivo)",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2736f77a385515006e6af3558cd"
+      },
+      "top_tracks": [
+        {
+          "name": "Blackhole",
+          "artist": "Architects",
+          "ms": 200800
+        },
+        {
+          "name": "Nada Nada (Ao Vivo)",
+          "artist": "Henrique & Juliano",
+          "ms": 156721
+        },
+        {
+          "name": "Caso Marcado - Ao Vivo",
+          "artist": "César Menotti & Fabiano",
+          "ms": 197360
+        },
+        {
+          "name": "Inventor dos Amores (feat. Jorge & Mateus) - Ao Vivo",
+          "artist": "Gusttavo Lima, Jorge & Mateus",
+          "ms": 197946
+        },
+        {
+          "name": "Evidências",
+          "artist": "Chitãozinho & Xororó",
+          "ms": 279293
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
           "genres": []
         },
         {
