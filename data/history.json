@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-08-03T05:01:52.037115+00:00",
-      "now_playing": {
-        "title": "Alma de Guerreiro - Ao Vivo",
-        "artist": "Seu Jorge",
-        "album": "Musicas para Churrasco, Vol.1 (Ao Vivo) [Delux Edition]",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273e2e185d7dab2943d0e87b4ce"
-      },
-      "top_tracks": [
-        {
-          "name": "Blackhole",
-          "artist": "Architects",
-          "ms": 200800
-        },
-        {
-          "name": "Nada Nada (Ao Vivo)",
-          "artist": "Henrique & Juliano",
-          "ms": 156721
-        },
-        {
-          "name": "Caso Marcado - Ao Vivo",
-          "artist": "César Menotti & Fabiano",
-          "ms": 197360
-        },
-        {
-          "name": "Inventor dos Amores (feat. Jorge & Mateus) - Ao Vivo",
-          "artist": "Gusttavo Lima, Jorge & Mateus",
-          "ms": 197946
-        },
-        {
-          "name": "Eu Ligo Pra Você - Ao Vivo",
-          "artist": "Zé Neto & Cristiano",
-          "ms": 173666
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Bruno & Marrone",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Henrique & Juliano",
-          "genres": []
-        },
-        {
-          "name": "César Menotti & Fabiano",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-08-03T08:47:01.000271+00:00",
       "now_playing": {
         "title": "Alma de Guerreiro - Ao Vivo",
@@ -1689,6 +1631,64 @@
         "artist": "Caravan Palace",
         "album": "Panic",
         "image_url": "https://i.scdn.co/image/ab67616d0000b273d4189ca2964e92b5e5e545ed"
+      },
+      "top_tracks": [
+        {
+          "name": "Blackhole",
+          "artist": "Architects",
+          "ms": 200800
+        },
+        {
+          "name": "Nada Nada (Ao Vivo)",
+          "artist": "Henrique & Juliano",
+          "ms": 156721
+        },
+        {
+          "name": "Caso Marcado - Ao Vivo",
+          "artist": "César Menotti & Fabiano",
+          "ms": 197360
+        },
+        {
+          "name": "Só se fu…",
+          "artist": "Jean Tassy, Iuri Rio Branco, Yago Oproprio",
+          "ms": 180092
+        },
+        {
+          "name": "Inventor dos Amores (feat. Jorge & Mateus) - Ao Vivo",
+          "artist": "Gusttavo Lima, Jorge & Mateus",
+          "ms": 197946
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        },
+        {
+          "name": "Henrique & Juliano",
+          "genres": []
+        },
+        {
+          "name": "César Menotti & Fabiano",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-08-05T23:28:28.979726+00:00",
+      "now_playing": {
+        "title": "Segue e Vai",
+        "artist": "Rô Rosa, Yago Oproprio, Patricio Sid, EME Lab",
+        "album": "Segue e Vai",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27351289f9f18ce13baba4e0425"
       },
       "top_tracks": [
         {
