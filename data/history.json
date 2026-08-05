@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-08-02T20:27:34.919539+00:00",
-      "now_playing": {
-        "title": "Chama os Mulekes",
-        "artist": "ConeCrewDiretoria",
-        "album": "Com os Neurônios Evoluindo",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b27342f5b01213c8031ee2ec0421"
-      },
-      "top_tracks": [
-        {
-          "name": "Blackhole",
-          "artist": "Architects",
-          "ms": 200800
-        },
-        {
-          "name": "Nada Nada (Ao Vivo)",
-          "artist": "Henrique & Juliano",
-          "ms": 156721
-        },
-        {
-          "name": "Caso Marcado - Ao Vivo",
-          "artist": "César Menotti & Fabiano",
-          "ms": 197360
-        },
-        {
-          "name": "Inventor dos Amores (feat. Jorge & Mateus) - Ao Vivo",
-          "artist": "Gusttavo Lima, Jorge & Mateus",
-          "ms": 197946
-        },
-        {
-          "name": "Evidências",
-          "artist": "Chitãozinho & Xororó",
-          "ms": 279293
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Bruno & Marrone",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Henrique & Juliano",
-          "genres": []
-        },
-        {
-          "name": "César Menotti & Fabiano",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-08-02T21:25:48.605829+00:00",
       "now_playing": {
         "title": "Saideira",
@@ -1689,6 +1631,64 @@
         "artist": "Yago Oproprio",
         "album": "O Curioso Caso de Robson",
         "image_url": "https://i.scdn.co/image/ab67616d0000b273e66851a64458f2091e671a62"
+      },
+      "top_tracks": [
+        {
+          "name": "Blackhole",
+          "artist": "Architects",
+          "ms": 200800
+        },
+        {
+          "name": "Nada Nada (Ao Vivo)",
+          "artist": "Henrique & Juliano",
+          "ms": 156721
+        },
+        {
+          "name": "Caso Marcado - Ao Vivo",
+          "artist": "César Menotti & Fabiano",
+          "ms": 197360
+        },
+        {
+          "name": "Só se fu…",
+          "artist": "Jean Tassy, Iuri Rio Branco, Yago Oproprio",
+          "ms": 180092
+        },
+        {
+          "name": "Inventor dos Amores (feat. Jorge & Mateus) - Ao Vivo",
+          "artist": "Gusttavo Lima, Jorge & Mateus",
+          "ms": 197946
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        },
+        {
+          "name": "Henrique & Juliano",
+          "genres": []
+        },
+        {
+          "name": "César Menotti & Fabiano",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-08-05T15:21:20.875104+00:00",
+      "now_playing": {
+        "title": "Somebody",
+        "artist": "Memphis May Fire",
+        "album": "Remade In Misery",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273af21215596c94b97533efe70"
       },
       "top_tracks": [
         {
