@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-08-02T14:26:54.385478+00:00",
-      "now_playing": {
-        "title": "Encruzilhada",
-        "artist": "Yago Oproprio, Emmano, Patricio Sid, EME Lab",
-        "album": "À La Carte",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273df0ffea5acf85be2837bd83e"
-      },
-      "top_tracks": [
-        {
-          "name": "Blackhole",
-          "artist": "Architects",
-          "ms": 200800
-        },
-        {
-          "name": "Caso Marcado - Ao Vivo",
-          "artist": "César Menotti & Fabiano",
-          "ms": 197360
-        },
-        {
-          "name": "Nada Nada (Ao Vivo)",
-          "artist": "Henrique & Juliano",
-          "ms": 156721
-        },
-        {
-          "name": "Inventor dos Amores (feat. Jorge & Mateus) - Ao Vivo",
-          "artist": "Gusttavo Lima, Jorge & Mateus",
-          "ms": 197946
-        },
-        {
-          "name": "Evidências",
-          "artist": "Chitãozinho & Xororó",
-          "ms": 279293
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Bruno & Marrone",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Henrique & Juliano",
-          "genres": []
-        },
-        {
-          "name": "César Menotti & Fabiano",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-08-02T15:38:20.595490+00:00",
       "now_playing": {
         "title": "Maloca É Maré - Sabotage 50",
@@ -1689,6 +1631,64 @@
         "artist": "Yago Oproprio",
         "album": "Amor Incendiário",
         "image_url": "https://i.scdn.co/image/ab67616d0000b2737829e062d09abb0def98974c"
+      },
+      "top_tracks": [
+        {
+          "name": "Blackhole",
+          "artist": "Architects",
+          "ms": 200800
+        },
+        {
+          "name": "Nada Nada (Ao Vivo)",
+          "artist": "Henrique & Juliano",
+          "ms": 156721
+        },
+        {
+          "name": "Caso Marcado - Ao Vivo",
+          "artist": "César Menotti & Fabiano",
+          "ms": 197360
+        },
+        {
+          "name": "Só se fu…",
+          "artist": "Jean Tassy, Iuri Rio Branco, Yago Oproprio",
+          "ms": 180092
+        },
+        {
+          "name": "Inventor dos Amores (feat. Jorge & Mateus) - Ao Vivo",
+          "artist": "Gusttavo Lima, Jorge & Mateus",
+          "ms": 197946
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        },
+        {
+          "name": "Henrique & Juliano",
+          "genres": []
+        },
+        {
+          "name": "César Menotti & Fabiano",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-08-05T02:11:40.269543+00:00",
+      "now_playing": {
+        "title": "O Desespero de Odete",
+        "artist": "Yago Oproprio, Murica, BEATDOMK",
+        "album": "O Desespero de Odete",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273367d828a0d5787074e394d3f"
       },
       "top_tracks": [
         {
