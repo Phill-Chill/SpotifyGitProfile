@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-08-05T17:00:48.053675+00:00",
-      "now_playing": {
-        "title": "Static",
-        "artist": "Sleep Theory",
-        "album": "Afterglow",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273495fe24a62391c5876a54d80"
-      },
-      "top_tracks": [
-        {
-          "name": "Blackhole",
-          "artist": "Architects",
-          "ms": 200800
-        },
-        {
-          "name": "Nada Nada (Ao Vivo)",
-          "artist": "Henrique & Juliano",
-          "ms": 156721
-        },
-        {
-          "name": "Caso Marcado - Ao Vivo",
-          "artist": "César Menotti & Fabiano",
-          "ms": 197360
-        },
-        {
-          "name": "Só se fu…",
-          "artist": "Jean Tassy, Iuri Rio Branco, Yago Oproprio",
-          "ms": 180092
-        },
-        {
-          "name": "Inventor dos Amores (feat. Jorge & Mateus) - Ao Vivo",
-          "artist": "Gusttavo Lima, Jorge & Mateus",
-          "ms": 197946
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Bruno & Marrone",
-          "genres": []
-        },
-        {
-          "name": "Henrique & Juliano",
-          "genres": []
-        },
-        {
-          "name": "César Menotti & Fabiano",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-08-05T19:00:44.819921+00:00",
       "now_playing": {
         "title": "No Foco",
@@ -1689,6 +1631,64 @@
         "artist": "Toquinho, Paulinho Nogueira",
         "album": "Toquinho e Paulinho Nogueira",
         "image_url": "https://i.scdn.co/image/ab67616d0000b273375ebceb230e91e847c747d2"
+      },
+      "top_tracks": [
+        {
+          "name": "Blackhole",
+          "artist": "Architects",
+          "ms": 200800
+        },
+        {
+          "name": "Nada Nada (Ao Vivo)",
+          "artist": "Henrique & Juliano",
+          "ms": 156721
+        },
+        {
+          "name": "Só se fu…",
+          "artist": "Jean Tassy, Iuri Rio Branco, Yago Oproprio",
+          "ms": 180092
+        },
+        {
+          "name": "残機",
+          "artist": "ZUTOMAYO",
+          "ms": 230373
+        },
+        {
+          "name": "Criminal",
+          "artist": "Nevertel",
+          "ms": 175578
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        },
+        {
+          "name": "Henrique & Juliano",
+          "genres": []
+        },
+        {
+          "name": "César Menotti & Fabiano",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-08-07T23:57:37.413609+00:00",
+      "now_playing": {
+        "title": "Aniversário de Sobriedade",
+        "artist": "Black Alien",
+        "album": "Abaixo de Zero: Hello Hell",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273f8944e77d77b2dfe04f852f4"
       },
       "top_tracks": [
         {
