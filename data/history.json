@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-08-07T10:49:45.544977+00:00",
-      "now_playing": {
-        "title": "Se Eu Chorar - Ao Vivo",
-        "artist": "Jorge & Mateus",
-        "album": "Live In London - At The Royal Albert Hall (Ao Vivo)",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2737541a7dd6385ccb55185c2ce"
-      },
-      "top_tracks": [
-        {
-          "name": "Blackhole",
-          "artist": "Architects",
-          "ms": 200800
-        },
-        {
-          "name": "Nada Nada (Ao Vivo)",
-          "artist": "Henrique & Juliano",
-          "ms": 156721
-        },
-        {
-          "name": "Só se fu…",
-          "artist": "Jean Tassy, Iuri Rio Branco, Yago Oproprio",
-          "ms": 180092
-        },
-        {
-          "name": "残機",
-          "artist": "ZUTOMAYO",
-          "ms": 230373
-        },
-        {
-          "name": "Caso Marcado - Ao Vivo",
-          "artist": "César Menotti & Fabiano",
-          "ms": 197360
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Bruno & Marrone",
-          "genres": []
-        },
-        {
-          "name": "Henrique & Juliano",
-          "genres": []
-        },
-        {
-          "name": "César Menotti & Fabiano",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-08-07T11:42:31.123987+00:00",
       "now_playing": {
         "title": "Se Eu Chorar - Ao Vivo",
@@ -1689,6 +1631,64 @@
         "artist": "Kid Abelha",
         "album": "Multishow ao Vivo: Kid Abelha 30 anos",
         "image_url": "https://i.scdn.co/image/ab67616d0000b273501d97a56259ad043e8d94f4"
+      },
+      "top_tracks": [
+        {
+          "name": "Blackhole",
+          "artist": "Architects",
+          "ms": 200800
+        },
+        {
+          "name": "Nada Nada (Ao Vivo)",
+          "artist": "Henrique & Juliano",
+          "ms": 156721
+        },
+        {
+          "name": "Só se fu…",
+          "artist": "Jean Tassy, Iuri Rio Branco, Yago Oproprio",
+          "ms": 180092
+        },
+        {
+          "name": "残機",
+          "artist": "ZUTOMAYO",
+          "ms": 230373
+        },
+        {
+          "name": "Criminal",
+          "artist": "Nevertel",
+          "ms": 175578
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        },
+        {
+          "name": "César Menotti & Fabiano",
+          "genres": []
+        },
+        {
+          "name": "LVCAS",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-08-08T16:29:01.507603+00:00",
+      "now_playing": {
+        "title": "Pontos de Exclamação",
+        "artist": "Jovem Dionisio",
+        "album": "Pontos de Exclamação",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2736ea95d31b289864b0cc890b4"
       },
       "top_tracks": [
         {
