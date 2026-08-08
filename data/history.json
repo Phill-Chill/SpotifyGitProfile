@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-08-05T19:00:44.819921+00:00",
-      "now_playing": {
-        "title": "No Foco",
-        "artist": "LVCAS",
-        "album": "Humanamente",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b27379f5ddb4fa5e66daee7f573d"
-      },
-      "top_tracks": [
-        {
-          "name": "Blackhole",
-          "artist": "Architects",
-          "ms": 200800
-        },
-        {
-          "name": "Nada Nada (Ao Vivo)",
-          "artist": "Henrique & Juliano",
-          "ms": 156721
-        },
-        {
-          "name": "Caso Marcado - Ao Vivo",
-          "artist": "César Menotti & Fabiano",
-          "ms": 197360
-        },
-        {
-          "name": "Só se fu…",
-          "artist": "Jean Tassy, Iuri Rio Branco, Yago Oproprio",
-          "ms": 180092
-        },
-        {
-          "name": "Inventor dos Amores (feat. Jorge & Mateus) - Ao Vivo",
-          "artist": "Gusttavo Lima, Jorge & Mateus",
-          "ms": 197946
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Bruno & Marrone",
-          "genres": []
-        },
-        {
-          "name": "Henrique & Juliano",
-          "genres": []
-        },
-        {
-          "name": "César Menotti & Fabiano",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-08-05T20:43:15.322660+00:00",
       "now_playing": {
         "title": "Falling Apart",
@@ -1689,6 +1631,64 @@
         "artist": "Black Alien",
         "album": "Abaixo de Zero: Hello Hell",
         "image_url": "https://i.scdn.co/image/ab67616d0000b273f8944e77d77b2dfe04f852f4"
+      },
+      "top_tracks": [
+        {
+          "name": "Blackhole",
+          "artist": "Architects",
+          "ms": 200800
+        },
+        {
+          "name": "Nada Nada (Ao Vivo)",
+          "artist": "Henrique & Juliano",
+          "ms": 156721
+        },
+        {
+          "name": "Só se fu…",
+          "artist": "Jean Tassy, Iuri Rio Branco, Yago Oproprio",
+          "ms": 180092
+        },
+        {
+          "name": "残機",
+          "artist": "ZUTOMAYO",
+          "ms": 230373
+        },
+        {
+          "name": "Criminal",
+          "artist": "Nevertel",
+          "ms": 175578
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        },
+        {
+          "name": "Henrique & Juliano",
+          "genres": []
+        },
+        {
+          "name": "César Menotti & Fabiano",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-08-08T01:50:51.598798+00:00",
+      "now_playing": {
+        "title": "Feel Invincible",
+        "artist": "Skillet",
+        "album": "Unleashed",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2733387bacdfd59f32e14dbe17a"
       },
       "top_tracks": [
         {
