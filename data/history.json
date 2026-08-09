@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-08-08T12:41:00.029276+00:00",
-      "now_playing": {
-        "title": "Senhor Do Tempo",
-        "artist": "Charlie Brown Jr.",
-        "album": "Imunidade Musical",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2735e7cb9ed84348b98973c823f"
-      },
-      "top_tracks": [
-        {
-          "name": "Blackhole",
-          "artist": "Architects",
-          "ms": 200800
-        },
-        {
-          "name": "Nada Nada (Ao Vivo)",
-          "artist": "Henrique & Juliano",
-          "ms": 156721
-        },
-        {
-          "name": "Só se fu…",
-          "artist": "Jean Tassy, Iuri Rio Branco, Yago Oproprio",
-          "ms": 180092
-        },
-        {
-          "name": "残機",
-          "artist": "ZUTOMAYO",
-          "ms": 230373
-        },
-        {
-          "name": "Criminal",
-          "artist": "Nevertel",
-          "ms": 175578
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Bruno & Marrone",
-          "genres": []
-        },
-        {
-          "name": "Henrique & Juliano",
-          "genres": []
-        },
-        {
-          "name": "César Menotti & Fabiano",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-08-08T13:42:32.358884+00:00",
       "now_playing": {
         "title": "残機",
@@ -1689,6 +1631,64 @@
         "artist": "Panic! At The Disco",
         "album": "Pray for the Wicked",
         "image_url": "https://i.scdn.co/image/ab67616d0000b273c5148520a59be191eea16989"
+      },
+      "top_tracks": [
+        {
+          "name": "Blackhole",
+          "artist": "Architects",
+          "ms": 200800
+        },
+        {
+          "name": "Nada Nada (Ao Vivo)",
+          "artist": "Henrique & Juliano",
+          "ms": 156721
+        },
+        {
+          "name": "Só se fu…",
+          "artist": "Jean Tassy, Iuri Rio Branco, Yago Oproprio",
+          "ms": 180092
+        },
+        {
+          "name": "残機",
+          "artist": "ZUTOMAYO",
+          "ms": 230373
+        },
+        {
+          "name": "Criminal",
+          "artist": "Nevertel",
+          "ms": 175578
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        },
+        {
+          "name": "César Menotti & Fabiano",
+          "genres": []
+        },
+        {
+          "name": "LVCAS",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-08-09T14:31:06.936061+00:00",
+      "now_playing": {
+        "title": "Electric Love",
+        "artist": "BØRNS",
+        "album": "Dopamine",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273cc2cf912462d8ae4ef856434"
       },
       "top_tracks": [
         {
