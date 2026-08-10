@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-08-09T14:31:06.936061+00:00",
-      "now_playing": {
-        "title": "Electric Love",
-        "artist": "BØRNS",
-        "album": "Dopamine",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273cc2cf912462d8ae4ef856434"
-      },
-      "top_tracks": [
-        {
-          "name": "Blackhole",
-          "artist": "Architects",
-          "ms": 200800
-        },
-        {
-          "name": "Nada Nada (Ao Vivo)",
-          "artist": "Henrique & Juliano",
-          "ms": 156721
-        },
-        {
-          "name": "Só se fu…",
-          "artist": "Jean Tassy, Iuri Rio Branco, Yago Oproprio",
-          "ms": 180092
-        },
-        {
-          "name": "残機",
-          "artist": "ZUTOMAYO",
-          "ms": 230373
-        },
-        {
-          "name": "Criminal",
-          "artist": "Nevertel",
-          "ms": 175578
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Bruno & Marrone",
-          "genres": []
-        },
-        {
-          "name": "César Menotti & Fabiano",
-          "genres": []
-        },
-        {
-          "name": "LVCAS",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-08-09T15:27:56.360004+00:00",
       "now_playing": {
         "title": "My Girl",
@@ -1689,6 +1631,64 @@
         "artist": "Rô Rosa, Yago Oproprio, Patricio Sid, EME Lab",
         "album": "Saudade Pra Curar",
         "image_url": "https://i.scdn.co/image/ab67616d0000b273f69ed576d8e0143d8f5875a2"
+      },
+      "top_tracks": [
+        {
+          "name": "Blackhole",
+          "artist": "Architects",
+          "ms": 200800
+        },
+        {
+          "name": "Só se fu…",
+          "artist": "Jean Tassy, Iuri Rio Branco, Yago Oproprio",
+          "ms": 180092
+        },
+        {
+          "name": "残機",
+          "artist": "ZUTOMAYO",
+          "ms": 230373
+        },
+        {
+          "name": "Nada Nada (Ao Vivo)",
+          "artist": "Henrique & Juliano",
+          "ms": 156721
+        },
+        {
+          "name": "Criminal",
+          "artist": "Nevertel",
+          "ms": 175578
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        },
+        {
+          "name": "LVCAS",
+          "genres": []
+        },
+        {
+          "name": "Bad Omens",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-08-10T21:37:57.678834+00:00",
+      "now_playing": {
+        "title": "Mundo da lua",
+        "artist": "Yago Oproprio, Patricio Sid",
+        "album": "O Inquilino",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273095d700964f7aca87820b01e"
       },
       "top_tracks": [
         {
