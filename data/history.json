@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-08-09T10:31:02.549411+00:00",
-      "now_playing": {
-        "title": "Spotlight",
-        "artist": "Marshmello, Lil Peep",
-        "album": "Spotlight",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273106de83d0b714c2de73dab41"
-      },
-      "top_tracks": [
-        {
-          "name": "Blackhole",
-          "artist": "Architects",
-          "ms": 200800
-        },
-        {
-          "name": "Nada Nada (Ao Vivo)",
-          "artist": "Henrique & Juliano",
-          "ms": 156721
-        },
-        {
-          "name": "Só se fu…",
-          "artist": "Jean Tassy, Iuri Rio Branco, Yago Oproprio",
-          "ms": 180092
-        },
-        {
-          "name": "残機",
-          "artist": "ZUTOMAYO",
-          "ms": 230373
-        },
-        {
-          "name": "Criminal",
-          "artist": "Nevertel",
-          "ms": 175578
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Bruno & Marrone",
-          "genres": []
-        },
-        {
-          "name": "César Menotti & Fabiano",
-          "genres": []
-        },
-        {
-          "name": "LVCAS",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-08-09T11:25:46.240441+00:00",
       "now_playing": {
         "title": "Spotlight",
@@ -1689,6 +1631,64 @@
         "artist": "ZUTOMAYO",
         "album": "残機",
         "image_url": "https://i.scdn.co/image/ab67616d0000b273cc23f581f239e59cea2afc7b"
+      },
+      "top_tracks": [
+        {
+          "name": "Blackhole",
+          "artist": "Architects",
+          "ms": 200800
+        },
+        {
+          "name": "Só se fu…",
+          "artist": "Jean Tassy, Iuri Rio Branco, Yago Oproprio",
+          "ms": 180092
+        },
+        {
+          "name": "残機",
+          "artist": "ZUTOMAYO",
+          "ms": 230373
+        },
+        {
+          "name": "Nada Nada (Ao Vivo)",
+          "artist": "Henrique & Juliano",
+          "ms": 156721
+        },
+        {
+          "name": "Criminal",
+          "artist": "Nevertel",
+          "ms": 175578
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        },
+        {
+          "name": "LVCAS",
+          "genres": []
+        },
+        {
+          "name": "Bad Omens",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-08-10T16:55:27.813881+00:00",
+      "now_playing": {
+        "title": "Curse",
+        "artist": "Architects",
+        "album": "The Sky, The Earth & All Between",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273fa9cf0435132ff2a17ce9d86"
       },
       "top_tracks": [
         {
