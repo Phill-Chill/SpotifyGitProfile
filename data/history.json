@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-08-09T16:42:05.528612+00:00",
-      "now_playing": {
-        "title": "My Girl",
-        "artist": "The Temptations",
-        "album": "The Temptations Sing Smokey",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e"
-      },
-      "top_tracks": [
-        {
-          "name": "Blackhole",
-          "artist": "Architects",
-          "ms": 200800
-        },
-        {
-          "name": "Nada Nada (Ao Vivo)",
-          "artist": "Henrique & Juliano",
-          "ms": 156721
-        },
-        {
-          "name": "Só se fu…",
-          "artist": "Jean Tassy, Iuri Rio Branco, Yago Oproprio",
-          "ms": 180092
-        },
-        {
-          "name": "残機",
-          "artist": "ZUTOMAYO",
-          "ms": 230373
-        },
-        {
-          "name": "Criminal",
-          "artist": "Nevertel",
-          "ms": 175578
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Bruno & Marrone",
-          "genres": []
-        },
-        {
-          "name": "César Menotti & Fabiano",
-          "genres": []
-        },
-        {
-          "name": "LVCAS",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-08-09T17:28:26.295702+00:00",
       "now_playing": {
         "title": "My Girl",
@@ -1689,6 +1631,64 @@
         "artist": "Yago Oproprio, Fleezus, Iuri Rio Branco",
         "album": "Bicho Solto",
         "image_url": "https://i.scdn.co/image/ab67616d0000b27368108fda732d3b2cf1e14e74"
+      },
+      "top_tracks": [
+        {
+          "name": "Blackhole",
+          "artist": "Architects",
+          "ms": 200800
+        },
+        {
+          "name": "Só se fu…",
+          "artist": "Jean Tassy, Iuri Rio Branco, Yago Oproprio",
+          "ms": 180092
+        },
+        {
+          "name": "残機",
+          "artist": "ZUTOMAYO",
+          "ms": 230373
+        },
+        {
+          "name": "Nada Nada (Ao Vivo)",
+          "artist": "Henrique & Juliano",
+          "ms": 156721
+        },
+        {
+          "name": "Criminal",
+          "artist": "Nevertel",
+          "ms": 175578
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        },
+        {
+          "name": "LVCAS",
+          "genres": []
+        },
+        {
+          "name": "Bad Omens",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-08-11T01:24:34.362654+00:00",
+      "now_playing": {
+        "title": "Questão de Tempo",
+        "artist": "Yago Oproprio, Skeeter Beats",
+        "album": "Questão de Tempo",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27379a24dcad266a5c4feb958e6"
       },
       "top_tracks": [
         {
