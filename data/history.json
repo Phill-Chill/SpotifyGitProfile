@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-08-10T11:29:40.399438+00:00",
-      "now_playing": {
-        "title": "残機",
-        "artist": "ZUTOMAYO",
-        "album": "残機",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273cc23f581f239e59cea2afc7b"
-      },
-      "top_tracks": [
-        {
-          "name": "Blackhole",
-          "artist": "Architects",
-          "ms": 200800
-        },
-        {
-          "name": "Só se fu…",
-          "artist": "Jean Tassy, Iuri Rio Branco, Yago Oproprio",
-          "ms": 180092
-        },
-        {
-          "name": "残機",
-          "artist": "ZUTOMAYO",
-          "ms": 230373
-        },
-        {
-          "name": "Nada Nada (Ao Vivo)",
-          "artist": "Henrique & Juliano",
-          "ms": 156721
-        },
-        {
-          "name": "Criminal",
-          "artist": "Nevertel",
-          "ms": 175578
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Bruno & Marrone",
-          "genres": []
-        },
-        {
-          "name": "LVCAS",
-          "genres": []
-        },
-        {
-          "name": "Bad Omens",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-08-10T12:10:42.579266+00:00",
       "now_playing": {
         "title": "残機",
@@ -1689,6 +1631,64 @@
         "artist": "Yago Oproprio, Fleezus, Iuri Rio Branco",
         "album": "Bicho Solto",
         "image_url": "https://i.scdn.co/image/ab67616d0000b27368108fda732d3b2cf1e14e74"
+      },
+      "top_tracks": [
+        {
+          "name": "Só se fu…",
+          "artist": "Jean Tassy, Iuri Rio Branco, Yago Oproprio",
+          "ms": 180092
+        },
+        {
+          "name": "Blackhole",
+          "artist": "Architects",
+          "ms": 200800
+        },
+        {
+          "name": "残機",
+          "artist": "ZUTOMAYO",
+          "ms": 230373
+        },
+        {
+          "name": "Nada Nada (Ao Vivo)",
+          "artist": "Henrique & Juliano",
+          "ms": 156721
+        },
+        {
+          "name": "Criminal",
+          "artist": "Nevertel",
+          "ms": 175578
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        },
+        {
+          "name": "LVCAS",
+          "genres": []
+        },
+        {
+          "name": "César Menotti & Fabiano",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-08-11T21:42:50.281843+00:00",
+      "now_playing": {
+        "title": "Sei Lá",
+        "artist": "Rô Rosa, Patricio Sid, EME Lab",
+        "album": "Achei que era Doce",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273d1a2d403c54d3a3eba2a97d9"
       },
       "top_tracks": [
         {
