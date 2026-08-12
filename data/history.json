@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-08-11T09:33:01.028752+00:00",
-      "now_playing": {
-        "title": "Questão de Tempo",
-        "artist": "Yago Oproprio, Skeeter Beats",
-        "album": "Questão de Tempo",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b27379a24dcad266a5c4feb958e6"
-      },
-      "top_tracks": [
-        {
-          "name": "Blackhole",
-          "artist": "Architects",
-          "ms": 200800
-        },
-        {
-          "name": "Só se fu…",
-          "artist": "Jean Tassy, Iuri Rio Branco, Yago Oproprio",
-          "ms": 180092
-        },
-        {
-          "name": "残機",
-          "artist": "ZUTOMAYO",
-          "ms": 230373
-        },
-        {
-          "name": "Nada Nada (Ao Vivo)",
-          "artist": "Henrique & Juliano",
-          "ms": 156721
-        },
-        {
-          "name": "Criminal",
-          "artist": "Nevertel",
-          "ms": 175578
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Bruno & Marrone",
-          "genres": []
-        },
-        {
-          "name": "LVCAS",
-          "genres": []
-        },
-        {
-          "name": "Bad Omens",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-08-11T10:47:40.827458+00:00",
       "now_playing": {
         "title": "Intro",
@@ -1689,6 +1631,64 @@
         "artist": "Rô Rosa, Yago Oproprio, Patricio Sid, EME Lab",
         "album": "Saudade Pra Curar",
         "image_url": "https://i.scdn.co/image/ab67616d0000b273f69ed576d8e0143d8f5875a2"
+      },
+      "top_tracks": [
+        {
+          "name": "Só se fu…",
+          "artist": "Jean Tassy, Iuri Rio Branco, Yago Oproprio",
+          "ms": 180092
+        },
+        {
+          "name": "残機",
+          "artist": "ZUTOMAYO",
+          "ms": 230373
+        },
+        {
+          "name": "Blackhole",
+          "artist": "Architects",
+          "ms": 200800
+        },
+        {
+          "name": "Criminal",
+          "artist": "Nevertel",
+          "ms": 175578
+        },
+        {
+          "name": "Nada Nada (Ao Vivo)",
+          "artist": "Henrique & Juliano",
+          "ms": 156721
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        },
+        {
+          "name": "LVCAS",
+          "genres": []
+        },
+        {
+          "name": "César Menotti & Fabiano",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-08-12T22:09:56.203148+00:00",
+      "now_playing": {
+        "title": "Nuvens tóxicas",
+        "artist": "Yago Oproprio, Patricio Sid",
+        "album": "O Inquilino",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273095d700964f7aca87820b01e"
       },
       "top_tracks": [
         {
