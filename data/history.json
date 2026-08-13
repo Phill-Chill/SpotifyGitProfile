@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-08-12T08:46:22.934091+00:00",
-      "now_playing": {
-        "title": "Farol",
-        "artist": "Tupi, Yago Oproprio",
-        "album": "Farol",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273cda262878c4561caa48b8bcd"
-      },
-      "top_tracks": [
-        {
-          "name": "Blackhole",
-          "artist": "Architects",
-          "ms": 200800
-        },
-        {
-          "name": "Só se fu…",
-          "artist": "Jean Tassy, Iuri Rio Branco, Yago Oproprio",
-          "ms": 180092
-        },
-        {
-          "name": "残機",
-          "artist": "ZUTOMAYO",
-          "ms": 230373
-        },
-        {
-          "name": "Criminal",
-          "artist": "Nevertel",
-          "ms": 175578
-        },
-        {
-          "name": "Nada Nada (Ao Vivo)",
-          "artist": "Henrique & Juliano",
-          "ms": 156721
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Bruno & Marrone",
-          "genres": []
-        },
-        {
-          "name": "LVCAS",
-          "genres": []
-        },
-        {
-          "name": "Bad Omens",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-08-12T09:59:42.492193+00:00",
       "now_playing": {
         "title": "Farol",
@@ -1689,6 +1631,64 @@
         "artist": "Twenty One Pilots",
         "album": "Blurryface",
         "image_url": "https://i.scdn.co/image/ab67616d0000b2732df0d98a423025032d0db1f7"
+      },
+      "top_tracks": [
+        {
+          "name": "Só se fu…",
+          "artist": "Jean Tassy, Iuri Rio Branco, Yago Oproprio",
+          "ms": 180092
+        },
+        {
+          "name": "残機",
+          "artist": "ZUTOMAYO",
+          "ms": 230373
+        },
+        {
+          "name": "Criminal",
+          "artist": "Nevertel",
+          "ms": 175578
+        },
+        {
+          "name": "Nada Nada (Ao Vivo)",
+          "artist": "Henrique & Juliano",
+          "ms": 156721
+        },
+        {
+          "name": "Curse",
+          "artist": "Architects",
+          "ms": 181134
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        },
+        {
+          "name": "César Menotti & Fabiano",
+          "genres": []
+        },
+        {
+          "name": "LVCAS",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-08-13T22:37:44.125109+00:00",
+      "now_playing": {
+        "title": "This Love",
+        "artist": "Maroon 5",
+        "album": "Songs About Jane: 10th Anniversary Edition",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27392f2d790c6a97b195f66d51e"
       },
       "top_tracks": [
         {
