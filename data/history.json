@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-08-12T04:04:12.615853+00:00",
-      "now_playing": {
-        "title": "Farol",
-        "artist": "Tupi, Yago Oproprio",
-        "album": "Farol",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273cda262878c4561caa48b8bcd"
-      },
-      "top_tracks": [
-        {
-          "name": "Blackhole",
-          "artist": "Architects",
-          "ms": 200800
-        },
-        {
-          "name": "Só se fu…",
-          "artist": "Jean Tassy, Iuri Rio Branco, Yago Oproprio",
-          "ms": 180092
-        },
-        {
-          "name": "残機",
-          "artist": "ZUTOMAYO",
-          "ms": 230373
-        },
-        {
-          "name": "Criminal",
-          "artist": "Nevertel",
-          "ms": 175578
-        },
-        {
-          "name": "Nada Nada (Ao Vivo)",
-          "artist": "Henrique & Juliano",
-          "ms": 156721
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Bruno & Marrone",
-          "genres": []
-        },
-        {
-          "name": "LVCAS",
-          "genres": []
-        },
-        {
-          "name": "Bad Omens",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-08-12T05:54:00.066252+00:00",
       "now_playing": {
         "title": "Farol",
@@ -1689,6 +1631,64 @@
         "artist": "Lagum, IZA",
         "album": "Será",
         "image_url": "https://i.scdn.co/image/ab67616d0000b2734287835958e3cca2f2778fbe"
+      },
+      "top_tracks": [
+        {
+          "name": "Só se fu…",
+          "artist": "Jean Tassy, Iuri Rio Branco, Yago Oproprio",
+          "ms": 180092
+        },
+        {
+          "name": "残機",
+          "artist": "ZUTOMAYO",
+          "ms": 230373
+        },
+        {
+          "name": "Criminal",
+          "artist": "Nevertel",
+          "ms": 175578
+        },
+        {
+          "name": "Nada Nada (Ao Vivo)",
+          "artist": "Henrique & Juliano",
+          "ms": 156721
+        },
+        {
+          "name": "Curse",
+          "artist": "Architects",
+          "ms": 181134
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        },
+        {
+          "name": "César Menotti & Fabiano",
+          "genres": []
+        },
+        {
+          "name": "LVCAS",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-08-13T19:57:43.045731+00:00",
+      "now_playing": {
+        "title": "House Of The Rising Sun",
+        "artist": "The Animals",
+        "album": "The Animals",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2733c534611bd3658006378a2d7"
       },
       "top_tracks": [
         {
