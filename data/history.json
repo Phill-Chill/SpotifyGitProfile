@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-08-12T20:08:14.842672+00:00",
-      "now_playing": {
-        "title": "Surreal",
-        "artist": "Scalene",
-        "album": "Real / Surreal (Deluxe)",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2733008d5f437fec22381588823"
-      },
-      "top_tracks": [
-        {
-          "name": "Só se fu…",
-          "artist": "Jean Tassy, Iuri Rio Branco, Yago Oproprio",
-          "ms": 180092
-        },
-        {
-          "name": "残機",
-          "artist": "ZUTOMAYO",
-          "ms": 230373
-        },
-        {
-          "name": "Blackhole",
-          "artist": "Architects",
-          "ms": 200800
-        },
-        {
-          "name": "Criminal",
-          "artist": "Nevertel",
-          "ms": 175578
-        },
-        {
-          "name": "Nada Nada (Ao Vivo)",
-          "artist": "Henrique & Juliano",
-          "ms": 156721
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Bruno & Marrone",
-          "genres": []
-        },
-        {
-          "name": "LVCAS",
-          "genres": []
-        },
-        {
-          "name": "César Menotti & Fabiano",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-08-12T21:12:33.724837+00:00",
       "now_playing": {
         "title": "Saudade Pra Curar",
@@ -1684,6 +1626,64 @@
     },
     {
       "timestamp": "2026-08-14T11:50:50.689587+00:00",
+      "now_playing": {
+        "title": "Love In Gotham City",
+        "artist": "Seu Pereira e Coletivo 401",
+        "album": "Eu Não Sou Boa Influência pra Você",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2730504fd92867c6ded742de228"
+      },
+      "top_tracks": [
+        {
+          "name": "Só se fu…",
+          "artist": "Jean Tassy, Iuri Rio Branco, Yago Oproprio",
+          "ms": 180092
+        },
+        {
+          "name": "残機",
+          "artist": "ZUTOMAYO",
+          "ms": 230373
+        },
+        {
+          "name": "Criminal",
+          "artist": "Nevertel",
+          "ms": 175578
+        },
+        {
+          "name": "refém",
+          "artist": "LVCAS",
+          "ms": 236307
+        },
+        {
+          "name": "Curse",
+          "artist": "Architects",
+          "ms": 181134
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        },
+        {
+          "name": "César Menotti & Fabiano",
+          "genres": []
+        },
+        {
+          "name": "LVCAS",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-08-14T12:58:37.980675+00:00",
       "now_playing": {
         "title": "Love In Gotham City",
         "artist": "Seu Pereira e Coletivo 401",
