@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-08-13T22:37:44.125109+00:00",
-      "now_playing": {
-        "title": "This Love",
-        "artist": "Maroon 5",
-        "album": "Songs About Jane: 10th Anniversary Edition",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b27392f2d790c6a97b195f66d51e"
-      },
-      "top_tracks": [
-        {
-          "name": "Só se fu…",
-          "artist": "Jean Tassy, Iuri Rio Branco, Yago Oproprio",
-          "ms": 180092
-        },
-        {
-          "name": "残機",
-          "artist": "ZUTOMAYO",
-          "ms": 230373
-        },
-        {
-          "name": "Criminal",
-          "artist": "Nevertel",
-          "ms": 175578
-        },
-        {
-          "name": "Nada Nada (Ao Vivo)",
-          "artist": "Henrique & Juliano",
-          "ms": 156721
-        },
-        {
-          "name": "Curse",
-          "artist": "Architects",
-          "ms": 181134
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Bruno & Marrone",
-          "genres": []
-        },
-        {
-          "name": "César Menotti & Fabiano",
-          "genres": []
-        },
-        {
-          "name": "LVCAS",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-08-13T23:37:36.838961+00:00",
       "now_playing": {
         "title": "EU TE AMO",
@@ -1684,6 +1626,64 @@
     },
     {
       "timestamp": "2026-08-15T04:56:51.967363+00:00",
+      "now_playing": {
+        "title": "FESTA JOVEM",
+        "artist": "Lagum",
+        "album": "MEMÓRIAS (de onde eu nunca fui)",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27351686d809de14a6d5b270eec"
+      },
+      "top_tracks": [
+        {
+          "name": "Só se fu…",
+          "artist": "Jean Tassy, Iuri Rio Branco, Yago Oproprio",
+          "ms": 180092
+        },
+        {
+          "name": "残機",
+          "artist": "ZUTOMAYO",
+          "ms": 230373
+        },
+        {
+          "name": "Criminal",
+          "artist": "Nevertel",
+          "ms": 175578
+        },
+        {
+          "name": "refém",
+          "artist": "LVCAS",
+          "ms": 236307
+        },
+        {
+          "name": "Curse",
+          "artist": "Architects",
+          "ms": 181134
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        },
+        {
+          "name": "César Menotti & Fabiano",
+          "genres": []
+        },
+        {
+          "name": "LVCAS",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-08-15T05:25:19.576422+00:00",
       "now_playing": {
         "title": "FESTA JOVEM",
         "artist": "Lagum",
