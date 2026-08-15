@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-08-14T18:24:39.456302+00:00",
-      "now_playing": {
-        "title": "Love In Gotham City",
-        "artist": "Seu Pereira e Coletivo 401",
-        "album": "Eu Não Sou Boa Influência pra Você",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2730504fd92867c6ded742de228"
-      },
-      "top_tracks": [
-        {
-          "name": "Só se fu…",
-          "artist": "Jean Tassy, Iuri Rio Branco, Yago Oproprio",
-          "ms": 180092
-        },
-        {
-          "name": "残機",
-          "artist": "ZUTOMAYO",
-          "ms": 230373
-        },
-        {
-          "name": "Criminal",
-          "artist": "Nevertel",
-          "ms": 175578
-        },
-        {
-          "name": "refém",
-          "artist": "LVCAS",
-          "ms": 236307
-        },
-        {
-          "name": "Curse",
-          "artist": "Architects",
-          "ms": 181134
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Bruno & Marrone",
-          "genres": []
-        },
-        {
-          "name": "César Menotti & Fabiano",
-          "genres": []
-        },
-        {
-          "name": "LVCAS",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-08-14T19:27:52.482461+00:00",
       "now_playing": {
         "title": "Love In Gotham City",
@@ -1689,6 +1631,64 @@
         "artist": "Dona Cislene, Selvagens à Procura de Lei",
         "album": "TempoRei",
         "image_url": "https://i.scdn.co/image/ab67616d0000b273ca6ef3c166e9e6602db41a74"
+      },
+      "top_tracks": [
+        {
+          "name": "Só se fu…",
+          "artist": "Jean Tassy, Iuri Rio Branco, Yago Oproprio",
+          "ms": 180092
+        },
+        {
+          "name": "残機",
+          "artist": "ZUTOMAYO",
+          "ms": 230373
+        },
+        {
+          "name": "Criminal",
+          "artist": "Nevertel",
+          "ms": 175578
+        },
+        {
+          "name": "refém",
+          "artist": "LVCAS",
+          "ms": 236307
+        },
+        {
+          "name": "Curse",
+          "artist": "Architects",
+          "ms": 181134
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        },
+        {
+          "name": "César Menotti & Fabiano",
+          "genres": []
+        },
+        {
+          "name": "LVCAS",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-08-15T13:52:01.584380+00:00",
+      "now_playing": {
+        "title": "Maluco beleza",
+        "artist": "Raul Seixas",
+        "album": "Maluco Beleza",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2739d64a71aa30f62da08753cab"
       },
       "top_tracks": [
         {
