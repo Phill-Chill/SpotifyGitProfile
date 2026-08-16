@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-08-15T15:16:54.193941+00:00",
-      "now_playing": {
-        "title": "Bicho Solto",
-        "artist": "Yago Oproprio, Fleezus, Iuri Rio Branco",
-        "album": "Bicho Solto",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b27368108fda732d3b2cf1e14e74"
-      },
-      "top_tracks": [
-        {
-          "name": "Só se fu…",
-          "artist": "Jean Tassy, Iuri Rio Branco, Yago Oproprio",
-          "ms": 180092
-        },
-        {
-          "name": "残機",
-          "artist": "ZUTOMAYO",
-          "ms": 230373
-        },
-        {
-          "name": "Criminal",
-          "artist": "Nevertel",
-          "ms": 175578
-        },
-        {
-          "name": "refém",
-          "artist": "LVCAS",
-          "ms": 236307
-        },
-        {
-          "name": "Nada Nada (Ao Vivo)",
-          "artist": "Henrique & Juliano",
-          "ms": 156721
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Bruno & Marrone",
-          "genres": []
-        },
-        {
-          "name": "César Menotti & Fabiano",
-          "genres": []
-        },
-        {
-          "name": "LVCAS",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-08-15T15:43:59.076825+00:00",
       "now_playing": {
         "title": "Seu Jogo",
@@ -1684,6 +1626,64 @@
     },
     {
       "timestamp": "2026-08-16T09:26:35.281452+00:00",
+      "now_playing": {
+        "title": "Pequenas Alegrias da Vida Adulta (feat. Marcos Valle e Thiago Ventura)",
+        "artist": "Emicida, Marcos Valle, Thiago Ventura",
+        "album": "AmarElo",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273856b38f6f4209513625d087d"
+      },
+      "top_tracks": [
+        {
+          "name": "Só se fu…",
+          "artist": "Jean Tassy, Iuri Rio Branco, Yago Oproprio",
+          "ms": 180092
+        },
+        {
+          "name": "残機",
+          "artist": "ZUTOMAYO",
+          "ms": 230373
+        },
+        {
+          "name": "refém",
+          "artist": "LVCAS",
+          "ms": 236307
+        },
+        {
+          "name": "Criminal",
+          "artist": "Nevertel",
+          "ms": 175578
+        },
+        {
+          "name": "Nada Nada (Ao Vivo)",
+          "artist": "Henrique & Juliano",
+          "ms": 156721
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        },
+        {
+          "name": "César Menotti & Fabiano",
+          "genres": []
+        },
+        {
+          "name": "LVCAS",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-08-16T09:51:02.583742+00:00",
       "now_playing": {
         "title": "Pequenas Alegrias da Vida Adulta (feat. Marcos Valle e Thiago Ventura)",
         "artist": "Emicida, Marcos Valle, Thiago Ventura",
