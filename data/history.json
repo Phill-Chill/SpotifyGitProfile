@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-08-15T22:46:09.905923+00:00",
-      "now_playing": {
-        "title": "Pequenas Alegrias da Vida Adulta (feat. Marcos Valle e Thiago Ventura)",
-        "artist": "Emicida, Marcos Valle, Thiago Ventura",
-        "album": "AmarElo",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273856b38f6f4209513625d087d"
-      },
-      "top_tracks": [
-        {
-          "name": "Só se fu…",
-          "artist": "Jean Tassy, Iuri Rio Branco, Yago Oproprio",
-          "ms": 180092
-        },
-        {
-          "name": "残機",
-          "artist": "ZUTOMAYO",
-          "ms": 230373
-        },
-        {
-          "name": "refém",
-          "artist": "LVCAS",
-          "ms": 236307
-        },
-        {
-          "name": "Criminal",
-          "artist": "Nevertel",
-          "ms": 175578
-        },
-        {
-          "name": "Nada Nada (Ao Vivo)",
-          "artist": "Henrique & Juliano",
-          "ms": 156721
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Bruno & Marrone",
-          "genres": []
-        },
-        {
-          "name": "César Menotti & Fabiano",
-          "genres": []
-        },
-        {
-          "name": "LVCAS",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-08-15T23:16:55.345929+00:00",
       "now_playing": {
         "title": "Pequenas Alegrias da Vida Adulta (feat. Marcos Valle e Thiago Ventura)",
@@ -1689,6 +1631,64 @@
         "artist": "K'NAAN, Adam Levine",
         "album": "Troubadour",
         "image_url": "https://i.scdn.co/image/ab67616d0000b273a3a8f20705f6f1d9adf84551"
+      },
+      "top_tracks": [
+        {
+          "name": "Só se fu…",
+          "artist": "Jean Tassy, Iuri Rio Branco, Yago Oproprio",
+          "ms": 180092
+        },
+        {
+          "name": "残機",
+          "artist": "ZUTOMAYO",
+          "ms": 230373
+        },
+        {
+          "name": "refém",
+          "artist": "LVCAS",
+          "ms": 236307
+        },
+        {
+          "name": "Criminal",
+          "artist": "Nevertel",
+          "ms": 175578
+        },
+        {
+          "name": "Amor Não Vai Faltar - Ao Vivo",
+          "artist": "Bruno & Marrone",
+          "ms": 193546
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        },
+        {
+          "name": "César Menotti & Fabiano",
+          "genres": []
+        },
+        {
+          "name": "Lagum",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-08-16T17:43:43.228018+00:00",
+      "now_playing": {
+        "title": "Falo Nada",
+        "artist": "ConeCrewDiretoria",
+        "album": "Com os Neurônios Evoluindo",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27342f5b01213c8031ee2ec0421"
       },
       "top_tracks": [
         {
