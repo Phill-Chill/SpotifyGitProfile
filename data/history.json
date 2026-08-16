@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-08-15T18:54:59.646770+00:00",
-      "now_playing": {
-        "title": "Pequenas Alegrias da Vida Adulta (feat. Marcos Valle e Thiago Ventura)",
-        "artist": "Emicida, Marcos Valle, Thiago Ventura",
-        "album": "AmarElo",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273856b38f6f4209513625d087d"
-      },
-      "top_tracks": [
-        {
-          "name": "Só se fu…",
-          "artist": "Jean Tassy, Iuri Rio Branco, Yago Oproprio",
-          "ms": 180092
-        },
-        {
-          "name": "残機",
-          "artist": "ZUTOMAYO",
-          "ms": 230373
-        },
-        {
-          "name": "refém",
-          "artist": "LVCAS",
-          "ms": 236307
-        },
-        {
-          "name": "Criminal",
-          "artist": "Nevertel",
-          "ms": 175578
-        },
-        {
-          "name": "Nada Nada (Ao Vivo)",
-          "artist": "Henrique & Juliano",
-          "ms": 156721
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Bruno & Marrone",
-          "genres": []
-        },
-        {
-          "name": "César Menotti & Fabiano",
-          "genres": []
-        },
-        {
-          "name": "LVCAS",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-08-15T19:19:26.043391+00:00",
       "now_playing": {
         "title": "Pequenas Alegrias da Vida Adulta (feat. Marcos Valle e Thiago Ventura)",
@@ -1689,6 +1631,64 @@
         "artist": "Foster The People",
         "album": "Torches",
         "image_url": "https://i.scdn.co/image/ab67616d0000b273121d5f92cf90576907dfb1e5"
+      },
+      "top_tracks": [
+        {
+          "name": "Só se fu…",
+          "artist": "Jean Tassy, Iuri Rio Branco, Yago Oproprio",
+          "ms": 180092
+        },
+        {
+          "name": "残機",
+          "artist": "ZUTOMAYO",
+          "ms": 230373
+        },
+        {
+          "name": "refém",
+          "artist": "LVCAS",
+          "ms": 236307
+        },
+        {
+          "name": "Criminal",
+          "artist": "Nevertel",
+          "ms": 175578
+        },
+        {
+          "name": "Nada Nada (Ao Vivo)",
+          "artist": "Henrique & Juliano",
+          "ms": 156721
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        },
+        {
+          "name": "César Menotti & Fabiano",
+          "genres": []
+        },
+        {
+          "name": "LVCAS",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-08-16T13:53:55.262236+00:00",
+      "now_playing": {
+        "title": "In Due Time",
+        "artist": "Killswitch Engage",
+        "album": "Disarm the Descent (Special Edition)",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27341f130b95f06817413147298"
       },
       "top_tracks": [
         {
