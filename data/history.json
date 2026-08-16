@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-08-16T06:34:30.178892+00:00",
-      "now_playing": {
-        "title": "Pequenas Alegrias da Vida Adulta (feat. Marcos Valle e Thiago Ventura)",
-        "artist": "Emicida, Marcos Valle, Thiago Ventura",
-        "album": "AmarElo",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273856b38f6f4209513625d087d"
-      },
-      "top_tracks": [
-        {
-          "name": "Só se fu…",
-          "artist": "Jean Tassy, Iuri Rio Branco, Yago Oproprio",
-          "ms": 180092
-        },
-        {
-          "name": "残機",
-          "artist": "ZUTOMAYO",
-          "ms": 230373
-        },
-        {
-          "name": "refém",
-          "artist": "LVCAS",
-          "ms": 236307
-        },
-        {
-          "name": "Criminal",
-          "artist": "Nevertel",
-          "ms": 175578
-        },
-        {
-          "name": "Nada Nada (Ao Vivo)",
-          "artist": "Henrique & Juliano",
-          "ms": 156721
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Bruno & Marrone",
-          "genres": []
-        },
-        {
-          "name": "César Menotti & Fabiano",
-          "genres": []
-        },
-        {
-          "name": "LVCAS",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-08-16T07:27:50.524556+00:00",
       "now_playing": {
         "title": "Pequenas Alegrias da Vida Adulta (feat. Marcos Valle e Thiago Ventura)",
@@ -1689,6 +1631,64 @@
         "artist": "Raimundos",
         "album": "Lavô Tá Novo",
         "image_url": "https://i.scdn.co/image/ab67616d0000b273c1fa47aa2d3f38d56e5cb71e"
+      },
+      "top_tracks": [
+        {
+          "name": "Só se fu…",
+          "artist": "Jean Tassy, Iuri Rio Branco, Yago Oproprio",
+          "ms": 180092
+        },
+        {
+          "name": "残機",
+          "artist": "ZUTOMAYO",
+          "ms": 230373
+        },
+        {
+          "name": "refém",
+          "artist": "LVCAS",
+          "ms": 236307
+        },
+        {
+          "name": "Criminal",
+          "artist": "Nevertel",
+          "ms": 175578
+        },
+        {
+          "name": "Amor Não Vai Faltar - Ao Vivo",
+          "artist": "Bruno & Marrone",
+          "ms": 193546
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Lagum",
+          "genres": []
+        },
+        {
+          "name": "César Menotti & Fabiano",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-08-16T22:17:14.023810+00:00",
+      "now_playing": {
+        "title": "Tudo Que Ela Gosta De Escutar",
+        "artist": "Charlie Brown Jr.",
+        "album": "Transpiração Continua Prolongada",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27302380a28bd7668480106d68b"
       },
       "top_tracks": [
         {
