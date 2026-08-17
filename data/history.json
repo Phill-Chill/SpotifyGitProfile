@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-08-16T18:23:22.885657+00:00",
-      "now_playing": {
-        "title": "Negro Drama",
-        "artist": "Racionais MC's",
-        "album": "Nada Como um Dia Após o Outro Dia, Vol. 1 & 2",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273497e68476e7062b1bf5ea83f"
-      },
-      "top_tracks": [
-        {
-          "name": "Só se fu…",
-          "artist": "Jean Tassy, Iuri Rio Branco, Yago Oproprio",
-          "ms": 180092
-        },
-        {
-          "name": "残機",
-          "artist": "ZUTOMAYO",
-          "ms": 230373
-        },
-        {
-          "name": "refém",
-          "artist": "LVCAS",
-          "ms": 236307
-        },
-        {
-          "name": "Criminal",
-          "artist": "Nevertel",
-          "ms": 175578
-        },
-        {
-          "name": "Amor Não Vai Faltar - Ao Vivo",
-          "artist": "Bruno & Marrone",
-          "ms": 193546
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Bruno & Marrone",
-          "genres": []
-        },
-        {
-          "name": "César Menotti & Fabiano",
-          "genres": []
-        },
-        {
-          "name": "Lagum",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-08-16T18:55:29.453103+00:00",
       "now_playing": {
         "title": "Without Me",
@@ -1684,6 +1626,64 @@
     },
     {
       "timestamp": "2026-08-17T15:21:34.009406+00:00",
+      "now_playing": {
+        "title": "Fade In / Fade Out",
+        "artist": "NOTHING MORE",
+        "album": "The Stories We Tell Ourselves",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273353504127a55a603352a32ed"
+      },
+      "top_tracks": [
+        {
+          "name": "Só se fu…",
+          "artist": "Jean Tassy, Iuri Rio Branco, Yago Oproprio",
+          "ms": 180092
+        },
+        {
+          "name": "残機",
+          "artist": "ZUTOMAYO",
+          "ms": 230373
+        },
+        {
+          "name": "refém",
+          "artist": "LVCAS",
+          "ms": 236307
+        },
+        {
+          "name": "Criminal",
+          "artist": "Nevertel",
+          "ms": 175578
+        },
+        {
+          "name": "Amor Não Vai Faltar - Ao Vivo",
+          "artist": "Bruno & Marrone",
+          "ms": 193546
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Lagum",
+          "genres": []
+        },
+        {
+          "name": "César Menotti & Fabiano",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-08-17T15:48:47.504383+00:00",
       "now_playing": {
         "title": "Fade In / Fade Out",
         "artist": "NOTHING MORE",
