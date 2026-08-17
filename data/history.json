@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-08-16T15:17:59.364805+00:00",
-      "now_playing": {
-        "title": "Tem Que Ser Você - Ao Vivo",
-        "artist": "Victor & Leo",
-        "album": "Victor & Leo Ao Vivo Em Uberlândia",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273f837b364ac37809bdb656d3b"
-      },
-      "top_tracks": [
-        {
-          "name": "Só se fu…",
-          "artist": "Jean Tassy, Iuri Rio Branco, Yago Oproprio",
-          "ms": 180092
-        },
-        {
-          "name": "残機",
-          "artist": "ZUTOMAYO",
-          "ms": 230373
-        },
-        {
-          "name": "refém",
-          "artist": "LVCAS",
-          "ms": 236307
-        },
-        {
-          "name": "Criminal",
-          "artist": "Nevertel",
-          "ms": 175578
-        },
-        {
-          "name": "Amor Não Vai Faltar - Ao Vivo",
-          "artist": "Bruno & Marrone",
-          "ms": 193546
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Bruno & Marrone",
-          "genres": []
-        },
-        {
-          "name": "César Menotti & Fabiano",
-          "genres": []
-        },
-        {
-          "name": "Lagum",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-08-16T15:45:04.142674+00:00",
       "now_playing": {
         "title": "Evidências",
@@ -1684,6 +1626,64 @@
     },
     {
       "timestamp": "2026-08-17T11:30:02.014237+00:00",
+      "now_playing": {
+        "title": "Decode",
+        "artist": "Paramore",
+        "album": "Decode",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273b236d0eae2659e7e7adb8b56"
+      },
+      "top_tracks": [
+        {
+          "name": "Só se fu…",
+          "artist": "Jean Tassy, Iuri Rio Branco, Yago Oproprio",
+          "ms": 180092
+        },
+        {
+          "name": "残機",
+          "artist": "ZUTOMAYO",
+          "ms": 230373
+        },
+        {
+          "name": "refém",
+          "artist": "LVCAS",
+          "ms": 236307
+        },
+        {
+          "name": "Criminal",
+          "artist": "Nevertel",
+          "ms": 175578
+        },
+        {
+          "name": "Amor Não Vai Faltar - Ao Vivo",
+          "artist": "Bruno & Marrone",
+          "ms": 193546
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Lagum",
+          "genres": []
+        },
+        {
+          "name": "César Menotti & Fabiano",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-08-17T11:52:18.308210+00:00",
       "now_playing": {
         "title": "Decode",
         "artist": "Paramore",
