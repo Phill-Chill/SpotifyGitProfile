@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-08-17T03:46:51.349909+00:00",
-      "now_playing": {
-        "title": "Lugar Ao Sol",
-        "artist": "Charlie Brown Jr.",
-        "album": "100% Charlie Brown Jr - Abalando A Sua Fábrica",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2739ce3f2af269f08d61ac2ab9e"
-      },
-      "top_tracks": [
-        {
-          "name": "Só se fu…",
-          "artist": "Jean Tassy, Iuri Rio Branco, Yago Oproprio",
-          "ms": 180092
-        },
-        {
-          "name": "残機",
-          "artist": "ZUTOMAYO",
-          "ms": 230373
-        },
-        {
-          "name": "refém",
-          "artist": "LVCAS",
-          "ms": 236307
-        },
-        {
-          "name": "Criminal",
-          "artist": "Nevertel",
-          "ms": 175578
-        },
-        {
-          "name": "Amor Não Vai Faltar - Ao Vivo",
-          "artist": "Bruno & Marrone",
-          "ms": 193546
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Lagum",
-          "genres": []
-        },
-        {
-          "name": "César Menotti & Fabiano",
-          "genres": []
-        },
-        {
-          "name": "Bruno & Marrone",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-08-17T04:37:37.718352+00:00",
       "now_playing": {
         "title": "Lugar Ao Sol",
@@ -1684,6 +1626,64 @@
     },
     {
       "timestamp": "2026-08-17T22:49:27.864702+00:00",
+      "now_playing": {
+        "title": "Fade In / Fade Out",
+        "artist": "NOTHING MORE",
+        "album": "The Stories We Tell Ourselves",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273353504127a55a603352a32ed"
+      },
+      "top_tracks": [
+        {
+          "name": "Só se fu…",
+          "artist": "Jean Tassy, Iuri Rio Branco, Yago Oproprio",
+          "ms": 180092
+        },
+        {
+          "name": "残機",
+          "artist": "ZUTOMAYO",
+          "ms": 230373
+        },
+        {
+          "name": "refém",
+          "artist": "LVCAS",
+          "ms": 236307
+        },
+        {
+          "name": "Criminal",
+          "artist": "Nevertel",
+          "ms": 175578
+        },
+        {
+          "name": "Amor Não Vai Faltar - Ao Vivo",
+          "artist": "Bruno & Marrone",
+          "ms": 193546
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Lagum",
+          "genres": []
+        },
+        {
+          "name": "César Menotti & Fabiano",
+          "genres": []
+        },
+        {
+          "name": "Bruno & Marrone",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-08-17T23:20:01.137407+00:00",
       "now_playing": {
         "title": "Fade In / Fade Out",
         "artist": "NOTHING MORE",
