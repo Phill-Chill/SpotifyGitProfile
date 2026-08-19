@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-08-18T23:45:56.268947+00:00",
-      "now_playing": {
-        "title": "Amigos Libertinos",
-        "artist": "Selvagens à Procura de Lei",
-        "album": "Aprendendo a Mentir",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273fa19846bd1d6def09a7748c9"
-      },
-      "top_tracks": [
-        {
-          "name": "Só se fu…",
-          "artist": "Jean Tassy, Iuri Rio Branco, Yago Oproprio",
-          "ms": 180092
-        },
-        {
-          "name": "残機",
-          "artist": "ZUTOMAYO",
-          "ms": 230373
-        },
-        {
-          "name": "refém",
-          "artist": "LVCAS",
-          "ms": 236307
-        },
-        {
-          "name": "Chaotic",
-          "artist": "Memphis May Fire",
-          "ms": 171794
-        },
-        {
-          "name": "Criminal",
-          "artist": "Nevertel",
-          "ms": 175578
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Lagum",
-          "genres": []
-        },
-        {
-          "name": "Raul Seixas",
-          "genres": []
-        },
-        {
-          "name": "LVCAS",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-08-19T01:03:42.708675+00:00",
       "now_playing": {
         "title": "Farol",
@@ -1689,6 +1631,64 @@
         "artist": "Black Alien",
         "album": "Abaixo de Zero: Hello Hell",
         "image_url": "https://i.scdn.co/image/ab67616d0000b273f8944e77d77b2dfe04f852f4"
+      },
+      "top_tracks": [
+        {
+          "name": "Só se fu…",
+          "artist": "Jean Tassy, Iuri Rio Branco, Yago Oproprio",
+          "ms": 180092
+        },
+        {
+          "name": "refém",
+          "artist": "LVCAS",
+          "ms": 236307
+        },
+        {
+          "name": "残機",
+          "artist": "ZUTOMAYO",
+          "ms": 230373
+        },
+        {
+          "name": "Chaotic",
+          "artist": "Memphis May Fire",
+          "ms": 171794
+        },
+        {
+          "name": "Criminal",
+          "artist": "Nevertel",
+          "ms": 175578
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Lagum",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "LVCAS",
+          "genres": []
+        },
+        {
+          "name": "Raul Seixas",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-08-19T22:50:00.470009+00:00",
+      "now_playing": {
+        "title": "Heat Seeker",
+        "artist": "DREAMERS, grandson",
+        "album": "Heat Seeker",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2732db4c3896a2f4e55b6600e9a"
       },
       "top_tracks": [
         {
