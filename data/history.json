@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-08-19T01:03:42.708675+00:00",
-      "now_playing": {
-        "title": "Farol",
-        "artist": "Tupi, Yago Oproprio",
-        "album": "Farol",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273cda262878c4561caa48b8bcd"
-      },
-      "top_tracks": [
-        {
-          "name": "Só se fu…",
-          "artist": "Jean Tassy, Iuri Rio Branco, Yago Oproprio",
-          "ms": 180092
-        },
-        {
-          "name": "残機",
-          "artist": "ZUTOMAYO",
-          "ms": 230373
-        },
-        {
-          "name": "refém",
-          "artist": "LVCAS",
-          "ms": 236307
-        },
-        {
-          "name": "Chaotic",
-          "artist": "Memphis May Fire",
-          "ms": 171794
-        },
-        {
-          "name": "Criminal",
-          "artist": "Nevertel",
-          "ms": 175578
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Lagum",
-          "genres": []
-        },
-        {
-          "name": "Raul Seixas",
-          "genres": []
-        },
-        {
-          "name": "LVCAS",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-08-19T02:37:18.170179+00:00",
       "now_playing": {
         "title": "Vagabundo Nato",
@@ -1689,6 +1631,64 @@
         "artist": "DREAMERS, grandson",
         "album": "Heat Seeker",
         "image_url": "https://i.scdn.co/image/ab67616d0000b2732db4c3896a2f4e55b6600e9a"
+      },
+      "top_tracks": [
+        {
+          "name": "Só se fu…",
+          "artist": "Jean Tassy, Iuri Rio Branco, Yago Oproprio",
+          "ms": 180092
+        },
+        {
+          "name": "refém",
+          "artist": "LVCAS",
+          "ms": 236307
+        },
+        {
+          "name": "残機",
+          "artist": "ZUTOMAYO",
+          "ms": 230373
+        },
+        {
+          "name": "Chaotic",
+          "artist": "Memphis May Fire",
+          "ms": 171794
+        },
+        {
+          "name": "Criminal",
+          "artist": "Nevertel",
+          "ms": 175578
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Lagum",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "LVCAS",
+          "genres": []
+        },
+        {
+          "name": "Raul Seixas",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-08-19T23:19:16.159456+00:00",
+      "now_playing": {
+        "title": "Como Vovó Já Dizia (Óculos Escuros)",
+        "artist": "Raul Seixas",
+        "album": "Raul (Série Grandes Nomes Vol. 1)",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2734bcfc0da26069266039bb143"
       },
       "top_tracks": [
         {
