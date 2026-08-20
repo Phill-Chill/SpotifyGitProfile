@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-08-19T11:21:21.374081+00:00",
-      "now_playing": {
-        "title": "Vagabundo Nato",
-        "artist": "Yago Oproprio, LK O Marroquino, Patricio Sid, EME Lab",
-        "album": "Vagabundo Nato",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273de84e4b77dd88eaeec6cadf9"
-      },
-      "top_tracks": [
-        {
-          "name": "残機",
-          "artist": "ZUTOMAYO",
-          "ms": 230373
-        },
-        {
-          "name": "Só se fu…",
-          "artist": "Jean Tassy, Iuri Rio Branco, Yago Oproprio",
-          "ms": 180092
-        },
-        {
-          "name": "refém",
-          "artist": "LVCAS",
-          "ms": 236307
-        },
-        {
-          "name": "Chaotic",
-          "artist": "Memphis May Fire",
-          "ms": 171794
-        },
-        {
-          "name": "Criminal",
-          "artist": "Nevertel",
-          "ms": 175578
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Lagum",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Raul Seixas",
-          "genres": []
-        },
-        {
-          "name": "LVCAS",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-08-19T11:49:31.811370+00:00",
       "now_playing": {
         "title": "Vagabundo Nato",
@@ -1689,6 +1631,64 @@
         "artist": "Yago Oproprio, Patricio Sid",
         "album": "OPROPRIO",
         "image_url": "https://i.scdn.co/image/ab67616d0000b2738855874e76e6747c529c49fb"
+      },
+      "top_tracks": [
+        {
+          "name": "Só se fu…",
+          "artist": "Jean Tassy, Iuri Rio Branco, Yago Oproprio",
+          "ms": 180092
+        },
+        {
+          "name": "refém",
+          "artist": "LVCAS",
+          "ms": 236307
+        },
+        {
+          "name": "残機",
+          "artist": "ZUTOMAYO",
+          "ms": 230373
+        },
+        {
+          "name": "Chaotic",
+          "artist": "Memphis May Fire",
+          "ms": 171794
+        },
+        {
+          "name": "Criminal",
+          "artist": "Nevertel",
+          "ms": 175578
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Lagum",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Raul Seixas",
+          "genres": []
+        },
+        {
+          "name": "LVCAS",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-08-20T10:26:09.854604+00:00",
+      "now_playing": {
+        "title": "STUCK (feat. Sinizter)",
+        "artist": "NOTHING MORE, Sinizter",
+        "album": "CARNAL",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273787881628f87450162526b47"
       },
       "top_tracks": [
         {
