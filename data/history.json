@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-08-20T23:21:52.241116+00:00",
-      "now_playing": {
-        "title": "Don't Stop",
-        "artist": "NOTHING MORE",
-        "album": "The Stories We Tell Ourselves",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273353504127a55a603352a32ed"
-      },
-      "top_tracks": [
-        {
-          "name": "refém",
-          "artist": "LVCAS",
-          "ms": 236307
-        },
-        {
-          "name": "Só se fu…",
-          "artist": "Jean Tassy, Iuri Rio Branco, Yago Oproprio",
-          "ms": 180092
-        },
-        {
-          "name": "Chaotic",
-          "artist": "Memphis May Fire",
-          "ms": 171794
-        },
-        {
-          "name": "残機",
-          "artist": "ZUTOMAYO",
-          "ms": 230373
-        },
-        {
-          "name": "Criminal",
-          "artist": "Nevertel",
-          "ms": 175578
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Lagum",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Raul Seixas",
-          "genres": []
-        },
-        {
-          "name": "LVCAS",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-08-20T23:49:11.595677+00:00",
       "now_playing": {
         "title": "Don't Stop",
@@ -1689,6 +1631,64 @@
         "artist": "Yago Oproprio, Skeeter Beats",
         "album": "Questão de Tempo",
         "image_url": "https://i.scdn.co/image/ab67616d0000b27379a24dcad266a5c4feb958e6"
+      },
+      "top_tracks": [
+        {
+          "name": "refém",
+          "artist": "LVCAS",
+          "ms": 236307
+        },
+        {
+          "name": "Chaotic",
+          "artist": "Memphis May Fire",
+          "ms": 171794
+        },
+        {
+          "name": "残機",
+          "artist": "ZUTOMAYO",
+          "ms": 230373
+        },
+        {
+          "name": "Só se fu…",
+          "artist": "Jean Tassy, Iuri Rio Branco, Yago Oproprio",
+          "ms": 180092
+        },
+        {
+          "name": "Criminal",
+          "artist": "Nevertel",
+          "ms": 175578
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Lagum",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Raul Seixas",
+          "genres": []
+        },
+        {
+          "name": "LVCAS",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-08-21T22:20:14.777215+00:00",
+      "now_playing": {
+        "title": "Sem Hora",
+        "artist": "Lagum",
+        "album": "Seja o Que Eu Quiser",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2737860033756d94c3908b97c88"
       },
       "top_tracks": [
         {
