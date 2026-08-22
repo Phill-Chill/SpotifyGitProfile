@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-08-21T17:25:23.521783+00:00",
-      "now_playing": {
-        "title": "Estaca zero",
-        "artist": "Yago Oproprio, Patricio Sid",
-        "album": "O Inquilino",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273095d700964f7aca87820b01e"
-      },
-      "top_tracks": [
-        {
-          "name": "refém",
-          "artist": "LVCAS",
-          "ms": 236307
-        },
-        {
-          "name": "Chaotic",
-          "artist": "Memphis May Fire",
-          "ms": 171794
-        },
-        {
-          "name": "残機",
-          "artist": "ZUTOMAYO",
-          "ms": 230373
-        },
-        {
-          "name": "Só se fu…",
-          "artist": "Jean Tassy, Iuri Rio Branco, Yago Oproprio",
-          "ms": 180092
-        },
-        {
-          "name": "Criminal",
-          "artist": "Nevertel",
-          "ms": 175578
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Lagum",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Raul Seixas",
-          "genres": []
-        },
-        {
-          "name": "LVCAS",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-08-21T17:55:42.947573+00:00",
       "now_playing": {
         "title": "Encruzilhada",
@@ -1689,6 +1631,64 @@
         "artist": "Raul Seixas",
         "album": "Raul (Série Grandes Nomes Vol. 1)",
         "image_url": "https://i.scdn.co/image/ab67616d0000b2734bcfc0da26069266039bb143"
+      },
+      "top_tracks": [
+        {
+          "name": "refém",
+          "artist": "LVCAS",
+          "ms": 236307
+        },
+        {
+          "name": "Chaotic",
+          "artist": "Memphis May Fire",
+          "ms": 171794
+        },
+        {
+          "name": "残機",
+          "artist": "ZUTOMAYO",
+          "ms": 230373
+        },
+        {
+          "name": "Só se fu…",
+          "artist": "Jean Tassy, Iuri Rio Branco, Yago Oproprio",
+          "ms": 180092
+        },
+        {
+          "name": "Nunca Fui Desse Lugar",
+          "artist": "Daparte, Lagum",
+          "ms": 204988
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Lagum",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "LVCAS",
+          "genres": []
+        },
+        {
+          "name": "Raul Seixas",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-08-22T13:53:53.651188+00:00",
+      "now_playing": {
+        "title": "Decode - Twilight Soundtrack Version",
+        "artist": "Paramore",
+        "album": "Brand New Eyes",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273b9abbedc516dd297039977bd"
       },
       "top_tracks": [
         {
