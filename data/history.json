@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-08-22T07:55:58.551265+00:00",
-      "now_playing": {
-        "title": "There’s Fear In Letting Go",
-        "artist": "I Prevail",
-        "album": "TRUE POWER",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273fdf16e6dc8b69f3e7c2b258b"
-      },
-      "top_tracks": [
-        {
-          "name": "refém",
-          "artist": "LVCAS",
-          "ms": 236307
-        },
-        {
-          "name": "Chaotic",
-          "artist": "Memphis May Fire",
-          "ms": 171794
-        },
-        {
-          "name": "残機",
-          "artist": "ZUTOMAYO",
-          "ms": 230373
-        },
-        {
-          "name": "Só se fu…",
-          "artist": "Jean Tassy, Iuri Rio Branco, Yago Oproprio",
-          "ms": 180092
-        },
-        {
-          "name": "Nunca Fui Desse Lugar",
-          "artist": "Daparte, Lagum",
-          "ms": 204988
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Lagum",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "LVCAS",
-          "genres": []
-        },
-        {
-          "name": "Raul Seixas",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-08-22T08:27:56.477889+00:00",
       "now_playing": {
         "title": "There’s Fear In Letting Go",
@@ -1689,6 +1631,64 @@
         "artist": "Gabriel O Pensador, Jorge Ben Jor",
         "album": "Sem Crise",
         "image_url": "https://i.scdn.co/image/ab67616d0000b27315fba6ce991914db19753432"
+      },
+      "top_tracks": [
+        {
+          "name": "refém",
+          "artist": "LVCAS",
+          "ms": 236307
+        },
+        {
+          "name": "残機",
+          "artist": "ZUTOMAYO",
+          "ms": 230373
+        },
+        {
+          "name": "Chaotic",
+          "artist": "Memphis May Fire",
+          "ms": 171794
+        },
+        {
+          "name": "Só se fu…",
+          "artist": "Jean Tassy, Iuri Rio Branco, Yago Oproprio",
+          "ms": 180092
+        },
+        {
+          "name": "Curse",
+          "artist": "Architects",
+          "ms": 181134
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Lagum",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Raul Seixas",
+          "genres": []
+        },
+        {
+          "name": "LVCAS",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-08-22T23:44:35.404332+00:00",
+      "now_playing": {
+        "title": "Chão de Giz",
+        "artist": "Zé Ramalho",
+        "album": "Antologia Acústica",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2735dfbbbc79653956f3d0a73a2"
       },
       "top_tracks": [
         {
