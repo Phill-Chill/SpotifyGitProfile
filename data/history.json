@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-08-22T01:02:54.440898+00:00",
-      "now_playing": {
-        "title": "The Worst In Me",
-        "artist": "Bad Omens",
-        "album": "Bad Omens",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2732c5d741251ae833b8c9d47d8"
-      },
-      "top_tracks": [
-        {
-          "name": "refém",
-          "artist": "LVCAS",
-          "ms": 236307
-        },
-        {
-          "name": "Chaotic",
-          "artist": "Memphis May Fire",
-          "ms": 171794
-        },
-        {
-          "name": "残機",
-          "artist": "ZUTOMAYO",
-          "ms": 230373
-        },
-        {
-          "name": "Só se fu…",
-          "artist": "Jean Tassy, Iuri Rio Branco, Yago Oproprio",
-          "ms": 180092
-        },
-        {
-          "name": "Nunca Fui Desse Lugar",
-          "artist": "Daparte, Lagum",
-          "ms": 204988
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Lagum",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Raul Seixas",
-          "genres": []
-        },
-        {
-          "name": "LVCAS",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-08-22T02:33:19.612183+00:00",
       "now_playing": {
         "title": "Somebody",
@@ -1684,6 +1626,64 @@
     },
     {
       "timestamp": "2026-08-22T19:23:41.762081+00:00",
+      "now_playing": {
+        "title": "Till I Collapse",
+        "artist": "Eminem, Nate Dogg",
+        "album": "The Eminem Show",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2736ca5c90113b30c3c43ffb8f4"
+      },
+      "top_tracks": [
+        {
+          "name": "refém",
+          "artist": "LVCAS",
+          "ms": 236307
+        },
+        {
+          "name": "残機",
+          "artist": "ZUTOMAYO",
+          "ms": 230373
+        },
+        {
+          "name": "Chaotic",
+          "artist": "Memphis May Fire",
+          "ms": 171794
+        },
+        {
+          "name": "Só se fu…",
+          "artist": "Jean Tassy, Iuri Rio Branco, Yago Oproprio",
+          "ms": 180092
+        },
+        {
+          "name": "Curse",
+          "artist": "Architects",
+          "ms": 181134
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Lagum",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Raul Seixas",
+          "genres": []
+        },
+        {
+          "name": "LVCAS",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-08-22T19:45:15.885443+00:00",
       "now_playing": {
         "title": "Till I Collapse",
         "artist": "Eminem, Nate Dogg",
