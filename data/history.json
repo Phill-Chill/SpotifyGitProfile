@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-08-22T05:00:59.905881+00:00",
-      "now_playing": {
-        "title": "There’s Fear In Letting Go",
-        "artist": "I Prevail",
-        "album": "TRUE POWER",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273fdf16e6dc8b69f3e7c2b258b"
-      },
-      "top_tracks": [
-        {
-          "name": "refém",
-          "artist": "LVCAS",
-          "ms": 236307
-        },
-        {
-          "name": "Chaotic",
-          "artist": "Memphis May Fire",
-          "ms": 171794
-        },
-        {
-          "name": "残機",
-          "artist": "ZUTOMAYO",
-          "ms": 230373
-        },
-        {
-          "name": "Só se fu…",
-          "artist": "Jean Tassy, Iuri Rio Branco, Yago Oproprio",
-          "ms": 180092
-        },
-        {
-          "name": "Nunca Fui Desse Lugar",
-          "artist": "Daparte, Lagum",
-          "ms": 204988
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Lagum",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "LVCAS",
-          "genres": []
-        },
-        {
-          "name": "Raul Seixas",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-08-22T05:52:11.754933+00:00",
       "now_playing": {
         "title": "There’s Fear In Letting Go",
@@ -1689,6 +1631,64 @@
         "artist": "Eminem, Ed Sheeran",
         "album": "Revival",
         "image_url": "https://i.scdn.co/image/ab67616d0000b273dee6b58d35215322626b5701"
+      },
+      "top_tracks": [
+        {
+          "name": "refém",
+          "artist": "LVCAS",
+          "ms": 236307
+        },
+        {
+          "name": "残機",
+          "artist": "ZUTOMAYO",
+          "ms": 230373
+        },
+        {
+          "name": "Chaotic",
+          "artist": "Memphis May Fire",
+          "ms": 171794
+        },
+        {
+          "name": "Só se fu…",
+          "artist": "Jean Tassy, Iuri Rio Branco, Yago Oproprio",
+          "ms": 180092
+        },
+        {
+          "name": "Curse",
+          "artist": "Architects",
+          "ms": 181134
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Lagum",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Raul Seixas",
+          "genres": []
+        },
+        {
+          "name": "LVCAS",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-08-22T21:44:50.156136+00:00",
+      "now_playing": {
+        "title": "Lugar Ao Sol",
+        "artist": "Charlie Brown Jr.",
+        "album": "100% Charlie Brown Jr - Abalando A Sua Fábrica",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2739ce3f2af269f08d61ac2ab9e"
       },
       "top_tracks": [
         {
