@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-08-22T18:24:42.451229+00:00",
-      "now_playing": {
-        "title": "Till I Collapse",
-        "artist": "Eminem, Nate Dogg",
-        "album": "The Eminem Show",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2736ca5c90113b30c3c43ffb8f4"
-      },
-      "top_tracks": [
-        {
-          "name": "refém",
-          "artist": "LVCAS",
-          "ms": 236307
-        },
-        {
-          "name": "残機",
-          "artist": "ZUTOMAYO",
-          "ms": 230373
-        },
-        {
-          "name": "Chaotic",
-          "artist": "Memphis May Fire",
-          "ms": 171794
-        },
-        {
-          "name": "Só se fu…",
-          "artist": "Jean Tassy, Iuri Rio Branco, Yago Oproprio",
-          "ms": 180092
-        },
-        {
-          "name": "Curse",
-          "artist": "Architects",
-          "ms": 181134
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Lagum",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Raul Seixas",
-          "genres": []
-        },
-        {
-          "name": "LVCAS",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-08-22T18:57:13.284693+00:00",
       "now_playing": {
         "title": "Till I Collapse",
@@ -1689,6 +1631,64 @@
         "artist": "Vivendo do Ócio",
         "album": "O Pensamento É um Imã",
         "image_url": "https://i.scdn.co/image/ab67616d0000b273cdbb4e19fe864bd1dde25efd"
+      },
+      "top_tracks": [
+        {
+          "name": "refém",
+          "artist": "LVCAS",
+          "ms": 236307
+        },
+        {
+          "name": "残機",
+          "artist": "ZUTOMAYO",
+          "ms": 230373
+        },
+        {
+          "name": "Chaotic",
+          "artist": "Memphis May Fire",
+          "ms": 171794
+        },
+        {
+          "name": "Nunca Fui Desse Lugar",
+          "artist": "Daparte, Lagum",
+          "ms": 204988
+        },
+        {
+          "name": "Quando Eu Me Encontrar",
+          "artist": "Selvagens à Procura de Lei, Vivendo do Ócio",
+          "ms": 217453
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Lagum",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Raul Seixas",
+          "genres": []
+        },
+        {
+          "name": "Bring Me The Horizon",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-08-23T13:55:38.157384+00:00",
+      "now_playing": {
+        "title": "Envolvidão",
+        "artist": "Rael",
+        "album": "Diversoficando",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273f40fd88102f77dcb6cf665ad"
       },
       "top_tracks": [
         {
