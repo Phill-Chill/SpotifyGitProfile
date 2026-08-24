@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-08-23T10:49:05.187921+00:00",
-      "now_playing": {
-        "title": "Trela",
-        "artist": "O Grilo",
-        "album": "Você Não Sabe de Nada",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2734566fa81d99028bf221eb7bd"
-      },
-      "top_tracks": [
-        {
-          "name": "refém",
-          "artist": "LVCAS",
-          "ms": 236307
-        },
-        {
-          "name": "残機",
-          "artist": "ZUTOMAYO",
-          "ms": 230373
-        },
-        {
-          "name": "Chaotic",
-          "artist": "Memphis May Fire",
-          "ms": 171794
-        },
-        {
-          "name": "Só se fu…",
-          "artist": "Jean Tassy, Iuri Rio Branco, Yago Oproprio",
-          "ms": 180092
-        },
-        {
-          "name": "Curse",
-          "artist": "Architects",
-          "ms": 181134
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Lagum",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Raul Seixas",
-          "genres": []
-        },
-        {
-          "name": "LVCAS",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-08-23T11:18:06.263547+00:00",
       "now_playing": {
         "title": "Anjos (Pra quem tem fé)",
@@ -1684,6 +1626,64 @@
     },
     {
       "timestamp": "2026-08-24T04:40:38.026728+00:00",
+      "now_playing": {
+        "title": "O Papa É Pop - Ao Vivo",
+        "artist": "Engenheiros Do Hawaii",
+        "album": "Acústico (Ao Vivo / Deluxe)",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273f98de08cd017b515c9e61344"
+      },
+      "top_tracks": [
+        {
+          "name": "refém",
+          "artist": "LVCAS",
+          "ms": 236307
+        },
+        {
+          "name": "Nunca Fui Desse Lugar",
+          "artist": "Daparte, Lagum",
+          "ms": 204988
+        },
+        {
+          "name": "Chaotic",
+          "artist": "Memphis May Fire",
+          "ms": 171794
+        },
+        {
+          "name": "Quando Eu Me Encontrar",
+          "artist": "Selvagens à Procura de Lei, Vivendo do Ócio",
+          "ms": 217453
+        },
+        {
+          "name": "残機",
+          "artist": "ZUTOMAYO",
+          "ms": 230373
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Lagum",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Raul Seixas",
+          "genres": []
+        },
+        {
+          "name": "Bring Me The Horizon",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-08-24T05:35:13.529333+00:00",
       "now_playing": {
         "title": "O Papa É Pop - Ao Vivo",
         "artist": "Engenheiros Do Hawaii",
