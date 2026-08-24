@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-08-23T12:33:45.890979+00:00",
-      "now_playing": {
-        "title": "Cowboy Fora Da Lei",
-        "artist": "Raul Seixas",
-        "album": "Uah-Bap-Lu-Bap-Lah-Bein-Bum",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2738ea0dfe90d5ce77b44a38216"
-      },
-      "top_tracks": [
-        {
-          "name": "refém",
-          "artist": "LVCAS",
-          "ms": 236307
-        },
-        {
-          "name": "残機",
-          "artist": "ZUTOMAYO",
-          "ms": 230373
-        },
-        {
-          "name": "Chaotic",
-          "artist": "Memphis May Fire",
-          "ms": 171794
-        },
-        {
-          "name": "Nunca Fui Desse Lugar",
-          "artist": "Daparte, Lagum",
-          "ms": 204988
-        },
-        {
-          "name": "Quando Eu Me Encontrar",
-          "artist": "Selvagens à Procura de Lei, Vivendo do Ócio",
-          "ms": 217453
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Lagum",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Raul Seixas",
-          "genres": []
-        },
-        {
-          "name": "Bring Me The Horizon",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-08-23T13:29:37.432011+00:00",
       "now_playing": {
         "title": "Nostalgia",
@@ -1684,6 +1626,64 @@
     },
     {
       "timestamp": "2026-08-24T07:55:15.927385+00:00",
+      "now_playing": {
+        "title": "O Papa É Pop - Ao Vivo",
+        "artist": "Engenheiros Do Hawaii",
+        "album": "Acústico (Ao Vivo / Deluxe)",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273f98de08cd017b515c9e61344"
+      },
+      "top_tracks": [
+        {
+          "name": "refém",
+          "artist": "LVCAS",
+          "ms": 236307
+        },
+        {
+          "name": "Nunca Fui Desse Lugar",
+          "artist": "Daparte, Lagum",
+          "ms": 204988
+        },
+        {
+          "name": "Chaotic",
+          "artist": "Memphis May Fire",
+          "ms": 171794
+        },
+        {
+          "name": "Quando Eu Me Encontrar",
+          "artist": "Selvagens à Procura de Lei, Vivendo do Ócio",
+          "ms": 217453
+        },
+        {
+          "name": "残機",
+          "artist": "ZUTOMAYO",
+          "ms": 230373
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Lagum",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Raul Seixas",
+          "genres": []
+        },
+        {
+          "name": "Bring Me The Horizon",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-08-24T08:44:00.989108+00:00",
       "now_playing": {
         "title": "O Papa É Pop - Ao Vivo",
         "artist": "Engenheiros Do Hawaii",
