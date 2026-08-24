@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-08-23T14:20:41.849494+00:00",
-      "now_playing": {
-        "title": "Só se fu…",
-        "artist": "Jean Tassy, Iuri Rio Branco, Yago Oproprio",
-        "album": "Acrônico",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2735f62759fa1325543a2693675"
-      },
-      "top_tracks": [
-        {
-          "name": "refém",
-          "artist": "LVCAS",
-          "ms": 236307
-        },
-        {
-          "name": "残機",
-          "artist": "ZUTOMAYO",
-          "ms": 230373
-        },
-        {
-          "name": "Chaotic",
-          "artist": "Memphis May Fire",
-          "ms": 171794
-        },
-        {
-          "name": "Nunca Fui Desse Lugar",
-          "artist": "Daparte, Lagum",
-          "ms": 204988
-        },
-        {
-          "name": "Quando Eu Me Encontrar",
-          "artist": "Selvagens à Procura de Lei, Vivendo do Ócio",
-          "ms": 217453
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Lagum",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Raul Seixas",
-          "genres": []
-        },
-        {
-          "name": "Bring Me The Horizon",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-08-23T14:48:27.099185+00:00",
       "now_playing": {
         "title": "Se Eu Chorar - Ao Vivo",
@@ -1684,6 +1626,64 @@
     },
     {
       "timestamp": "2026-08-24T10:33:54.448110+00:00",
+      "now_playing": {
+        "title": "Lose Yourself",
+        "artist": "Eminem",
+        "album": "Just Lose It",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273b6ef2ebd34efb08cb76f6eec"
+      },
+      "top_tracks": [
+        {
+          "name": "refém",
+          "artist": "LVCAS",
+          "ms": 236307
+        },
+        {
+          "name": "Nunca Fui Desse Lugar",
+          "artist": "Daparte, Lagum",
+          "ms": 204988
+        },
+        {
+          "name": "Chaotic",
+          "artist": "Memphis May Fire",
+          "ms": 171794
+        },
+        {
+          "name": "Quando Eu Me Encontrar",
+          "artist": "Selvagens à Procura de Lei, Vivendo do Ócio",
+          "ms": 217453
+        },
+        {
+          "name": "残機",
+          "artist": "ZUTOMAYO",
+          "ms": 230373
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Lagum",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Raul Seixas",
+          "genres": []
+        },
+        {
+          "name": "Bring Me The Horizon",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-08-24T11:24:19.425471+00:00",
       "now_playing": {
         "title": "Lose Yourself",
         "artist": "Eminem",
