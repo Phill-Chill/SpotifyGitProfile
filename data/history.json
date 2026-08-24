@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-08-23T23:17:46.470196+00:00",
-      "now_playing": {
-        "title": "Primeiros Erros (Chove) (feat. Kiko Zambianchi) - Ao Vivo",
-        "artist": "Capital Inicial, Kiko Zambianchi",
-        "album": "Acústico Capital Inicial",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273839988017983f54cf85b836a"
-      },
-      "top_tracks": [
-        {
-          "name": "refém",
-          "artist": "LVCAS",
-          "ms": 236307
-        },
-        {
-          "name": "Nunca Fui Desse Lugar",
-          "artist": "Daparte, Lagum",
-          "ms": 204988
-        },
-        {
-          "name": "Chaotic",
-          "artist": "Memphis May Fire",
-          "ms": 171794
-        },
-        {
-          "name": "Quando Eu Me Encontrar",
-          "artist": "Selvagens à Procura de Lei, Vivendo do Ócio",
-          "ms": 217453
-        },
-        {
-          "name": "残機",
-          "artist": "ZUTOMAYO",
-          "ms": 230373
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Lagum",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Raul Seixas",
-          "genres": []
-        },
-        {
-          "name": "Bring Me The Horizon",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-08-23T23:44:27.906775+00:00",
       "now_playing": {
         "title": "Medo Da Chuva",
@@ -1684,6 +1626,64 @@
     },
     {
       "timestamp": "2026-08-24T23:19:46.149906+00:00",
+      "now_playing": {
+        "title": "Hóstia",
+        "artist": "O Rappa",
+        "album": "7 Vezes",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273ed295f9029af12f98b7abb1a"
+      },
+      "top_tracks": [
+        {
+          "name": "Nunca Fui Desse Lugar",
+          "artist": "Daparte, Lagum",
+          "ms": 204988
+        },
+        {
+          "name": "Quando Eu Me Encontrar",
+          "artist": "Selvagens à Procura de Lei, Vivendo do Ócio",
+          "ms": 217453
+        },
+        {
+          "name": "refém",
+          "artist": "LVCAS",
+          "ms": 236307
+        },
+        {
+          "name": "Feeling Lonely",
+          "artist": "boy pablo",
+          "ms": 197946
+        },
+        {
+          "name": "Transante",
+          "artist": "Lagum",
+          "ms": 167507
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Lagum",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Raul Seixas",
+          "genres": []
+        },
+        {
+          "name": "Engenheiros Do Hawaii",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-08-24T23:45:38.631195+00:00",
       "now_playing": {
         "title": "Hóstia",
         "artist": "O Rappa",
