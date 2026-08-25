@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-08-24T13:59:02.575585+00:00",
-      "now_playing": {
-        "title": "Not Afraid",
-        "artist": "Eminem",
-        "album": "Recovery",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273c08d5fa5c0f1a834acef5100"
-      },
-      "top_tracks": [
-        {
-          "name": "refém",
-          "artist": "LVCAS",
-          "ms": 236307
-        },
-        {
-          "name": "Nunca Fui Desse Lugar",
-          "artist": "Daparte, Lagum",
-          "ms": 204988
-        },
-        {
-          "name": "Chaotic",
-          "artist": "Memphis May Fire",
-          "ms": 171794
-        },
-        {
-          "name": "Quando Eu Me Encontrar",
-          "artist": "Selvagens à Procura de Lei, Vivendo do Ócio",
-          "ms": 217453
-        },
-        {
-          "name": "残機",
-          "artist": "ZUTOMAYO",
-          "ms": 230373
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Lagum",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Raul Seixas",
-          "genres": []
-        },
-        {
-          "name": "Bring Me The Horizon",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-08-24T14:37:57.719326+00:00",
       "now_playing": {
         "title": "Not Afraid",
@@ -1684,6 +1626,64 @@
     },
     {
       "timestamp": "2026-08-25T12:40:41.026856+00:00",
+      "now_playing": {
+        "title": "Till I Collapse",
+        "artist": "Eminem, Nate Dogg",
+        "album": "The Eminem Show",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2736ca5c90113b30c3c43ffb8f4"
+      },
+      "top_tracks": [
+        {
+          "name": "Nunca Fui Desse Lugar",
+          "artist": "Daparte, Lagum",
+          "ms": 204988
+        },
+        {
+          "name": "Transante",
+          "artist": "Lagum",
+          "ms": 167507
+        },
+        {
+          "name": "Quando Eu Me Encontrar",
+          "artist": "Selvagens à Procura de Lei, Vivendo do Ócio",
+          "ms": 217453
+        },
+        {
+          "name": "refém",
+          "artist": "LVCAS",
+          "ms": 236307
+        },
+        {
+          "name": "Feeling Lonely",
+          "artist": "boy pablo",
+          "ms": 197946
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Lagum",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Raul Seixas",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Engenheiros Do Hawaii",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-08-25T13:46:27.360042+00:00",
       "now_playing": {
         "title": "Till I Collapse",
         "artist": "Eminem, Nate Dogg",
