@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-08-23T23:44:27.906775+00:00",
-      "now_playing": {
-        "title": "Medo Da Chuva",
-        "artist": "Raul Seixas",
-        "album": "Gita",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2736549139624a52222827290dd"
-      },
-      "top_tracks": [
-        {
-          "name": "refém",
-          "artist": "LVCAS",
-          "ms": 236307
-        },
-        {
-          "name": "Nunca Fui Desse Lugar",
-          "artist": "Daparte, Lagum",
-          "ms": 204988
-        },
-        {
-          "name": "Chaotic",
-          "artist": "Memphis May Fire",
-          "ms": 171794
-        },
-        {
-          "name": "Quando Eu Me Encontrar",
-          "artist": "Selvagens à Procura de Lei, Vivendo do Ócio",
-          "ms": 217453
-        },
-        {
-          "name": "残機",
-          "artist": "ZUTOMAYO",
-          "ms": 230373
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Lagum",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Raul Seixas",
-          "genres": []
-        },
-        {
-          "name": "Bring Me The Horizon",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-08-24T01:05:39.255022+00:00",
       "now_playing": {
         "title": "O Papa É Pop - Ao Vivo",
@@ -1689,6 +1631,64 @@
         "artist": "O Rappa",
         "album": "7 Vezes",
         "image_url": "https://i.scdn.co/image/ab67616d0000b273ed295f9029af12f98b7abb1a"
+      },
+      "top_tracks": [
+        {
+          "name": "Nunca Fui Desse Lugar",
+          "artist": "Daparte, Lagum",
+          "ms": 204988
+        },
+        {
+          "name": "Quando Eu Me Encontrar",
+          "artist": "Selvagens à Procura de Lei, Vivendo do Ócio",
+          "ms": 217453
+        },
+        {
+          "name": "refém",
+          "artist": "LVCAS",
+          "ms": 236307
+        },
+        {
+          "name": "Feeling Lonely",
+          "artist": "boy pablo",
+          "ms": 197946
+        },
+        {
+          "name": "Transante",
+          "artist": "Lagum",
+          "ms": 167507
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Lagum",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Raul Seixas",
+          "genres": []
+        },
+        {
+          "name": "Engenheiros Do Hawaii",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-08-25T01:04:48.705896+00:00",
+      "now_playing": {
+        "title": "Subirusdoistiozin - Live",
+        "artist": "Criolo, Emicida",
+        "album": "Criolo E Emicida Ao Vivo (Live)",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27366f0c6def5de0e46503bca8f"
       },
       "top_tracks": [
         {
