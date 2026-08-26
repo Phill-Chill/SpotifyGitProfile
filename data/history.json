@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-08-25T15:38:34.278328+00:00",
-      "now_playing": {
-        "title": "Till I Collapse",
-        "artist": "Eminem, Nate Dogg",
-        "album": "The Eminem Show",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2736ca5c90113b30c3c43ffb8f4"
-      },
-      "top_tracks": [
-        {
-          "name": "Nunca Fui Desse Lugar",
-          "artist": "Daparte, Lagum",
-          "ms": 204988
-        },
-        {
-          "name": "Transante",
-          "artist": "Lagum",
-          "ms": 167507
-        },
-        {
-          "name": "Quando Eu Me Encontrar",
-          "artist": "Selvagens à Procura de Lei, Vivendo do Ócio",
-          "ms": 217453
-        },
-        {
-          "name": "refém",
-          "artist": "LVCAS",
-          "ms": 236307
-        },
-        {
-          "name": "Feeling Lonely",
-          "artist": "boy pablo",
-          "ms": 197946
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Lagum",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Raul Seixas",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Engenheiros Do Hawaii",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-08-25T16:32:55.747986+00:00",
       "now_playing": {
         "title": "Let It Be - Remastered 2009",
@@ -1710,6 +1652,64 @@
           "name": "Feeling Lonely",
           "artist": "boy pablo",
           "ms": 197946
+        },
+        {
+          "name": "Envolvidão",
+          "artist": "Rael",
+          "ms": 205720
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Lagum",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Raul Seixas",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "LVCAS",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-08-26T16:15:06.032550+00:00",
+      "now_playing": {
+        "title": "Breathe (feat. Sean Paul) - Rap Version",
+        "artist": "Blu Cantrell, Sean Paul",
+        "album": "Bittersweet",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2732bd281188f485ea182f3bd84"
+      },
+      "top_tracks": [
+        {
+          "name": "Feeling Lonely",
+          "artist": "boy pablo",
+          "ms": 197946
+        },
+        {
+          "name": "Nunca Fui Desse Lugar",
+          "artist": "Daparte, Lagum",
+          "ms": 204988
+        },
+        {
+          "name": "Transante",
+          "artist": "Lagum",
+          "ms": 167507
+        },
+        {
+          "name": "Quando Eu Me Encontrar",
+          "artist": "Selvagens à Procura de Lei, Vivendo do Ócio",
+          "ms": 217453
         },
         {
           "name": "Envolvidão",
