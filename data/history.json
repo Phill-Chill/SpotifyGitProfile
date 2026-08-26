@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-08-25T17:28:17.002773+00:00",
-      "now_playing": {
-        "title": "The Monster",
-        "artist": "Eminem, Rihanna",
-        "album": "The Marshall Mathers LP2",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2733c65085a58aae2cccd892cbe"
-      },
-      "top_tracks": [
-        {
-          "name": "Nunca Fui Desse Lugar",
-          "artist": "Daparte, Lagum",
-          "ms": 204988
-        },
-        {
-          "name": "Transante",
-          "artist": "Lagum",
-          "ms": 167507
-        },
-        {
-          "name": "Quando Eu Me Encontrar",
-          "artist": "Selvagens à Procura de Lei, Vivendo do Ócio",
-          "ms": 217453
-        },
-        {
-          "name": "refém",
-          "artist": "LVCAS",
-          "ms": 236307
-        },
-        {
-          "name": "Feeling Lonely",
-          "artist": "boy pablo",
-          "ms": 197946
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Lagum",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Raul Seixas",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Engenheiros Do Hawaii",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-08-25T17:57:33.400697+00:00",
       "now_playing": {
         "title": "The Monster",
@@ -1689,6 +1631,64 @@
         "artist": "Miley Cyrus",
         "album": "The Time Of Our Lives (International Version)",
         "image_url": "https://i.scdn.co/image/ab67616d0000b2734ea6653890e297d53e93e3e0"
+      },
+      "top_tracks": [
+        {
+          "name": "Feeling Lonely",
+          "artist": "boy pablo",
+          "ms": 197946
+        },
+        {
+          "name": "Nunca Fui Desse Lugar",
+          "artist": "Daparte, Lagum",
+          "ms": 204988
+        },
+        {
+          "name": "Transante",
+          "artist": "Lagum",
+          "ms": 167507
+        },
+        {
+          "name": "Quando Eu Me Encontrar",
+          "artist": "Selvagens à Procura de Lei, Vivendo do Ócio",
+          "ms": 217453
+        },
+        {
+          "name": "Envolvidão",
+          "artist": "Rael",
+          "ms": 205720
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Lagum",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Raul Seixas",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "LVCAS",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-08-26T20:31:37.923288+00:00",
+      "now_playing": {
+        "title": "Por você",
+        "artist": "Barão Vermelho",
+        "album": "Balada MTV",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273352f4358f06bc62b61958c7f"
       },
       "top_tracks": [
         {
