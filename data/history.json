@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-08-25T20:28:31.473059+00:00",
-      "now_playing": {
-        "title": "The Monster",
-        "artist": "Eminem, Rihanna",
-        "album": "The Marshall Mathers LP2",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2733c65085a58aae2cccd892cbe"
-      },
-      "top_tracks": [
-        {
-          "name": "Nunca Fui Desse Lugar",
-          "artist": "Daparte, Lagum",
-          "ms": 204988
-        },
-        {
-          "name": "Transante",
-          "artist": "Lagum",
-          "ms": 167507
-        },
-        {
-          "name": "Quando Eu Me Encontrar",
-          "artist": "Selvagens à Procura de Lei, Vivendo do Ócio",
-          "ms": 217453
-        },
-        {
-          "name": "refém",
-          "artist": "LVCAS",
-          "ms": 236307
-        },
-        {
-          "name": "Feeling Lonely",
-          "artist": "boy pablo",
-          "ms": 197946
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Lagum",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Raul Seixas",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Engenheiros Do Hawaii",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-08-25T20:56:43.878969+00:00",
       "now_playing": {
         "title": "The Monster",
@@ -1732,6 +1674,64 @@
         },
         {
           "name": "Raul Seixas",
+          "genres": []
+        },
+        {
+          "name": "LVCAS",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-08-28T17:35:24.886923+00:00",
+      "now_playing": {
+        "title": "Liberdade",
+        "artist": "NAVALA",
+        "album": "Liberdade",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27398ea84b4effb33119ec808a6"
+      },
+      "top_tracks": [
+        {
+          "name": "Subirusdoistiozin - Live",
+          "artist": "Criolo, Emicida",
+          "ms": 211280
+        },
+        {
+          "name": "Transante",
+          "artist": "Lagum",
+          "ms": 167507
+        },
+        {
+          "name": "Nunca Fui Desse Lugar",
+          "artist": "Daparte, Lagum",
+          "ms": 204988
+        },
+        {
+          "name": "Onda Doida",
+          "artist": "Banana Kush, André Rossi, Theus Terreiro, YellowLab",
+          "ms": 169142
+        },
+        {
+          "name": "Feeling Lonely",
+          "artist": "boy pablo",
+          "ms": 197946
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Lagum",
+          "genres": []
+        },
+        {
+          "name": "Raul Seixas",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
           "genres": []
         },
         {
