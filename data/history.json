@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-08-25T22:54:29.176634+00:00",
-      "now_playing": {
-        "title": "The Monster",
-        "artist": "Eminem, Rihanna",
-        "album": "The Marshall Mathers LP2",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2733c65085a58aae2cccd892cbe"
-      },
-      "top_tracks": [
-        {
-          "name": "Nunca Fui Desse Lugar",
-          "artist": "Daparte, Lagum",
-          "ms": 204988
-        },
-        {
-          "name": "Transante",
-          "artist": "Lagum",
-          "ms": 167507
-        },
-        {
-          "name": "Quando Eu Me Encontrar",
-          "artist": "Selvagens à Procura de Lei, Vivendo do Ócio",
-          "ms": 217453
-        },
-        {
-          "name": "refém",
-          "artist": "LVCAS",
-          "ms": 236307
-        },
-        {
-          "name": "Feeling Lonely",
-          "artist": "boy pablo",
-          "ms": 197946
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Lagum",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Raul Seixas",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Engenheiros Do Hawaii",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-08-25T23:22:15.837464+00:00",
       "now_playing": {
         "title": "The Monster",
@@ -1689,6 +1631,64 @@
         "artist": "Catedral",
         "album": "Mais do Que Imaginei",
         "image_url": "https://i.scdn.co/image/ab67616d0000b2732d09a59586c0e4561c3f0056"
+      },
+      "top_tracks": [
+        {
+          "name": "Transante",
+          "artist": "Lagum",
+          "ms": 167507
+        },
+        {
+          "name": "Subirusdoistiozin - Live",
+          "artist": "Criolo, Emicida",
+          "ms": 211280
+        },
+        {
+          "name": "Nunca Fui Desse Lugar",
+          "artist": "Daparte, Lagum",
+          "ms": 204988
+        },
+        {
+          "name": "Onda Doida",
+          "artist": "Banana Kush, André Rossi, Theus Terreiro, YellowLab",
+          "ms": 169142
+        },
+        {
+          "name": "Feeling Lonely",
+          "artist": "boy pablo",
+          "ms": 197946
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Lagum",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Raul Seixas",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "LVCAS",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-08-29T19:57:55.048641+00:00",
+      "now_playing": {
+        "title": "(sic)",
+        "artist": "Slipknot",
+        "album": "Slipknot",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27381e0d9617e70d75e7ae11fa6"
       },
       "top_tracks": [
         {
