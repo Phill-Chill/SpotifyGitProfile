@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-08-26T01:07:04.506812+00:00",
-      "now_playing": {
-        "title": "Granite",
-        "artist": "Sleep Token",
-        "album": "Take Me Back To Eden",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2730b73608b678f169d3c8f35f0"
-      },
-      "top_tracks": [
-        {
-          "name": "Nunca Fui Desse Lugar",
-          "artist": "Daparte, Lagum",
-          "ms": 204988
-        },
-        {
-          "name": "Transante",
-          "artist": "Lagum",
-          "ms": 167507
-        },
-        {
-          "name": "Quando Eu Me Encontrar",
-          "artist": "Selvagens à Procura de Lei, Vivendo do Ócio",
-          "ms": 217453
-        },
-        {
-          "name": "Feeling Lonely",
-          "artist": "boy pablo",
-          "ms": 197946
-        },
-        {
-          "name": "Envolvidão",
-          "artist": "Rael",
-          "ms": 205720
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Lagum",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Raul Seixas",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "LVCAS",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-08-26T02:45:36.147356+00:00",
       "now_playing": {
         "title": "1x1 (feat. Nova Twins)",
@@ -1689,6 +1631,64 @@
         "artist": "Twenty One Pilots",
         "album": "Blurryface",
         "image_url": "https://i.scdn.co/image/ab67616d0000b2732df0d98a423025032d0db1f7"
+      },
+      "top_tracks": [
+        {
+          "name": "Transante",
+          "artist": "Lagum",
+          "ms": 167507
+        },
+        {
+          "name": "Subirusdoistiozin - Live",
+          "artist": "Criolo, Emicida",
+          "ms": 211280
+        },
+        {
+          "name": "Nunca Fui Desse Lugar",
+          "artist": "Daparte, Lagum",
+          "ms": 204988
+        },
+        {
+          "name": "Onda Doida",
+          "artist": "Banana Kush, André Rossi, Theus Terreiro, YellowLab",
+          "ms": 169142
+        },
+        {
+          "name": "Feeling Lonely",
+          "artist": "boy pablo",
+          "ms": 197946
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Lagum",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Raul Seixas",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "LVCAS",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-08-30T07:02:21.682806+00:00",
+      "now_playing": {
+        "title": "Heaven",
+        "artist": "Bryan Adams",
+        "album": "Reckless (30th Anniversary / Deluxe Edition)",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273cf1fee2a55e98e22bf358512"
       },
       "top_tracks": [
         {
