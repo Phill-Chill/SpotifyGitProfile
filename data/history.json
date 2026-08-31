@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-08-26T06:42:12.430719+00:00",
-      "now_playing": {
-        "title": "1x1 (feat. Nova Twins)",
-        "artist": "Bring Me The Horizon, Nova Twins",
-        "album": "POST HUMAN: SURVIVAL HORROR",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2735149c948fde506624246a684"
-      },
-      "top_tracks": [
-        {
-          "name": "Nunca Fui Desse Lugar",
-          "artist": "Daparte, Lagum",
-          "ms": 204988
-        },
-        {
-          "name": "Transante",
-          "artist": "Lagum",
-          "ms": 167507
-        },
-        {
-          "name": "Quando Eu Me Encontrar",
-          "artist": "Selvagens à Procura de Lei, Vivendo do Ócio",
-          "ms": 217453
-        },
-        {
-          "name": "Feeling Lonely",
-          "artist": "boy pablo",
-          "ms": 197946
-        },
-        {
-          "name": "Envolvidão",
-          "artist": "Rael",
-          "ms": 205720
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Lagum",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Raul Seixas",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "LVCAS",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-08-26T07:42:32.210751+00:00",
       "now_playing": {
         "title": "1x1 (feat. Nova Twins)",
@@ -1689,6 +1631,64 @@
         "artist": "Post Malone, Ozzy Osbourne, Travis Scott",
         "album": "Hollywood's Bleeding",
         "image_url": "https://i.scdn.co/image/ab67616d0000b2739478c87599550dd73bfa7e02"
+      },
+      "top_tracks": [
+        {
+          "name": "Subirusdoistiozin - Live",
+          "artist": "Criolo, Emicida",
+          "ms": 211280
+        },
+        {
+          "name": "Transante",
+          "artist": "Lagum",
+          "ms": 167507
+        },
+        {
+          "name": "Nunca Fui Desse Lugar",
+          "artist": "Daparte, Lagum",
+          "ms": 204988
+        },
+        {
+          "name": "Clouds",
+          "artist": "Paper Idol",
+          "ms": 184468
+        },
+        {
+          "name": "Onda Doida",
+          "artist": "Banana Kush, André Rossi, Theus Terreiro, YellowLab",
+          "ms": 169142
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Lagum",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Raul Seixas",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "LVCAS",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-08-31T01:26:59.618392+00:00",
+      "now_playing": {
+        "title": "Gangsta's Paradise",
+        "artist": "Coolio, L.V.",
+        "album": "Gangsta's Paradise",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2737438996f6fe67c59d75d4e43"
       },
       "top_tracks": [
         {
