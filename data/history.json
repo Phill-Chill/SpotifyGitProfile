@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-08-26T13:52:03.340766+00:00",
-      "now_playing": {
-        "title": "That's All She Wrote",
-        "artist": "T.I., Eminem",
-        "album": "No Mercy",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273128b948ac9a26c14269282d4"
-      },
-      "top_tracks": [
-        {
-          "name": "Nunca Fui Desse Lugar",
-          "artist": "Daparte, Lagum",
-          "ms": 204988
-        },
-        {
-          "name": "Transante",
-          "artist": "Lagum",
-          "ms": 167507
-        },
-        {
-          "name": "Quando Eu Me Encontrar",
-          "artist": "Selvagens à Procura de Lei, Vivendo do Ócio",
-          "ms": 217453
-        },
-        {
-          "name": "Feeling Lonely",
-          "artist": "boy pablo",
-          "ms": 197946
-        },
-        {
-          "name": "Envolvidão",
-          "artist": "Rael",
-          "ms": 205720
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Lagum",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Raul Seixas",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "LVCAS",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-08-26T14:40:50.647742+00:00",
       "now_playing": {
         "title": "Tobey (feat. Big Sean and BabyTron)",
@@ -1689,6 +1631,64 @@
         "artist": "B.o.B, Eminem, Hayley Williams",
         "album": "B.o.B Presents: The Adventures of Bobby Ray",
         "image_url": "https://i.scdn.co/image/ab67616d0000b273caa23612279c2d059a0d3a82"
+      },
+      "top_tracks": [
+        {
+          "name": "Subirusdoistiozin - Live",
+          "artist": "Criolo, Emicida",
+          "ms": 211280
+        },
+        {
+          "name": "Clouds",
+          "artist": "Paper Idol",
+          "ms": 184468
+        },
+        {
+          "name": "Transante",
+          "artist": "Lagum",
+          "ms": 167507
+        },
+        {
+          "name": "Onda Doida",
+          "artist": "Banana Kush, André Rossi, Theus Terreiro, YellowLab",
+          "ms": 169142
+        },
+        {
+          "name": "Catedrais",
+          "artist": "Yago Oproprio, Patricio Sid",
+          "ms": 168333
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Lagum",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Raul Seixas",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Eminem",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-01T18:42:34.910058+00:00",
+      "now_playing": {
+        "title": "Crack A Bottle",
+        "artist": "Eminem, Dr. Dre, 50 Cent",
+        "album": "Relapse: Refill",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273506c4cc93e5a6234164125e1"
       },
       "top_tracks": [
         {
