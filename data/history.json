@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-08-26T20:31:37.923288+00:00",
-      "now_playing": {
-        "title": "Por você",
-        "artist": "Barão Vermelho",
-        "album": "Balada MTV",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273352f4358f06bc62b61958c7f"
-      },
-      "top_tracks": [
-        {
-          "name": "Feeling Lonely",
-          "artist": "boy pablo",
-          "ms": 197946
-        },
-        {
-          "name": "Nunca Fui Desse Lugar",
-          "artist": "Daparte, Lagum",
-          "ms": 204988
-        },
-        {
-          "name": "Transante",
-          "artist": "Lagum",
-          "ms": 167507
-        },
-        {
-          "name": "Quando Eu Me Encontrar",
-          "artist": "Selvagens à Procura de Lei, Vivendo do Ócio",
-          "ms": 217453
-        },
-        {
-          "name": "Envolvidão",
-          "artist": "Rael",
-          "ms": 205720
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Lagum",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Raul Seixas",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "LVCAS",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-08-27T00:25:43.892870+00:00",
       "now_playing": {
         "title": "Inquilino",
@@ -1684,6 +1626,64 @@
     },
     {
       "timestamp": "2026-09-02T02:47:11.997318+00:00",
+      "now_playing": {
+        "title": "Fade In / Fade Out",
+        "artist": "NOTHING MORE",
+        "album": "The Stories We Tell Ourselves",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273353504127a55a603352a32ed"
+      },
+      "top_tracks": [
+        {
+          "name": "Subirusdoistiozin - Live",
+          "artist": "Criolo, Emicida",
+          "ms": 211280
+        },
+        {
+          "name": "Clouds",
+          "artist": "Paper Idol",
+          "ms": 184468
+        },
+        {
+          "name": "Transante",
+          "artist": "Lagum",
+          "ms": 167507
+        },
+        {
+          "name": "Onda Doida",
+          "artist": "Banana Kush, André Rossi, Theus Terreiro, YellowLab",
+          "ms": 169142
+        },
+        {
+          "name": "Catedrais",
+          "artist": "Yago Oproprio, Patricio Sid",
+          "ms": 168333
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Lagum",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Raul Seixas",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Eminem",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-02T07:36:07.414562+00:00",
       "now_playing": {
         "title": "Fade In / Fade Out",
         "artist": "NOTHING MORE",
