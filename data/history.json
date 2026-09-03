@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-08-29T13:55:35.187230+00:00",
-      "now_playing": {
-        "title": "Não Sei o Que Fazer Comigo (Ya No Sé Qué Hacer Conmigo)",
-        "artist": "Vespas Mandarinas",
-        "album": "Animal Nacional",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2733211583dd882babed0a6c623"
-      },
-      "top_tracks": [
-        {
-          "name": "Transante",
-          "artist": "Lagum",
-          "ms": 167507
-        },
-        {
-          "name": "Subirusdoistiozin - Live",
-          "artist": "Criolo, Emicida",
-          "ms": 211280
-        },
-        {
-          "name": "Nunca Fui Desse Lugar",
-          "artist": "Daparte, Lagum",
-          "ms": 204988
-        },
-        {
-          "name": "Onda Doida",
-          "artist": "Banana Kush, André Rossi, Theus Terreiro, YellowLab",
-          "ms": 169142
-        },
-        {
-          "name": "Feeling Lonely",
-          "artist": "boy pablo",
-          "ms": 197946
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Lagum",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Raul Seixas",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "LVCAS",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-08-29T17:29:58.245860+00:00",
       "now_playing": {
         "title": "Mil maneiras",
@@ -1689,6 +1631,64 @@
         "artist": "St. Julien",
         "album": "I Know You",
         "image_url": "https://i.scdn.co/image/ab67616d0000b2739acc922482a343f8fe81db86"
+      },
+      "top_tracks": [
+        {
+          "name": "Subirusdoistiozin - Live",
+          "artist": "Criolo, Emicida",
+          "ms": 211280
+        },
+        {
+          "name": "Clouds",
+          "artist": "Paper Idol",
+          "ms": 184468
+        },
+        {
+          "name": "Transante",
+          "artist": "Lagum",
+          "ms": 167507
+        },
+        {
+          "name": "Onda Doida",
+          "artist": "Banana Kush, André Rossi, Theus Terreiro, YellowLab",
+          "ms": 169142
+        },
+        {
+          "name": "Catedrais",
+          "artist": "Yago Oproprio, Patricio Sid",
+          "ms": 168333
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Lagum",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Raul Seixas",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Eminem",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-03T13:45:48.279975+00:00",
+      "now_playing": {
+        "title": "Absolute Zero",
+        "artist": "Stone Sour",
+        "album": "House of Gold & Bones, Part 1",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273fa2d20e17defac5c506082e6"
       },
       "top_tracks": [
         {
