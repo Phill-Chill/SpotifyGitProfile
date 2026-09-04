@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-08-30T23:08:15.555124+00:00",
-      "now_playing": {
-        "title": "Take What You Want (feat. Ozzy Osbourne & Travis Scott)",
-        "artist": "Post Malone, Ozzy Osbourne, Travis Scott",
-        "album": "Hollywood's Bleeding",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2739478c87599550dd73bfa7e02"
-      },
-      "top_tracks": [
-        {
-          "name": "Subirusdoistiozin - Live",
-          "artist": "Criolo, Emicida",
-          "ms": 211280
-        },
-        {
-          "name": "Transante",
-          "artist": "Lagum",
-          "ms": 167507
-        },
-        {
-          "name": "Nunca Fui Desse Lugar",
-          "artist": "Daparte, Lagum",
-          "ms": 204988
-        },
-        {
-          "name": "Clouds",
-          "artist": "Paper Idol",
-          "ms": 184468
-        },
-        {
-          "name": "Onda Doida",
-          "artist": "Banana Kush, André Rossi, Theus Terreiro, YellowLab",
-          "ms": 169142
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Lagum",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Raul Seixas",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "LVCAS",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-08-31T01:26:59.618392+00:00",
       "now_playing": {
         "title": "Gangsta's Paradise",
@@ -1684,6 +1626,64 @@
     },
     {
       "timestamp": "2026-09-04T17:31:33.678203+00:00",
+      "now_playing": {
+        "title": "Throne",
+        "artist": "Bring Me The Horizon",
+        "album": "That's The Spirit",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27390b88187a9831d91f2438927"
+      },
+      "top_tracks": [
+        {
+          "name": "Subirusdoistiozin - Live",
+          "artist": "Criolo, Emicida",
+          "ms": 211280
+        },
+        {
+          "name": "Clouds",
+          "artist": "Paper Idol",
+          "ms": 184468
+        },
+        {
+          "name": "Transante",
+          "artist": "Lagum",
+          "ms": 167507
+        },
+        {
+          "name": "Onda Doida",
+          "artist": "Banana Kush, André Rossi, Theus Terreiro, YellowLab",
+          "ms": 169142
+        },
+        {
+          "name": "Catedrais",
+          "artist": "Yago Oproprio, Patricio Sid",
+          "ms": 168333
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Lagum",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Raul Seixas",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Eminem",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-04T20:14:49.952362+00:00",
       "now_playing": {
         "title": "Throne",
         "artist": "Bring Me The Horizon",
