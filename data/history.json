@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-09-01T15:03:38.713187+00:00",
-      "now_playing": {
-        "title": "Airplanes, Pt. II (feat. Eminem & Hayley Williams of Paramore)",
-        "artist": "B.o.B, Eminem, Hayley Williams",
-        "album": "B.o.B Presents: The Adventures of Bobby Ray",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273caa23612279c2d059a0d3a82"
-      },
-      "top_tracks": [
-        {
-          "name": "Subirusdoistiozin - Live",
-          "artist": "Criolo, Emicida",
-          "ms": 211280
-        },
-        {
-          "name": "Clouds",
-          "artist": "Paper Idol",
-          "ms": 184468
-        },
-        {
-          "name": "Transante",
-          "artist": "Lagum",
-          "ms": 167507
-        },
-        {
-          "name": "Onda Doida",
-          "artist": "Banana Kush, André Rossi, Theus Terreiro, YellowLab",
-          "ms": 169142
-        },
-        {
-          "name": "Catedrais",
-          "artist": "Yago Oproprio, Patricio Sid",
-          "ms": 168333
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Lagum",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Raul Seixas",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Eminem",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-09-01T18:42:34.910058+00:00",
       "now_playing": {
         "title": "Crack A Bottle",
@@ -1689,6 +1631,64 @@
         "artist": "t.A.T.u.",
         "album": "200 KM/H In The Wrong Lane (10th Anniversary Edition)",
         "image_url": "https://i.scdn.co/image/ab67616d0000b2733b27e1cd8a6bc6804c2e5fd2"
+      },
+      "top_tracks": [
+        {
+          "name": "Subirusdoistiozin - Live",
+          "artist": "Criolo, Emicida",
+          "ms": 211280
+        },
+        {
+          "name": "Clouds",
+          "artist": "Paper Idol",
+          "ms": 184468
+        },
+        {
+          "name": "Onda Doida",
+          "artist": "Banana Kush, André Rossi, Theus Terreiro, YellowLab",
+          "ms": 169142
+        },
+        {
+          "name": "Catedrais",
+          "artist": "Yago Oproprio, Patricio Sid",
+          "ms": 168333
+        },
+        {
+          "name": "For The Wicked",
+          "artist": "Friday Pilots Club",
+          "ms": 173933
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Lagum",
+          "genres": []
+        },
+        {
+          "name": "Raul Seixas",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Eminem",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-05T19:18:48.559158+00:00",
+      "now_playing": {
+        "title": "This Is The Time (Ballast)",
+        "artist": "NOTHING MORE",
+        "album": "Nothing More",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273a6780d9c98263297fdeb544f"
       },
       "top_tracks": [
         {
