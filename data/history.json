@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-09-02T16:58:03.657526+00:00",
-      "now_playing": {
-        "title": "Survival",
-        "artist": "Eminem",
-        "album": "The Marshall Mathers LP2 (Deluxe)",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273c6338d684995af10c2bf0533"
-      },
-      "top_tracks": [
-        {
-          "name": "Subirusdoistiozin - Live",
-          "artist": "Criolo, Emicida",
-          "ms": 211280
-        },
-        {
-          "name": "Clouds",
-          "artist": "Paper Idol",
-          "ms": 184468
-        },
-        {
-          "name": "Transante",
-          "artist": "Lagum",
-          "ms": 167507
-        },
-        {
-          "name": "Onda Doida",
-          "artist": "Banana Kush, André Rossi, Theus Terreiro, YellowLab",
-          "ms": 169142
-        },
-        {
-          "name": "Catedrais",
-          "artist": "Yago Oproprio, Patricio Sid",
-          "ms": 168333
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Lagum",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Raul Seixas",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Eminem",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-09-02T19:39:45.357879+00:00",
       "now_playing": {
         "title": "We Own It (Fast & Furious)",
@@ -1689,6 +1631,64 @@
         "artist": "Eminem",
         "album": "Houdini",
         "image_url": "https://i.scdn.co/image/ab67616d0000b273810603c94c9246379604cf1a"
+      },
+      "top_tracks": [
+        {
+          "name": "Subirusdoistiozin - Live",
+          "artist": "Criolo, Emicida",
+          "ms": 211280
+        },
+        {
+          "name": "Clouds",
+          "artist": "Paper Idol",
+          "ms": 184468
+        },
+        {
+          "name": "Onda Doida",
+          "artist": "Banana Kush, André Rossi, Theus Terreiro, YellowLab",
+          "ms": 169142
+        },
+        {
+          "name": "Catedrais",
+          "artist": "Yago Oproprio, Patricio Sid",
+          "ms": 168333
+        },
+        {
+          "name": "Crack A Bottle",
+          "artist": "Eminem, Dr. Dre, 50 Cent",
+          "ms": 297520
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Lagum",
+          "genres": []
+        },
+        {
+          "name": "Eminem",
+          "genres": []
+        },
+        {
+          "name": "Raul Seixas",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-06T17:13:56.140781+00:00",
+      "now_playing": {
+        "title": "Deja Vu",
+        "artist": "Eminem",
+        "album": "Relapse: Refill",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273506c4cc93e5a6234164125e1"
       },
       "top_tracks": [
         {
