@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-09-01T23:46:11.666755+00:00",
-      "now_playing": {
-        "title": "Crack A Bottle",
-        "artist": "Eminem, Dr. Dre, 50 Cent",
-        "album": "Relapse: Refill",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273506c4cc93e5a6234164125e1"
-      },
-      "top_tracks": [
-        {
-          "name": "Subirusdoistiozin - Live",
-          "artist": "Criolo, Emicida",
-          "ms": 211280
-        },
-        {
-          "name": "Clouds",
-          "artist": "Paper Idol",
-          "ms": 184468
-        },
-        {
-          "name": "Transante",
-          "artist": "Lagum",
-          "ms": 167507
-        },
-        {
-          "name": "Onda Doida",
-          "artist": "Banana Kush, André Rossi, Theus Terreiro, YellowLab",
-          "ms": 169142
-        },
-        {
-          "name": "Catedrais",
-          "artist": "Yago Oproprio, Patricio Sid",
-          "ms": 168333
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Lagum",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Raul Seixas",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Eminem",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-09-02T02:47:11.997318+00:00",
       "now_playing": {
         "title": "Fade In / Fade Out",
@@ -1684,6 +1626,64 @@
     },
     {
       "timestamp": "2026-09-05T23:10:45.986282+00:00",
+      "now_playing": {
+        "title": "Airplanes, Pt. II (feat. Eminem & Hayley Williams of Paramore)",
+        "artist": "B.o.B, Eminem, Hayley Williams",
+        "album": "B.o.B Presents: The Adventures of Bobby Ray",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273caa23612279c2d059a0d3a82"
+      },
+      "top_tracks": [
+        {
+          "name": "Subirusdoistiozin - Live",
+          "artist": "Criolo, Emicida",
+          "ms": 211280
+        },
+        {
+          "name": "Clouds",
+          "artist": "Paper Idol",
+          "ms": 184468
+        },
+        {
+          "name": "Onda Doida",
+          "artist": "Banana Kush, André Rossi, Theus Terreiro, YellowLab",
+          "ms": 169142
+        },
+        {
+          "name": "Catedrais",
+          "artist": "Yago Oproprio, Patricio Sid",
+          "ms": 168333
+        },
+        {
+          "name": "For The Wicked",
+          "artist": "Friday Pilots Club",
+          "ms": 173933
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Lagum",
+          "genres": []
+        },
+        {
+          "name": "Raul Seixas",
+          "genres": []
+        },
+        {
+          "name": "Eminem",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-06T01:11:42.450963+00:00",
       "now_playing": {
         "title": "Airplanes, Pt. II (feat. Eminem & Hayley Williams of Paramore)",
         "artist": "B.o.B, Eminem, Hayley Williams",
