@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-09-02T12:31:03.114939+00:00",
-      "now_playing": {
-        "title": "Freakin’ Out",
-        "artist": "Dexter and The Moonrocks",
-        "album": "Freakin’ Out",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273b7129146f87f5f22b8154bee"
-      },
-      "top_tracks": [
-        {
-          "name": "Subirusdoistiozin - Live",
-          "artist": "Criolo, Emicida",
-          "ms": 211280
-        },
-        {
-          "name": "Clouds",
-          "artist": "Paper Idol",
-          "ms": 184468
-        },
-        {
-          "name": "Transante",
-          "artist": "Lagum",
-          "ms": 167507
-        },
-        {
-          "name": "Onda Doida",
-          "artist": "Banana Kush, André Rossi, Theus Terreiro, YellowLab",
-          "ms": 169142
-        },
-        {
-          "name": "Catedrais",
-          "artist": "Yago Oproprio, Patricio Sid",
-          "ms": 168333
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Lagum",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Raul Seixas",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Eminem",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-09-02T16:58:03.657526+00:00",
       "now_playing": {
         "title": "Survival",
@@ -1728,6 +1670,64 @@
         },
         {
           "name": "Eminem",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-06T14:18:59.970339+00:00",
+      "now_playing": {
+        "title": "Houdini",
+        "artist": "Eminem",
+        "album": "Houdini",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273810603c94c9246379604cf1a"
+      },
+      "top_tracks": [
+        {
+          "name": "Subirusdoistiozin - Live",
+          "artist": "Criolo, Emicida",
+          "ms": 211280
+        },
+        {
+          "name": "Clouds",
+          "artist": "Paper Idol",
+          "ms": 184468
+        },
+        {
+          "name": "Onda Doida",
+          "artist": "Banana Kush, André Rossi, Theus Terreiro, YellowLab",
+          "ms": 169142
+        },
+        {
+          "name": "Catedrais",
+          "artist": "Yago Oproprio, Patricio Sid",
+          "ms": 168333
+        },
+        {
+          "name": "Crack A Bottle",
+          "artist": "Eminem, Dr. Dre, 50 Cent",
+          "ms": 297520
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Lagum",
+          "genres": []
+        },
+        {
+          "name": "Eminem",
+          "genres": []
+        },
+        {
+          "name": "Raul Seixas",
           "genres": []
         },
         {
