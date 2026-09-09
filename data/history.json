@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-09-05T17:27:24.710004+00:00",
-      "now_playing": {
-        "title": "All The Things She Said",
-        "artist": "t.A.T.u.",
-        "album": "200 KM/H In The Wrong Lane (10th Anniversary Edition)",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2733b27e1cd8a6bc6804c2e5fd2"
-      },
-      "top_tracks": [
-        {
-          "name": "Subirusdoistiozin - Live",
-          "artist": "Criolo, Emicida",
-          "ms": 211280
-        },
-        {
-          "name": "Clouds",
-          "artist": "Paper Idol",
-          "ms": 184468
-        },
-        {
-          "name": "Onda Doida",
-          "artist": "Banana Kush, André Rossi, Theus Terreiro, YellowLab",
-          "ms": 169142
-        },
-        {
-          "name": "Catedrais",
-          "artist": "Yago Oproprio, Patricio Sid",
-          "ms": 168333
-        },
-        {
-          "name": "For The Wicked",
-          "artist": "Friday Pilots Club",
-          "ms": 173933
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Lagum",
-          "genres": []
-        },
-        {
-          "name": "Raul Seixas",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Eminem",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-09-05T19:18:48.559158+00:00",
       "now_playing": {
         "title": "This Is The Time (Ballast)",
@@ -1689,6 +1631,64 @@
         "artist": "Twenty One Pilots",
         "album": "Heathens",
         "image_url": "https://i.scdn.co/image/ab67616d0000b2732ca3ba8f334ca5a5f0312efb"
+      },
+      "top_tracks": [
+        {
+          "name": "Subirusdoistiozin - Live",
+          "artist": "Criolo, Emicida",
+          "ms": 211280
+        },
+        {
+          "name": "Tragic Endings (feat. Skylar Grey)",
+          "artist": "Eminem, Skylar Grey",
+          "ms": 252026
+        },
+        {
+          "name": "Clouds",
+          "artist": "Paper Idol",
+          "ms": 184468
+        },
+        {
+          "name": "Onda Doida",
+          "artist": "Banana Kush, André Rossi, Theus Terreiro, YellowLab",
+          "ms": 169142
+        },
+        {
+          "name": "Crack A Bottle",
+          "artist": "Eminem, Dr. Dre, 50 Cent",
+          "ms": 297520
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Eminem",
+          "genres": []
+        },
+        {
+          "name": "Lagum",
+          "genres": []
+        },
+        {
+          "name": "Raul Seixas",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-09T23:48:29.705694+00:00",
+      "now_playing": {
+        "title": "Pequenas Alegrias da Vida Adulta (feat. Marcos Valle e Thiago Ventura)",
+        "artist": "Emicida, Marcos Valle, Thiago Ventura",
+        "album": "AmarElo",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273856b38f6f4209513625d087d"
       },
       "top_tracks": [
         {
