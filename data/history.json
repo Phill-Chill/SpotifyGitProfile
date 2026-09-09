@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-09-05T08:47:49.756621+00:00",
-      "now_playing": {
-        "title": "Don't Stop (Color on the Walls)",
-        "artist": "Foster The People",
-        "album": "Torches",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273121d5f92cf90576907dfb1e5"
-      },
-      "top_tracks": [
-        {
-          "name": "Subirusdoistiozin - Live",
-          "artist": "Criolo, Emicida",
-          "ms": 211280
-        },
-        {
-          "name": "Clouds",
-          "artist": "Paper Idol",
-          "ms": 184468
-        },
-        {
-          "name": "Onda Doida",
-          "artist": "Banana Kush, André Rossi, Theus Terreiro, YellowLab",
-          "ms": 169142
-        },
-        {
-          "name": "Transante",
-          "artist": "Lagum",
-          "ms": 167507
-        },
-        {
-          "name": "Catedrais",
-          "artist": "Yago Oproprio, Patricio Sid",
-          "ms": 168333
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Lagum",
-          "genres": []
-        },
-        {
-          "name": "Raul Seixas",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Eminem",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-09-05T12:20:53.727950+00:00",
       "now_playing": {
         "title": "Lágrimas E Chuva - Ao Vivo",
@@ -1689,6 +1631,64 @@
         "artist": "Bad Meets Evil",
         "album": "Hell: The Sequel (Deluxe)",
         "image_url": "https://i.scdn.co/image/ab67616d0000b27359a1132f3cab22f80b2d2777"
+      },
+      "top_tracks": [
+        {
+          "name": "Subirusdoistiozin - Live",
+          "artist": "Criolo, Emicida",
+          "ms": 211280
+        },
+        {
+          "name": "Tragic Endings (feat. Skylar Grey)",
+          "artist": "Eminem, Skylar Grey",
+          "ms": 252026
+        },
+        {
+          "name": "Clouds",
+          "artist": "Paper Idol",
+          "ms": 184468
+        },
+        {
+          "name": "Onda Doida",
+          "artist": "Banana Kush, André Rossi, Theus Terreiro, YellowLab",
+          "ms": 169142
+        },
+        {
+          "name": "Crack A Bottle",
+          "artist": "Eminem, Dr. Dre, 50 Cent",
+          "ms": 297520
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Lagum",
+          "genres": []
+        },
+        {
+          "name": "Eminem",
+          "genres": []
+        },
+        {
+          "name": "Raul Seixas",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-09T15:53:02.316147+00:00",
+      "now_playing": {
+        "title": "King For A Day",
+        "artist": "Pierce The Veil, Kellin Quinn",
+        "album": "Collide With The Sky",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570"
       },
       "top_tracks": [
         {
