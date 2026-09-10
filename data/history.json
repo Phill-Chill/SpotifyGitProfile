@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-09-05T21:28:37.910203+00:00",
-      "now_playing": {
-        "title": "Echo",
-        "artist": "Bad Meets Evil",
-        "album": "Hell: The Sequel (Deluxe)",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b27359a1132f3cab22f80b2d2777"
-      },
-      "top_tracks": [
-        {
-          "name": "Subirusdoistiozin - Live",
-          "artist": "Criolo, Emicida",
-          "ms": 211280
-        },
-        {
-          "name": "Clouds",
-          "artist": "Paper Idol",
-          "ms": 184468
-        },
-        {
-          "name": "Onda Doida",
-          "artist": "Banana Kush, André Rossi, Theus Terreiro, YellowLab",
-          "ms": 169142
-        },
-        {
-          "name": "Catedrais",
-          "artist": "Yago Oproprio, Patricio Sid",
-          "ms": 168333
-        },
-        {
-          "name": "For The Wicked",
-          "artist": "Friday Pilots Club",
-          "ms": 173933
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Lagum",
-          "genres": []
-        },
-        {
-          "name": "Raul Seixas",
-          "genres": []
-        },
-        {
-          "name": "Eminem",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-09-05T23:10:45.986282+00:00",
       "now_playing": {
         "title": "Airplanes, Pt. II (feat. Eminem & Hayley Williams of Paramore)",
@@ -1689,6 +1631,64 @@
         "artist": "Catedral",
         "album": "Acima Do Nível Do Mar (Ao Vivo)",
         "image_url": "https://i.scdn.co/image/ab67616d0000b273b6352a85cbb48920939a108a"
+      },
+      "top_tracks": [
+        {
+          "name": "Subirusdoistiozin - Live",
+          "artist": "Criolo, Emicida",
+          "ms": 211280
+        },
+        {
+          "name": "Tragic Endings (feat. Skylar Grey)",
+          "artist": "Eminem, Skylar Grey",
+          "ms": 252026
+        },
+        {
+          "name": "Clouds",
+          "artist": "Paper Idol",
+          "ms": 184468
+        },
+        {
+          "name": "Onda Doida",
+          "artist": "Banana Kush, André Rossi, Theus Terreiro, YellowLab",
+          "ms": 169142
+        },
+        {
+          "name": "Crack A Bottle",
+          "artist": "Eminem, Dr. Dre, 50 Cent",
+          "ms": 297520
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Lagum",
+          "genres": []
+        },
+        {
+          "name": "Eminem",
+          "genres": []
+        },
+        {
+          "name": "Raul Seixas",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-10T08:02:22.725641+00:00",
+      "now_playing": {
+        "title": "Um Dia Te Levo Comigo - Ao Vivo",
+        "artist": "Jorge & Mateus",
+        "album": "O Mundo É Tão Pequeno",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27304a5031fd5fa6fb81cad9ad6"
       },
       "top_tracks": [
         {
