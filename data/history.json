@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-09-07T01:12:58.520571+00:00",
-      "now_playing": {
-        "title": "残機",
-        "artist": "ZUTOMAYO",
-        "album": "残機",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273cc23f581f239e59cea2afc7b"
-      },
-      "top_tracks": [
-        {
-          "name": "Subirusdoistiozin - Live",
-          "artist": "Criolo, Emicida",
-          "ms": 211280
-        },
-        {
-          "name": "Clouds",
-          "artist": "Paper Idol",
-          "ms": 184468
-        },
-        {
-          "name": "Onda Doida",
-          "artist": "Banana Kush, André Rossi, Theus Terreiro, YellowLab",
-          "ms": 169142
-        },
-        {
-          "name": "Catedrais",
-          "artist": "Yago Oproprio, Patricio Sid",
-          "ms": 168333
-        },
-        {
-          "name": "Crack A Bottle",
-          "artist": "Eminem, Dr. Dre, 50 Cent",
-          "ms": 297520
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Lagum",
-          "genres": []
-        },
-        {
-          "name": "Eminem",
-          "genres": []
-        },
-        {
-          "name": "Raul Seixas",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-09-07T06:24:48.552068+00:00",
       "now_playing": {
         "title": "残機",
@@ -1689,6 +1631,64 @@
         "artist": "Pierce The Veil",
         "album": "The Jaws Of Life",
         "image_url": "https://i.scdn.co/image/ab67616d0000b2732846907b5152fb7dc38e450a"
+      },
+      "top_tracks": [
+        {
+          "name": "Subirusdoistiozin - Live",
+          "artist": "Criolo, Emicida",
+          "ms": 211280
+        },
+        {
+          "name": "Tragic Endings (feat. Skylar Grey)",
+          "artist": "Eminem, Skylar Grey",
+          "ms": 252026
+        },
+        {
+          "name": "Cheesecake",
+          "artist": "Billy Marchiafava",
+          "ms": 96000
+        },
+        {
+          "name": "Clouds",
+          "artist": "Paper Idol",
+          "ms": 184468
+        },
+        {
+          "name": "Onda Doida",
+          "artist": "Banana Kush, André Rossi, Theus Terreiro, YellowLab",
+          "ms": 169142
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Eminem",
+          "genres": []
+        },
+        {
+          "name": "Lagum",
+          "genres": []
+        },
+        {
+          "name": "Raul Seixas",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-11T19:58:18.675777+00:00",
+      "now_playing": {
+        "title": "Godzilla (feat. Juice WRLD)",
+        "artist": "Eminem, Juice WRLD",
+        "album": "Music To Be Murdered By",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2732f44aec83b20e40f3baef73c"
       },
       "top_tracks": [
         {
