@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-09-06T21:32:11.933575+00:00",
-      "now_playing": {
-        "title": "Heathens",
-        "artist": "Twenty One Pilots",
-        "album": "Heathens",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2732ca3ba8f334ca5a5f0312efb"
-      },
-      "top_tracks": [
-        {
-          "name": "Subirusdoistiozin - Live",
-          "artist": "Criolo, Emicida",
-          "ms": 211280
-        },
-        {
-          "name": "Clouds",
-          "artist": "Paper Idol",
-          "ms": 184468
-        },
-        {
-          "name": "Onda Doida",
-          "artist": "Banana Kush, André Rossi, Theus Terreiro, YellowLab",
-          "ms": 169142
-        },
-        {
-          "name": "Catedrais",
-          "artist": "Yago Oproprio, Patricio Sid",
-          "ms": 168333
-        },
-        {
-          "name": "Crack A Bottle",
-          "artist": "Eminem, Dr. Dre, 50 Cent",
-          "ms": 297520
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Lagum",
-          "genres": []
-        },
-        {
-          "name": "Eminem",
-          "genres": []
-        },
-        {
-          "name": "Raul Seixas",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-09-06T23:27:26.694074+00:00",
       "now_playing": {
         "title": "Curse",
@@ -1715,6 +1657,64 @@
           "name": "Cheesecake",
           "artist": "Billy Marchiafava",
           "ms": 96000
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Eminem",
+          "genres": []
+        },
+        {
+          "name": "Lagum",
+          "genres": []
+        },
+        {
+          "name": "Raul Seixas",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-11T13:42:42.117633+00:00",
+      "now_playing": {
+        "title": "Where The Hood At",
+        "artist": "DMX",
+        "album": "Grand Champ",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273b6afa5d2bfa63cb0eaa386b1"
+      },
+      "top_tracks": [
+        {
+          "name": "Subirusdoistiozin - Live",
+          "artist": "Criolo, Emicida",
+          "ms": 211280
+        },
+        {
+          "name": "Tragic Endings (feat. Skylar Grey)",
+          "artist": "Eminem, Skylar Grey",
+          "ms": 252026
+        },
+        {
+          "name": "Cheesecake",
+          "artist": "Billy Marchiafava",
+          "ms": 96000
+        },
+        {
+          "name": "Clouds",
+          "artist": "Paper Idol",
+          "ms": 184468
+        },
+        {
+          "name": "Onda Doida",
+          "artist": "Banana Kush, André Rossi, Theus Terreiro, YellowLab",
+          "ms": 169142
         }
       ],
       "top_artists": [
