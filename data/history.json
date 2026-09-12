@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-09-07T12:53:41.691797+00:00",
-      "now_playing": {
-        "title": "Echo",
-        "artist": "Bad Meets Evil",
-        "album": "Hell: The Sequel (Deluxe)",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b27359a1132f3cab22f80b2d2777"
-      },
-      "top_tracks": [
-        {
-          "name": "Subirusdoistiozin - Live",
-          "artist": "Criolo, Emicida",
-          "ms": 211280
-        },
-        {
-          "name": "Clouds",
-          "artist": "Paper Idol",
-          "ms": 184468
-        },
-        {
-          "name": "Onda Doida",
-          "artist": "Banana Kush, André Rossi, Theus Terreiro, YellowLab",
-          "ms": 169142
-        },
-        {
-          "name": "Catedrais",
-          "artist": "Yago Oproprio, Patricio Sid",
-          "ms": 168333
-        },
-        {
-          "name": "Crack A Bottle",
-          "artist": "Eminem, Dr. Dre, 50 Cent",
-          "ms": 297520
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Lagum",
-          "genres": []
-        },
-        {
-          "name": "Eminem",
-          "genres": []
-        },
-        {
-          "name": "Raul Seixas",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-09-07T18:05:04.722235+00:00",
       "now_playing": {
         "title": "Lágrimas E Chuva - Ao Vivo",
@@ -1689,6 +1631,64 @@
         "artist": "Eminem",
         "album": "Relapse: Refill",
         "image_url": "https://i.scdn.co/image/ab67616d0000b273506c4cc93e5a6234164125e1"
+      },
+      "top_tracks": [
+        {
+          "name": "Subirusdoistiozin - Live",
+          "artist": "Criolo, Emicida",
+          "ms": 211280
+        },
+        {
+          "name": "Tragic Endings (feat. Skylar Grey)",
+          "artist": "Eminem, Skylar Grey",
+          "ms": 252026
+        },
+        {
+          "name": "Cheesecake",
+          "artist": "Billy Marchiafava",
+          "ms": 96000
+        },
+        {
+          "name": "Clouds",
+          "artist": "Paper Idol",
+          "ms": 184468
+        },
+        {
+          "name": "Onda Doida",
+          "artist": "Banana Kush, André Rossi, Theus Terreiro, YellowLab",
+          "ms": 169142
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Eminem",
+          "genres": []
+        },
+        {
+          "name": "Lagum",
+          "genres": []
+        },
+        {
+          "name": "Raul Seixas",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-12T00:26:45.234087+00:00",
+      "now_playing": {
+        "title": "I Hate Everything About You",
+        "artist": "Three Days Grace",
+        "album": "Three Days Grace",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2735d4bd2c345c95e847b586403"
       },
       "top_tracks": [
         {
