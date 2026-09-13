@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-09-08T20:03:06.538306+00:00",
-      "now_playing": {
-        "title": "Divide",
-        "artist": "The Plot In You",
-        "album": "Vol. 1",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273d2fec8f76877002b6d23eb38"
-      },
-      "top_tracks": [
-        {
-          "name": "Subirusdoistiozin - Live",
-          "artist": "Criolo, Emicida",
-          "ms": 211280
-        },
-        {
-          "name": "Tragic Endings (feat. Skylar Grey)",
-          "artist": "Eminem, Skylar Grey",
-          "ms": 252026
-        },
-        {
-          "name": "Clouds",
-          "artist": "Paper Idol",
-          "ms": 184468
-        },
-        {
-          "name": "Onda Doida",
-          "artist": "Banana Kush, André Rossi, Theus Terreiro, YellowLab",
-          "ms": 169142
-        },
-        {
-          "name": "Crack A Bottle",
-          "artist": "Eminem, Dr. Dre, 50 Cent",
-          "ms": 297520
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Lagum",
-          "genres": []
-        },
-        {
-          "name": "Eminem",
-          "genres": []
-        },
-        {
-          "name": "Raul Seixas",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-09-08T22:52:08.564738+00:00",
       "now_playing": {
         "title": "Sign Of Life",
@@ -1689,6 +1631,64 @@
         "artist": "Nerv",
         "album": "I Need Help",
         "image_url": "https://i.scdn.co/image/ab67616d0000b273fada0cfac4a19bebbf782850"
+      },
+      "top_tracks": [
+        {
+          "name": "Subirusdoistiozin - Live",
+          "artist": "Criolo, Emicida",
+          "ms": 211280
+        },
+        {
+          "name": "Tragic Endings (feat. Skylar Grey)",
+          "artist": "Eminem, Skylar Grey",
+          "ms": 252026
+        },
+        {
+          "name": "King For A Day",
+          "artist": "Pierce The Veil, Kellin Quinn",
+          "ms": 236293
+        },
+        {
+          "name": "Cheesecake",
+          "artist": "Billy Marchiafava",
+          "ms": 96000
+        },
+        {
+          "name": "Clouds",
+          "artist": "Paper Idol",
+          "ms": 184468
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Eminem",
+          "genres": []
+        },
+        {
+          "name": "Lagum",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Raul Seixas",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-13T00:36:07.750972+00:00",
+      "now_playing": {
+        "title": "Angels Fall",
+        "artist": "Breaking Benjamin",
+        "album": "Dark Before Dawn",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2738b1dc76f3a0cc8381b012e24"
       },
       "top_tracks": [
         {
