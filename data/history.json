@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-09-11T00:20:22.802364+00:00",
-      "now_playing": {
-        "title": "I Won't See You Tonight Part 1",
-        "artist": "Avenged Sevenfold",
-        "album": "Waking The Fallen",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273fd1f9d8bb6c1c9c2cb229837"
-      },
-      "top_tracks": [
-        {
-          "name": "Subirusdoistiozin - Live",
-          "artist": "Criolo, Emicida",
-          "ms": 211280
-        },
-        {
-          "name": "Tragic Endings (feat. Skylar Grey)",
-          "artist": "Eminem, Skylar Grey",
-          "ms": 252026
-        },
-        {
-          "name": "Clouds",
-          "artist": "Paper Idol",
-          "ms": 184468
-        },
-        {
-          "name": "Onda Doida",
-          "artist": "Banana Kush, André Rossi, Theus Terreiro, YellowLab",
-          "ms": 169142
-        },
-        {
-          "name": "Cheesecake",
-          "artist": "Billy Marchiafava",
-          "ms": 96000
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Eminem",
-          "genres": []
-        },
-        {
-          "name": "Lagum",
-          "genres": []
-        },
-        {
-          "name": "Raul Seixas",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-09-11T04:57:57.268263+00:00",
       "now_playing": {
         "title": "I Won't See You Tonight Part 1",
@@ -1689,6 +1631,64 @@
         "artist": "T.I., Eminem",
         "album": "No Mercy",
         "image_url": "https://i.scdn.co/image/ab67616d0000b273128b948ac9a26c14269282d4"
+      },
+      "top_tracks": [
+        {
+          "name": "Tragic Endings (feat. Skylar Grey)",
+          "artist": "Eminem, Skylar Grey",
+          "ms": 252026
+        },
+        {
+          "name": "King For A Day",
+          "artist": "Pierce The Veil, Kellin Quinn",
+          "ms": 236293
+        },
+        {
+          "name": "Bugbear",
+          "artist": "chloe moriondo",
+          "ms": 173600
+        },
+        {
+          "name": "That's All She Wrote",
+          "artist": "T.I., Eminem",
+          "ms": 318360
+        },
+        {
+          "name": "Cheesecake",
+          "artist": "Billy Marchiafava",
+          "ms": 96000
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Eminem",
+          "genres": []
+        },
+        {
+          "name": "Lagum",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Pierce The Veil",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-15T16:39:37.725826+00:00",
+      "now_playing": {
+        "title": "Tragic Endings",
+        "artist": "Eminem, Skylar Grey",
+        "album": "Revival",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27316c053fa6e639a75ae4d62f4"
       },
       "top_tracks": [
         {
