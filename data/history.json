@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-09-12T12:48:19.327975+00:00",
-      "now_playing": {
-        "title": "Blackhole",
-        "artist": "Architects",
-        "album": "The Sky, The Earth & All Between",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273fa9cf0435132ff2a17ce9d86"
-      },
-      "top_tracks": [
-        {
-          "name": "Subirusdoistiozin - Live",
-          "artist": "Criolo, Emicida",
-          "ms": 211280
-        },
-        {
-          "name": "Tragic Endings (feat. Skylar Grey)",
-          "artist": "Eminem, Skylar Grey",
-          "ms": 252026
-        },
-        {
-          "name": "Cheesecake",
-          "artist": "Billy Marchiafava",
-          "ms": 96000
-        },
-        {
-          "name": "Clouds",
-          "artist": "Paper Idol",
-          "ms": 184468
-        },
-        {
-          "name": "Onda Doida",
-          "artist": "Banana Kush, André Rossi, Theus Terreiro, YellowLab",
-          "ms": 169142
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Eminem",
-          "genres": []
-        },
-        {
-          "name": "Lagum",
-          "genres": []
-        },
-        {
-          "name": "Raul Seixas",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-09-12T15:58:31.721136+00:00",
       "now_playing": {
         "title": "Low",
@@ -1736,6 +1678,64 @@
         },
         {
           "name": "Yago Oproprio",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-17T06:24:38.492003+00:00",
+      "now_playing": {
+        "title": "Tentei Te Esquecer - Ao Vivo",
+        "artist": "Matogrosso & Mathias",
+        "album": "Matogrosso & Mathias (Ao Vivo)",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273cc0699e31a80d542bab5b32a"
+      },
+      "top_tracks": [
+        {
+          "name": "Tragic Endings (feat. Skylar Grey)",
+          "artist": "Eminem, Skylar Grey",
+          "ms": 252026
+        },
+        {
+          "name": "King For A Day",
+          "artist": "Pierce The Veil, Kellin Quinn",
+          "ms": 236293
+        },
+        {
+          "name": "Bugbear",
+          "artist": "chloe moriondo",
+          "ms": 173600
+        },
+        {
+          "name": "That's All She Wrote",
+          "artist": "T.I., Eminem",
+          "ms": 318360
+        },
+        {
+          "name": "So Far So Fake",
+          "artist": "Pierce The Veil",
+          "ms": 236160
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Eminem",
+          "genres": []
+        },
+        {
+          "name": "Lagum",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Pierce The Veil",
+          "genres": []
+        },
+        {
+          "name": "Raul Seixas",
           "genres": []
         }
       ]
