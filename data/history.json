@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-09-13T14:57:59.205247+00:00",
-      "now_playing": {
-        "title": "Bicho Solto",
-        "artist": "Yago Oproprio, Fleezus, Iuri Rio Branco",
-        "album": "Bicho Solto",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b27368108fda732d3b2cf1e14e74"
-      },
-      "top_tracks": [
-        {
-          "name": "Tragic Endings (feat. Skylar Grey)",
-          "artist": "Eminem, Skylar Grey",
-          "ms": 252026
-        },
-        {
-          "name": "Subirusdoistiozin - Live",
-          "artist": "Criolo, Emicida",
-          "ms": 211280
-        },
-        {
-          "name": "King For A Day",
-          "artist": "Pierce The Veil, Kellin Quinn",
-          "ms": 236293
-        },
-        {
-          "name": "Cheesecake",
-          "artist": "Billy Marchiafava",
-          "ms": 96000
-        },
-        {
-          "name": "Clouds",
-          "artist": "Paper Idol",
-          "ms": 184468
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Eminem",
-          "genres": []
-        },
-        {
-          "name": "Lagum",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        },
-        {
-          "name": "Raul Seixas",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-09-13T18:00:34.756564+00:00",
       "now_playing": {
         "title": "March To the Sea",
@@ -1689,6 +1631,64 @@
         "artist": "DREAMERS, grandson",
         "album": "Heat Seeker",
         "image_url": "https://i.scdn.co/image/ab67616d0000b2732db4c3896a2f4e55b6600e9a"
+      },
+      "top_tracks": [
+        {
+          "name": "Tragic Endings (feat. Skylar Grey)",
+          "artist": "Eminem, Skylar Grey",
+          "ms": 252026
+        },
+        {
+          "name": "Bugbear",
+          "artist": "chloe moriondo",
+          "ms": 173600
+        },
+        {
+          "name": "That's All She Wrote",
+          "artist": "T.I., Eminem",
+          "ms": 318360
+        },
+        {
+          "name": "King For A Day",
+          "artist": "Pierce The Veil, Kellin Quinn",
+          "ms": 236293
+        },
+        {
+          "name": "So Far So Fake",
+          "artist": "Pierce The Veil",
+          "ms": 236160
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Eminem",
+          "genres": []
+        },
+        {
+          "name": "Lagum",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Pierce The Veil",
+          "genres": []
+        },
+        {
+          "name": "Raul Seixas",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-18T14:46:06.391210+00:00",
+      "now_playing": {
+        "title": "Somebody",
+        "artist": "Memphis May Fire",
+        "album": "Remade In Misery",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273af21215596c94b97533efe70"
       },
       "top_tracks": [
         {
