@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-09-14T19:00:28.124680+00:00",
-      "now_playing": {
-        "title": "Airplanes, Pt. II (feat. Eminem & Hayley Williams of Paramore)",
-        "artist": "B.o.B, Eminem, Hayley Williams",
-        "album": "B.o.B Presents: The Adventures of Bobby Ray",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273caa23612279c2d059a0d3a82"
-      },
-      "top_tracks": [
-        {
-          "name": "Tragic Endings (feat. Skylar Grey)",
-          "artist": "Eminem, Skylar Grey",
-          "ms": 252026
-        },
-        {
-          "name": "King For A Day",
-          "artist": "Pierce The Veil, Kellin Quinn",
-          "ms": 236293
-        },
-        {
-          "name": "Cheesecake",
-          "artist": "Billy Marchiafava",
-          "ms": 96000
-        },
-        {
-          "name": "Bugbear",
-          "artist": "chloe moriondo",
-          "ms": 173600
-        },
-        {
-          "name": "That's All She Wrote",
-          "artist": "T.I., Eminem",
-          "ms": 318360
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Eminem",
-          "genres": []
-        },
-        {
-          "name": "Lagum",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Pierce The Veil",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-09-14T22:37:31.607204+00:00",
       "now_playing": {
         "title": "Echo",
@@ -1715,6 +1657,64 @@
           "name": "So Far So Fake",
           "artist": "Pierce The Veil",
           "ms": 236160
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Eminem",
+          "genres": []
+        },
+        {
+          "name": "Lagum",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Pierce The Veil",
+          "genres": []
+        },
+        {
+          "name": "Raul Seixas",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-19T14:37:27.708943+00:00",
+      "now_playing": {
+        "title": "King For A Day",
+        "artist": "Pierce The Veil, Kellin Quinn",
+        "album": "Collide With The Sky",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570"
+      },
+      "top_tracks": [
+        {
+          "name": "Tragic Endings (feat. Skylar Grey)",
+          "artist": "Eminem, Skylar Grey",
+          "ms": 252026
+        },
+        {
+          "name": "Bugbear",
+          "artist": "chloe moriondo",
+          "ms": 173600
+        },
+        {
+          "name": "That's All She Wrote",
+          "artist": "T.I., Eminem",
+          "ms": 318360
+        },
+        {
+          "name": "King For A Day",
+          "artist": "Pierce The Veil, Kellin Quinn",
+          "ms": 236293
+        },
+        {
+          "name": "Forgot About Dre",
+          "artist": "Dr. Dre, Eminem",
+          "ms": 222293
         }
       ],
       "top_artists": [
