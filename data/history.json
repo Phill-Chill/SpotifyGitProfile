@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-09-15T16:39:37.725826+00:00",
-      "now_playing": {
-        "title": "Tragic Endings",
-        "artist": "Eminem, Skylar Grey",
-        "album": "Revival",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b27316c053fa6e639a75ae4d62f4"
-      },
-      "top_tracks": [
-        {
-          "name": "Tragic Endings (feat. Skylar Grey)",
-          "artist": "Eminem, Skylar Grey",
-          "ms": 252026
-        },
-        {
-          "name": "King For A Day",
-          "artist": "Pierce The Veil, Kellin Quinn",
-          "ms": 236293
-        },
-        {
-          "name": "Bugbear",
-          "artist": "chloe moriondo",
-          "ms": 173600
-        },
-        {
-          "name": "That's All She Wrote",
-          "artist": "T.I., Eminem",
-          "ms": 318360
-        },
-        {
-          "name": "Cheesecake",
-          "artist": "Billy Marchiafava",
-          "ms": 96000
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Eminem",
-          "genres": []
-        },
-        {
-          "name": "Lagum",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Pierce The Veil",
-          "genres": []
-        },
-        {
-          "name": "Yago Oproprio",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-09-15T19:58:18.496448+00:00",
       "now_playing": {
         "title": "Tragic Endings",
@@ -1684,6 +1626,64 @@
     },
     {
       "timestamp": "2026-09-20T00:14:21.527134+00:00",
+      "now_playing": {
+        "title": "Traumatizei - Ao Vivo Em Brasília",
+        "artist": "Henrique & Juliano",
+        "album": "To Be (Ao Vivo Em Brasília)",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273e631d8224c033cc903e42deb"
+      },
+      "top_tracks": [
+        {
+          "name": "Tragic Endings (feat. Skylar Grey)",
+          "artist": "Eminem, Skylar Grey",
+          "ms": 252026
+        },
+        {
+          "name": "Bugbear",
+          "artist": "chloe moriondo",
+          "ms": 173600
+        },
+        {
+          "name": "That's All She Wrote",
+          "artist": "T.I., Eminem",
+          "ms": 318360
+        },
+        {
+          "name": "King For A Day",
+          "artist": "Pierce The Veil, Kellin Quinn",
+          "ms": 236293
+        },
+        {
+          "name": "So Far So Fake",
+          "artist": "Pierce The Veil",
+          "ms": 236160
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Eminem",
+          "genres": []
+        },
+        {
+          "name": "Lagum",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Pierce The Veil",
+          "genres": []
+        },
+        {
+          "name": "Raul Seixas",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-20T05:10:17.250850+00:00",
       "now_playing": {
         "title": "Traumatizei - Ao Vivo Em Brasília",
         "artist": "Henrique & Juliano",
