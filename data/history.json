@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-09-17T06:24:38.492003+00:00",
-      "now_playing": {
-        "title": "Tentei Te Esquecer - Ao Vivo",
-        "artist": "Matogrosso & Mathias",
-        "album": "Matogrosso & Mathias (Ao Vivo)",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273cc0699e31a80d542bab5b32a"
-      },
-      "top_tracks": [
-        {
-          "name": "Tragic Endings (feat. Skylar Grey)",
-          "artist": "Eminem, Skylar Grey",
-          "ms": 252026
-        },
-        {
-          "name": "King For A Day",
-          "artist": "Pierce The Veil, Kellin Quinn",
-          "ms": 236293
-        },
-        {
-          "name": "Bugbear",
-          "artist": "chloe moriondo",
-          "ms": 173600
-        },
-        {
-          "name": "That's All She Wrote",
-          "artist": "T.I., Eminem",
-          "ms": 318360
-        },
-        {
-          "name": "So Far So Fake",
-          "artist": "Pierce The Veil",
-          "ms": 236160
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Eminem",
-          "genres": []
-        },
-        {
-          "name": "Lagum",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Pierce The Veil",
-          "genres": []
-        },
-        {
-          "name": "Raul Seixas",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-09-17T11:57:00.412625+00:00",
       "now_playing": {
         "title": "So Far So Fake",
@@ -1715,6 +1657,64 @@
           "name": "Forgot About Dre",
           "artist": "Dr. Dre, Eminem",
           "ms": 222293
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Eminem",
+          "genres": []
+        },
+        {
+          "name": "Lagum",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Pierce The Veil",
+          "genres": []
+        },
+        {
+          "name": "LVCAS",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-21T20:46:34.173922+00:00",
+      "now_playing": {
+        "title": "Deja Vu",
+        "artist": "Eminem",
+        "album": "Relapse: Refill",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273506c4cc93e5a6234164125e1"
+      },
+      "top_tracks": [
+        {
+          "name": "Bugbear",
+          "artist": "chloe moriondo",
+          "ms": 173600
+        },
+        {
+          "name": "Tragic Endings (feat. Skylar Grey)",
+          "artist": "Eminem, Skylar Grey",
+          "ms": 252026
+        },
+        {
+          "name": "That's All She Wrote",
+          "artist": "T.I., Eminem",
+          "ms": 318360
+        },
+        {
+          "name": "King For A Day",
+          "artist": "Pierce The Veil, Kellin Quinn",
+          "ms": 236293
+        },
+        {
+          "name": "Say You'll Haunt Me",
+          "artist": "Stone Sour",
+          "ms": 264373
         }
       ],
       "top_artists": [
