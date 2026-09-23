@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-09-18T21:05:55.676774+00:00",
-      "now_playing": {
-        "title": "Remember The Name (feat. Eminem & 50 Cent)",
-        "artist": "Ed Sheeran, Eminem, 50 Cent",
-        "album": "No.6 Collaborations Project",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273f528fc2d5d8b26e4e3413715"
-      },
-      "top_tracks": [
-        {
-          "name": "Tragic Endings (feat. Skylar Grey)",
-          "artist": "Eminem, Skylar Grey",
-          "ms": 252026
-        },
-        {
-          "name": "Bugbear",
-          "artist": "chloe moriondo",
-          "ms": 173600
-        },
-        {
-          "name": "That's All She Wrote",
-          "artist": "T.I., Eminem",
-          "ms": 318360
-        },
-        {
-          "name": "King For A Day",
-          "artist": "Pierce The Veil, Kellin Quinn",
-          "ms": 236293
-        },
-        {
-          "name": "So Far So Fake",
-          "artist": "Pierce The Veil",
-          "ms": 236160
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Eminem",
-          "genres": []
-        },
-        {
-          "name": "Lagum",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Pierce The Veil",
-          "genres": []
-        },
-        {
-          "name": "Raul Seixas",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-09-18T23:27:31.217867+00:00",
       "now_playing": {
         "title": "Deja Vu",
@@ -1689,6 +1631,64 @@
         "artist": "Mari Froes",
         "album": "Eu",
         "image_url": "https://i.scdn.co/image/ab67616d0000b27360d0c96604bc029cc451fab2"
+      },
+      "top_tracks": [
+        {
+          "name": "Bugbear",
+          "artist": "chloe moriondo",
+          "ms": 173600
+        },
+        {
+          "name": "Tragic Endings (feat. Skylar Grey)",
+          "artist": "Eminem, Skylar Grey",
+          "ms": 252026
+        },
+        {
+          "name": "King For A Day",
+          "artist": "Pierce The Veil, Kellin Quinn",
+          "ms": 236293
+        },
+        {
+          "name": "Say You'll Haunt Me",
+          "artist": "Stone Sour",
+          "ms": 264373
+        },
+        {
+          "name": "That's All She Wrote",
+          "artist": "T.I., Eminem",
+          "ms": 318360
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Eminem",
+          "genres": []
+        },
+        {
+          "name": "Lagum",
+          "genres": []
+        },
+        {
+          "name": "Pierce The Veil",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Yago Oproprio",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-23T12:53:11.080747+00:00",
+      "now_playing": {
+        "title": "Face Down",
+        "artist": "Return to Dust",
+        "album": "Return to Dust",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273416863729de216cc315bac0d"
       },
       "top_tracks": [
         {
