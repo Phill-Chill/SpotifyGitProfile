@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-09-19T14:37:27.708943+00:00",
-      "now_playing": {
-        "title": "King For A Day",
-        "artist": "Pierce The Veil, Kellin Quinn",
-        "album": "Collide With The Sky",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570"
-      },
-      "top_tracks": [
-        {
-          "name": "Tragic Endings (feat. Skylar Grey)",
-          "artist": "Eminem, Skylar Grey",
-          "ms": 252026
-        },
-        {
-          "name": "Bugbear",
-          "artist": "chloe moriondo",
-          "ms": 173600
-        },
-        {
-          "name": "That's All She Wrote",
-          "artist": "T.I., Eminem",
-          "ms": 318360
-        },
-        {
-          "name": "King For A Day",
-          "artist": "Pierce The Veil, Kellin Quinn",
-          "ms": 236293
-        },
-        {
-          "name": "Forgot About Dre",
-          "artist": "Dr. Dre, Eminem",
-          "ms": 222293
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Eminem",
-          "genres": []
-        },
-        {
-          "name": "Lagum",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Pierce The Veil",
-          "genres": []
-        },
-        {
-          "name": "Raul Seixas",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-09-19T17:44:58.456909+00:00",
       "now_playing": {
         "title": "Where The Hood At",
@@ -1684,6 +1626,64 @@
     },
     {
       "timestamp": "2026-09-24T03:04:25.423470+00:00",
+      "now_playing": {
+        "title": "Encruzilhada",
+        "artist": "Yago Oproprio, Emmano, Patricio Sid, EME Lab",
+        "album": "À La Carte",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273df0ffea5acf85be2837bd83e"
+      },
+      "top_tracks": [
+        {
+          "name": "Bugbear",
+          "artist": "chloe moriondo",
+          "ms": 173600
+        },
+        {
+          "name": "Tragic Endings (feat. Skylar Grey)",
+          "artist": "Eminem, Skylar Grey",
+          "ms": 252026
+        },
+        {
+          "name": "That's All She Wrote",
+          "artist": "T.I., Eminem",
+          "ms": 318360
+        },
+        {
+          "name": "Forgot About Dre",
+          "artist": "Dr. Dre, Eminem",
+          "ms": 222293
+        },
+        {
+          "name": "King For A Day",
+          "artist": "Pierce The Veil, Kellin Quinn",
+          "ms": 236293
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Eminem",
+          "genres": []
+        },
+        {
+          "name": "Lagum",
+          "genres": []
+        },
+        {
+          "name": "Pierce The Veil",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "LVCAS",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-24T08:38:35.551085+00:00",
       "now_playing": {
         "title": "Encruzilhada",
         "artist": "Yago Oproprio, Emmano, Patricio Sid, EME Lab",
