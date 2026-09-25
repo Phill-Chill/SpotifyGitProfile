@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-09-20T13:59:32.663983+00:00",
-      "now_playing": {
-        "title": "Forgot About Dre",
-        "artist": "Dr. Dre, Eminem",
-        "album": "2001",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2739b19c107109de740bad72df5"
-      },
-      "top_tracks": [
-        {
-          "name": "Tragic Endings (feat. Skylar Grey)",
-          "artist": "Eminem, Skylar Grey",
-          "ms": 252026
-        },
-        {
-          "name": "Bugbear",
-          "artist": "chloe moriondo",
-          "ms": 173600
-        },
-        {
-          "name": "That's All She Wrote",
-          "artist": "T.I., Eminem",
-          "ms": 318360
-        },
-        {
-          "name": "King For A Day",
-          "artist": "Pierce The Veil, Kellin Quinn",
-          "ms": 236293
-        },
-        {
-          "name": "So Far So Fake",
-          "artist": "Pierce The Veil",
-          "ms": 236160
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Eminem",
-          "genres": []
-        },
-        {
-          "name": "Lagum",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Pierce The Veil",
-          "genres": []
-        },
-        {
-          "name": "Raul Seixas",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-09-20T17:23:20.842054+00:00",
       "now_playing": {
         "title": "S.O.S.",
@@ -1728,6 +1670,64 @@
         },
         {
           "name": "Pierce The Veil",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "LVCAS",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T15:24:50.143581+00:00",
+      "now_playing": {
+        "title": "(sic)",
+        "artist": "Slipknot",
+        "album": "Slipknot",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27381e0d9617e70d75e7ae11fa6"
+      },
+      "top_tracks": [
+        {
+          "name": "Bugbear",
+          "artist": "chloe moriondo",
+          "ms": 173600
+        },
+        {
+          "name": "That's All She Wrote",
+          "artist": "T.I., Eminem",
+          "ms": 318360
+        },
+        {
+          "name": "Forgot About Dre",
+          "artist": "Dr. Dre, Eminem",
+          "ms": 222293
+        },
+        {
+          "name": "King For A Day",
+          "artist": "Pierce The Veil, Kellin Quinn",
+          "ms": 236293
+        },
+        {
+          "name": "Say You'll Haunt Me",
+          "artist": "Stone Sour",
+          "ms": 264373
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Eminem",
+          "genres": []
+        },
+        {
+          "name": "Pierce The Veil",
+          "genres": []
+        },
+        {
+          "name": "Lagum",
           "genres": []
         },
         {
