@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-09-20T22:10:12.426912+00:00",
-      "now_playing": {
-        "title": "All Time Low",
-        "artist": "Jon Bellion",
-        "album": "The Human Condition",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273a01c1fddc334c0bd15e4452d"
-      },
-      "top_tracks": [
-        {
-          "name": "Tragic Endings (feat. Skylar Grey)",
-          "artist": "Eminem, Skylar Grey",
-          "ms": 252026
-        },
-        {
-          "name": "Bugbear",
-          "artist": "chloe moriondo",
-          "ms": 173600
-        },
-        {
-          "name": "That's All She Wrote",
-          "artist": "T.I., Eminem",
-          "ms": 318360
-        },
-        {
-          "name": "King For A Day",
-          "artist": "Pierce The Veil, Kellin Quinn",
-          "ms": 236293
-        },
-        {
-          "name": "So Far So Fake",
-          "artist": "Pierce The Veil",
-          "ms": 236160
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Eminem",
-          "genres": []
-        },
-        {
-          "name": "Lagum",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Pierce The Veil",
-          "genres": []
-        },
-        {
-          "name": "LVCAS",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-09-21T00:23:36.786638+00:00",
       "now_playing": {
         "title": "All Time Low",
@@ -1689,6 +1631,64 @@
         "artist": "Slipknot",
         "album": "Vol. 3: The Subliminal Verses (Special Edition)",
         "image_url": "https://i.scdn.co/image/ab67616d0000b2736b3463e7160d333ada4b175a"
+      },
+      "top_tracks": [
+        {
+          "name": "Bugbear",
+          "artist": "chloe moriondo",
+          "ms": 173600
+        },
+        {
+          "name": "That's All She Wrote",
+          "artist": "T.I., Eminem",
+          "ms": 318360
+        },
+        {
+          "name": "Forgot About Dre",
+          "artist": "Dr. Dre, Eminem",
+          "ms": 222293
+        },
+        {
+          "name": "King For A Day",
+          "artist": "Pierce The Veil, Kellin Quinn",
+          "ms": 236293
+        },
+        {
+          "name": "Say You'll Haunt Me",
+          "artist": "Stone Sour",
+          "ms": 264373
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Eminem",
+          "genres": []
+        },
+        {
+          "name": "Pierce The Veil",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Lagum",
+          "genres": []
+        },
+        {
+          "name": "Slipknot",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-26T01:10:14.141676+00:00",
+      "now_playing": {
+        "title": "uroboros",
+        "artist": "LVCAS",
+        "album": "abatido mas não derrotado",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27314cd77831599326b3782f5c2"
       },
       "top_tracks": [
         {
