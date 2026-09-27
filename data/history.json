@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-09-21T23:48:16.636368+00:00",
-      "now_playing": {
-        "title": "ARTIFICIAL SUICIDE",
-        "artist": "Bad Omens",
-        "album": "THE DEATH OF PEACE OF MIND",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273e5f6f7ec99735d7b870f18ae"
-      },
-      "top_tracks": [
-        {
-          "name": "Bugbear",
-          "artist": "chloe moriondo",
-          "ms": 173600
-        },
-        {
-          "name": "Tragic Endings (feat. Skylar Grey)",
-          "artist": "Eminem, Skylar Grey",
-          "ms": 252026
-        },
-        {
-          "name": "That's All She Wrote",
-          "artist": "T.I., Eminem",
-          "ms": 318360
-        },
-        {
-          "name": "King For A Day",
-          "artist": "Pierce The Veil, Kellin Quinn",
-          "ms": 236293
-        },
-        {
-          "name": "Say You'll Haunt Me",
-          "artist": "Stone Sour",
-          "ms": 264373
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Eminem",
-          "genres": []
-        },
-        {
-          "name": "Lagum",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Pierce The Veil",
-          "genres": []
-        },
-        {
-          "name": "LVCAS",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-09-22T03:14:00.408207+00:00",
       "now_playing": {
         "title": "Stockholm Hearts",
@@ -1689,6 +1631,64 @@
         "artist": "Yago Oproprio, Patricio Sid, EME Lab",
         "album": "À La Carte",
         "image_url": "https://i.scdn.co/image/ab67616d0000b273df0ffea5acf85be2837bd83e"
+      },
+      "top_tracks": [
+        {
+          "name": "Bugbear",
+          "artist": "chloe moriondo",
+          "ms": 173600
+        },
+        {
+          "name": "That's All She Wrote",
+          "artist": "T.I., Eminem",
+          "ms": 318360
+        },
+        {
+          "name": "Forgot About Dre",
+          "artist": "Dr. Dre, Eminem",
+          "ms": 222293
+        },
+        {
+          "name": "King For A Day",
+          "artist": "Pierce The Veil, Kellin Quinn",
+          "ms": 236293
+        },
+        {
+          "name": "Say You'll Haunt Me",
+          "artist": "Stone Sour",
+          "ms": 264373
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Eminem",
+          "genres": []
+        },
+        {
+          "name": "Pierce The Veil",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Lagum",
+          "genres": []
+        },
+        {
+          "name": "Slipknot",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-27T05:32:46.658591+00:00",
+      "now_playing": {
+        "title": "Era Um Garoto Que Como Eu Amava Os Beatles E Os Rollings Stones (C'Era Un Ragazzo Che Come Me Amava I Beatles E I Rolling Stones) - Ao Vivo",
+        "artist": "Engenheiros Do Hawaii",
+        "album": "Acústico (Ao Vivo / Deluxe)",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273f98de08cd017b515c9e61344"
       },
       "top_tracks": [
         {
