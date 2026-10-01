@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-09-25T00:15:21.683893+00:00",
-      "now_playing": {
-        "title": "Rajada",
-        "artist": "Yago Oproprio, TEAGA",
-        "album": "Rajada",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2730acbd0491cb0a024d0a93265"
-      },
-      "top_tracks": [
-        {
-          "name": "Bugbear",
-          "artist": "chloe moriondo",
-          "ms": 173600
-        },
-        {
-          "name": "That's All She Wrote",
-          "artist": "T.I., Eminem",
-          "ms": 318360
-        },
-        {
-          "name": "Forgot About Dre",
-          "artist": "Dr. Dre, Eminem",
-          "ms": 222293
-        },
-        {
-          "name": "King For A Day",
-          "artist": "Pierce The Veil, Kellin Quinn",
-          "ms": 236293
-        },
-        {
-          "name": "Say You'll Haunt Me",
-          "artist": "Stone Sour",
-          "ms": 264373
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Eminem",
-          "genres": []
-        },
-        {
-          "name": "Lagum",
-          "genres": []
-        },
-        {
-          "name": "Pierce The Veil",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "LVCAS",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-09-25T05:11:45.154884+00:00",
       "now_playing": {
         "title": "Rajada",
@@ -1736,6 +1678,64 @@
         },
         {
           "name": "Charlie Brown Jr.",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-10-01T00:20:12.853696+00:00",
+      "now_playing": {
+        "title": "Andei Só - Ao Vivo",
+        "artist": "Natiruts",
+        "album": "Natiruts Acústico no Rio de Janeiro (Ao Vivo)",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273f0b26efb4f60c433c7915d07"
+      },
+      "top_tracks": [
+        {
+          "name": "Bugbear",
+          "artist": "chloe moriondo",
+          "ms": 173600
+        },
+        {
+          "name": "That's All She Wrote",
+          "artist": "T.I., Eminem",
+          "ms": 318360
+        },
+        {
+          "name": "Say You'll Haunt Me",
+          "artist": "Stone Sour",
+          "ms": 264373
+        },
+        {
+          "name": "Forgot About Dre",
+          "artist": "Dr. Dre, Eminem",
+          "ms": 222293
+        },
+        {
+          "name": "Deja Vu",
+          "artist": "Eminem",
+          "ms": 283520
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Eminem",
+          "genres": []
+        },
+        {
+          "name": "Pierce The Veil",
+          "genres": []
+        },
+        {
+          "name": "Engenheiros Do Hawaii",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Slipknot",
           "genres": []
         }
       ]
