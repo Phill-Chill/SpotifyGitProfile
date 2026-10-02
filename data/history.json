@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-09-26T01:10:14.141676+00:00",
-      "now_playing": {
-        "title": "uroboros",
-        "artist": "LVCAS",
-        "album": "abatido mas não derrotado",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b27314cd77831599326b3782f5c2"
-      },
-      "top_tracks": [
-        {
-          "name": "Bugbear",
-          "artist": "chloe moriondo",
-          "ms": 173600
-        },
-        {
-          "name": "That's All She Wrote",
-          "artist": "T.I., Eminem",
-          "ms": 318360
-        },
-        {
-          "name": "Forgot About Dre",
-          "artist": "Dr. Dre, Eminem",
-          "ms": 222293
-        },
-        {
-          "name": "King For A Day",
-          "artist": "Pierce The Veil, Kellin Quinn",
-          "ms": 236293
-        },
-        {
-          "name": "Say You'll Haunt Me",
-          "artist": "Stone Sour",
-          "ms": 264373
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Eminem",
-          "genres": []
-        },
-        {
-          "name": "Pierce The Veil",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Lagum",
-          "genres": []
-        },
-        {
-          "name": "Slipknot",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-09-26T06:22:54.148888+00:00",
       "now_playing": {
         "title": "Vermilion",
@@ -1684,6 +1626,64 @@
     },
     {
       "timestamp": "2026-10-02T02:25:48.353491+00:00",
+      "now_playing": {
+        "title": "There’s Fear In Letting Go",
+        "artist": "I Prevail",
+        "album": "TRUE POWER",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273fdf16e6dc8b69f3e7c2b258b"
+      },
+      "top_tracks": [
+        {
+          "name": "Bugbear",
+          "artist": "chloe moriondo",
+          "ms": 173600
+        },
+        {
+          "name": "That's All She Wrote",
+          "artist": "T.I., Eminem",
+          "ms": 318360
+        },
+        {
+          "name": "Forgot About Dre",
+          "artist": "Dr. Dre, Eminem",
+          "ms": 222293
+        },
+        {
+          "name": "Say You'll Haunt Me",
+          "artist": "Stone Sour",
+          "ms": 264373
+        },
+        {
+          "name": "Deja Vu",
+          "artist": "Eminem",
+          "ms": 283520
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Eminem",
+          "genres": []
+        },
+        {
+          "name": "Pierce The Veil",
+          "genres": []
+        },
+        {
+          "name": "Engenheiros Do Hawaii",
+          "genres": []
+        },
+        {
+          "name": "Charlie Brown Jr.",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-10-02T08:49:07.168511+00:00",
       "now_playing": {
         "title": "There’s Fear In Letting Go",
         "artist": "I Prevail",
