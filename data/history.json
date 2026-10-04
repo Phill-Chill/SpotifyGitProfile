@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-09-28T21:34:09.513640+00:00",
-      "now_playing": {
-        "title": "Courtesy Call",
-        "artist": "Thousand Foot Krutch",
-        "album": "The End Is Where We Begin",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2731a2e4290b83a4c810d019fcd"
-      },
-      "top_tracks": [
-        {
-          "name": "Bugbear",
-          "artist": "chloe moriondo",
-          "ms": 173600
-        },
-        {
-          "name": "That's All She Wrote",
-          "artist": "T.I., Eminem",
-          "ms": 318360
-        },
-        {
-          "name": "Forgot About Dre",
-          "artist": "Dr. Dre, Eminem",
-          "ms": 222293
-        },
-        {
-          "name": "King For A Day",
-          "artist": "Pierce The Veil, Kellin Quinn",
-          "ms": 236293
-        },
-        {
-          "name": "Say You'll Haunt Me",
-          "artist": "Stone Sour",
-          "ms": 264373
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Eminem",
-          "genres": []
-        },
-        {
-          "name": "Pierce The Veil",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Engenheiros Do Hawaii",
-          "genres": []
-        },
-        {
-          "name": "Slipknot",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-09-29T01:27:10.076168+00:00",
       "now_playing": {
         "title": "Profecia",
@@ -1689,6 +1631,64 @@
         "artist": "Eminem",
         "album": "When I'm Gone",
         "image_url": "https://i.scdn.co/image/ab67616d0000b273e7eb779a71e61702561a5e78"
+      },
+      "top_tracks": [
+        {
+          "name": "Forgot About Dre",
+          "artist": "Dr. Dre, Eminem",
+          "ms": 222293
+        },
+        {
+          "name": "Cinderella Man",
+          "artist": "Eminem",
+          "ms": 279013
+        },
+        {
+          "name": "That's All She Wrote",
+          "artist": "T.I., Eminem",
+          "ms": 318360
+        },
+        {
+          "name": "When I'm Gone",
+          "artist": "Eminem",
+          "ms": 281320
+        },
+        {
+          "name": "Bugbear",
+          "artist": "chloe moriondo",
+          "ms": 173600
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Eminem",
+          "genres": []
+        },
+        {
+          "name": "Engenheiros Do Hawaii",
+          "genres": []
+        },
+        {
+          "name": "Charlie Brown Jr.",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Slipknot",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-10-04T23:26:36.556206+00:00",
+      "now_playing": {
+        "title": "Bugbear",
+        "artist": "chloe moriondo",
+        "album": "Spirit Orb",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2735e3ecebef2fa3dc875d1048e"
       },
       "top_tracks": [
         {
