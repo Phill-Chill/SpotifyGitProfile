@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-09-28T07:17:36.190274+00:00",
-      "now_playing": {
-        "title": "Pais E Filhos",
-        "artist": "Legião Urbana",
-        "album": "As Quatro Estações",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273dc6853bcee42e6ccbb8cc89d"
-      },
-      "top_tracks": [
-        {
-          "name": "Bugbear",
-          "artist": "chloe moriondo",
-          "ms": 173600
-        },
-        {
-          "name": "That's All She Wrote",
-          "artist": "T.I., Eminem",
-          "ms": 318360
-        },
-        {
-          "name": "Forgot About Dre",
-          "artist": "Dr. Dre, Eminem",
-          "ms": 222293
-        },
-        {
-          "name": "King For A Day",
-          "artist": "Pierce The Veil, Kellin Quinn",
-          "ms": 236293
-        },
-        {
-          "name": "Say You'll Haunt Me",
-          "artist": "Stone Sour",
-          "ms": 264373
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Eminem",
-          "genres": []
-        },
-        {
-          "name": "Pierce The Veil",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Lagum",
-          "genres": []
-        },
-        {
-          "name": "Slipknot",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-09-28T15:44:53.078249+00:00",
       "now_playing": {
         "title": "Courtesy Call",
@@ -1736,6 +1678,64 @@
         },
         {
           "name": "Pierce The Veil",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-10-04T17:16:33.358228+00:00",
+      "now_playing": {
+        "title": "Say Yes To Heaven",
+        "artist": "Lana Del Rey",
+        "album": "Say Yes To Heaven",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273aa27708d07f49c82ff0d0dae"
+      },
+      "top_tracks": [
+        {
+          "name": "Forgot About Dre",
+          "artist": "Dr. Dre, Eminem",
+          "ms": 222293
+        },
+        {
+          "name": "Cinderella Man",
+          "artist": "Eminem",
+          "ms": 279013
+        },
+        {
+          "name": "That's All She Wrote",
+          "artist": "T.I., Eminem",
+          "ms": 318360
+        },
+        {
+          "name": "When I'm Gone",
+          "artist": "Eminem",
+          "ms": 281320
+        },
+        {
+          "name": "Bugbear",
+          "artist": "chloe moriondo",
+          "ms": 173600
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Eminem",
+          "genres": []
+        },
+        {
+          "name": "Engenheiros Do Hawaii",
+          "genres": []
+        },
+        {
+          "name": "Charlie Brown Jr.",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Slipknot",
           "genres": []
         }
       ]
