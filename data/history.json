@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-09-30T20:30:56.359979+00:00",
-      "now_playing": {
-        "title": "Redbone",
-        "artist": "Childish Gambino",
-        "album": "\"Awaken, My Love!\"",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2731c29562d6e8c1f55bb1311d5"
-      },
-      "top_tracks": [
-        {
-          "name": "Bugbear",
-          "artist": "chloe moriondo",
-          "ms": 173600
-        },
-        {
-          "name": "That's All She Wrote",
-          "artist": "T.I., Eminem",
-          "ms": 318360
-        },
-        {
-          "name": "King For A Day",
-          "artist": "Pierce The Veil, Kellin Quinn",
-          "ms": 236293
-        },
-        {
-          "name": "Say You'll Haunt Me",
-          "artist": "Stone Sour",
-          "ms": 264373
-        },
-        {
-          "name": "Forgot About Dre",
-          "artist": "Dr. Dre, Eminem",
-          "ms": 222293
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Eminem",
-          "genres": []
-        },
-        {
-          "name": "Pierce The Veil",
-          "genres": []
-        },
-        {
-          "name": "Engenheiros Do Hawaii",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Charlie Brown Jr.",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-10-01T00:20:12.853696+00:00",
       "now_playing": {
         "title": "Andei Só - Ao Vivo",
@@ -1710,6 +1652,64 @@
           "name": "Everyday Normal Guy 2",
           "artist": "Jon Lajoie",
           "ms": 195693
+        },
+        {
+          "name": "Bugbear",
+          "artist": "chloe moriondo",
+          "ms": 173600
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Eminem",
+          "genres": []
+        },
+        {
+          "name": "Engenheiros Do Hawaii",
+          "genres": []
+        },
+        {
+          "name": "Charlie Brown Jr.",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Slipknot",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-10-07T04:13:09.372193+00:00",
+      "now_playing": {
+        "title": "Flores Em Vida",
+        "artist": "Zezé Di Camargo & Luciano",
+        "album": "Teorias de Raul",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27320ce11920da2ed0c80b16b64"
+      },
+      "top_tracks": [
+        {
+          "name": "Forgot About Dre",
+          "artist": "Dr. Dre, Eminem",
+          "ms": 222293
+        },
+        {
+          "name": "That's All She Wrote",
+          "artist": "T.I., Eminem",
+          "ms": 318360
+        },
+        {
+          "name": "Everyday Normal Guy 2",
+          "artist": "Jon Lajoie",
+          "ms": 195693
+        },
+        {
+          "name": "When I'm Gone",
+          "artist": "Eminem",
+          "ms": 281320
         },
         {
           "name": "Bugbear",
