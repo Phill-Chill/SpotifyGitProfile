@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-10-01T06:19:33.733077+00:00",
-      "now_playing": {
-        "title": "Everyday Normal Guy 2",
-        "artist": "Jon Lajoie",
-        "album": "You Want Some of This?",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273ec0a9eea5aa9110401cebaf4"
-      },
-      "top_tracks": [
-        {
-          "name": "Bugbear",
-          "artist": "chloe moriondo",
-          "ms": 173600
-        },
-        {
-          "name": "That's All She Wrote",
-          "artist": "T.I., Eminem",
-          "ms": 318360
-        },
-        {
-          "name": "Say You'll Haunt Me",
-          "artist": "Stone Sour",
-          "ms": 264373
-        },
-        {
-          "name": "Forgot About Dre",
-          "artist": "Dr. Dre, Eminem",
-          "ms": 222293
-        },
-        {
-          "name": "Deja Vu",
-          "artist": "Eminem",
-          "ms": 283520
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Eminem",
-          "genres": []
-        },
-        {
-          "name": "Pierce The Veil",
-          "genres": []
-        },
-        {
-          "name": "Engenheiros Do Hawaii",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Charlie Brown Jr.",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-10-01T13:42:36.086570+00:00",
       "now_playing": {
         "title": "Outside",
@@ -1689,6 +1631,64 @@
         "artist": "Engenheiros Do Hawaii",
         "album": "Acústico (Ao Vivo / Deluxe)",
         "image_url": "https://i.scdn.co/image/ab67616d0000b273f98de08cd017b515c9e61344"
+      },
+      "top_tracks": [
+        {
+          "name": "Forgot About Dre",
+          "artist": "Dr. Dre, Eminem",
+          "ms": 222293
+        },
+        {
+          "name": "Everyday Normal Guy 2",
+          "artist": "Jon Lajoie",
+          "ms": 195693
+        },
+        {
+          "name": "When I'm Gone",
+          "artist": "Eminem",
+          "ms": 281320
+        },
+        {
+          "name": "That's All She Wrote",
+          "artist": "T.I., Eminem",
+          "ms": 318360
+        },
+        {
+          "name": "Bugbear",
+          "artist": "chloe moriondo",
+          "ms": 173600
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Eminem",
+          "genres": []
+        },
+        {
+          "name": "Engenheiros Do Hawaii",
+          "genres": []
+        },
+        {
+          "name": "Charlie Brown Jr.",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Slipknot",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-10-07T17:53:51.938046+00:00",
+      "now_playing": {
+        "title": "Suíte 14 - Ao Vivo",
+        "artist": "Henrique & Diego, MC Guimê",
+        "album": "Tempo Certo (Ao Vivo em Campo Grande)",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2730f91729d8550f80bccccdd5a"
       },
       "top_tracks": [
         {
