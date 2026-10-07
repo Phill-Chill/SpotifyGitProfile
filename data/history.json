@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-10-01T00:20:12.853696+00:00",
-      "now_playing": {
-        "title": "Andei Só - Ao Vivo",
-        "artist": "Natiruts",
-        "album": "Natiruts Acústico no Rio de Janeiro (Ao Vivo)",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273f0b26efb4f60c433c7915d07"
-      },
-      "top_tracks": [
-        {
-          "name": "Bugbear",
-          "artist": "chloe moriondo",
-          "ms": 173600
-        },
-        {
-          "name": "That's All She Wrote",
-          "artist": "T.I., Eminem",
-          "ms": 318360
-        },
-        {
-          "name": "Say You'll Haunt Me",
-          "artist": "Stone Sour",
-          "ms": 264373
-        },
-        {
-          "name": "Forgot About Dre",
-          "artist": "Dr. Dre, Eminem",
-          "ms": 222293
-        },
-        {
-          "name": "Deja Vu",
-          "artist": "Eminem",
-          "ms": 283520
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Eminem",
-          "genres": []
-        },
-        {
-          "name": "Pierce The Veil",
-          "genres": []
-        },
-        {
-          "name": "Engenheiros Do Hawaii",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Slipknot",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-10-01T06:19:33.733077+00:00",
       "now_playing": {
         "title": "Everyday Normal Guy 2",
@@ -1710,6 +1652,64 @@
           "name": "When I'm Gone",
           "artist": "Eminem",
           "ms": 281320
+        },
+        {
+          "name": "Bugbear",
+          "artist": "chloe moriondo",
+          "ms": 173600
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Eminem",
+          "genres": []
+        },
+        {
+          "name": "Engenheiros Do Hawaii",
+          "genres": []
+        },
+        {
+          "name": "Charlie Brown Jr.",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Slipknot",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-10-07T11:14:27.251352+00:00",
+      "now_playing": {
+        "title": "O Preço - Ao Vivo",
+        "artist": "Engenheiros Do Hawaii",
+        "album": "Acústico (Ao Vivo / Deluxe)",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273f98de08cd017b515c9e61344"
+      },
+      "top_tracks": [
+        {
+          "name": "Forgot About Dre",
+          "artist": "Dr. Dre, Eminem",
+          "ms": 222293
+        },
+        {
+          "name": "Everyday Normal Guy 2",
+          "artist": "Jon Lajoie",
+          "ms": 195693
+        },
+        {
+          "name": "When I'm Gone",
+          "artist": "Eminem",
+          "ms": 281320
+        },
+        {
+          "name": "That's All She Wrote",
+          "artist": "T.I., Eminem",
+          "ms": 318360
         },
         {
           "name": "Bugbear",
