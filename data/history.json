@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-10-03T04:03:03.565887+00:00",
-      "now_playing": {
-        "title": "Lágrimas E Chuva - Ao Vivo",
-        "artist": "Kid Abelha",
-        "album": "Acústico (Live)",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b27356237a3ff7c2bd57a6b8d60f"
-      },
-      "top_tracks": [
-        {
-          "name": "That's All She Wrote",
-          "artist": "T.I., Eminem",
-          "ms": 318360
-        },
-        {
-          "name": "Bugbear",
-          "artist": "chloe moriondo",
-          "ms": 173600
-        },
-        {
-          "name": "Forgot About Dre",
-          "artist": "Dr. Dre, Eminem",
-          "ms": 222293
-        },
-        {
-          "name": "Deja Vu",
-          "artist": "Eminem",
-          "ms": 283520
-        },
-        {
-          "name": "So Far So Fake",
-          "artist": "Pierce The Veil",
-          "ms": 236160
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Eminem",
-          "genres": []
-        },
-        {
-          "name": "Pierce The Veil",
-          "genres": []
-        },
-        {
-          "name": "Engenheiros Do Hawaii",
-          "genres": []
-        },
-        {
-          "name": "Charlie Brown Jr.",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-10-03T09:58:03.029824+00:00",
       "now_playing": {
         "title": "Lágrimas E Chuva - Ao Vivo",
@@ -1710,6 +1652,64 @@
           "name": "Lucky You (feat. Joyner Lucas)",
           "artist": "Eminem, Joyner Lucas",
           "ms": 244679
+        },
+        {
+          "name": "That's All She Wrote",
+          "artist": "T.I., Eminem",
+          "ms": 318360
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Eminem",
+          "genres": []
+        },
+        {
+          "name": "Engenheiros Do Hawaii",
+          "genres": []
+        },
+        {
+          "name": "Charlie Brown Jr.",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Slipknot",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-10-09T20:17:50.819716+00:00",
+      "now_playing": {
+        "title": "Piano Bar - Ao Vivo",
+        "artist": "Engenheiros Do Hawaii",
+        "album": "10.000 Destinos - Ao Vivo",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2739d910ee20a01a49040fa8509"
+      },
+      "top_tracks": [
+        {
+          "name": "Everyday Normal Guy 2",
+          "artist": "Jon Lajoie",
+          "ms": 195693
+        },
+        {
+          "name": "Joseph",
+          "artist": "Falling In Reverse, Corey Taylor, Serj Tankian",
+          "ms": 249359
+        },
+        {
+          "name": "Lucky You (feat. Joyner Lucas)",
+          "artist": "Eminem, Joyner Lucas",
+          "ms": 244679
+        },
+        {
+          "name": "Remember The Name (feat. Eminem & 50 Cent)",
+          "artist": "Ed Sheeran, Eminem, 50 Cent",
+          "ms": 207760
         },
         {
           "name": "That's All She Wrote",
