@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-10-02T15:21:19.918680+00:00",
-      "now_playing": {
-        "title": "There’s Fear In Letting Go",
-        "artist": "I Prevail",
-        "album": "TRUE POWER",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273fdf16e6dc8b69f3e7c2b258b"
-      },
-      "top_tracks": [
-        {
-          "name": "Bugbear",
-          "artist": "chloe moriondo",
-          "ms": 173600
-        },
-        {
-          "name": "That's All She Wrote",
-          "artist": "T.I., Eminem",
-          "ms": 318360
-        },
-        {
-          "name": "Forgot About Dre",
-          "artist": "Dr. Dre, Eminem",
-          "ms": 222293
-        },
-        {
-          "name": "Say You'll Haunt Me",
-          "artist": "Stone Sour",
-          "ms": 264373
-        },
-        {
-          "name": "Deja Vu",
-          "artist": "Eminem",
-          "ms": 283520
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Eminem",
-          "genres": []
-        },
-        {
-          "name": "Pierce The Veil",
-          "genres": []
-        },
-        {
-          "name": "Engenheiros Do Hawaii",
-          "genres": []
-        },
-        {
-          "name": "Charlie Brown Jr.",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-10-02T20:04:11.201704+00:00",
       "now_playing": {
         "title": "Feeling Blue",
@@ -1689,6 +1631,64 @@
         "artist": "Emicida, Pitty",
         "album": "O Glorioso Retorno de Quem Nunca Esteve Aqui",
         "image_url": "https://i.scdn.co/image/ab67616d0000b273fbd2467fe87c1bb4891cbed2"
+      },
+      "top_tracks": [
+        {
+          "name": "Everyday Normal Guy 2",
+          "artist": "Jon Lajoie",
+          "ms": 195693
+        },
+        {
+          "name": "Forgot About Dre",
+          "artist": "Dr. Dre, Eminem",
+          "ms": 222293
+        },
+        {
+          "name": "Joseph",
+          "artist": "Falling In Reverse, Corey Taylor, Serj Tankian",
+          "ms": 249359
+        },
+        {
+          "name": "That's All She Wrote",
+          "artist": "T.I., Eminem",
+          "ms": 318360
+        },
+        {
+          "name": "Lucky You (feat. Joyner Lucas)",
+          "artist": "Eminem, Joyner Lucas",
+          "ms": 244679
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Eminem",
+          "genres": []
+        },
+        {
+          "name": "Engenheiros Do Hawaii",
+          "genres": []
+        },
+        {
+          "name": "Charlie Brown Jr.",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Slipknot",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-10-09T01:43:40.797875+00:00",
+      "now_playing": {
+        "title": "O Gatilho",
+        "artist": "Sabotage, Céu, BNegão, Rodrigo Brandão, Instituto, Ganjaman, Quincas",
+        "album": "Sabotage",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273fac7a564f376b3047b9b769b"
       },
       "top_tracks": [
         {
