@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-10-04T00:24:40.253602+00:00",
-      "now_playing": {
-        "title": "Meu Erro",
-        "artist": "Os Paralamas Do Sucesso",
-        "album": "O Passo Do Lui",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2736b419e9dbdac56e7844e3938"
-      },
-      "top_tracks": [
-        {
-          "name": "Forgot About Dre",
-          "artist": "Dr. Dre, Eminem",
-          "ms": 222293
-        },
-        {
-          "name": "That's All She Wrote",
-          "artist": "T.I., Eminem",
-          "ms": 318360
-        },
-        {
-          "name": "Cinderella Man",
-          "artist": "Eminem",
-          "ms": 279013
-        },
-        {
-          "name": "Bugbear",
-          "artist": "chloe moriondo",
-          "ms": 173600
-        },
-        {
-          "name": "When I'm Gone",
-          "artist": "Eminem",
-          "ms": 281320
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Eminem",
-          "genres": []
-        },
-        {
-          "name": "Engenheiros Do Hawaii",
-          "genres": []
-        },
-        {
-          "name": "Charlie Brown Jr.",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Pierce The Veil",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-10-04T06:10:04.601742+00:00",
       "now_playing": {
         "title": "Meu Erro",
@@ -1684,6 +1626,64 @@
     },
     {
       "timestamp": "2026-10-10T17:37:57.003843+00:00",
+      "now_playing": {
+        "title": "Time is Running Out",
+        "artist": "Muse",
+        "album": "Absolution",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2734d4c8b5bcdf1114d19f2f546"
+      },
+      "top_tracks": [
+        {
+          "name": "Everyday Normal Guy 2",
+          "artist": "Jon Lajoie",
+          "ms": 195693
+        },
+        {
+          "name": "Lucky You (feat. Joyner Lucas)",
+          "artist": "Eminem, Joyner Lucas",
+          "ms": 244679
+        },
+        {
+          "name": "That's All She Wrote",
+          "artist": "T.I., Eminem",
+          "ms": 318360
+        },
+        {
+          "name": "Joseph",
+          "artist": "Falling In Reverse, Corey Taylor, Serj Tankian",
+          "ms": 249359
+        },
+        {
+          "name": "Remember The Name (feat. Eminem & 50 Cent)",
+          "artist": "Ed Sheeran, Eminem, 50 Cent",
+          "ms": 207760
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Engenheiros Do Hawaii",
+          "genres": []
+        },
+        {
+          "name": "Charlie Brown Jr.",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Eminem",
+          "genres": []
+        },
+        {
+          "name": "Slipknot",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-10-10T21:07:51.823901+00:00",
       "now_playing": {
         "title": "Time is Running Out",
         "artist": "Muse",
