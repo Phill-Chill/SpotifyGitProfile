@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-10-09T01:43:40.797875+00:00",
-      "now_playing": {
-        "title": "O Gatilho",
-        "artist": "Sabotage, Céu, BNegão, Rodrigo Brandão, Instituto, Ganjaman, Quincas",
-        "album": "Sabotage",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273fac7a564f376b3047b9b769b"
-      },
-      "top_tracks": [
-        {
-          "name": "Everyday Normal Guy 2",
-          "artist": "Jon Lajoie",
-          "ms": 195693
-        },
-        {
-          "name": "Forgot About Dre",
-          "artist": "Dr. Dre, Eminem",
-          "ms": 222293
-        },
-        {
-          "name": "Joseph",
-          "artist": "Falling In Reverse, Corey Taylor, Serj Tankian",
-          "ms": 249359
-        },
-        {
-          "name": "That's All She Wrote",
-          "artist": "T.I., Eminem",
-          "ms": 318360
-        },
-        {
-          "name": "Lucky You (feat. Joyner Lucas)",
-          "artist": "Eminem, Joyner Lucas",
-          "ms": 244679
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Eminem",
-          "genres": []
-        },
-        {
-          "name": "Engenheiros Do Hawaii",
-          "genres": []
-        },
-        {
-          "name": "Charlie Brown Jr.",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Slipknot",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-10-09T08:27:15.938115+00:00",
       "now_playing": {
         "title": "O Gatilho",
@@ -1689,6 +1631,64 @@
         "artist": "Arctic Monkeys",
         "album": "Favourite Worst Nightmare",
         "image_url": "https://i.scdn.co/image/ab67616d0000b273b1f8da74f225fa1225cdface"
+      },
+      "top_tracks": [
+        {
+          "name": "Ignorance",
+          "artist": "Paramore",
+          "ms": 218626
+        },
+        {
+          "name": "That's All She Wrote",
+          "artist": "T.I., Eminem",
+          "ms": 318360
+        },
+        {
+          "name": "Joseph",
+          "artist": "Falling In Reverse, Corey Taylor, Serj Tankian",
+          "ms": 249359
+        },
+        {
+          "name": "Êxodo",
+          "artist": "Maneva",
+          "ms": 171075
+        },
+        {
+          "name": "Raining Again",
+          "artist": "Staind",
+          "ms": 233506
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Engenheiros Do Hawaii",
+          "genres": []
+        },
+        {
+          "name": "Charlie Brown Jr.",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Slipknot",
+          "genres": []
+        },
+        {
+          "name": "Eminem",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-10-15T16:16:25.503430+00:00",
+      "now_playing": {
+        "title": "Savior",
+        "artist": "Rise Against",
+        "album": "Appeal To Reason",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273eaa10fffa60de320846c28be"
       },
       "top_tracks": [
         {
