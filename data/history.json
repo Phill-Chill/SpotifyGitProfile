@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-10-08T16:46:02.780928+00:00",
-      "now_playing": {
-        "title": "Black Hole",
-        "artist": "We Came As Romans, Caleb Shomo",
-        "album": "Darkbloom",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2732aaa9372a6922e6e3575d828"
-      },
-      "top_tracks": [
-        {
-          "name": "Everyday Normal Guy 2",
-          "artist": "Jon Lajoie",
-          "ms": 195693
-        },
-        {
-          "name": "Forgot About Dre",
-          "artist": "Dr. Dre, Eminem",
-          "ms": 222293
-        },
-        {
-          "name": "Joseph",
-          "artist": "Falling In Reverse, Corey Taylor, Serj Tankian",
-          "ms": 249359
-        },
-        {
-          "name": "That's All She Wrote",
-          "artist": "T.I., Eminem",
-          "ms": 318360
-        },
-        {
-          "name": "Lucky You (feat. Joyner Lucas)",
-          "artist": "Eminem, Joyner Lucas",
-          "ms": 244679
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Eminem",
-          "genres": []
-        },
-        {
-          "name": "Engenheiros Do Hawaii",
-          "genres": []
-        },
-        {
-          "name": "Charlie Brown Jr.",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Slipknot",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-10-08T21:48:23.282816+00:00",
       "now_playing": {
         "title": "Hoje Cedo",
@@ -1684,6 +1626,64 @@
     },
     {
       "timestamp": "2026-10-15T01:17:44.358453+00:00",
+      "now_playing": {
+        "title": "No One Knows",
+        "artist": "Queens of the Stone Age",
+        "album": "Songs For The Deaf",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2739eec33b045d88f87b9b06e67"
+      },
+      "top_tracks": [
+        {
+          "name": "Ignorance",
+          "artist": "Paramore",
+          "ms": 218626
+        },
+        {
+          "name": "Joseph",
+          "artist": "Falling In Reverse, Corey Taylor, Serj Tankian",
+          "ms": 249359
+        },
+        {
+          "name": "That's All She Wrote",
+          "artist": "T.I., Eminem",
+          "ms": 318360
+        },
+        {
+          "name": "Êxodo",
+          "artist": "Maneva",
+          "ms": 171075
+        },
+        {
+          "name": "Everyday Normal Guy 2",
+          "artist": "Jon Lajoie",
+          "ms": 195693
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Engenheiros Do Hawaii",
+          "genres": []
+        },
+        {
+          "name": "Charlie Brown Jr.",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Slipknot",
+          "genres": []
+        },
+        {
+          "name": "Eminem",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-10-15T06:10:28.100288+00:00",
       "now_playing": {
         "title": "No One Knows",
         "artist": "Queens of the Stone Age",
