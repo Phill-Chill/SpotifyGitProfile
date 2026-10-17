@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-10-11T00:19:32.334767+00:00",
-      "now_playing": {
-        "title": "Someday",
-        "artist": "The Strokes",
-        "album": "Is This It",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273a388a3f20d1bf2123249cc79"
-      },
-      "top_tracks": [
-        {
-          "name": "Everyday Normal Guy 2",
-          "artist": "Jon Lajoie",
-          "ms": 195693
-        },
-        {
-          "name": "That's All She Wrote",
-          "artist": "T.I., Eminem",
-          "ms": 318360
-        },
-        {
-          "name": "Joseph",
-          "artist": "Falling In Reverse, Corey Taylor, Serj Tankian",
-          "ms": 249359
-        },
-        {
-          "name": "Lucky You (feat. Joyner Lucas)",
-          "artist": "Eminem, Joyner Lucas",
-          "ms": 244679
-        },
-        {
-          "name": "Remember The Name (feat. Eminem & 50 Cent)",
-          "artist": "Ed Sheeran, Eminem, 50 Cent",
-          "ms": 207760
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Engenheiros Do Hawaii",
-          "genres": []
-        },
-        {
-          "name": "Charlie Brown Jr.",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Eminem",
-          "genres": []
-        },
-        {
-          "name": "Slipknot",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-10-11T06:09:06.816303+00:00",
       "now_playing": {
         "title": "Someday",
@@ -1715,6 +1657,64 @@
           "name": "Joseph",
           "artist": "Falling In Reverse, Corey Taylor, Serj Tankian",
           "ms": 249359
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Engenheiros Do Hawaii",
+          "genres": []
+        },
+        {
+          "name": "Charlie Brown Jr.",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Slipknot",
+          "genres": []
+        },
+        {
+          "name": "Eminem",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-10-17T00:43:20.010481+00:00",
+      "now_playing": {
+        "title": "The Heretic Anthem",
+        "artist": "Slipknot",
+        "album": "The Studio Album Collection (1999 - 2008)",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273316c41b92c818849663b2f34"
+      },
+      "top_tracks": [
+        {
+          "name": "Ignorance",
+          "artist": "Paramore",
+          "ms": 218626
+        },
+        {
+          "name": "Êxodo",
+          "artist": "Maneva",
+          "ms": 171075
+        },
+        {
+          "name": "That's All She Wrote",
+          "artist": "T.I., Eminem",
+          "ms": 318360
+        },
+        {
+          "name": "Raining Again",
+          "artist": "Staind",
+          "ms": 233506
+        },
+        {
+          "name": "O Gatilho",
+          "artist": "Sabotage, Céu, BNegão, Rodrigo Brandão, Instituto, Ganjaman, Quincas",
+          "ms": 288893
         }
       ],
       "top_artists": [
