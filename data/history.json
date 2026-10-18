@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-10-13T21:24:28.410367+00:00",
-      "now_playing": {
-        "title": "Figure It Out",
-        "artist": "Royal Blood",
-        "album": "Royal Blood",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2738c23906cd30a0564bcebb5e5"
-      },
-      "top_tracks": [
-        {
-          "name": "Joseph",
-          "artist": "Falling In Reverse, Corey Taylor, Serj Tankian",
-          "ms": 249359
-        },
-        {
-          "name": "Ignorance",
-          "artist": "Paramore",
-          "ms": 218626
-        },
-        {
-          "name": "That's All She Wrote",
-          "artist": "T.I., Eminem",
-          "ms": 318360
-        },
-        {
-          "name": "Everyday Normal Guy 2",
-          "artist": "Jon Lajoie",
-          "ms": 195693
-        },
-        {
-          "name": "Courtesy Call",
-          "artist": "Thousand Foot Krutch",
-          "ms": 236898
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Engenheiros Do Hawaii",
-          "genres": []
-        },
-        {
-          "name": "Charlie Brown Jr.",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Slipknot",
-          "genres": []
-        },
-        {
-          "name": "Eminem",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-10-14T00:28:01.962759+00:00",
       "now_playing": {
         "title": "Outside",
@@ -1700,6 +1642,64 @@
           "name": "Êxodo",
           "artist": "Maneva",
           "ms": 171075
+        },
+        {
+          "name": "Raining Again",
+          "artist": "Staind",
+          "ms": 233506
+        },
+        {
+          "name": "That's All She Wrote",
+          "artist": "T.I., Eminem",
+          "ms": 318360
+        },
+        {
+          "name": "O Gatilho",
+          "artist": "Sabotage, Céu, BNegão, Rodrigo Brandão, Instituto, Ganjaman, Quincas",
+          "ms": 288893
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Engenheiros Do Hawaii",
+          "genres": []
+        },
+        {
+          "name": "Charlie Brown Jr.",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Slipknot",
+          "genres": []
+        },
+        {
+          "name": "Muse",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-10-18T16:02:54.625375+00:00",
+      "now_playing": {
+        "title": "Apologies",
+        "artist": "Three Days Grace",
+        "album": "Alienation",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2733f350a0ce265fae952a2a115"
+      },
+      "top_tracks": [
+        {
+          "name": "Êxodo",
+          "artist": "Maneva",
+          "ms": 171075
+        },
+        {
+          "name": "Ignorance",
+          "artist": "Paramore",
+          "ms": 218626
         },
         {
           "name": "Raining Again",
