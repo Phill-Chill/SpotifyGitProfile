@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-10-18T07:52:09.168789+00:00",
-      "now_playing": {
-        "title": "Dance, Dance",
-        "artist": "Fall Out Boy",
-        "album": "From Under The Cork Tree",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b27371565eda831124be86c603d5"
-      },
-      "top_tracks": [
-        {
-          "name": "Ignorance",
-          "artist": "Paramore",
-          "ms": 218626
-        },
-        {
-          "name": "Êxodo",
-          "artist": "Maneva",
-          "ms": 171075
-        },
-        {
-          "name": "Raining Again",
-          "artist": "Staind",
-          "ms": 233506
-        },
-        {
-          "name": "That's All She Wrote",
-          "artist": "T.I., Eminem",
-          "ms": 318360
-        },
-        {
-          "name": "O Gatilho",
-          "artist": "Sabotage, Céu, BNegão, Rodrigo Brandão, Instituto, Ganjaman, Quincas",
-          "ms": 288893
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Engenheiros Do Hawaii",
-          "genres": []
-        },
-        {
-          "name": "Charlie Brown Jr.",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Slipknot",
-          "genres": []
-        },
-        {
-          "name": "Muse",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-10-18T12:25:38.604088+00:00",
       "now_playing": {
         "title": "Goodbye Angels",
@@ -1732,6 +1674,64 @@
         },
         {
           "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Slipknot",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-10-23T15:20:30.248786+00:00",
+      "now_playing": {
+        "title": "Caso Marcado - Ao Vivo",
+        "artist": "César Menotti & Fabiano",
+        "album": "Palavras De Amor",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273b770ae5252c4b7a60e93804b"
+      },
+      "top_tracks": [
+        {
+          "name": "Êxodo",
+          "artist": "Maneva",
+          "ms": 171075
+        },
+        {
+          "name": "Só Mais Uma Noite - Live",
+          "artist": "Criolo, Emicida, Evandro Fióti",
+          "ms": 188666
+        },
+        {
+          "name": "Redbone",
+          "artist": "Childish Gambino",
+          "ms": 326933
+        },
+        {
+          "name": "Dias De Luta, Dias De Gloria",
+          "artist": "Charlie Brown Jr.",
+          "ms": 145466
+        },
+        {
+          "name": "Andei Só - Ao Vivo",
+          "artist": "Natiruts",
+          "ms": 263529
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Engenheiros Do Hawaii",
+          "genres": []
+        },
+        {
+          "name": "Eminem",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Charlie Brown Jr.",
           "genres": []
         },
         {
