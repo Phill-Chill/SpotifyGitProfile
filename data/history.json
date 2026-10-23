@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-10-18T16:02:54.625375+00:00",
-      "now_playing": {
-        "title": "Apologies",
-        "artist": "Three Days Grace",
-        "album": "Alienation",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2733f350a0ce265fae952a2a115"
-      },
-      "top_tracks": [
-        {
-          "name": "Êxodo",
-          "artist": "Maneva",
-          "ms": 171075
-        },
-        {
-          "name": "Ignorance",
-          "artist": "Paramore",
-          "ms": 218626
-        },
-        {
-          "name": "Raining Again",
-          "artist": "Staind",
-          "ms": 233506
-        },
-        {
-          "name": "That's All She Wrote",
-          "artist": "T.I., Eminem",
-          "ms": 318360
-        },
-        {
-          "name": "O Gatilho",
-          "artist": "Sabotage, Céu, BNegão, Rodrigo Brandão, Instituto, Ganjaman, Quincas",
-          "ms": 288893
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Engenheiros Do Hawaii",
-          "genres": []
-        },
-        {
-          "name": "Charlie Brown Jr.",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Slipknot",
-          "genres": []
-        },
-        {
-          "name": "Muse",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-10-18T18:45:36.745391+00:00",
       "now_playing": {
         "title": "Down with the Sickness",
@@ -1689,6 +1631,64 @@
         "artist": "Grupo Fundo De Quintal",
         "album": "Simplicidade",
         "image_url": "https://i.scdn.co/image/ab67616d0000b2734e2a5390a672487c282f5ee7"
+      },
+      "top_tracks": [
+        {
+          "name": "Êxodo",
+          "artist": "Maneva",
+          "ms": 171075
+        },
+        {
+          "name": "Só Mais Uma Noite - Live",
+          "artist": "Criolo, Emicida, Evandro Fióti",
+          "ms": 188666
+        },
+        {
+          "name": "Redbone",
+          "artist": "Childish Gambino",
+          "ms": 326933
+        },
+        {
+          "name": "Dias De Luta, Dias De Gloria",
+          "artist": "Charlie Brown Jr.",
+          "ms": 145466
+        },
+        {
+          "name": "Andei Só - Ao Vivo",
+          "artist": "Natiruts",
+          "ms": 263529
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Engenheiros Do Hawaii",
+          "genres": []
+        },
+        {
+          "name": "Eminem",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Charlie Brown Jr.",
+          "genres": []
+        },
+        {
+          "name": "Muse",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-10-23T22:29:49.091887+00:00",
+      "now_playing": {
+        "title": "Lose Control",
+        "artist": "Teddy Swims",
+        "album": "I've Tried Everything But Therapy (Part 1)",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273ebea8d4457c4db5b2088f287"
       },
       "top_tracks": [
         {
