@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-10-17T23:43:57.491824+00:00",
-      "now_playing": {
-        "title": "Dance, Dance",
-        "artist": "Fall Out Boy",
-        "album": "From Under The Cork Tree",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b27371565eda831124be86c603d5"
-      },
-      "top_tracks": [
-        {
-          "name": "Ignorance",
-          "artist": "Paramore",
-          "ms": 218626
-        },
-        {
-          "name": "Êxodo",
-          "artist": "Maneva",
-          "ms": 171075
-        },
-        {
-          "name": "Raining Again",
-          "artist": "Staind",
-          "ms": 233506
-        },
-        {
-          "name": "That's All She Wrote",
-          "artist": "T.I., Eminem",
-          "ms": 318360
-        },
-        {
-          "name": "O Gatilho",
-          "artist": "Sabotage, Céu, BNegão, Rodrigo Brandão, Instituto, Ganjaman, Quincas",
-          "ms": 288893
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Engenheiros Do Hawaii",
-          "genres": []
-        },
-        {
-          "name": "Charlie Brown Jr.",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Slipknot",
-          "genres": []
-        },
-        {
-          "name": "Muse",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-10-18T02:57:23.442704+00:00",
       "now_playing": {
         "title": "Dance, Dance",
@@ -1689,6 +1631,64 @@
         "artist": "half•alive",
         "album": "Now, Not Yet",
         "image_url": "https://i.scdn.co/image/ab67616d0000b2735ec621b1dd8a112dccb78a8c"
+      },
+      "top_tracks": [
+        {
+          "name": "Êxodo",
+          "artist": "Maneva",
+          "ms": 171075
+        },
+        {
+          "name": "Só Mais Uma Noite - Live",
+          "artist": "Criolo, Emicida, Evandro Fióti",
+          "ms": 188666
+        },
+        {
+          "name": "Dias De Luta, Dias De Gloria",
+          "artist": "Charlie Brown Jr.",
+          "ms": 145466
+        },
+        {
+          "name": "Redbone",
+          "artist": "Childish Gambino",
+          "ms": 326933
+        },
+        {
+          "name": "O Gatilho",
+          "artist": "Sabotage, Céu, BNegão, Rodrigo Brandão, Instituto, Ganjaman, Quincas",
+          "ms": 288893
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Engenheiros Do Hawaii",
+          "genres": []
+        },
+        {
+          "name": "Eminem",
+          "genres": []
+        },
+        {
+          "name": "Charlie Brown Jr.",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Slipknot",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-10-23T05:09:52.473371+00:00",
+      "now_playing": {
+        "title": "Teardrops",
+        "artist": "Bring Me The Horizon",
+        "album": "POST HUMAN: SURVIVAL HORROR",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2735149c948fde506624246a684"
       },
       "top_tracks": [
         {
