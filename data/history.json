@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-10-19T01:32:04.400591+00:00",
-      "now_playing": {
-        "title": "I Don't Miss You at All",
-        "artist": "FINNEAS",
-        "album": "Blood Harmony",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273500f0405c1d3feb14d62849c"
-      },
-      "top_tracks": [
-        {
-          "name": "Êxodo",
-          "artist": "Maneva",
-          "ms": 171075
-        },
-        {
-          "name": "Ignorance",
-          "artist": "Paramore",
-          "ms": 218626
-        },
-        {
-          "name": "Raining Again",
-          "artist": "Staind",
-          "ms": 233506
-        },
-        {
-          "name": "That's All She Wrote",
-          "artist": "T.I., Eminem",
-          "ms": 318360
-        },
-        {
-          "name": "O Gatilho",
-          "artist": "Sabotage, Céu, BNegão, Rodrigo Brandão, Instituto, Ganjaman, Quincas",
-          "ms": 288893
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Engenheiros Do Hawaii",
-          "genres": []
-        },
-        {
-          "name": "Charlie Brown Jr.",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Slipknot",
-          "genres": []
-        },
-        {
-          "name": "Muse",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-10-19T07:16:47.142826+00:00",
       "now_playing": {
         "title": "Scream",
@@ -1689,6 +1631,64 @@
         "artist": "The Black Keys",
         "album": "El Camino (2021 Remaster)",
         "image_url": "https://i.scdn.co/image/ab67616d0000b2731984ae05d586371351e056d7"
+      },
+      "top_tracks": [
+        {
+          "name": "Êxodo",
+          "artist": "Maneva",
+          "ms": 171075
+        },
+        {
+          "name": "Só Mais Uma Noite - Live",
+          "artist": "Criolo, Emicida, Evandro Fióti",
+          "ms": 188666
+        },
+        {
+          "name": "Redbone",
+          "artist": "Childish Gambino",
+          "ms": 326933
+        },
+        {
+          "name": "Dias De Luta, Dias De Gloria",
+          "artist": "Charlie Brown Jr.",
+          "ms": 145466
+        },
+        {
+          "name": "Andei Só - Ao Vivo",
+          "artist": "Natiruts",
+          "ms": 263529
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Engenheiros Do Hawaii",
+          "genres": []
+        },
+        {
+          "name": "Eminem",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Charlie Brown Jr.",
+          "genres": []
+        },
+        {
+          "name": "Muse",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-10-24T14:03:54.926558+00:00",
+      "now_playing": {
+        "title": "In One Ear",
+        "artist": "Cage The Elephant",
+        "album": "Cage The Elephant",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273ce6b979ca98da4c27157dc17"
       },
       "top_tracks": [
         {
