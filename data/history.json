@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-10-18T21:14:12.789629+00:00",
-      "now_playing": {
-        "title": "Quando Eu Me Encontrar",
-        "artist": "Selvagens à Procura de Lei, Vivendo do Ócio",
-        "album": "Y",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2730f98460b3a494e0a96f6107f"
-      },
-      "top_tracks": [
-        {
-          "name": "Êxodo",
-          "artist": "Maneva",
-          "ms": 171075
-        },
-        {
-          "name": "Ignorance",
-          "artist": "Paramore",
-          "ms": 218626
-        },
-        {
-          "name": "Raining Again",
-          "artist": "Staind",
-          "ms": 233506
-        },
-        {
-          "name": "That's All She Wrote",
-          "artist": "T.I., Eminem",
-          "ms": 318360
-        },
-        {
-          "name": "O Gatilho",
-          "artist": "Sabotage, Céu, BNegão, Rodrigo Brandão, Instituto, Ganjaman, Quincas",
-          "ms": 288893
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Engenheiros Do Hawaii",
-          "genres": []
-        },
-        {
-          "name": "Charlie Brown Jr.",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Slipknot",
-          "genres": []
-        },
-        {
-          "name": "Muse",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-10-18T23:27:32.270249+00:00",
       "now_playing": {
         "title": "Don’t Look Away",
@@ -1689,6 +1631,64 @@
         "artist": "Twenty One Pilots",
         "album": "Blurryface",
         "image_url": "https://i.scdn.co/image/ab67616d0000b2732df0d98a423025032d0db1f7"
+      },
+      "top_tracks": [
+        {
+          "name": "Êxodo",
+          "artist": "Maneva",
+          "ms": 171075
+        },
+        {
+          "name": "Só Mais Uma Noite - Live",
+          "artist": "Criolo, Emicida, Evandro Fióti",
+          "ms": 188666
+        },
+        {
+          "name": "Redbone",
+          "artist": "Childish Gambino",
+          "ms": 326933
+        },
+        {
+          "name": "Dias De Luta, Dias De Gloria",
+          "artist": "Charlie Brown Jr.",
+          "ms": 145466
+        },
+        {
+          "name": "Andei Só - Ao Vivo",
+          "artist": "Natiruts",
+          "ms": 263529
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Engenheiros Do Hawaii",
+          "genres": []
+        },
+        {
+          "name": "Eminem",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Charlie Brown Jr.",
+          "genres": []
+        },
+        {
+          "name": "Muse",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-10-24T05:38:14.162751+00:00",
+      "now_playing": {
+        "title": "Gold on the Ceiling - 2021 Remaster",
+        "artist": "The Black Keys",
+        "album": "El Camino (2021 Remaster)",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2731984ae05d586371351e056d7"
       },
       "top_tracks": [
         {
