@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-10-21T00:44:17.061372+00:00",
-      "now_playing": {
-        "title": "Bitch Please II",
-        "artist": "Eminem, Dr. Dre, Snoop Dogg, Xzibit, Nate Dogg",
-        "album": "The Marshall Mathers LP",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273dbb3dd82da45b7d7f31b1b42"
-      },
-      "top_tracks": [
-        {
-          "name": "Êxodo",
-          "artist": "Maneva",
-          "ms": 171075
-        },
-        {
-          "name": "Raining Again",
-          "artist": "Staind",
-          "ms": 233506
-        },
-        {
-          "name": "O Gatilho",
-          "artist": "Sabotage, Céu, BNegão, Rodrigo Brandão, Instituto, Ganjaman, Quincas",
-          "ms": 288893
-        },
-        {
-          "name": "That's All She Wrote",
-          "artist": "T.I., Eminem",
-          "ms": 318360
-        },
-        {
-          "name": "Só Mais Uma Noite - Live",
-          "artist": "Criolo, Emicida, Evandro Fióti",
-          "ms": 188666
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Engenheiros Do Hawaii",
-          "genres": []
-        },
-        {
-          "name": "Charlie Brown Jr.",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Slipknot",
-          "genres": []
-        },
-        {
-          "name": "Eminem",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-10-21T05:41:36.360546+00:00",
       "now_playing": {
         "title": "Kill You",
@@ -1684,6 +1626,64 @@
     },
     {
       "timestamp": "2026-10-25T21:03:18.578730+00:00",
+      "now_playing": {
+        "title": "All These Things That I've Done",
+        "artist": "The Killers",
+        "album": "Hot Fuss",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d"
+      },
+      "top_tracks": [
+        {
+          "name": "Êxodo",
+          "artist": "Maneva",
+          "ms": 171075
+        },
+        {
+          "name": "Só Mais Uma Noite - Live",
+          "artist": "Criolo, Emicida, Evandro Fióti",
+          "ms": 188666
+        },
+        {
+          "name": "Redbone",
+          "artist": "Childish Gambino",
+          "ms": 326933
+        },
+        {
+          "name": "Dias De Luta, Dias De Gloria",
+          "artist": "Charlie Brown Jr.",
+          "ms": 145466
+        },
+        {
+          "name": "Andei Só - Ao Vivo",
+          "artist": "Natiruts",
+          "ms": 263529
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Engenheiros Do Hawaii",
+          "genres": []
+        },
+        {
+          "name": "Eminem",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Muse",
+          "genres": []
+        },
+        {
+          "name": "Charlie Brown Jr.",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-10-25T23:25:30.488827+00:00",
       "now_playing": {
         "title": "All These Things That I've Done",
         "artist": "The Killers",
