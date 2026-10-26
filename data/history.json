@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-10-21T20:16:25.667115+00:00",
-      "now_playing": {
-        "title": "Sex on Fire",
-        "artist": "Kings of Leon",
-        "album": "Only By The Night",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2732519d01c0cca06f134eeadd8"
-      },
-      "top_tracks": [
-        {
-          "name": "Êxodo",
-          "artist": "Maneva",
-          "ms": 171075
-        },
-        {
-          "name": "O Gatilho",
-          "artist": "Sabotage, Céu, BNegão, Rodrigo Brandão, Instituto, Ganjaman, Quincas",
-          "ms": 288893
-        },
-        {
-          "name": "Só Mais Uma Noite - Live",
-          "artist": "Criolo, Emicida, Evandro Fióti",
-          "ms": 188666
-        },
-        {
-          "name": "Redbone",
-          "artist": "Childish Gambino",
-          "ms": 326933
-        },
-        {
-          "name": "O Preço - Ao Vivo",
-          "artist": "Engenheiros Do Hawaii",
-          "ms": 214373
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Engenheiros Do Hawaii",
-          "genres": []
-        },
-        {
-          "name": "Eminem",
-          "genres": []
-        },
-        {
-          "name": "Charlie Brown Jr.",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Slipknot",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-10-21T23:30:01.718653+00:00",
       "now_playing": {
         "title": "Piano Bar - Ao Vivo",
@@ -1684,6 +1626,64 @@
     },
     {
       "timestamp": "2026-10-26T13:51:02.983857+00:00",
+      "now_playing": {
+        "title": "Little Black Submarines - 2021 Remaster",
+        "artist": "The Black Keys",
+        "album": "El Camino (2021 Remaster)",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2731984ae05d586371351e056d7"
+      },
+      "top_tracks": [
+        {
+          "name": "Só Mais Uma Noite - Live",
+          "artist": "Criolo, Emicida, Evandro Fióti",
+          "ms": 188666
+        },
+        {
+          "name": "Redbone",
+          "artist": "Childish Gambino",
+          "ms": 326933
+        },
+        {
+          "name": "Êxodo",
+          "artist": "Maneva",
+          "ms": 171075
+        },
+        {
+          "name": "Andei Só - Ao Vivo",
+          "artist": "Natiruts",
+          "ms": 263529
+        },
+        {
+          "name": "Home",
+          "artist": "Three Days Grace",
+          "ms": 260680
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Eminem",
+          "genres": []
+        },
+        {
+          "name": "Engenheiros Do Hawaii",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Muse",
+          "genres": []
+        },
+        {
+          "name": "Slipknot",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-10-26T19:43:20.506063+00:00",
       "now_playing": {
         "title": "Little Black Submarines - 2021 Remaster",
         "artist": "The Black Keys",
