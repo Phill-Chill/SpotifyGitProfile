@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-10-21T16:01:24.883495+00:00",
-      "now_playing": {
-        "title": "Can You Feel My Heart",
-        "artist": "Bring Me The Horizon",
-        "album": "Sempiternal (Expanded Edition)",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273566acaba72c5509e3887c4b0"
-      },
-      "top_tracks": [
-        {
-          "name": "Êxodo",
-          "artist": "Maneva",
-          "ms": 171075
-        },
-        {
-          "name": "O Gatilho",
-          "artist": "Sabotage, Céu, BNegão, Rodrigo Brandão, Instituto, Ganjaman, Quincas",
-          "ms": 288893
-        },
-        {
-          "name": "Só Mais Uma Noite - Live",
-          "artist": "Criolo, Emicida, Evandro Fióti",
-          "ms": 188666
-        },
-        {
-          "name": "Redbone",
-          "artist": "Childish Gambino",
-          "ms": 326933
-        },
-        {
-          "name": "That's All She Wrote",
-          "artist": "T.I., Eminem",
-          "ms": 318360
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Engenheiros Do Hawaii",
-          "genres": []
-        },
-        {
-          "name": "Eminem",
-          "genres": []
-        },
-        {
-          "name": "Charlie Brown Jr.",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Slipknot",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-10-21T20:16:25.667115+00:00",
       "now_playing": {
         "title": "Sex on Fire",
@@ -1736,6 +1678,64 @@
         },
         {
           "name": "Charlie Brown Jr.",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-10-26T13:51:02.983857+00:00",
+      "now_playing": {
+        "title": "Little Black Submarines - 2021 Remaster",
+        "artist": "The Black Keys",
+        "album": "El Camino (2021 Remaster)",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2731984ae05d586371351e056d7"
+      },
+      "top_tracks": [
+        {
+          "name": "Só Mais Uma Noite - Live",
+          "artist": "Criolo, Emicida, Evandro Fióti",
+          "ms": 188666
+        },
+        {
+          "name": "Redbone",
+          "artist": "Childish Gambino",
+          "ms": 326933
+        },
+        {
+          "name": "Êxodo",
+          "artist": "Maneva",
+          "ms": 171075
+        },
+        {
+          "name": "Andei Só - Ao Vivo",
+          "artist": "Natiruts",
+          "ms": 263529
+        },
+        {
+          "name": "Home",
+          "artist": "Three Days Grace",
+          "ms": 260680
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Eminem",
+          "genres": []
+        },
+        {
+          "name": "Engenheiros Do Hawaii",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Muse",
+          "genres": []
+        },
+        {
+          "name": "Slipknot",
           "genres": []
         }
       ]
