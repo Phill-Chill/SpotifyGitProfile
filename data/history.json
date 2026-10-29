@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-10-23T19:26:01.930534+00:00",
-      "now_playing": {
-        "title": "O Show Tem Que Continuar",
-        "artist": "Grupo Fundo De Quintal",
-        "album": "Simplicidade",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2734e2a5390a672487c282f5ee7"
-      },
-      "top_tracks": [
-        {
-          "name": "Êxodo",
-          "artist": "Maneva",
-          "ms": 171075
-        },
-        {
-          "name": "Só Mais Uma Noite - Live",
-          "artist": "Criolo, Emicida, Evandro Fióti",
-          "ms": 188666
-        },
-        {
-          "name": "Redbone",
-          "artist": "Childish Gambino",
-          "ms": 326933
-        },
-        {
-          "name": "Dias De Luta, Dias De Gloria",
-          "artist": "Charlie Brown Jr.",
-          "ms": 145466
-        },
-        {
-          "name": "Andei Só - Ao Vivo",
-          "artist": "Natiruts",
-          "ms": 263529
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Engenheiros Do Hawaii",
-          "genres": []
-        },
-        {
-          "name": "Eminem",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Charlie Brown Jr.",
-          "genres": []
-        },
-        {
-          "name": "Muse",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-10-23T22:29:49.091887+00:00",
       "now_playing": {
         "title": "Lose Control",
@@ -1684,6 +1626,64 @@
     },
     {
       "timestamp": "2026-10-28T21:29:33.884493+00:00",
+      "now_playing": {
+        "title": "Chosen",
+        "artist": "Måneskin",
+        "album": "Chosen",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045"
+      },
+      "top_tracks": [
+        {
+          "name": "Só Mais Uma Noite - Live",
+          "artist": "Criolo, Emicida, Evandro Fióti",
+          "ms": 188666
+        },
+        {
+          "name": "Redbone",
+          "artist": "Childish Gambino",
+          "ms": 326933
+        },
+        {
+          "name": "Êxodo",
+          "artist": "Maneva",
+          "ms": 171075
+        },
+        {
+          "name": "Home",
+          "artist": "Three Days Grace",
+          "ms": 260680
+        },
+        {
+          "name": "Andei Só - Ao Vivo",
+          "artist": "Natiruts",
+          "ms": 263529
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Eminem",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Engenheiros Do Hawaii",
+          "genres": []
+        },
+        {
+          "name": "Muse",
+          "genres": []
+        },
+        {
+          "name": "Slipknot",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-10-29T01:10:27.167658+00:00",
       "now_playing": {
         "title": "Chosen",
         "artist": "Måneskin",
