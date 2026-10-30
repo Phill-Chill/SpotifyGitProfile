@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-10-24T10:15:13.703901+00:00",
-      "now_playing": {
-        "title": "Gold on the Ceiling - 2021 Remaster",
-        "artist": "The Black Keys",
-        "album": "El Camino (2021 Remaster)",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2731984ae05d586371351e056d7"
-      },
-      "top_tracks": [
-        {
-          "name": "Êxodo",
-          "artist": "Maneva",
-          "ms": 171075
-        },
-        {
-          "name": "Só Mais Uma Noite - Live",
-          "artist": "Criolo, Emicida, Evandro Fióti",
-          "ms": 188666
-        },
-        {
-          "name": "Redbone",
-          "artist": "Childish Gambino",
-          "ms": 326933
-        },
-        {
-          "name": "Dias De Luta, Dias De Gloria",
-          "artist": "Charlie Brown Jr.",
-          "ms": 145466
-        },
-        {
-          "name": "Andei Só - Ao Vivo",
-          "artist": "Natiruts",
-          "ms": 263529
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Engenheiros Do Hawaii",
-          "genres": []
-        },
-        {
-          "name": "Eminem",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Charlie Brown Jr.",
-          "genres": []
-        },
-        {
-          "name": "Muse",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-10-24T14:03:54.926558+00:00",
       "now_playing": {
         "title": "In One Ear",
@@ -1736,6 +1678,64 @@
         },
         {
           "name": "Slipknot",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-10-30T00:04:22.958602+00:00",
+      "now_playing": {
+        "title": "Stockholm Syndrome",
+        "artist": "Muse",
+        "album": "Absolution",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2734d4c8b5bcdf1114d19f2f546"
+      },
+      "top_tracks": [
+        {
+          "name": "Home",
+          "artist": "Three Days Grace",
+          "ms": 260680
+        },
+        {
+          "name": "In One Ear",
+          "artist": "Cage The Elephant",
+          "ms": 241320
+        },
+        {
+          "name": "Fluorescent Adolescent",
+          "artist": "Arctic Monkeys",
+          "ms": 173493
+        },
+        {
+          "name": "Redbone",
+          "artist": "Childish Gambino",
+          "ms": 326933
+        },
+        {
+          "name": "Vida Real - Ao Vivo",
+          "artist": "Engenheiros Do Hawaii",
+          "ms": 187946
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Eminem",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Muse",
+          "genres": []
+        },
+        {
+          "name": "Engenheiros Do Hawaii",
+          "genres": []
+        },
+        {
+          "name": "Red Hot Chili Peppers",
           "genres": []
         }
       ]
