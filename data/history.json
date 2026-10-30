@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-10-24T17:31:05.631765+00:00",
-      "now_playing": {
-        "title": "The Zephyr Song",
-        "artist": "Red Hot Chili Peppers",
-        "album": "By the Way (Deluxe Edition)",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273de1af2785a83cc660155a0c4"
-      },
-      "top_tracks": [
-        {
-          "name": "Êxodo",
-          "artist": "Maneva",
-          "ms": 171075
-        },
-        {
-          "name": "Só Mais Uma Noite - Live",
-          "artist": "Criolo, Emicida, Evandro Fióti",
-          "ms": 188666
-        },
-        {
-          "name": "Redbone",
-          "artist": "Childish Gambino",
-          "ms": 326933
-        },
-        {
-          "name": "Dias De Luta, Dias De Gloria",
-          "artist": "Charlie Brown Jr.",
-          "ms": 145466
-        },
-        {
-          "name": "Andei Só - Ao Vivo",
-          "artist": "Natiruts",
-          "ms": 263529
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Engenheiros Do Hawaii",
-          "genres": []
-        },
-        {
-          "name": "Eminem",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Charlie Brown Jr.",
-          "genres": []
-        },
-        {
-          "name": "Muse",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-10-24T20:10:39.102522+00:00",
       "now_playing": {
         "title": "Animal I Have Become",
@@ -1684,6 +1626,64 @@
     },
     {
       "timestamp": "2026-10-30T06:10:49.058788+00:00",
+      "now_playing": {
+        "title": "Fluorescent Adolescent",
+        "artist": "Arctic Monkeys",
+        "album": "Favourite Worst Nightmare",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273b1f8da74f225fa1225cdface"
+      },
+      "top_tracks": [
+        {
+          "name": "Fluorescent Adolescent",
+          "artist": "Arctic Monkeys",
+          "ms": 173493
+        },
+        {
+          "name": "Home",
+          "artist": "Three Days Grace",
+          "ms": 260680
+        },
+        {
+          "name": "In One Ear",
+          "artist": "Cage The Elephant",
+          "ms": 241320
+        },
+        {
+          "name": "Redbone",
+          "artist": "Childish Gambino",
+          "ms": 326933
+        },
+        {
+          "name": "Vida Real - Ao Vivo",
+          "artist": "Engenheiros Do Hawaii",
+          "ms": 187946
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Eminem",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Muse",
+          "genres": []
+        },
+        {
+          "name": "Engenheiros Do Hawaii",
+          "genres": []
+        },
+        {
+          "name": "Red Hot Chili Peppers",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-10-30T13:17:38.687011+00:00",
       "now_playing": {
         "title": "Fluorescent Adolescent",
         "artist": "Arctic Monkeys",
