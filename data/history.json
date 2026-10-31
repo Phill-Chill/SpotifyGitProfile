@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-10-25T05:39:18.445366+00:00",
-      "now_playing": {
-        "title": "Animal I Have Become",
-        "artist": "Three Days Grace",
-        "album": "One-X (20th Anniversary Edition)",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b27348d58ee28b0b548fbb43f0d8"
-      },
-      "top_tracks": [
-        {
-          "name": "Êxodo",
-          "artist": "Maneva",
-          "ms": 171075
-        },
-        {
-          "name": "Só Mais Uma Noite - Live",
-          "artist": "Criolo, Emicida, Evandro Fióti",
-          "ms": 188666
-        },
-        {
-          "name": "Redbone",
-          "artist": "Childish Gambino",
-          "ms": 326933
-        },
-        {
-          "name": "Dias De Luta, Dias De Gloria",
-          "artist": "Charlie Brown Jr.",
-          "ms": 145466
-        },
-        {
-          "name": "Andei Só - Ao Vivo",
-          "artist": "Natiruts",
-          "ms": 263529
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Engenheiros Do Hawaii",
-          "genres": []
-        },
-        {
-          "name": "Eminem",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Muse",
-          "genres": []
-        },
-        {
-          "name": "Charlie Brown Jr.",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-10-25T10:40:47.717916+00:00",
       "now_playing": {
         "title": "All These Things That I've Done",
@@ -1684,6 +1626,64 @@
     },
     {
       "timestamp": "2026-10-31T01:59:10.820773+00:00",
+      "now_playing": {
+        "title": "Fly Me To The Moon (In Other Words)",
+        "artist": "Frank Sinatra, Count Basie",
+        "album": "Sinatra/Basie: The Complete Reprise Studio Recordings",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273cb81eb3c1238c60f2bbfd3b5"
+      },
+      "top_tracks": [
+        {
+          "name": "Fluorescent Adolescent",
+          "artist": "Arctic Monkeys",
+          "ms": 173493
+        },
+        {
+          "name": "Home",
+          "artist": "Three Days Grace",
+          "ms": 260680
+        },
+        {
+          "name": "In One Ear",
+          "artist": "Cage The Elephant",
+          "ms": 241320
+        },
+        {
+          "name": "Vida Real - Ao Vivo",
+          "artist": "Engenheiros Do Hawaii",
+          "ms": 187946
+        },
+        {
+          "name": "Brianstorm",
+          "artist": "Arctic Monkeys",
+          "ms": 170253
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Muse",
+          "genres": []
+        },
+        {
+          "name": "Eminem",
+          "genres": []
+        },
+        {
+          "name": "Engenheiros Do Hawaii",
+          "genres": []
+        },
+        {
+          "name": "Red Hot Chili Peppers",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-10-31T08:18:15.990393+00:00",
       "now_playing": {
         "title": "Fly Me To The Moon (In Other Words)",
         "artist": "Frank Sinatra, Count Basie",
