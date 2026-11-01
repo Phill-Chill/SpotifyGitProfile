@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-10-26T01:28:22.655473+00:00",
-      "now_playing": {
-        "title": "All These Things That I've Done",
-        "artist": "The Killers",
-        "album": "Hot Fuss",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d"
-      },
-      "top_tracks": [
-        {
-          "name": "Êxodo",
-          "artist": "Maneva",
-          "ms": 171075
-        },
-        {
-          "name": "Só Mais Uma Noite - Live",
-          "artist": "Criolo, Emicida, Evandro Fióti",
-          "ms": 188666
-        },
-        {
-          "name": "Redbone",
-          "artist": "Childish Gambino",
-          "ms": 326933
-        },
-        {
-          "name": "Dias De Luta, Dias De Gloria",
-          "artist": "Charlie Brown Jr.",
-          "ms": 145466
-        },
-        {
-          "name": "Andei Só - Ao Vivo",
-          "artist": "Natiruts",
-          "ms": 263529
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Engenheiros Do Hawaii",
-          "genres": []
-        },
-        {
-          "name": "Eminem",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Muse",
-          "genres": []
-        },
-        {
-          "name": "Charlie Brown Jr.",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-10-26T06:49:01.084499+00:00",
       "now_playing": {
         "title": "All These Things That I've Done",
@@ -1689,6 +1631,64 @@
         "artist": "Red Hot Chili Peppers",
         "album": "The Getaway",
         "image_url": "https://i.scdn.co/image/ab67616d0000b27358406b3f1ac3ceaff7a64fef"
+      },
+      "top_tracks": [
+        {
+          "name": "Fluorescent Adolescent",
+          "artist": "Arctic Monkeys",
+          "ms": 173493
+        },
+        {
+          "name": "Home",
+          "artist": "Three Days Grace",
+          "ms": 260680
+        },
+        {
+          "name": "In One Ear",
+          "artist": "Cage The Elephant",
+          "ms": 241320
+        },
+        {
+          "name": "Vida Real - Ao Vivo",
+          "artist": "Engenheiros Do Hawaii",
+          "ms": 187946
+        },
+        {
+          "name": "Brianstorm",
+          "artist": "Arctic Monkeys",
+          "ms": 170253
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Muse",
+          "genres": []
+        },
+        {
+          "name": "Eminem",
+          "genres": []
+        },
+        {
+          "name": "Red Hot Chili Peppers",
+          "genres": []
+        },
+        {
+          "name": "Arctic Monkeys",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-11-01T15:43:36.694240+00:00",
+      "now_playing": {
+        "title": "Reptilia",
+        "artist": "The Strokes",
+        "album": "Room On Fire",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2730f35726025e0f025da4c688f"
       },
       "top_tracks": [
         {
