@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-10-27T03:38:20.668111+00:00",
-      "now_playing": {
-        "title": "Little Black Submarines - 2021 Remaster",
-        "artist": "The Black Keys",
-        "album": "El Camino (2021 Remaster)",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2731984ae05d586371351e056d7"
-      },
-      "top_tracks": [
-        {
-          "name": "Só Mais Uma Noite - Live",
-          "artist": "Criolo, Emicida, Evandro Fióti",
-          "ms": 188666
-        },
-        {
-          "name": "Redbone",
-          "artist": "Childish Gambino",
-          "ms": 326933
-        },
-        {
-          "name": "Êxodo",
-          "artist": "Maneva",
-          "ms": 171075
-        },
-        {
-          "name": "Andei Só - Ao Vivo",
-          "artist": "Natiruts",
-          "ms": 263529
-        },
-        {
-          "name": "Home",
-          "artist": "Three Days Grace",
-          "ms": 260680
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Eminem",
-          "genres": []
-        },
-        {
-          "name": "Engenheiros Do Hawaii",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Muse",
-          "genres": []
-        },
-        {
-          "name": "Slipknot",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-10-27T09:34:25.222854+00:00",
       "now_playing": {
         "title": "Chosen",
@@ -1732,6 +1674,64 @@
         },
         {
           "name": "Arctic Monkeys",
+          "genres": []
+        },
+        {
+          "name": "Eminem",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-11-02T22:06:25.484853+00:00",
+      "now_playing": {
+        "title": "Seu Amor Ainda é Tudo - Ao Vivo",
+        "artist": "Bruno & Marrone",
+        "album": "Acústico - Ao Vivo",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2739ce10bf887848831c83ec215"
+      },
+      "top_tracks": [
+        {
+          "name": "Fluorescent Adolescent",
+          "artist": "Arctic Monkeys",
+          "ms": 173493
+        },
+        {
+          "name": "Home",
+          "artist": "Three Days Grace",
+          "ms": 260680
+        },
+        {
+          "name": "In One Ear",
+          "artist": "Cage The Elephant",
+          "ms": 241320
+        },
+        {
+          "name": "Vida Real - Ao Vivo",
+          "artist": "Engenheiros Do Hawaii",
+          "ms": 187946
+        },
+        {
+          "name": "Brianstorm",
+          "artist": "Arctic Monkeys",
+          "ms": 170253
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Muse",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Arctic Monkeys",
+          "genres": []
+        },
+        {
+          "name": "Red Hot Chili Peppers",
           "genres": []
         },
         {
