@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-10-28T10:19:48.748605+00:00",
-      "now_playing": {
-        "title": "Chosen",
-        "artist": "Måneskin",
-        "album": "Chosen",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045"
-      },
-      "top_tracks": [
-        {
-          "name": "Só Mais Uma Noite - Live",
-          "artist": "Criolo, Emicida, Evandro Fióti",
-          "ms": 188666
-        },
-        {
-          "name": "Redbone",
-          "artist": "Childish Gambino",
-          "ms": 326933
-        },
-        {
-          "name": "Êxodo",
-          "artist": "Maneva",
-          "ms": 171075
-        },
-        {
-          "name": "Home",
-          "artist": "Three Days Grace",
-          "ms": 260680
-        },
-        {
-          "name": "Andei Só - Ao Vivo",
-          "artist": "Natiruts",
-          "ms": 263529
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Eminem",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Engenheiros Do Hawaii",
-          "genres": []
-        },
-        {
-          "name": "Muse",
-          "genres": []
-        },
-        {
-          "name": "Slipknot",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-10-28T16:45:00.101753+00:00",
       "now_playing": {
         "title": "Chosen",
@@ -1689,6 +1631,64 @@
         "artist": "César Menotti & Fabiano",
         "album": "Palavras De Amor",
         "image_url": "https://i.scdn.co/image/ab67616d0000b273b770ae5252c4b7a60e93804b"
+      },
+      "top_tracks": [
+        {
+          "name": "Fluorescent Adolescent",
+          "artist": "Arctic Monkeys",
+          "ms": 173493
+        },
+        {
+          "name": "Home",
+          "artist": "Three Days Grace",
+          "ms": 260680
+        },
+        {
+          "name": "In One Ear",
+          "artist": "Cage The Elephant",
+          "ms": 241320
+        },
+        {
+          "name": "Vida Real - Ao Vivo",
+          "artist": "Engenheiros Do Hawaii",
+          "ms": 187946
+        },
+        {
+          "name": "Brianstorm",
+          "artist": "Arctic Monkeys",
+          "ms": 170253
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Muse",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Arctic Monkeys",
+          "genres": []
+        },
+        {
+          "name": "Red Hot Chili Peppers",
+          "genres": []
+        },
+        {
+          "name": "Eminem",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-11-04T13:10:08.056643+00:00",
+      "now_playing": {
+        "title": "Hexagons",
+        "artist": "Muse",
+        "album": "The Wow! Signal",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273b295bd39e098e7b68d57aacf"
       },
       "top_tracks": [
         {
