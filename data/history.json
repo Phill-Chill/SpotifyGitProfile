@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-10-28T21:29:33.884493+00:00",
-      "now_playing": {
-        "title": "Chosen",
-        "artist": "Måneskin",
-        "album": "Chosen",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045"
-      },
-      "top_tracks": [
-        {
-          "name": "Só Mais Uma Noite - Live",
-          "artist": "Criolo, Emicida, Evandro Fióti",
-          "ms": 188666
-        },
-        {
-          "name": "Redbone",
-          "artist": "Childish Gambino",
-          "ms": 326933
-        },
-        {
-          "name": "Êxodo",
-          "artist": "Maneva",
-          "ms": 171075
-        },
-        {
-          "name": "Home",
-          "artist": "Three Days Grace",
-          "ms": 260680
-        },
-        {
-          "name": "Andei Só - Ao Vivo",
-          "artist": "Natiruts",
-          "ms": 263529
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Eminem",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Engenheiros Do Hawaii",
-          "genres": []
-        },
-        {
-          "name": "Muse",
-          "genres": []
-        },
-        {
-          "name": "Slipknot",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-10-29T01:10:27.167658+00:00",
       "now_playing": {
         "title": "Chosen",
@@ -1689,6 +1631,64 @@
         "artist": "Matheus & Kauan",
         "album": "Na Praia 2 (Ao Vivo)",
         "image_url": "https://i.scdn.co/image/ab67616d0000b273b3dc19f5718350a3f81f0afa"
+      },
+      "top_tracks": [
+        {
+          "name": "Fluorescent Adolescent",
+          "artist": "Arctic Monkeys",
+          "ms": 173493
+        },
+        {
+          "name": "Home",
+          "artist": "Three Days Grace",
+          "ms": 260680
+        },
+        {
+          "name": "In One Ear",
+          "artist": "Cage The Elephant",
+          "ms": 241320
+        },
+        {
+          "name": "Little Monster",
+          "artist": "Royal Blood",
+          "ms": 212309
+        },
+        {
+          "name": "Mardy Bum",
+          "artist": "Arctic Monkeys",
+          "ms": 175440
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Muse",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Arctic Monkeys",
+          "genres": []
+        },
+        {
+          "name": "Red Hot Chili Peppers",
+          "genres": []
+        },
+        {
+          "name": "Eminem",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-11-05T07:50:54.816646+00:00",
+      "now_playing": {
+        "title": "Amigo Apaixonado (Ao Vivo)",
+        "artist": "Victor & Leo",
+        "album": "Victor & Leo (Ao Vivo)",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273ebfdf8350a9dab324bc8c05a"
       },
       "top_tracks": [
         {
