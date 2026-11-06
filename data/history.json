@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-10-29T20:02:44.261815+00:00",
-      "now_playing": {
-        "title": "Chosen",
-        "artist": "Måneskin",
-        "album": "Chosen",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045"
-      },
-      "top_tracks": [
-        {
-          "name": "Só Mais Uma Noite - Live",
-          "artist": "Criolo, Emicida, Evandro Fióti",
-          "ms": 188666
-        },
-        {
-          "name": "Redbone",
-          "artist": "Childish Gambino",
-          "ms": 326933
-        },
-        {
-          "name": "Êxodo",
-          "artist": "Maneva",
-          "ms": 171075
-        },
-        {
-          "name": "Home",
-          "artist": "Three Days Grace",
-          "ms": 260680
-        },
-        {
-          "name": "Andei Só - Ao Vivo",
-          "artist": "Natiruts",
-          "ms": 263529
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Eminem",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Engenheiros Do Hawaii",
-          "genres": []
-        },
-        {
-          "name": "Muse",
-          "genres": []
-        },
-        {
-          "name": "Slipknot",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-10-30T00:04:22.958602+00:00",
       "now_playing": {
         "title": "Stockholm Syndrome",
@@ -1684,6 +1626,64 @@
     },
     {
       "timestamp": "2026-11-06T02:42:11.210435+00:00",
+      "now_playing": {
+        "title": "Pressure",
+        "artist": "Muse",
+        "album": "Simulation Theory (Super Deluxe)",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2734cb163c1d111f77307c842b6"
+      },
+      "top_tracks": [
+        {
+          "name": "Fluorescent Adolescent",
+          "artist": "Arctic Monkeys",
+          "ms": 173493
+        },
+        {
+          "name": "Home",
+          "artist": "Three Days Grace",
+          "ms": 260680
+        },
+        {
+          "name": "In One Ear",
+          "artist": "Cage The Elephant",
+          "ms": 241320
+        },
+        {
+          "name": "Little Monster",
+          "artist": "Royal Blood",
+          "ms": 212309
+        },
+        {
+          "name": "Mardy Bum",
+          "artist": "Arctic Monkeys",
+          "ms": 175440
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Muse",
+          "genres": []
+        },
+        {
+          "name": "Arctic Monkeys",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Red Hot Chili Peppers",
+          "genres": []
+        },
+        {
+          "name": "Eminem",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-11-06T10:21:39.149310+00:00",
       "now_playing": {
         "title": "Pressure",
         "artist": "Muse",
