@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-10-30T00:04:22.958602+00:00",
-      "now_playing": {
-        "title": "Stockholm Syndrome",
-        "artist": "Muse",
-        "album": "Absolution",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2734d4c8b5bcdf1114d19f2f546"
-      },
-      "top_tracks": [
-        {
-          "name": "Home",
-          "artist": "Three Days Grace",
-          "ms": 260680
-        },
-        {
-          "name": "In One Ear",
-          "artist": "Cage The Elephant",
-          "ms": 241320
-        },
-        {
-          "name": "Fluorescent Adolescent",
-          "artist": "Arctic Monkeys",
-          "ms": 173493
-        },
-        {
-          "name": "Redbone",
-          "artist": "Childish Gambino",
-          "ms": 326933
-        },
-        {
-          "name": "Vida Real - Ao Vivo",
-          "artist": "Engenheiros Do Hawaii",
-          "ms": 187946
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Eminem",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Muse",
-          "genres": []
-        },
-        {
-          "name": "Engenheiros Do Hawaii",
-          "genres": []
-        },
-        {
-          "name": "Red Hot Chili Peppers",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-10-30T06:10:49.058788+00:00",
       "now_playing": {
         "title": "Fluorescent Adolescent",
@@ -1705,6 +1647,64 @@
           "name": "In One Ear",
           "artist": "Cage The Elephant",
           "ms": 241320
+        },
+        {
+          "name": "Little Monster",
+          "artist": "Royal Blood",
+          "ms": 212309
+        },
+        {
+          "name": "Mardy Bum",
+          "artist": "Arctic Monkeys",
+          "ms": 175440
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Muse",
+          "genres": []
+        },
+        {
+          "name": "Arctic Monkeys",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Red Hot Chili Peppers",
+          "genres": []
+        },
+        {
+          "name": "Eminem",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-11-06T17:37:32.351363+00:00",
+      "now_playing": {
+        "title": "In One Ear",
+        "artist": "Cage The Elephant",
+        "album": "Cage The Elephant",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273ce6b979ca98da4c27157dc17"
+      },
+      "top_tracks": [
+        {
+          "name": "In One Ear",
+          "artist": "Cage The Elephant",
+          "ms": 241320
+        },
+        {
+          "name": "Fluorescent Adolescent",
+          "artist": "Arctic Monkeys",
+          "ms": 173493
+        },
+        {
+          "name": "Home",
+          "artist": "Three Days Grace",
+          "ms": 260680
         },
         {
           "name": "Little Monster",
