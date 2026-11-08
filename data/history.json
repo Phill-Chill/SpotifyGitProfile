@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-11-01T01:49:30.019832+00:00",
-      "now_playing": {
-        "title": "Dark Necessities",
-        "artist": "Red Hot Chili Peppers",
-        "album": "The Getaway",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b27358406b3f1ac3ceaff7a64fef"
-      },
-      "top_tracks": [
-        {
-          "name": "Fluorescent Adolescent",
-          "artist": "Arctic Monkeys",
-          "ms": 173493
-        },
-        {
-          "name": "Home",
-          "artist": "Three Days Grace",
-          "ms": 260680
-        },
-        {
-          "name": "In One Ear",
-          "artist": "Cage The Elephant",
-          "ms": 241320
-        },
-        {
-          "name": "Vida Real - Ao Vivo",
-          "artist": "Engenheiros Do Hawaii",
-          "ms": 187946
-        },
-        {
-          "name": "Brianstorm",
-          "artist": "Arctic Monkeys",
-          "ms": 170253
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Muse",
-          "genres": []
-        },
-        {
-          "name": "Eminem",
-          "genres": []
-        },
-        {
-          "name": "Red Hot Chili Peppers",
-          "genres": []
-        },
-        {
-          "name": "Arctic Monkeys",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-11-01T08:40:01.347456+00:00",
       "now_playing": {
         "title": "Dark Necessities",
@@ -1736,6 +1678,64 @@
         },
         {
           "name": "Slipknot",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-11-08T21:17:14.066754+00:00",
+      "now_playing": {
+        "title": "One More Night",
+        "artist": "Maroon 5",
+        "album": "Overexposed Track By Track",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273fc8633e22a7dba6aab817bff"
+      },
+      "top_tracks": [
+        {
+          "name": "In One Ear",
+          "artist": "Cage The Elephant",
+          "ms": 241320
+        },
+        {
+          "name": "Home",
+          "artist": "Three Days Grace",
+          "ms": 260680
+        },
+        {
+          "name": "Fluorescent Adolescent",
+          "artist": "Arctic Monkeys",
+          "ms": 173493
+        },
+        {
+          "name": "From Can to Can't",
+          "artist": "Corey Taylor, Dave Grohl, Rick Nielsen, Scott Reeder",
+          "ms": 290280
+        },
+        {
+          "name": "Little Monster",
+          "artist": "Royal Blood",
+          "ms": 212309
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Muse",
+          "genres": []
+        },
+        {
+          "name": "Arctic Monkeys",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Red Hot Chili Peppers",
+          "genres": []
+        },
+        {
+          "name": "Royal Blood",
           "genres": []
         }
       ]
