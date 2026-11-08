@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-10-31T14:38:58.549249+00:00",
-      "now_playing": {
-        "title": "Home",
-        "artist": "Three Days Grace",
-        "album": "Three Days Grace",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2735d4bd2c345c95e847b586403"
-      },
-      "top_tracks": [
-        {
-          "name": "Fluorescent Adolescent",
-          "artist": "Arctic Monkeys",
-          "ms": 173493
-        },
-        {
-          "name": "Home",
-          "artist": "Three Days Grace",
-          "ms": 260680
-        },
-        {
-          "name": "In One Ear",
-          "artist": "Cage The Elephant",
-          "ms": 241320
-        },
-        {
-          "name": "Vida Real - Ao Vivo",
-          "artist": "Engenheiros Do Hawaii",
-          "ms": 187946
-        },
-        {
-          "name": "Brianstorm",
-          "artist": "Arctic Monkeys",
-          "ms": 170253
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Muse",
-          "genres": []
-        },
-        {
-          "name": "Eminem",
-          "genres": []
-        },
-        {
-          "name": "Engenheiros Do Hawaii",
-          "genres": []
-        },
-        {
-          "name": "Red Hot Chili Peppers",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-10-31T19:04:18.340371+00:00",
       "now_playing": {
         "title": "Pressure",
@@ -1689,6 +1631,64 @@
         "artist": "Royal Blood",
         "album": "Dead Company",
         "image_url": "https://i.scdn.co/image/ab67616d0000b273c1e4c21e27fa56151b328c82"
+      },
+      "top_tracks": [
+        {
+          "name": "In One Ear",
+          "artist": "Cage The Elephant",
+          "ms": 241320
+        },
+        {
+          "name": "Fluorescent Adolescent",
+          "artist": "Arctic Monkeys",
+          "ms": 173493
+        },
+        {
+          "name": "Home",
+          "artist": "Three Days Grace",
+          "ms": 260680
+        },
+        {
+          "name": "Little Monster",
+          "artist": "Royal Blood",
+          "ms": 212309
+        },
+        {
+          "name": "Mardy Bum",
+          "artist": "Arctic Monkeys",
+          "ms": 175440
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Muse",
+          "genres": []
+        },
+        {
+          "name": "Arctic Monkeys",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Red Hot Chili Peppers",
+          "genres": []
+        },
+        {
+          "name": "Slipknot",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-11-08T04:21:25.812319+00:00",
+      "now_playing": {
+        "title": "Edge of a Knife",
+        "artist": "Saliva, Judge & Jury",
+        "album": "Breaking Through",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2732eaf314992bb078844c64fd1"
       },
       "top_tracks": [
         {
