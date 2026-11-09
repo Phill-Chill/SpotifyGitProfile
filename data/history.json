@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-11-01T15:43:36.694240+00:00",
-      "now_playing": {
-        "title": "Reptilia",
-        "artist": "The Strokes",
-        "album": "Room On Fire",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2730f35726025e0f025da4c688f"
-      },
-      "top_tracks": [
-        {
-          "name": "Fluorescent Adolescent",
-          "artist": "Arctic Monkeys",
-          "ms": 173493
-        },
-        {
-          "name": "Home",
-          "artist": "Three Days Grace",
-          "ms": 260680
-        },
-        {
-          "name": "In One Ear",
-          "artist": "Cage The Elephant",
-          "ms": 241320
-        },
-        {
-          "name": "Vida Real - Ao Vivo",
-          "artist": "Engenheiros Do Hawaii",
-          "ms": 187946
-        },
-        {
-          "name": "Brianstorm",
-          "artist": "Arctic Monkeys",
-          "ms": 170253
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Muse",
-          "genres": []
-        },
-        {
-          "name": "Eminem",
-          "genres": []
-        },
-        {
-          "name": "Red Hot Chili Peppers",
-          "genres": []
-        },
-        {
-          "name": "Arctic Monkeys",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-11-01T20:07:50.912059+00:00",
       "now_playing": {
         "title": "Psycho",
@@ -1689,6 +1631,64 @@
         "artist": "Passenger, Ed Sheeran",
         "album": "All The Little Lights (Anniversary Edition)",
         "image_url": "https://i.scdn.co/image/ab67616d0000b273ac496a4720f6836c8818b4db"
+      },
+      "top_tracks": [
+        {
+          "name": "In One Ear",
+          "artist": "Cage The Elephant",
+          "ms": 241320
+        },
+        {
+          "name": "Home",
+          "artist": "Three Days Grace",
+          "ms": 260680
+        },
+        {
+          "name": "Fluorescent Adolescent",
+          "artist": "Arctic Monkeys",
+          "ms": 173493
+        },
+        {
+          "name": "From Can to Can't",
+          "artist": "Corey Taylor, Dave Grohl, Rick Nielsen, Scott Reeder",
+          "ms": 290280
+        },
+        {
+          "name": "Little Monster",
+          "artist": "Royal Blood",
+          "ms": 212309
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Muse",
+          "genres": []
+        },
+        {
+          "name": "Arctic Monkeys",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Red Hot Chili Peppers",
+          "genres": []
+        },
+        {
+          "name": "Royal Blood",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-11-09T08:22:58.537052+00:00",
+      "now_playing": {
+        "title": "Grenade",
+        "artist": "Bruno Mars",
+        "album": "Doo-Wops & Hooligans",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2738a9eb5a1f701d1d367a5ea10"
       },
       "top_tracks": [
         {
