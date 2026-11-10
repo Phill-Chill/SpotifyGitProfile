@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-11-02T12:44:39.855315+00:00",
-      "now_playing": {
-        "title": "Psycho",
-        "artist": "Muse",
-        "album": "Drones",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273808846f0223d97d5963c420d"
-      },
-      "top_tracks": [
-        {
-          "name": "Fluorescent Adolescent",
-          "artist": "Arctic Monkeys",
-          "ms": 173493
-        },
-        {
-          "name": "Home",
-          "artist": "Three Days Grace",
-          "ms": 260680
-        },
-        {
-          "name": "In One Ear",
-          "artist": "Cage The Elephant",
-          "ms": 241320
-        },
-        {
-          "name": "Vida Real - Ao Vivo",
-          "artist": "Engenheiros Do Hawaii",
-          "ms": 187946
-        },
-        {
-          "name": "Brianstorm",
-          "artist": "Arctic Monkeys",
-          "ms": 170253
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Muse",
-          "genres": []
-        },
-        {
-          "name": "Red Hot Chili Peppers",
-          "genres": []
-        },
-        {
-          "name": "Arctic Monkeys",
-          "genres": []
-        },
-        {
-          "name": "Eminem",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-11-02T22:06:25.484853+00:00",
       "now_playing": {
         "title": "Seu Amor Ainda é Tudo - Ao Vivo",
@@ -1715,6 +1657,64 @@
           "name": "From Can to Can't",
           "artist": "Corey Taylor, Dave Grohl, Rick Nielsen, Scott Reeder",
           "ms": 290280
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Muse",
+          "genres": []
+        },
+        {
+          "name": "Arctic Monkeys",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Red Hot Chili Peppers",
+          "genres": []
+        },
+        {
+          "name": "Royal Blood",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-11-10T17:13:56.089900+00:00",
+      "now_playing": {
+        "title": "I Don't Miss You at All",
+        "artist": "FINNEAS",
+        "album": "Blood Harmony",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273500f0405c1d3feb14d62849c"
+      },
+      "top_tracks": [
+        {
+          "name": "In One Ear",
+          "artist": "Cage The Elephant",
+          "ms": 241320
+        },
+        {
+          "name": "Home",
+          "artist": "Three Days Grace",
+          "ms": 260680
+        },
+        {
+          "name": "Fluorescent Adolescent",
+          "artist": "Arctic Monkeys",
+          "ms": 173493
+        },
+        {
+          "name": "From Can to Can't",
+          "artist": "Corey Taylor, Dave Grohl, Rick Nielsen, Scott Reeder",
+          "ms": 290280
+        },
+        {
+          "name": "Little Monster",
+          "artist": "Royal Blood",
+          "ms": 212309
         }
       ],
       "top_artists": [
