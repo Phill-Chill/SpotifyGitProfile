@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-11-03T03:34:02.976352+00:00",
-      "now_playing": {
-        "title": "Flor E O Beija-Flor - Ao Vivo",
-        "artist": "Henrique & Juliano, Marília Mendonça",
-        "album": "Novas Histórias (Ao Vivo)",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2736f77a385515006e6af3558cd"
-      },
-      "top_tracks": [
-        {
-          "name": "Fluorescent Adolescent",
-          "artist": "Arctic Monkeys",
-          "ms": 173493
-        },
-        {
-          "name": "Home",
-          "artist": "Three Days Grace",
-          "ms": 260680
-        },
-        {
-          "name": "In One Ear",
-          "artist": "Cage The Elephant",
-          "ms": 241320
-        },
-        {
-          "name": "Vida Real - Ao Vivo",
-          "artist": "Engenheiros Do Hawaii",
-          "ms": 187946
-        },
-        {
-          "name": "Brianstorm",
-          "artist": "Arctic Monkeys",
-          "ms": 170253
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Muse",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Arctic Monkeys",
-          "genres": []
-        },
-        {
-          "name": "Red Hot Chili Peppers",
-          "genres": []
-        },
-        {
-          "name": "Eminem",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-11-03T11:35:44.910183+00:00",
       "now_playing": {
         "title": "Flor E O Beija-Flor - Ao Vivo",
@@ -1689,6 +1631,64 @@
         "artist": "Matheus & Kauan",
         "album": "Face A Face (Live)",
         "image_url": "https://i.scdn.co/image/ab67616d0000b273c08f5933fbe44282925bc9e0"
+      },
+      "top_tracks": [
+        {
+          "name": "In One Ear",
+          "artist": "Cage The Elephant",
+          "ms": 241320
+        },
+        {
+          "name": "From Can to Can't",
+          "artist": "Corey Taylor, Dave Grohl, Rick Nielsen, Scott Reeder",
+          "ms": 290280
+        },
+        {
+          "name": "Fluorescent Adolescent",
+          "artist": "Arctic Monkeys",
+          "ms": 173493
+        },
+        {
+          "name": "I Don't Miss You at All",
+          "artist": "FINNEAS",
+          "ms": 128916
+        },
+        {
+          "name": "Little Monster",
+          "artist": "Royal Blood",
+          "ms": 212309
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Muse",
+          "genres": []
+        },
+        {
+          "name": "Arctic Monkeys",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Red Hot Chili Peppers",
+          "genres": []
+        },
+        {
+          "name": "Royal Blood",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-11-11T02:06:35.652757+00:00",
+      "now_playing": {
+        "title": "Nova York / O Que Tiver Que Vir Virá - Live",
+        "artist": "César Menotti & Fabiano",
+        "album": "Palavras De Amor",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273b770ae5252c4b7a60e93804b"
       },
       "top_tracks": [
         {
