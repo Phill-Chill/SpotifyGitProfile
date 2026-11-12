@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-11-04T13:10:08.056643+00:00",
-      "now_playing": {
-        "title": "Hexagons",
-        "artist": "Muse",
-        "album": "The Wow! Signal",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273b295bd39e098e7b68d57aacf"
-      },
-      "top_tracks": [
-        {
-          "name": "Fluorescent Adolescent",
-          "artist": "Arctic Monkeys",
-          "ms": 173493
-        },
-        {
-          "name": "Home",
-          "artist": "Three Days Grace",
-          "ms": 260680
-        },
-        {
-          "name": "In One Ear",
-          "artist": "Cage The Elephant",
-          "ms": 241320
-        },
-        {
-          "name": "Vida Real - Ao Vivo",
-          "artist": "Engenheiros Do Hawaii",
-          "ms": 187946
-        },
-        {
-          "name": "Brianstorm",
-          "artist": "Arctic Monkeys",
-          "ms": 170253
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Muse",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Arctic Monkeys",
-          "genres": []
-        },
-        {
-          "name": "Red Hot Chili Peppers",
-          "genres": []
-        },
-        {
-          "name": "Eminem",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-11-05T01:00:05.807814+00:00",
       "now_playing": {
         "title": "Te Assumi Pro Brasil - Ao Vivo",
@@ -1736,6 +1678,64 @@
         },
         {
           "name": "Royal Blood",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-11-12T16:09:21.715627+00:00",
+      "now_playing": {
+        "title": "Back Against The Wall",
+        "artist": "Cage The Elephant",
+        "album": "Cage The Elephant",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273ce6b979ca98da4c27157dc17"
+      },
+      "top_tracks": [
+        {
+          "name": "In One Ear",
+          "artist": "Cage The Elephant",
+          "ms": 241320
+        },
+        {
+          "name": "From Can to Can't",
+          "artist": "Corey Taylor, Dave Grohl, Rick Nielsen, Scott Reeder",
+          "ms": 290280
+        },
+        {
+          "name": "My Medicine - Single Version",
+          "artist": "The Pretty Reckless",
+          "ms": 193986
+        },
+        {
+          "name": "I Don't Miss You at All",
+          "artist": "FINNEAS",
+          "ms": 128916
+        },
+        {
+          "name": "Fluorescent Adolescent",
+          "artist": "Arctic Monkeys",
+          "ms": 173493
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Muse",
+          "genres": []
+        },
+        {
+          "name": "Arctic Monkeys",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Royal Blood",
+          "genres": []
+        },
+        {
+          "name": "Red Hot Chili Peppers",
           "genres": []
         }
       ]
