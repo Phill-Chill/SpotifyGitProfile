@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-11-05T01:00:05.807814+00:00",
-      "now_playing": {
-        "title": "Te Assumi Pro Brasil - Ao Vivo",
-        "artist": "Matheus & Kauan",
-        "album": "Na Praia 2 (Ao Vivo)",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273b3dc19f5718350a3f81f0afa"
-      },
-      "top_tracks": [
-        {
-          "name": "Fluorescent Adolescent",
-          "artist": "Arctic Monkeys",
-          "ms": 173493
-        },
-        {
-          "name": "Home",
-          "artist": "Three Days Grace",
-          "ms": 260680
-        },
-        {
-          "name": "In One Ear",
-          "artist": "Cage The Elephant",
-          "ms": 241320
-        },
-        {
-          "name": "Little Monster",
-          "artist": "Royal Blood",
-          "ms": 212309
-        },
-        {
-          "name": "Mardy Bum",
-          "artist": "Arctic Monkeys",
-          "ms": 175440
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Muse",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Arctic Monkeys",
-          "genres": []
-        },
-        {
-          "name": "Red Hot Chili Peppers",
-          "genres": []
-        },
-        {
-          "name": "Eminem",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-11-05T07:50:54.816646+00:00",
       "now_playing": {
         "title": "Amigo Apaixonado (Ao Vivo)",
@@ -1715,6 +1657,64 @@
           "name": "Fluorescent Adolescent",
           "artist": "Arctic Monkeys",
           "ms": 173493
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Muse",
+          "genres": []
+        },
+        {
+          "name": "Arctic Monkeys",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Royal Blood",
+          "genres": []
+        },
+        {
+          "name": "Red Hot Chili Peppers",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-11-12T22:22:02.237616+00:00",
+      "now_playing": {
+        "title": "Uprising",
+        "artist": "Muse",
+        "album": "The Resistance",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273b6d4566db0d12894a1a3b7a2"
+      },
+      "top_tracks": [
+        {
+          "name": "In One Ear",
+          "artist": "Cage The Elephant",
+          "ms": 241320
+        },
+        {
+          "name": "From Can to Can't",
+          "artist": "Corey Taylor, Dave Grohl, Rick Nielsen, Scott Reeder",
+          "ms": 290280
+        },
+        {
+          "name": "Fluorescent Adolescent",
+          "artist": "Arctic Monkeys",
+          "ms": 173493
+        },
+        {
+          "name": "I Don't Miss You at All",
+          "artist": "FINNEAS",
+          "ms": 128916
+        },
+        {
+          "name": "My Medicine - Single Version",
+          "artist": "The Pretty Reckless",
+          "ms": 193986
         }
       ],
       "top_artists": [
