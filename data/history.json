@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-11-03T23:56:27.153748+00:00",
-      "now_playing": {
-        "title": "Se Eu Chorar - Live In Sao Paulo / 2010",
-        "artist": "Jorge & Mateus",
-        "album": "Aí Já Era...",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2733ac295b6002fe88e8ef4e7ce"
-      },
-      "top_tracks": [
-        {
-          "name": "Fluorescent Adolescent",
-          "artist": "Arctic Monkeys",
-          "ms": 173493
-        },
-        {
-          "name": "Home",
-          "artist": "Three Days Grace",
-          "ms": 260680
-        },
-        {
-          "name": "In One Ear",
-          "artist": "Cage The Elephant",
-          "ms": 241320
-        },
-        {
-          "name": "Vida Real - Ao Vivo",
-          "artist": "Engenheiros Do Hawaii",
-          "ms": 187946
-        },
-        {
-          "name": "Brianstorm",
-          "artist": "Arctic Monkeys",
-          "ms": 170253
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Muse",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Arctic Monkeys",
-          "genres": []
-        },
-        {
-          "name": "Red Hot Chili Peppers",
-          "genres": []
-        },
-        {
-          "name": "Eminem",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-11-04T05:06:00.911934+00:00",
       "now_playing": {
         "title": "Nova York / O Que Tiver Que Vir Virá - Live",
@@ -1689,6 +1631,64 @@
         "artist": "Dave Weckl, Eric Marienthal",
         "album": "Master Plan",
         "image_url": "https://i.scdn.co/image/ab67616d0000b273fec1049f611fb8ad450f12d1"
+      },
+      "top_tracks": [
+        {
+          "name": "In One Ear",
+          "artist": "Cage The Elephant",
+          "ms": 241320
+        },
+        {
+          "name": "From Can to Can't",
+          "artist": "Corey Taylor, Dave Grohl, Rick Nielsen, Scott Reeder",
+          "ms": 290280
+        },
+        {
+          "name": "I Don't Miss You at All",
+          "artist": "FINNEAS",
+          "ms": 128916
+        },
+        {
+          "name": "Fluorescent Adolescent",
+          "artist": "Arctic Monkeys",
+          "ms": 173493
+        },
+        {
+          "name": "My Medicine - Single Version",
+          "artist": "The Pretty Reckless",
+          "ms": 193986
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Muse",
+          "genres": []
+        },
+        {
+          "name": "Arctic Monkeys",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Red Hot Chili Peppers",
+          "genres": []
+        },
+        {
+          "name": "Royal Blood",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-11-12T00:00:22.435643+00:00",
+      "now_playing": {
+        "title": "Call Me",
+        "artist": "Blondie",
+        "album": "Best Of Blondie",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2738cf86a9be38868f1d73cdb58"
       },
       "top_tracks": [
         {
