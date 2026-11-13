@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-11-06T02:42:11.210435+00:00",
-      "now_playing": {
-        "title": "Pressure",
-        "artist": "Muse",
-        "album": "Simulation Theory (Super Deluxe)",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2734cb163c1d111f77307c842b6"
-      },
-      "top_tracks": [
-        {
-          "name": "Fluorescent Adolescent",
-          "artist": "Arctic Monkeys",
-          "ms": 173493
-        },
-        {
-          "name": "Home",
-          "artist": "Three Days Grace",
-          "ms": 260680
-        },
-        {
-          "name": "In One Ear",
-          "artist": "Cage The Elephant",
-          "ms": 241320
-        },
-        {
-          "name": "Little Monster",
-          "artist": "Royal Blood",
-          "ms": 212309
-        },
-        {
-          "name": "Mardy Bum",
-          "artist": "Arctic Monkeys",
-          "ms": 175440
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Muse",
-          "genres": []
-        },
-        {
-          "name": "Arctic Monkeys",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Red Hot Chili Peppers",
-          "genres": []
-        },
-        {
-          "name": "Eminem",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-11-06T10:21:39.149310+00:00",
       "now_playing": {
         "title": "Pressure",
@@ -1736,6 +1678,64 @@
         },
         {
           "name": "Red Hot Chili Peppers",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-11-13T23:27:11.423304+00:00",
+      "now_playing": {
+        "title": "Pot-Pourri: Fogueira / Prisão Sem Grade - Ao Vivo",
+        "artist": "Jorge & Mateus",
+        "album": "Live In London - At The Royal Albert Hall (Ao Vivo)",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2737541a7dd6385ccb55185c2ce"
+      },
+      "top_tracks": [
+        {
+          "name": "From Can to Can't",
+          "artist": "Corey Taylor, Dave Grohl, Rick Nielsen, Scott Reeder",
+          "ms": 290280
+        },
+        {
+          "name": "In One Ear",
+          "artist": "Cage The Elephant",
+          "ms": 241320
+        },
+        {
+          "name": "I Don't Miss You at All",
+          "artist": "FINNEAS",
+          "ms": 128916
+        },
+        {
+          "name": "My Medicine - Single Version",
+          "artist": "The Pretty Reckless",
+          "ms": 193986
+        },
+        {
+          "name": "Let's Fall in Love for the Night",
+          "artist": "FINNEAS",
+          "ms": 190348
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Muse",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Arctic Monkeys",
+          "genres": []
+        },
+        {
+          "name": "Red Hot Chili Peppers",
+          "genres": []
+        },
+        {
+          "name": "Royal Blood",
           "genres": []
         }
       ]
