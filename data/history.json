@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-11-07T02:31:31.105151+00:00",
-      "now_playing": {
-        "title": "In One Ear",
-        "artist": "Cage The Elephant",
-        "album": "Cage The Elephant",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273ce6b979ca98da4c27157dc17"
-      },
-      "top_tracks": [
-        {
-          "name": "In One Ear",
-          "artist": "Cage The Elephant",
-          "ms": 241320
-        },
-        {
-          "name": "Fluorescent Adolescent",
-          "artist": "Arctic Monkeys",
-          "ms": 173493
-        },
-        {
-          "name": "Home",
-          "artist": "Three Days Grace",
-          "ms": 260680
-        },
-        {
-          "name": "Little Monster",
-          "artist": "Royal Blood",
-          "ms": 212309
-        },
-        {
-          "name": "Mardy Bum",
-          "artist": "Arctic Monkeys",
-          "ms": 175440
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Muse",
-          "genres": []
-        },
-        {
-          "name": "Arctic Monkeys",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Red Hot Chili Peppers",
-          "genres": []
-        },
-        {
-          "name": "Eminem",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-11-07T09:36:26.100721+00:00",
       "now_playing": {
         "title": "In One Ear",
@@ -1715,6 +1657,64 @@
           "name": "Let's Fall in Love for the Night",
           "artist": "FINNEAS",
           "ms": 190348
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Muse",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Arctic Monkeys",
+          "genres": []
+        },
+        {
+          "name": "Royal Blood",
+          "genres": []
+        },
+        {
+          "name": "Red Hot Chili Peppers",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-11-14T21:04:52.055814+00:00",
+      "now_playing": {
+        "title": "O Preço - Ao Vivo",
+        "artist": "Engenheiros Do Hawaii",
+        "album": "Acústico (Ao Vivo / Deluxe)",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273f98de08cd017b515c9e61344"
+      },
+      "top_tracks": [
+        {
+          "name": "From Can to Can't",
+          "artist": "Corey Taylor, Dave Grohl, Rick Nielsen, Scott Reeder",
+          "ms": 290280
+        },
+        {
+          "name": "I Don't Miss You at All",
+          "artist": "FINNEAS",
+          "ms": 128916
+        },
+        {
+          "name": "My Medicine - Single Version",
+          "artist": "The Pretty Reckless",
+          "ms": 193986
+        },
+        {
+          "name": "Hurricane",
+          "artist": "I Prevail",
+          "ms": 223173
+        },
+        {
+          "name": "Panic Station",
+          "artist": "Muse",
+          "ms": 184200
         }
       ],
       "top_artists": [
