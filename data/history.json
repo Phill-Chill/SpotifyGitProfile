@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-11-07T23:47:04.579056+00:00",
-      "now_playing": {
-        "title": "Dead Company",
-        "artist": "Royal Blood",
-        "album": "Dead Company",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273c1e4c21e27fa56151b328c82"
-      },
-      "top_tracks": [
-        {
-          "name": "In One Ear",
-          "artist": "Cage The Elephant",
-          "ms": 241320
-        },
-        {
-          "name": "Fluorescent Adolescent",
-          "artist": "Arctic Monkeys",
-          "ms": 173493
-        },
-        {
-          "name": "Home",
-          "artist": "Three Days Grace",
-          "ms": 260680
-        },
-        {
-          "name": "Little Monster",
-          "artist": "Royal Blood",
-          "ms": 212309
-        },
-        {
-          "name": "Mardy Bum",
-          "artist": "Arctic Monkeys",
-          "ms": 175440
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Muse",
-          "genres": []
-        },
-        {
-          "name": "Arctic Monkeys",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Red Hot Chili Peppers",
-          "genres": []
-        },
-        {
-          "name": "Slipknot",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-11-08T04:21:25.812319+00:00",
       "now_playing": {
         "title": "Edge of a Knife",
@@ -1715,6 +1657,64 @@
           "name": "Hurricane",
           "artist": "I Prevail",
           "ms": 223173
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Muse",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Arctic Monkeys",
+          "genres": []
+        },
+        {
+          "name": "Royal Blood",
+          "genres": []
+        },
+        {
+          "name": "Red Hot Chili Peppers",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-11-15T20:47:25.729611+00:00",
+      "now_playing": {
+        "title": "Don't Threaten Me with a Good Time",
+        "artist": "Panic! At The Disco",
+        "album": "Death of a Bachelor",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27323152d9337d6c57b116ed13a"
+      },
+      "top_tracks": [
+        {
+          "name": "From Can to Can't",
+          "artist": "Corey Taylor, Dave Grohl, Rick Nielsen, Scott Reeder",
+          "ms": 290280
+        },
+        {
+          "name": "My Medicine - Single Version",
+          "artist": "The Pretty Reckless",
+          "ms": 193986
+        },
+        {
+          "name": "I Don't Miss You at All",
+          "artist": "FINNEAS",
+          "ms": 128916
+        },
+        {
+          "name": "Hurricane",
+          "artist": "I Prevail",
+          "ms": 223173
+        },
+        {
+          "name": "Hush",
+          "artist": "Muse, Ellie Goulding",
+          "ms": 235743
         }
       ],
       "top_artists": [
