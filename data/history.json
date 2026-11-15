@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-11-07T16:04:26.283882+00:00",
-      "now_playing": {
-        "title": "Reptilia",
-        "artist": "The Strokes",
-        "album": "Room On Fire",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2730f35726025e0f025da4c688f"
-      },
-      "top_tracks": [
-        {
-          "name": "In One Ear",
-          "artist": "Cage The Elephant",
-          "ms": 241320
-        },
-        {
-          "name": "Fluorescent Adolescent",
-          "artist": "Arctic Monkeys",
-          "ms": 173493
-        },
-        {
-          "name": "Home",
-          "artist": "Three Days Grace",
-          "ms": 260680
-        },
-        {
-          "name": "Little Monster",
-          "artist": "Royal Blood",
-          "ms": 212309
-        },
-        {
-          "name": "Mardy Bum",
-          "artist": "Arctic Monkeys",
-          "ms": 175440
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Muse",
-          "genres": []
-        },
-        {
-          "name": "Arctic Monkeys",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Red Hot Chili Peppers",
-          "genres": []
-        },
-        {
-          "name": "Slipknot",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-11-07T20:23:37.786222+00:00",
       "now_playing": {
         "title": "ARTIFICIAL SUICIDE",
@@ -1689,6 +1631,64 @@
         "artist": "Henrique & Juliano",
         "album": "Ao Vivo Em Palmas",
         "image_url": "https://i.scdn.co/image/ab67616d0000b2731e10901b49e5c34ed630a8db"
+      },
+      "top_tracks": [
+        {
+          "name": "From Can to Can't",
+          "artist": "Corey Taylor, Dave Grohl, Rick Nielsen, Scott Reeder",
+          "ms": 290280
+        },
+        {
+          "name": "I Don't Miss You at All",
+          "artist": "FINNEAS",
+          "ms": 128916
+        },
+        {
+          "name": "My Medicine - Single Version",
+          "artist": "The Pretty Reckless",
+          "ms": 193986
+        },
+        {
+          "name": "Hush",
+          "artist": "Muse, Ellie Goulding",
+          "ms": 235743
+        },
+        {
+          "name": "Hurricane",
+          "artist": "I Prevail",
+          "ms": 223173
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Muse",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Arctic Monkeys",
+          "genres": []
+        },
+        {
+          "name": "Royal Blood",
+          "genres": []
+        },
+        {
+          "name": "Red Hot Chili Peppers",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-11-15T08:09:22.494059+00:00",
+      "now_playing": {
+        "title": "Na Conta Da Loucura - Ao Vivo",
+        "artist": "Bruno & Marrone",
+        "album": "Ensaio (Ao Vivo)",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273294c660d441da10e69cad7b9"
       },
       "top_tracks": [
         {
