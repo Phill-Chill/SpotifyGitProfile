@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-11-08T11:25:54.426863+00:00",
-      "now_playing": {
-        "title": "Edge of a Knife",
-        "artist": "Saliva, Judge & Jury",
-        "album": "Breaking Through",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2732eaf314992bb078844c64fd1"
-      },
-      "top_tracks": [
-        {
-          "name": "In One Ear",
-          "artist": "Cage The Elephant",
-          "ms": 241320
-        },
-        {
-          "name": "Fluorescent Adolescent",
-          "artist": "Arctic Monkeys",
-          "ms": 173493
-        },
-        {
-          "name": "Home",
-          "artist": "Three Days Grace",
-          "ms": 260680
-        },
-        {
-          "name": "Little Monster",
-          "artist": "Royal Blood",
-          "ms": 212309
-        },
-        {
-          "name": "Mardy Bum",
-          "artist": "Arctic Monkeys",
-          "ms": 175440
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Muse",
-          "genres": []
-        },
-        {
-          "name": "Arctic Monkeys",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Red Hot Chili Peppers",
-          "genres": []
-        },
-        {
-          "name": "Slipknot",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-11-08T17:10:37.502170+00:00",
       "now_playing": {
         "title": "Home",
@@ -1684,6 +1626,64 @@
     },
     {
       "timestamp": "2026-11-16T00:43:27.235611+00:00",
+      "now_playing": {
+        "title": "Paz e Guerra",
+        "artist": "Bulletproof",
+        "album": "Bulletproof",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2733665347972b6b288ebcb6dc0"
+      },
+      "top_tracks": [
+        {
+          "name": "From Can to Can't",
+          "artist": "Corey Taylor, Dave Grohl, Rick Nielsen, Scott Reeder",
+          "ms": 290280
+        },
+        {
+          "name": "My Medicine - Single Version",
+          "artist": "The Pretty Reckless",
+          "ms": 193986
+        },
+        {
+          "name": "I Don't Miss You at All",
+          "artist": "FINNEAS",
+          "ms": 128916
+        },
+        {
+          "name": "Hurricane",
+          "artist": "I Prevail",
+          "ms": 223173
+        },
+        {
+          "name": "Hush",
+          "artist": "Muse, Ellie Goulding",
+          "ms": 235743
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Muse",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Arctic Monkeys",
+          "genres": []
+        },
+        {
+          "name": "Royal Blood",
+          "genres": []
+        },
+        {
+          "name": "Red Hot Chili Peppers",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-11-16T07:37:46.959175+00:00",
       "now_playing": {
         "title": "Paz e Guerra",
         "artist": "Bulletproof",
