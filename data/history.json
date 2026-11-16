@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-11-08T17:10:37.502170+00:00",
-      "now_playing": {
-        "title": "Home",
-        "artist": "Three Days Grace",
-        "album": "Three Days Grace",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2735d4bd2c345c95e847b586403"
-      },
-      "top_tracks": [
-        {
-          "name": "In One Ear",
-          "artist": "Cage The Elephant",
-          "ms": 241320
-        },
-        {
-          "name": "Home",
-          "artist": "Three Days Grace",
-          "ms": 260680
-        },
-        {
-          "name": "Fluorescent Adolescent",
-          "artist": "Arctic Monkeys",
-          "ms": 173493
-        },
-        {
-          "name": "From Can to Can't",
-          "artist": "Corey Taylor, Dave Grohl, Rick Nielsen, Scott Reeder",
-          "ms": 290280
-        },
-        {
-          "name": "Little Monster",
-          "artist": "Royal Blood",
-          "ms": 212309
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Muse",
-          "genres": []
-        },
-        {
-          "name": "Arctic Monkeys",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Red Hot Chili Peppers",
-          "genres": []
-        },
-        {
-          "name": "Slipknot",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-11-08T21:17:14.066754+00:00",
       "now_playing": {
         "title": "One More Night",
@@ -1736,6 +1678,64 @@
         },
         {
           "name": "Red Hot Chili Peppers",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-11-16T17:54:33.569176+00:00",
+      "now_playing": {
+        "title": "Festival De Ritmo",
+        "artist": "Dave Weckl, Eric Marienthal",
+        "album": "Master Plan",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273fec1049f611fb8ad450f12d1"
+      },
+      "top_tracks": [
+        {
+          "name": "My Medicine - Single Version",
+          "artist": "The Pretty Reckless",
+          "ms": 193986
+        },
+        {
+          "name": "Hurricane",
+          "artist": "I Prevail",
+          "ms": 223173
+        },
+        {
+          "name": "Hush",
+          "artist": "Muse, Ellie Goulding",
+          "ms": 235743
+        },
+        {
+          "name": "From Can to Can't",
+          "artist": "Corey Taylor, Dave Grohl, Rick Nielsen, Scott Reeder",
+          "ms": 290280
+        },
+        {
+          "name": "Panic Station",
+          "artist": "Muse",
+          "ms": 184200
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Muse",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Arctic Monkeys",
+          "genres": []
+        },
+        {
+          "name": "Royal Blood",
+          "genres": []
+        },
+        {
+          "name": "The Pretty Reckless",
           "genres": []
         }
       ]
