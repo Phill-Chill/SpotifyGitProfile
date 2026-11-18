@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-11-10T09:28:56.023873+00:00",
-      "now_playing": {
-        "title": "Waiting On You",
-        "artist": "Rain City Drive",
-        "album": "Rain City Drive",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273926d37e5326d5c9e98f7c024"
-      },
-      "top_tracks": [
-        {
-          "name": "In One Ear",
-          "artist": "Cage The Elephant",
-          "ms": 241320
-        },
-        {
-          "name": "Home",
-          "artist": "Three Days Grace",
-          "ms": 260680
-        },
-        {
-          "name": "Fluorescent Adolescent",
-          "artist": "Arctic Monkeys",
-          "ms": 173493
-        },
-        {
-          "name": "Little Monster",
-          "artist": "Royal Blood",
-          "ms": 212309
-        },
-        {
-          "name": "From Can to Can't",
-          "artist": "Corey Taylor, Dave Grohl, Rick Nielsen, Scott Reeder",
-          "ms": 290280
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Muse",
-          "genres": []
-        },
-        {
-          "name": "Arctic Monkeys",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Red Hot Chili Peppers",
-          "genres": []
-        },
-        {
-          "name": "Royal Blood",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-11-10T17:13:56.089900+00:00",
       "now_playing": {
         "title": "I Don't Miss You at All",
@@ -1736,6 +1678,64 @@
         },
         {
           "name": "The Pretty Reckless",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-11-18T18:37:52.870503+00:00",
+      "now_playing": {
+        "title": "Out of the Black",
+        "artist": "Royal Blood",
+        "album": "Royal Blood",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2738c23906cd30a0564bcebb5e5"
+      },
+      "top_tracks": [
+        {
+          "name": "Hurricane",
+          "artist": "I Prevail",
+          "ms": 223173
+        },
+        {
+          "name": "My Medicine - Single Version",
+          "artist": "The Pretty Reckless",
+          "ms": 193986
+        },
+        {
+          "name": "Hush",
+          "artist": "Muse, Ellie Goulding",
+          "ms": 235743
+        },
+        {
+          "name": "Festival De Ritmo",
+          "artist": "Dave Weckl, Eric Marienthal",
+          "ms": 290533
+        },
+        {
+          "name": "Panic Station",
+          "artist": "Muse",
+          "ms": 184200
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Muse",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Arctic Monkeys",
+          "genres": []
+        },
+        {
+          "name": "Måneskin",
+          "genres": []
+        },
+        {
+          "name": "Royal Blood",
           "genres": []
         }
       ]
