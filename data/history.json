@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-11-09T18:59:40.063131+00:00",
-      "now_playing": {
-        "title": "Mardy Bum",
-        "artist": "Arctic Monkeys",
-        "album": "Whatever People Say I Am, That's What I'm Not",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2736b3fa88bdd4af566fbbf2bbf"
-      },
-      "top_tracks": [
-        {
-          "name": "In One Ear",
-          "artist": "Cage The Elephant",
-          "ms": 241320
-        },
-        {
-          "name": "Home",
-          "artist": "Three Days Grace",
-          "ms": 260680
-        },
-        {
-          "name": "Fluorescent Adolescent",
-          "artist": "Arctic Monkeys",
-          "ms": 173493
-        },
-        {
-          "name": "From Can to Can't",
-          "artist": "Corey Taylor, Dave Grohl, Rick Nielsen, Scott Reeder",
-          "ms": 290280
-        },
-        {
-          "name": "Little Monster",
-          "artist": "Royal Blood",
-          "ms": 212309
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Muse",
-          "genres": []
-        },
-        {
-          "name": "Arctic Monkeys",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Red Hot Chili Peppers",
-          "genres": []
-        },
-        {
-          "name": "Royal Blood",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-11-10T01:57:47.496073+00:00",
       "now_playing": {
         "title": "Waiting On You",
@@ -1689,6 +1631,64 @@
         "artist": "The Struts",
         "album": "YOUNG&DANGEROUS",
         "image_url": "https://i.scdn.co/image/ab67616d0000b273276787ec792a7786601e035a"
+      },
+      "top_tracks": [
+        {
+          "name": "Hurricane",
+          "artist": "I Prevail",
+          "ms": 223173
+        },
+        {
+          "name": "My Medicine - Single Version",
+          "artist": "The Pretty Reckless",
+          "ms": 193986
+        },
+        {
+          "name": "Hush",
+          "artist": "Muse, Ellie Goulding",
+          "ms": 235743
+        },
+        {
+          "name": "Festival De Ritmo",
+          "artist": "Dave Weckl, Eric Marienthal",
+          "ms": 290533
+        },
+        {
+          "name": "Panic Station",
+          "artist": "Muse",
+          "ms": 184200
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Muse",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Arctic Monkeys",
+          "genres": []
+        },
+        {
+          "name": "Royal Blood",
+          "genres": []
+        },
+        {
+          "name": "The Pretty Reckless",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-11-18T01:45:46.552167+00:00",
+      "now_playing": {
+        "title": "Não Demora Perceber - Ao Vivo",
+        "artist": "Jorge & Mateus",
+        "album": "A Hora É Agora (Ao Vivo Em Jurerê)",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27340a6f202ed07fff84d806a2f"
       },
       "top_tracks": [
         {
