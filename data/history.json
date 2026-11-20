@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-11-11T17:40:48.081311+00:00",
-      "now_playing": {
-        "title": "Festival De Ritmo",
-        "artist": "Dave Weckl, Eric Marienthal",
-        "album": "Master Plan",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273fec1049f611fb8ad450f12d1"
-      },
-      "top_tracks": [
-        {
-          "name": "In One Ear",
-          "artist": "Cage The Elephant",
-          "ms": 241320
-        },
-        {
-          "name": "From Can to Can't",
-          "artist": "Corey Taylor, Dave Grohl, Rick Nielsen, Scott Reeder",
-          "ms": 290280
-        },
-        {
-          "name": "I Don't Miss You at All",
-          "artist": "FINNEAS",
-          "ms": 128916
-        },
-        {
-          "name": "Fluorescent Adolescent",
-          "artist": "Arctic Monkeys",
-          "ms": 173493
-        },
-        {
-          "name": "My Medicine - Single Version",
-          "artist": "The Pretty Reckless",
-          "ms": 193986
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Muse",
-          "genres": []
-        },
-        {
-          "name": "Arctic Monkeys",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Red Hot Chili Peppers",
-          "genres": []
-        },
-        {
-          "name": "Royal Blood",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-11-12T00:00:22.435643+00:00",
       "now_playing": {
         "title": "Call Me",
@@ -1736,6 +1678,64 @@
         },
         {
           "name": "Arctic Monkeys",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-11-20T07:36:39.412335+00:00",
+      "now_playing": {
+        "title": "Cinnamon (feat. Albert Hammond Jr)",
+        "artist": "Damiano David, Albert Hammond Jr",
+        "album": "FUNNY little FEARS (DREAMS)",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2738d61faf22820050ba330b2a3"
+      },
+      "top_tracks": [
+        {
+          "name": "My Medicine - Single Version",
+          "artist": "The Pretty Reckless",
+          "ms": 193986
+        },
+        {
+          "name": "Hurricane",
+          "artist": "I Prevail",
+          "ms": 223173
+        },
+        {
+          "name": "Hush",
+          "artist": "Muse, Ellie Goulding",
+          "ms": 235743
+        },
+        {
+          "name": "Festival De Ritmo",
+          "artist": "Dave Weckl, Eric Marienthal",
+          "ms": 290533
+        },
+        {
+          "name": "Bad Things",
+          "artist": "I Prevail",
+          "ms": 228260
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Muse",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Måneskin",
+          "genres": []
+        },
+        {
+          "name": "The Pretty Reckless",
+          "genres": []
+        },
+        {
+          "name": "Royal Blood",
           "genres": []
         }
       ]
