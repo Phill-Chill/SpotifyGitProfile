@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-11-12T22:22:02.237616+00:00",
-      "now_playing": {
-        "title": "Uprising",
-        "artist": "Muse",
-        "album": "The Resistance",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273b6d4566db0d12894a1a3b7a2"
-      },
-      "top_tracks": [
-        {
-          "name": "In One Ear",
-          "artist": "Cage The Elephant",
-          "ms": 241320
-        },
-        {
-          "name": "From Can to Can't",
-          "artist": "Corey Taylor, Dave Grohl, Rick Nielsen, Scott Reeder",
-          "ms": 290280
-        },
-        {
-          "name": "Fluorescent Adolescent",
-          "artist": "Arctic Monkeys",
-          "ms": 173493
-        },
-        {
-          "name": "I Don't Miss You at All",
-          "artist": "FINNEAS",
-          "ms": 128916
-        },
-        {
-          "name": "My Medicine - Single Version",
-          "artist": "The Pretty Reckless",
-          "ms": 193986
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Muse",
-          "genres": []
-        },
-        {
-          "name": "Arctic Monkeys",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Royal Blood",
-          "genres": []
-        },
-        {
-          "name": "Red Hot Chili Peppers",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-11-13T02:45:36.318541+00:00",
       "now_playing": {
         "title": "Romance - Ao Vivo",
@@ -1684,6 +1626,64 @@
     },
     {
       "timestamp": "2026-11-21T03:49:12.990664+00:00",
+      "now_playing": {
+        "title": "DJ Got Us Fallin' In Love (feat. Pitbull)",
+        "artist": "USHER, Pitbull",
+        "album": "Raymond v Raymond (Expanded Edition)",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27386b0c9728ad3ed338eaeea79"
+      },
+      "top_tracks": [
+        {
+          "name": "My Medicine - Single Version",
+          "artist": "The Pretty Reckless",
+          "ms": 193986
+        },
+        {
+          "name": "Hurricane",
+          "artist": "I Prevail",
+          "ms": 223173
+        },
+        {
+          "name": "Hush",
+          "artist": "Muse, Ellie Goulding",
+          "ms": 235743
+        },
+        {
+          "name": "Festival De Ritmo",
+          "artist": "Dave Weckl, Eric Marienthal",
+          "ms": 290533
+        },
+        {
+          "name": "Bad Things",
+          "artist": "I Prevail",
+          "ms": 228260
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Muse",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Måneskin",
+          "genres": []
+        },
+        {
+          "name": "The Pretty Reckless",
+          "genres": []
+        },
+        {
+          "name": "Royal Blood",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-11-21T12:04:39.175257+00:00",
       "now_playing": {
         "title": "DJ Got Us Fallin' In Love (feat. Pitbull)",
         "artist": "USHER, Pitbull",
