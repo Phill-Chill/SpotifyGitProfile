@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-11-14T03:27:54.481717+00:00",
-      "now_playing": {
-        "title": "My Medicine - Single Version",
-        "artist": "The Pretty Reckless",
-        "album": "Light Me Up",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2735659133a6233890265306fee"
-      },
-      "top_tracks": [
-        {
-          "name": "From Can to Can't",
-          "artist": "Corey Taylor, Dave Grohl, Rick Nielsen, Scott Reeder",
-          "ms": 290280
-        },
-        {
-          "name": "In One Ear",
-          "artist": "Cage The Elephant",
-          "ms": 241320
-        },
-        {
-          "name": "My Medicine - Single Version",
-          "artist": "The Pretty Reckless",
-          "ms": 193986
-        },
-        {
-          "name": "I Don't Miss You at All",
-          "artist": "FINNEAS",
-          "ms": 128916
-        },
-        {
-          "name": "Let's Fall in Love for the Night",
-          "artist": "FINNEAS",
-          "ms": 190348
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Muse",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Arctic Monkeys",
-          "genres": []
-        },
-        {
-          "name": "Red Hot Chili Peppers",
-          "genres": []
-        },
-        {
-          "name": "Royal Blood",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-11-14T10:48:26.410724+00:00",
       "now_playing": {
         "title": "My Medicine - Single Version",
@@ -1724,6 +1666,64 @@
         },
         {
           "name": "Muse",
+          "genres": []
+        },
+        {
+          "name": "Måneskin",
+          "genres": []
+        },
+        {
+          "name": "The Pretty Reckless",
+          "genres": []
+        },
+        {
+          "name": "Royal Blood",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-11-22T21:30:19.274165+00:00",
+      "now_playing": {
+        "title": "Redbone",
+        "artist": "Childish Gambino",
+        "album": "\"Awaken, My Love!\"",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2731c29562d6e8c1f55bb1311d5"
+      },
+      "top_tracks": [
+        {
+          "name": "My Medicine - Single Version",
+          "artist": "The Pretty Reckless",
+          "ms": 193986
+        },
+        {
+          "name": "Hurricane",
+          "artist": "I Prevail",
+          "ms": 223173
+        },
+        {
+          "name": "Festival De Ritmo",
+          "artist": "Dave Weckl, Eric Marienthal",
+          "ms": 290533
+        },
+        {
+          "name": "Hush",
+          "artist": "Muse, Ellie Goulding",
+          "ms": 235743
+        },
+        {
+          "name": "Bad Things",
+          "artist": "I Prevail",
+          "ms": 228260
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Muse",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
           "genres": []
         },
         {
