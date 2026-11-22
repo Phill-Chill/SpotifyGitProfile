@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-11-13T17:59:22.885044+00:00",
-      "now_playing": {
-        "title": "Coração Na Cama - Ao Vivo",
-        "artist": "Hugo & Guilherme",
-        "album": "No Pelo 3 (Ao Vivo)",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273a6baa834d7f707b98cf8be48"
-      },
-      "top_tracks": [
-        {
-          "name": "From Can to Can't",
-          "artist": "Corey Taylor, Dave Grohl, Rick Nielsen, Scott Reeder",
-          "ms": 290280
-        },
-        {
-          "name": "In One Ear",
-          "artist": "Cage The Elephant",
-          "ms": 241320
-        },
-        {
-          "name": "I Don't Miss You at All",
-          "artist": "FINNEAS",
-          "ms": 128916
-        },
-        {
-          "name": "My Medicine - Single Version",
-          "artist": "The Pretty Reckless",
-          "ms": 193986
-        },
-        {
-          "name": "Let's Fall in Love for the Night",
-          "artist": "FINNEAS",
-          "ms": 190348
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Muse",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Arctic Monkeys",
-          "genres": []
-        },
-        {
-          "name": "Royal Blood",
-          "genres": []
-        },
-        {
-          "name": "Red Hot Chili Peppers",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-11-13T23:27:11.423304+00:00",
       "now_playing": {
         "title": "Pot-Pourri: Fogueira / Prisão Sem Grade - Ao Vivo",
@@ -1689,6 +1631,64 @@
         "artist": "Wolfgang Amadeus Mozart, Magdaléna Hajóssyová, Jaroslava Horska, Jozef Kundlák, Peter Mikulas, Vladimir Ruso, Slovak Philharmonic Chorus, Slovenská filharmónia, Zdeněk Košler",
         "album": "Mozart: Requiem / Exultate, Jubilate / Laudate Dominum",
         "image_url": "https://i.scdn.co/image/ab67616d0000b27376ebc2072e722d9f35bea62d"
+      },
+      "top_tracks": [
+        {
+          "name": "My Medicine - Single Version",
+          "artist": "The Pretty Reckless",
+          "ms": 193986
+        },
+        {
+          "name": "Hurricane",
+          "artist": "I Prevail",
+          "ms": 223173
+        },
+        {
+          "name": "Festival De Ritmo",
+          "artist": "Dave Weckl, Eric Marienthal",
+          "ms": 290533
+        },
+        {
+          "name": "Hush",
+          "artist": "Muse, Ellie Goulding",
+          "ms": 235743
+        },
+        {
+          "name": "Bad Things",
+          "artist": "I Prevail",
+          "ms": 228260
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Muse",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Måneskin",
+          "genres": []
+        },
+        {
+          "name": "The Pretty Reckless",
+          "genres": []
+        },
+        {
+          "name": "Royal Blood",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-11-22T07:14:23.919622+00:00",
+      "now_playing": {
+        "title": "Born With a Broken Heart",
+        "artist": "Damiano David",
+        "album": "FUNNY little FEARS",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27328b40925cffb9c193661272a"
       },
       "top_tracks": [
         {
