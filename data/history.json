@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-11-14T21:04:52.055814+00:00",
-      "now_playing": {
-        "title": "O Preço - Ao Vivo",
-        "artist": "Engenheiros Do Hawaii",
-        "album": "Acústico (Ao Vivo / Deluxe)",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273f98de08cd017b515c9e61344"
-      },
-      "top_tracks": [
-        {
-          "name": "From Can to Can't",
-          "artist": "Corey Taylor, Dave Grohl, Rick Nielsen, Scott Reeder",
-          "ms": 290280
-        },
-        {
-          "name": "I Don't Miss You at All",
-          "artist": "FINNEAS",
-          "ms": 128916
-        },
-        {
-          "name": "My Medicine - Single Version",
-          "artist": "The Pretty Reckless",
-          "ms": 193986
-        },
-        {
-          "name": "Hurricane",
-          "artist": "I Prevail",
-          "ms": 223173
-        },
-        {
-          "name": "Panic Station",
-          "artist": "Muse",
-          "ms": 184200
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Muse",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Arctic Monkeys",
-          "genres": []
-        },
-        {
-          "name": "Royal Blood",
-          "genres": []
-        },
-        {
-          "name": "Red Hot Chili Peppers",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-11-15T01:10:38.815166+00:00",
       "now_playing": {
         "title": "Recaídas (Ao Vivo)",
@@ -1689,6 +1631,64 @@
         "artist": "Eric Marienthal",
         "album": "It's Love",
         "image_url": "https://i.scdn.co/image/ab67616d0000b2734ee1c7b6b1f3b5626f47df90"
+      },
+      "top_tracks": [
+        {
+          "name": "My Medicine - Single Version",
+          "artist": "The Pretty Reckless",
+          "ms": 193986
+        },
+        {
+          "name": "Hurricane",
+          "artist": "I Prevail",
+          "ms": 223173
+        },
+        {
+          "name": "Festival De Ritmo",
+          "artist": "Dave Weckl, Eric Marienthal",
+          "ms": 290533
+        },
+        {
+          "name": "Hush",
+          "artist": "Muse, Ellie Goulding",
+          "ms": 235743
+        },
+        {
+          "name": "Bad Things",
+          "artist": "I Prevail",
+          "ms": 228260
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Måneskin",
+          "genres": []
+        },
+        {
+          "name": "Muse",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "The Pretty Reckless",
+          "genres": []
+        },
+        {
+          "name": "Royal Blood",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-11-23T22:31:45.978777+00:00",
+      "now_playing": {
+        "title": "Fear for Nobody",
+        "artist": "Måneskin",
+        "album": "Il ballo della vita",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273dbc892b8194e35ca3524e767"
       },
       "top_tracks": [
         {
