@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-11-15T01:10:38.815166+00:00",
-      "now_playing": {
-        "title": "Recaídas (Ao Vivo)",
-        "artist": "Henrique & Juliano",
-        "album": "Ao Vivo Em Palmas",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2731e10901b49e5c34ed630a8db"
-      },
-      "top_tracks": [
-        {
-          "name": "From Can to Can't",
-          "artist": "Corey Taylor, Dave Grohl, Rick Nielsen, Scott Reeder",
-          "ms": 290280
-        },
-        {
-          "name": "I Don't Miss You at All",
-          "artist": "FINNEAS",
-          "ms": 128916
-        },
-        {
-          "name": "My Medicine - Single Version",
-          "artist": "The Pretty Reckless",
-          "ms": 193986
-        },
-        {
-          "name": "Hush",
-          "artist": "Muse, Ellie Goulding",
-          "ms": 235743
-        },
-        {
-          "name": "Hurricane",
-          "artist": "I Prevail",
-          "ms": 223173
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Muse",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Arctic Monkeys",
-          "genres": []
-        },
-        {
-          "name": "Royal Blood",
-          "genres": []
-        },
-        {
-          "name": "Red Hot Chili Peppers",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-11-15T08:09:22.494059+00:00",
       "now_playing": {
         "title": "Na Conta Da Loucura - Ao Vivo",
@@ -1689,6 +1631,64 @@
         "artist": "Måneskin",
         "album": "Il ballo della vita",
         "image_url": "https://i.scdn.co/image/ab67616d0000b273dbc892b8194e35ca3524e767"
+      },
+      "top_tracks": [
+        {
+          "name": "My Medicine - Single Version",
+          "artist": "The Pretty Reckless",
+          "ms": 193986
+        },
+        {
+          "name": "Hurricane",
+          "artist": "I Prevail",
+          "ms": 223173
+        },
+        {
+          "name": "Festival De Ritmo",
+          "artist": "Dave Weckl, Eric Marienthal",
+          "ms": 290533
+        },
+        {
+          "name": "Hush",
+          "artist": "Muse, Ellie Goulding",
+          "ms": 235743
+        },
+        {
+          "name": "Bad Things",
+          "artist": "I Prevail",
+          "ms": 228260
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Måneskin",
+          "genres": []
+        },
+        {
+          "name": "Muse",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "The Pretty Reckless",
+          "genres": []
+        },
+        {
+          "name": "Royal Blood",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-11-24T06:42:51.787865+00:00",
+      "now_playing": {
+        "title": "Pra Ter O Seu Amor - Live In Sao Paulo / 2010",
+        "artist": "Jorge & Mateus",
+        "album": "Aí Já Era...",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2733ac295b6002fe88e8ef4e7ce"
       },
       "top_tracks": [
         {
