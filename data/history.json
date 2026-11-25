@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-11-15T15:46:18.955084+00:00",
-      "now_playing": {
-        "title": "Festival De Ritmo",
-        "artist": "Dave Weckl, Eric Marienthal",
-        "album": "Master Plan",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b273fec1049f611fb8ad450f12d1"
-      },
-      "top_tracks": [
-        {
-          "name": "From Can to Can't",
-          "artist": "Corey Taylor, Dave Grohl, Rick Nielsen, Scott Reeder",
-          "ms": 290280
-        },
-        {
-          "name": "I Don't Miss You at All",
-          "artist": "FINNEAS",
-          "ms": 128916
-        },
-        {
-          "name": "My Medicine - Single Version",
-          "artist": "The Pretty Reckless",
-          "ms": 193986
-        },
-        {
-          "name": "Hush",
-          "artist": "Muse, Ellie Goulding",
-          "ms": 235743
-        },
-        {
-          "name": "Hurricane",
-          "artist": "I Prevail",
-          "ms": 223173
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Muse",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Arctic Monkeys",
-          "genres": []
-        },
-        {
-          "name": "Royal Blood",
-          "genres": []
-        },
-        {
-          "name": "Red Hot Chili Peppers",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-11-15T20:47:25.729611+00:00",
       "now_playing": {
         "title": "Don't Threaten Me with a Good Time",
@@ -1728,6 +1670,64 @@
         },
         {
           "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "The Pretty Reckless",
+          "genres": []
+        },
+        {
+          "name": "Royal Blood",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-11-25T02:55:00.057770+00:00",
+      "now_playing": {
+        "title": "Recaídas (Ao Vivo)",
+        "artist": "Henrique & Juliano",
+        "album": "Ao Vivo Em Palmas",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2731e10901b49e5c34ed630a8db"
+      },
+      "top_tracks": [
+        {
+          "name": "My Medicine - Single Version",
+          "artist": "The Pretty Reckless",
+          "ms": 193986
+        },
+        {
+          "name": "Hurricane",
+          "artist": "I Prevail",
+          "ms": 223173
+        },
+        {
+          "name": "Festival De Ritmo",
+          "artist": "Dave Weckl, Eric Marienthal",
+          "ms": 290533
+        },
+        {
+          "name": "Beautiful Things",
+          "artist": "Benson Boone",
+          "ms": 180304
+        },
+        {
+          "name": "Hush",
+          "artist": "Muse, Ellie Goulding",
+          "ms": 235743
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Måneskin",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Muse",
           "genres": []
         },
         {
