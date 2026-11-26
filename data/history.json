@@ -1,64 +1,6 @@
 {
   "snapshots": [
     {
-      "timestamp": "2026-11-16T07:37:46.959175+00:00",
-      "now_playing": {
-        "title": "Paz e Guerra",
-        "artist": "Bulletproof",
-        "album": "Bulletproof",
-        "image_url": "https://i.scdn.co/image/ab67616d0000b2733665347972b6b288ebcb6dc0"
-      },
-      "top_tracks": [
-        {
-          "name": "From Can to Can't",
-          "artist": "Corey Taylor, Dave Grohl, Rick Nielsen, Scott Reeder",
-          "ms": 290280
-        },
-        {
-          "name": "My Medicine - Single Version",
-          "artist": "The Pretty Reckless",
-          "ms": 193986
-        },
-        {
-          "name": "I Don't Miss You at All",
-          "artist": "FINNEAS",
-          "ms": 128916
-        },
-        {
-          "name": "Hurricane",
-          "artist": "I Prevail",
-          "ms": 223173
-        },
-        {
-          "name": "Hush",
-          "artist": "Muse, Ellie Goulding",
-          "ms": 235743
-        }
-      ],
-      "top_artists": [
-        {
-          "name": "Muse",
-          "genres": []
-        },
-        {
-          "name": "Jorge & Mateus",
-          "genres": []
-        },
-        {
-          "name": "Arctic Monkeys",
-          "genres": []
-        },
-        {
-          "name": "Royal Blood",
-          "genres": []
-        },
-        {
-          "name": "Red Hot Chili Peppers",
-          "genres": []
-        }
-      ]
-    },
-    {
       "timestamp": "2026-11-16T17:54:33.569176+00:00",
       "now_playing": {
         "title": "Festival De Ritmo",
@@ -1689,6 +1631,64 @@
         "artist": "Sabotage, Yago Oproprio, Iuri Rio Branco",
         "album": "Sabotage 50",
         "image_url": "https://i.scdn.co/image/ab67616d0000b2736b69348c3c4b6fe72fac4a65"
+      },
+      "top_tracks": [
+        {
+          "name": "My Medicine - Single Version",
+          "artist": "The Pretty Reckless",
+          "ms": 193986
+        },
+        {
+          "name": "Hurricane",
+          "artist": "I Prevail",
+          "ms": 223173
+        },
+        {
+          "name": "Festival De Ritmo",
+          "artist": "Dave Weckl, Eric Marienthal",
+          "ms": 290533
+        },
+        {
+          "name": "Beautiful Things",
+          "artist": "Benson Boone",
+          "ms": 180304
+        },
+        {
+          "name": "Hush",
+          "artist": "Muse, Ellie Goulding",
+          "ms": 235743
+        }
+      ],
+      "top_artists": [
+        {
+          "name": "Måneskin",
+          "genres": []
+        },
+        {
+          "name": "Jorge & Mateus",
+          "genres": []
+        },
+        {
+          "name": "Muse",
+          "genres": []
+        },
+        {
+          "name": "The Pretty Reckless",
+          "genres": []
+        },
+        {
+          "name": "Royal Blood",
+          "genres": []
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-11-26T03:55:46.648705+00:00",
+      "now_playing": {
+        "title": "Home",
+        "artist": "Three Days Grace",
+        "album": "Three Days Grace",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2735d4bd2c345c95e847b586403"
       },
       "top_tracks": [
         {
